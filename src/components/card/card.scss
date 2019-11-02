@@ -1,0 +1,21 @@
+@import "../../styles/global.scss";
+
+.card {
+  background-color: $white;
+  padding: 8px;
+  border-radius: 4px;
+  margin-bottom: 24px;
+  .photo {
+    border-radius: 4px;
+    overflow: hidden;
+    margin-bottom: 16px;
+  }
+  .title {
+    margin-bottom: 8px;
+    font-weight: 700;
+    font-size: 18px;
+  }
+  .description {
+    margin-bottom: 8px;
+  }
+}

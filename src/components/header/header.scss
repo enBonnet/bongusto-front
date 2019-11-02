@@ -1,6 +1,7 @@
 @import "../../styles/global.scss";
 
 .header {
+  background-color: $white;
   border-bottom: 1px solid $green;
   padding: 16px 8px;
   .mobile {

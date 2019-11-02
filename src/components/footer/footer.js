@@ -7,11 +7,6 @@ export const Footer = () => {
     <footer className="footer">
       <div className="mobile">
         <div className="option">
-          <a href="#pan" className="link">
-            Panaderia
-          </a>
-        </div>
-        <div className="option">
           <a href="#cursos" className="link">
             Cursos
           </a>

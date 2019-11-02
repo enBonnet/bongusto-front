@@ -5,10 +5,11 @@ $green: #226b00;
 $orange: #ea7317;
 $red: #980000;
 $white: #ffffff;
+$whiteOne: #dfdfdf;
 $yellow: #d7cf07;
 
 html {
-  background-color: $white;
+  background-color: $whiteOne;
   font-family: "Raleway", sans-serif;
 }
 
@@ -17,6 +18,11 @@ html {
   color: inherit;
 }
 
+// Fix margin-bottom fantasma
+img {
+  display: block;
+}
+
 .main {
-  padding: 16px 8px 40px 8px;
+  padding: 16px 16px 40px 16px;
 }
