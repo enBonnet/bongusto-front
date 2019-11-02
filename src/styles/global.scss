@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,700,900&display=swap");
+
+$blue: #2364aa;
+$green: #226b00;
+$orange: #ea7317;
+$red: #980000;
+$white: #ffffff;
+$yellow: #d7cf07;
+
+html {
+  background-color: $white;
+  font-family: "Raleway", sans-serif;
+}
+
+.link {
+  text-decoration: none;
+  color: inherit;
+}

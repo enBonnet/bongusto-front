@@ -1,0 +1,13 @@
+@import "../../styles/global.scss";
+
+.header {
+  border-bottom: 1px solid $green;
+  padding: 16px 8px;
+  .mobile {
+    color: $green;
+    font-size: 18px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+  }
+}

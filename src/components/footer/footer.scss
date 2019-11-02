@@ -1,0 +1,20 @@
+@import "../../styles/global.scss";
+
+.footer {
+  align-items: center;
+  border-top: 1px solid $green;
+  bottom: 0;
+  display: flex;
+  position: fixed;
+  width: 100%;
+  .mobile {
+    display: flex;
+    height: 40px;
+    align-items: center;
+    justify-content: left;
+    font-weight: 700;
+    .option {
+      margin: 0 16px;
+    }
+  }
+}
