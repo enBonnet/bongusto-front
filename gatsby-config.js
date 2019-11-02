@@ -23,9 +23,9 @@ module.exports = {
         short_name: `BonGusto`,
         start_url: `/`,
         background_color: `#FFFFFF`,
-        theme_color: `#226b00`,
+        theme_color: `#FFFFFF`,
         display: `standalone`,
-        icon: `src/images/gatsby-icon.png`,
+        icon: `src/images/bongusto-rounded.png`,
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
