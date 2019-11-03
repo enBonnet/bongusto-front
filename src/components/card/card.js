@@ -4,8 +4,8 @@ import "./card.scss"
 
 export const Card = () => {
   return (
-    <article className="card">
-      <a href="#" className="link">
+    <a href="#" className="card link">
+      <article className="">
         <div className="photo">
           <img
             src="https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
@@ -18,7 +18,7 @@ export const Card = () => {
           excepturi adipisci odit voluptas tempore temporibus pariatur dolorum
           repudiandae harum?
         </div>
-      </a>
-    </article>
+      </article>
+    </a>
   )
 }

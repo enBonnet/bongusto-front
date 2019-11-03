@@ -2,6 +2,7 @@
 
 $blue: #2364aa;
 $green: #226b00;
+$greenOne: #a8df8f;
 $orange: #ea7317;
 $red: #980000;
 $white: #ffffff;
@@ -13,12 +14,24 @@ html {
   font-family: "Raleway", sans-serif;
 }
 
+// Fix de color en texto seleccionado
+::selection {
+  background-color: $greenOne;
+}
+
+// Fix de border con tab
+:focus {
+  outline-color: $green;
+  outline-offset: 2px;
+  outline-width: 5px;
+}
+
 .link {
   text-decoration: none;
   color: inherit;
 }
 
-// Fix margin-bottom fantasma
+// Fix margin fantasma
 img {
   display: block;
 }
