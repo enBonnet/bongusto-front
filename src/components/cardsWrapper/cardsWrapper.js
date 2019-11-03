@@ -11,6 +11,8 @@ export const CardsWrapper = () => {
       <Card />
       <Card />
       <Card />
+      <Card />
+      <Card />
     </div>
   )
 }

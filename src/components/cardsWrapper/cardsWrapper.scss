@@ -1,1 +1,9 @@
 @import "../../styles/global.scss";
+
+@media only screen and (min-width: 768px) {
+  .cards-wrapper {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+}
