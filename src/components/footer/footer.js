@@ -7,12 +7,7 @@ export const Footer = () => {
     <footer className="footer">
       <div className="mobile">
         <div className="option">
-          <a href="#cursos" className="link">
-            Cursos
-          </a>
-        </div>
-        <div className="option">
-          <a href="#cursos" className="link">
+          <a href="/acerca-de-mi" className="link">
             Acerca de mi
           </a>
         </div>

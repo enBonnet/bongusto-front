@@ -40,9 +40,39 @@ img {
   padding: 16px 16px 40px 16px;
 }
 
+.big-card {
+  background-color: $white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 4px;
+  padding: 8px;
+  .photo {
+    margin-top: 24px;
+    margin-bottom: 32px;
+    border-radius: 50%;
+    overflow: hidden;
+    max-width: 200px;
+    max-height: 200px;
+  }
+  .bio,
+  .courses {
+    margin-bottom: 16px;
+    .title {
+      margin-bottom: 16px;
+      font-size: 24px;
+      font-weight: 700;
+    }
+  }
+}
+
 @media only screen and (min-width: 768px) {
   .main {
     max-width: 960px;
     margin: 0 auto;
+  }
+  .big-card {
+    padding: 16px;
   }
 }

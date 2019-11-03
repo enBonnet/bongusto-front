@@ -2,32 +2,33 @@
 
 .card {
   background-color: $white;
-  padding: 8px;
   border-radius: 4px;
+  display: block;
   margin-bottom: 24px;
+  padding: 8px;
   .photo {
     border-radius: 4px;
-    overflow: hidden;
     margin-bottom: 16px;
+    overflow: hidden;
   }
   .title {
-    margin-bottom: 8px;
-    font-weight: 700;
     font-size: 18px;
+    font-weight: 700;
+    margin-bottom: 8px;
   }
   .description {
     margin-bottom: 8px;
   }
   &:hover {
-    -webkit-box-shadow: 3px 3px 5px 0px rgba(0, 0, 0, 0.119);
     -moz-box-shadow: 3px 3px 5px 0px rgba(0, 0, 0, 0.119);
+    -webkit-box-shadow: 3px 3px 5px 0px rgba(0, 0, 0, 0.119);
     box-shadow: 3px 3px 5px 0px rgba(0, 0, 0, 0.119);
   }
 }
 
 @media only screen and (min-width: 768px) {
   .card {
-    max-width: 300px;
     margin-bottom: 16px;
+    max-width: 300px;
   }
 }
