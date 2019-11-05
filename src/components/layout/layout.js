@@ -1,6 +1,7 @@
 import React from "react"
 import PropTypes from "prop-types"
 import { useStaticQuery, graphql } from "gatsby"
+import styled from "styled-components"
 
 import Header from "../header"
 import Footer from "../footer"
@@ -21,7 +22,7 @@ export const Layout = ({ children }) => {
   return (
     <>
       <Header siteTitle={data.site.siteMetadata.title} />
-      <main className="main">{children}</main>
+      <Wrapper className="main">{children}</Wrapper>
       <Footer />
     </>
   )
@@ -30,3 +31,8 @@ export const Layout = ({ children }) => {
 Layout.propTypes = {
   children: PropTypes.node.isRequired,
 }
+
+const Wrapper = styled.main`
+  @media only screen and (min-width: 768px) {
+  }
+`
