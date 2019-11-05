@@ -4,11 +4,18 @@
   background-color: $white;
   border-bottom: 1px solid $green;
   padding: 16px 8px;
-  .mobile {
-    color: $green;
-    font-size: 18px;
-    font-weight: 700;
-    letter-spacing: 2px;
-    text-transform: uppercase;
+  .nav {
+    display: flex;
+    justify-content: space-between;
+    .logo {
+      color: $green;
+      font-size: 18px;
+      font-weight: 700;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+    }
+    .menu {
+      font-weight: 700;
+    }
   }
 }

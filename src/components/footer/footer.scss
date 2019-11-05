@@ -2,19 +2,19 @@
 
 .footer {
   align-items: center;
-  border-top: 1px solid $green;
   background-color: $white;
-  justify-content: flex-end;
+  border-top: 1px solid $green;
   bottom: 0;
   display: flex;
+  justify-content: flex-end;
   position: fixed;
   width: 100%;
   .mobile {
-    display: flex;
-    height: 40px;
     align-items: center;
-    justify-content: left;
+    display: flex;
     font-weight: 700;
+    height: 40px;
+    justify-content: left;
     .option {
       margin: 0 8px;
     }

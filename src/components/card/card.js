@@ -1,10 +1,11 @@
 import React from "react"
+import { Link } from "gatsby"
 
 import "./card.scss"
 
 export const Card = () => {
   return (
-    <a href="#" className="card link">
+    <Link to="/" className="card link">
       <article className="">
         <div className="photo">
           <img
@@ -19,6 +20,6 @@ export const Card = () => {
           repudiandae harum?
         </div>
       </article>
-    </a>
+    </Link>
   )
 }
