@@ -22,15 +22,15 @@ const AboutMe = ({ data }) => {
         <div className="content">
           <div className="bio">
             <div className="title">Biografia</div>
-            <p className="text">
+            <div className="text">
               <ReactMarkdown source={data.strapiAcerca.biografia} />
-            </p>
+            </div>
           </div>
           <div className="courses">
             <div className="title">Cursos</div>
-            <p className="text">
+            <div className="text">
               <ReactMarkdown source={data.strapiAcerca.cursos} />
-            </p>
+            </div>
           </div>
         </div>
       </BigCard>
