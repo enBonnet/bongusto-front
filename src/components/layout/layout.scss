@@ -60,19 +60,15 @@ dfn {
   font-style: italic;
 }
 h1 {
-  font-size: 2em;
   margin: 0.67em 0;
 }
 mark {
   background-color: #ff0;
   color: #000;
 }
-small {
-  font-size: 80%;
-}
+
 sub,
 sup {
-  font-size: 75%;
   line-height: 0;
   position: relative;
   vertical-align: baseline;
@@ -92,9 +88,6 @@ svg:not(:root) {
 code,
 kbd,
 pre,
-samp {
-  font-size: 1em;
-}
 figure {
   margin: 1em 40px;
 }
@@ -229,7 +222,6 @@ h1 {
   color: inherit;
   font-weight: bold;
   text-rendering: optimizeLegibility;
-  font-size: 2.25rem;
   line-height: 1.1;
 }
 h2 {
@@ -244,7 +236,6 @@ h2 {
   color: inherit;
   font-weight: bold;
   text-rendering: optimizeLegibility;
-  font-size: 1.62671rem;
   line-height: 1.1;
 }
 h3 {
@@ -259,7 +250,6 @@ h3 {
   color: inherit;
   font-weight: bold;
   text-rendering: optimizeLegibility;
-  font-size: 1.38316rem;
   line-height: 1.1;
 }
 h4 {
@@ -274,7 +264,6 @@ h4 {
   color: inherit;
   font-weight: bold;
   text-rendering: optimizeLegibility;
-  font-size: 1rem;
   line-height: 1.1;
 }
 h5 {
@@ -289,7 +278,6 @@ h5 {
   color: inherit;
   font-weight: bold;
   text-rendering: optimizeLegibility;
-  font-size: 0.85028rem;
   line-height: 1.1;
 }
 h6 {
@@ -304,7 +292,6 @@ h6 {
   color: inherit;
   font-weight: bold;
   text-rendering: optimizeLegibility;
-  font-size: 0.78405rem;
   line-height: 1.1;
 }
 hgroup {
@@ -386,7 +373,6 @@ pre {
   margin-right: 0;
   margin-top: 0;
   margin-bottom: 0;
-  font-size: 0.85rem;
   line-height: 1.42;
   background: hsla(0, 0%, 0%, 0.04);
   border-radius: 3px;
@@ -403,7 +389,6 @@ table {
   padding-right: 0;
   padding-top: 0;
   margin-bottom: 0;
-  font-size: 1rem;
   line-height: 1.45rem;
   border-collapse: collapse;
   width: 100%;
@@ -525,15 +510,12 @@ li > p {
   margin-bottom: calc(1.45rem / 2);
 }
 code {
-  font-size: 0.85rem;
   line-height: 1.45rem;
 }
 kbd {
-  font-size: 0.85rem;
   line-height: 1.45rem;
 }
 samp {
-  font-size: 0.85rem;
   line-height: 1.45rem;
 }
 abbr {
@@ -599,7 +581,4 @@ pre tt:after {
   content: "";
 }
 @media only screen and (max-width: 480px) {
-  html {
-    font-size: 100%;
-  }
 }

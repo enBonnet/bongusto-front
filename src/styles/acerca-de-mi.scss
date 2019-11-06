@@ -11,11 +11,15 @@
   }
   .bio,
   .courses {
-    margin-bottom: 16px;
+    margin-bottom: 32px;
     .title {
       margin-bottom: 16px;
       font-size: 24px;
       font-weight: 700;
+    }
+    .text {
+      padding-right: 16px;
+      padding-left: 16px;
     }
   }
 }

@@ -6,13 +6,18 @@ import "./cardsWrapper.scss"
 export const CardsWrapper = () => {
   return (
     <div className="cards-wrapper">
-      <Card />
-      <Card />
-      <Card />
-      <Card />
-      <Card />
-      <Card />
-      <Card />
+      <div className="title">
+        <h1>Recetas</h1>
+      </div>
+      <div className="cards">
+        <Card />
+        <Card />
+        <Card />
+        <Card />
+        <Card />
+        <Card />
+        <Card />
+      </div>
     </div>
   )
 }

@@ -1,9 +1,21 @@
 @import "../../styles/global.scss";
 
+.cards-wrapper {
+  .title {
+    h1 {
+      font-size: 32px;
+      font-weight: 300;
+    }
+    padding-bottom: 8px;
+  }
+}
+
 @media only screen and (min-width: 768px) {
   .cards-wrapper {
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
+    .cards {
+      display: flex;
+      justify-content: space-between;
+      flex-wrap: wrap;
+    }
   }
 }
