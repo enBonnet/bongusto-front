@@ -1,5 +1,6 @@
 import React from "react"
-import { graphql } from "gatsby"
+import { graphql, Link } from "gatsby"
+import ReactMarkdown from "react-markdown"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
@@ -22,16 +23,27 @@ const Receta = ({ data }) => {
         <div className="content">
           <div className="history">
             <div className="title">Historia</div>
-            <div className="text">{data.strapiReceta.historia}</div>
+            <div className="text">
+              <ReactMarkdown source={data.strapiReceta.historia} />
+            </div>
           </div>
           <div className="ingredients">
             <div className="title">Ingredientes</div>
-            <div className="text">{data.strapiReceta.ingredientes}</div>
+            <div className="text">
+              <ReactMarkdown source={data.strapiReceta.ingredientes} />
+            </div>
           </div>
           <div className="preparation">
             <div className="title">Preparación</div>
-            <div className="text">{data.strapiReceta.preparacion}</div>
+            <div className="text">
+              <ReactMarkdown source={data.strapiReceta.preparacion} />
+            </div>
           </div>
+        </div>
+        <div className="more">
+          <Link to="/" className="link">
+            Ver más recetas
+          </Link>
         </div>
       </BigCard>
     </Layout>

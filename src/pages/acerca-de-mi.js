@@ -1,5 +1,6 @@
 import React from "react"
 import { graphql } from "gatsby"
+import ReactMarkdown from "react-markdown"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
@@ -21,11 +22,15 @@ const AboutMe = ({ data }) => {
         <div className="content">
           <div className="bio">
             <div className="title">Biografia</div>
-            <p className="text">{data.strapiAcerca.biografia}</p>
+            <p className="text">
+              <ReactMarkdown source={data.strapiAcerca.biografia} />
+            </p>
           </div>
           <div className="courses">
             <div className="title">Cursos</div>
-            <p className="text">{data.strapiAcerca.cursos}</p>
+            <p className="text">
+              <ReactMarkdown source={data.strapiAcerca.cursos} />
+            </p>
           </div>
         </div>
       </BigCard>
