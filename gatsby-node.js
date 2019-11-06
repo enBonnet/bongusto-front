@@ -37,7 +37,7 @@ exports.createPages = ({ actions, graphql }) => {
   ).then(result => {
     // Create pages for each receta.
     console.info("🍔 Creando recetas")
-    result.data.allStrapiArticle.edges.forEach(({ node }) => {
+    result.data.allStrapiReceta.edges.forEach(({ node }) => {
       console.info(`${node.strapiId} - ${node.titulo}`)
       createPage({
         path: `receta/${node.strapiId}/${slugify(node.titulo)}`,

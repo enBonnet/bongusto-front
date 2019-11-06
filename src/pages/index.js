@@ -19,6 +19,7 @@ export const query = graphql`
     allStrapiReceta(sort: { order: ASC, fields: strapiId }) {
       edges {
         node {
+          strapiId
           photo {
             publicURL
           }

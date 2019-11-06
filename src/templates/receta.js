@@ -9,9 +9,9 @@ import "../styles/receta.scss"
 const Receta = ({ data }) => {
   return (
     <Layout>
-      <SEO title={data.strapiReceta.title} />
+      <SEO title={data.strapiReceta.titulo} />
       <BigCard className="receta">
-        <div className="title">{data.strapiReceta.title}</div>
+        <div className="title">{data.strapiReceta.titulo}</div>
         <div className="photo">
           <img
             src={data.strapiReceta.photo.publicURL}
@@ -26,7 +26,7 @@ const Receta = ({ data }) => {
           </div>
           <div className="ingredients">
             <div className="title">Ingredientes</div>
-            <div className="text">{data.strapiReceta.ingredients}</div>
+            <div className="text">{data.strapiReceta.ingredientes}</div>
           </div>
           <div className="preparation">
             <div className="title">Preparación</div>
