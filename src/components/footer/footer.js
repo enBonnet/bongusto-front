@@ -19,9 +19,8 @@ export const Footer = () => {
 }
 
 const Wrapper = styled.footer`
+  display: flex;
   @media only screen and (min-width: 768px) {
-    .mobile {
-      display: none;
-    }
+    display: none;
   }
 `

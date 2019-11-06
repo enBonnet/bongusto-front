@@ -5,7 +5,7 @@ import "./card.scss"
 
 export const Card = () => {
   return (
-    <Link to="/" className="card link">
+    <Link to="/receta" className="card link">
       <article className="">
         <div className="photo">
           <img

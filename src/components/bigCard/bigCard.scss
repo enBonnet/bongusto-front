@@ -1,0 +1,11 @@
+@import "../../styles/global.scss";
+
+.big-card {
+  background-color: $white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 4px;
+  padding: 8px;
+}

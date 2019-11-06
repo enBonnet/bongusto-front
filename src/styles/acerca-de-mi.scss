@@ -1,0 +1,21 @@
+@import "./global.scss";
+
+.about-me {
+  .photo {
+    margin-top: 24px;
+    margin-bottom: 32px;
+    border-radius: 50%;
+    overflow: hidden;
+    max-width: 200px;
+    max-height: 200px;
+  }
+  .bio,
+  .courses {
+    margin-bottom: 16px;
+    .title {
+      margin-bottom: 16px;
+      font-size: 24px;
+      font-weight: 700;
+    }
+  }
+}

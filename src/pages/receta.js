@@ -3,12 +3,13 @@ import React from "react"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import BigCard from "../components/bigCard"
-import "../styles/acerca-de-mi.scss"
+import "../styles/receta.scss"
 
-const AboutMe = () => (
+const Receta = ({ title = "" }) => (
   <Layout>
-    <SEO title="Acerca de mi" />
-    <BigCard className="about-me">
+    <SEO title={title} />
+    <BigCard className="receta">
+      <div className="title">Titulo</div>
       <div className="photo">
         <img
           src="https://images.pexels.com/photos/35666/cooking-baby-only-kitchen.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
@@ -17,8 +18,8 @@ const AboutMe = () => (
         />
       </div>
       <div className="content">
-        <div className="bio">
-          <div className="title">Biografia</div>
+        <div className="history">
+          <div className="title">Historia</div>
           <p className="text">
             Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vitae ex
             tempore assumenda blanditiis neque velit voluptatibus iste vero
@@ -34,8 +35,21 @@ const AboutMe = () => (
             Exercitationem quasi nulla deserunt ipsum tempora.
           </p>
         </div>
-        <div className="courses">
-          <div className="title">Cursos</div>
+        <div className="ingredients">
+          <div className="title">Ingredientes</div>
+          <p className="text">
+            <lu>
+              <li>Item</li>
+              <li>Item</li>
+              <li>Item</li>
+              <li>Item</li>
+              <li>Item</li>
+              <li>Item</li>
+            </lu>
+          </p>
+        </div>
+        <div className="preparation">
+          <div className="title">Preparación</div>
           <p className="text">
             Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vitae ex
             tempore assumenda blanditiis neque velit voluptatibus iste vero
@@ -56,4 +70,4 @@ const AboutMe = () => (
   </Layout>
 )
 
-export default AboutMe
+export default Receta
