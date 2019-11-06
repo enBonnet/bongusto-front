@@ -1,14 +1,32 @@
 import React from "react"
+import { graphql } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import CardsWrapper from "../components/cardsWrapper"
 
-const IndexPage = () => (
+const IndexPage = ({ data }) => (
   <Layout>
     <SEO title="BonGusto" />
-    <CardsWrapper />
+    <CardsWrapper recetas={data.allStrapiReceta.edges} />
   </Layout>
 )
 
 export default IndexPage
+
+export const query = graphql`
+  query Index {
+    allStrapiReceta(sort: { order: ASC, fields: strapiId }) {
+      edges {
+        node {
+          photo {
+            publicURL
+          }
+          titulo
+          descripcion
+          publico
+        }
+      }
+    }
+  }
+`
