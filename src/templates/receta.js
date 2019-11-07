@@ -21,24 +21,30 @@ const Receta = ({ data }) => {
           />
         </div>
         <div className="content">
-          <div className="history">
-            <div className="title">Historia</div>
-            <div className="text">
-              <ReactMarkdown source={data.strapiReceta.historia} />
+          {data.strapiReceta.historia ? (
+            <div className="history">
+              <div className="title">Historia</div>
+              <div className="text">
+                <ReactMarkdown source={data.strapiReceta.historia} />
+              </div>
             </div>
-          </div>
-          <div className="ingredients">
-            <div className="title">Ingredientes</div>
-            <div className="text">
-              <ReactMarkdown source={data.strapiReceta.ingredientes} />
+          ) : null}
+          {data.strapiReceta.ingredientes ? (
+            <div className="ingredients">
+              <div className="title">Ingredientes</div>
+              <div className="text">
+                <ReactMarkdown source={data.strapiReceta.ingredientes} />
+              </div>
             </div>
-          </div>
-          <div className="preparation">
-            <div className="title">Preparación</div>
-            <div className="text">
-              <ReactMarkdown source={data.strapiReceta.preparacion} />
+          ) : null}
+          {data.strapiReceta.preparacion ? (
+            <div className="preparation">
+              <div className="title">Preparación</div>
+              <div className="text">
+                <ReactMarkdown source={data.strapiReceta.preparacion} />
+              </div>
             </div>
-          </div>
+          ) : null}
         </div>
         <div className="more">
           <Link to="/" className="link">
