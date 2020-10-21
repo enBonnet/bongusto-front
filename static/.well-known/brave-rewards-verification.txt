@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: bongusto.net
+Token: f3510d78f5a35983d4a1545fd2c663f954f872b56b2cb68a4bc72079f3771aa0
