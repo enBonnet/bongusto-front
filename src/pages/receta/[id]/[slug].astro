@@ -1,0 +1,109 @@
+---
+import Layout from "../../../components/Layout.astro";
+import { getAllRecetas, renderMarkdoc } from "../../../lib/content.js";
+import { slugify } from "../../../lib/slugify.js";
+
+export async function getStaticPaths() {
+  // Public recipes only — drafts are committed but never rendered publicly.
+  const recetas = await getAllRecetas();
+  return recetas.map((receta) => ({
+    params: { id: String(receta.id), slug: slugify(receta.titulo) },
+    props: { receta },
+  }));
+}
+
+const { receta } = Astro.props;
+const historia = renderMarkdoc(receta.historia);
+const ingredientes = renderMarkdoc(receta.ingredientes);
+const preparacion = renderMarkdoc(receta.preparacion);
+---
+
+<Layout title={`${receta.titulo} | BonGusto`}>
+  <article class="receta big-card">
+    <div class="title">{receta.titulo}</div>
+    {
+      receta.photo?.url && (
+        <div class="photo">
+          <img src={receta.photo.url} alt={receta.photo?.alt || receta.titulo} width="600" />
+        </div>
+      )
+    }
+    <div class="content">
+      {
+        historia && (
+          <div class="history">
+            <div class="title">Historia</div>
+            <div class="text" set:html={historia} />
+          </div>
+        )
+      }
+      {
+        ingredientes && (
+          <div class="ingredients">
+            <div class="title">Ingredientes</div>
+            <div class="text" set:html={ingredientes} />
+          </div>
+        )
+      }
+      {
+        preparacion && (
+          <div class="preparation">
+            <div class="title">Preparación</div>
+            <div class="text" set:html={preparacion} />
+          </div>
+        )
+      }
+    </div>
+    <div class="more">
+      <a href="/" class="link">Ver más recetas</a>
+    </div>
+  </article>
+</Layout>
+
+<style>
+  .receta {
+    background-color: var(--white);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 4px;
+    padding: 8px;
+    margin-bottom: 20px;
+  }
+  .receta .title {
+    margin-bottom: 16px;
+    font-size: 24px;
+    font-weight: 700;
+  }
+  .receta .photo {
+    margin-bottom: 32px;
+    overflow: hidden;
+    max-width: 600px;
+    max-height: 400px;
+    align-self: center;
+  }
+  .receta .photo img {
+    max-width: 100%;
+    height: auto;
+  }
+  .receta .history,
+  .receta .ingredients,
+  .receta .preparation {
+    margin-bottom: 32px;
+  }
+  .receta .history .title,
+  .receta .ingredients .title,
+  .receta .preparation .title {
+    margin-bottom: 16px;
+    font-size: 24px;
+    font-weight: 700;
+  }
+  .receta .more {
+    text-align: right;
+  }
+  @media only screen and (min-width: 768px) {
+    .receta {
+      margin-top: 20px;
+    }
+  }
+</style>

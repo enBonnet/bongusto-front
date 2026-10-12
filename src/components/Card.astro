@@ -1,0 +1,53 @@
+---
+import type { Receta } from "../lib/content.js";
+import { recetaUrl } from "../lib/content.js";
+
+interface Props {
+  receta: Receta;
+}
+const { receta } = Astro.props;
+---
+
+<a href={recetaUrl(receta)} class="link card">
+  <div class="photo">
+    {receta.photo?.url && <img src={receta.photo.url} alt={receta.photo?.alt || receta.titulo} loading="lazy" decoding="async" width="300" />}
+  </div>
+  <div class="title">{receta.titulo}</div>
+  <p class="description">{receta.descripcion}</p>
+</a>
+
+<style>
+  .card {
+    background-color: var(--white);
+    border-radius: 4px;
+    display: block;
+    margin-bottom: 24px;
+    padding: 8px;
+  }
+  .card:hover {
+    box-shadow: 3px 3px 5px 0px rgba(0, 0, 0, 0.119);
+  }
+  .photo {
+    border-radius: 4px;
+    margin-bottom: 16px;
+    overflow: hidden;
+  }
+  .photo img {
+    min-width: 100%;
+    height: auto;
+  }
+  .title {
+    font-size: 18px;
+    font-weight: 700;
+    margin-bottom: 8px;
+  }
+  .description {
+    margin-bottom: 8px;
+  }
+  @media only screen and (min-width: 768px) {
+    .card {
+      margin-bottom: 16px;
+      max-width: 300px;
+    }
+  }
+</style>

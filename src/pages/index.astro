@@ -1,15 +1,43 @@
 ---
-// Loop 2 placeholder — replaced by the real homepage in Loop 4.
+import Layout from "../components/Layout.astro";
+import Card from "../components/Card.astro";
+import { getAllRecetas } from "../lib/content.js";
+
+const recetas = (await getAllRecetas()).sort((a, b) => a.id - b.id);
 ---
-<!doctype html>
-<html lang="es">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width" />
-    <title>BonGusto</title>
-  </head>
-  <body>
-    <h1>BonGusto</h1>
-    <p>Recetas de comida latinoamericana con un poco de historia.</p>
-  </body>
-</html>
+
+<Layout title="BonGusto">
+  <div class="cards-wrapper">
+    <div class="title">
+      <h1>Recetas</h1>
+    </div>
+    {
+      recetas.length === 0 ? (
+        <p>Aún no hay recetas cargadas</p>
+      ) : (
+        <div class="cards">
+          {recetas.map((receta) => (
+            <Card receta={receta} />
+          ))}
+        </div>
+      )
+    }
+  </div>
+</Layout>
+
+<style>
+  .cards-wrapper .title h1 {
+    font-size: 32px;
+    font-weight: 300;
+  }
+  .cards-wrapper .title {
+    padding-bottom: 8px;
+  }
+  @media only screen and (min-width: 768px) {
+    .cards-wrapper .cards {
+      display: flex;
+      justify-content: space-between;
+      flex-wrap: wrap;
+    }
+  }
+</style>

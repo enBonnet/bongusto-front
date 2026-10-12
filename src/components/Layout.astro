@@ -1,0 +1,86 @@
+---
+import "../styles/global.css";
+interface Props {
+  title?: string;
+}
+const { title = "BonGusto" } = Astro.props;
+---
+
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+  </head>
+  <body>
+    <header class="header">
+      <nav class="nav">
+        <a href="/" class="link logo">BonGusto</a>
+        <div class="menu">
+          <a href="/acerca" class="link">Acerca de mi</a>
+        </div>
+      </nav>
+    </header>
+    <main class="main">
+      <slot />
+    </main>
+    <footer class="footer">
+      <div class="mobile">
+        <a href="/acerca" class="link option">Acerca de mi</a>
+      </div>
+    </footer>
+  </body>
+</html>
+
+<style>
+  .header {
+    background-color: var(--white);
+    border-bottom: 1px solid var(--green);
+    padding: 16px 8px;
+  }
+  .header .nav {
+    display: flex;
+    justify-content: space-between;
+  }
+  .header .logo {
+    color: var(--green);
+    font-size: 18px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+  }
+  .header .menu {
+    font-weight: 700;
+  }
+  @media only screen and (max-width: 767px) {
+    .header .menu {
+      display: none;
+    }
+  }
+
+  .footer {
+    align-items: center;
+    background-color: var(--white);
+    border-top: 1px solid var(--green);
+    bottom: 0;
+    justify-content: flex-end;
+    position: fixed;
+    width: 100%;
+  }
+  .footer .mobile {
+    align-items: center;
+    display: flex;
+    font-weight: 700;
+    height: 40px;
+    justify-content: left;
+  }
+  .footer .option {
+    margin: 0 8px;
+  }
+  @media only screen and (min-width: 768px) {
+    .footer {
+      display: none;
+    }
+  }
+</style>
