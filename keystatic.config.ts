@@ -4,7 +4,10 @@ import { config, fields, collection, singleton } from "@keystatic/core";
 // local mode for development.
 // Gated on the PUBLIC var because this config is also imported into the
 // browser bundle by the admin UI (import.meta.env works on both sides).
-const storage = import.meta.env.PUBLIC_KEYSTATIC_GITHUB_APP_SLUG
+// Optional chaining: import.meta.env doesn't exist outside Vite (e.g. when
+// scripts/verify-reader.mts loads this file via tsx) — that's fine, it only
+// means "local storage".
+const storage = import.meta.env?.PUBLIC_KEYSTATIC_GITHUB_APP_SLUG
   ? {
       kind: "github" as const,
       repo: "enBonnet/bongusto-front",
