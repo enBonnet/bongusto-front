@@ -13,9 +13,21 @@ export type Receta = NonNullable<Awaited<ReturnType<typeof reader.collections.re
 export type Categoria = NonNullable<Awaited<ReturnType<typeof reader.collections.categorias.read>>>;
 export type Acerca = NonNullable<Awaited<ReturnType<typeof reader.singletons.acerca.read>>>;
 
+// Memoized per build: getStaticPaths AND page frontmatter both call these
+// helpers, and the Reader re-reads every YAML file on each `.read()` call.
+let recetasCache: Promise<(Receta | null)[]> | undefined;
+let categoriasCache: Promise<{ slug: string; categoria: Categoria }[]> | undefined;
+
+function loadAllRecetas() {
+  recetasCache ??= (async () => {
+    const slugs = await reader.collections.recetas.list();
+    return Promise.all(slugs.map((s) => reader.collections.recetas.read(s)));
+  })();
+  return recetasCache;
+}
+
 export async function getAllRecetas(includeDrafts = false): Promise<Receta[]> {
-  const slugs = await reader.collections.recetas.list();
-  const entries = await Promise.all(slugs.map((s) => reader.collections.recetas.read(s)));
+  const entries = await loadAllRecetas();
   return entries.filter((r): r is Receta => !!r && (includeDrafts || r.publico === true));
 }
 
@@ -30,9 +42,20 @@ export async function getRecetaById(id: number): Promise<Receta | undefined> {
 }
 
 export async function getCategorias(): Promise<{ slug: string; categoria: Categoria }[]> {
-  const slugs = await reader.collections.categorias.list();
-  const entries = await Promise.all(slugs.map((s) => reader.collections.categorias.read(s)));
-  return slugs.map((slug, i) => ({ slug, categoria: entries[i] as Categoria }));
+  categoriasCache ??= (async () => {
+    const slugs = await reader.collections.categorias.list();
+    const entries = await Promise.all(slugs.map((s) => reader.collections.categorias.read(s)));
+    return slugs.map((slug, i) => ({ slug, categoria: entries[i] as Categoria }));
+  })();
+  return categoriasCache;
+}
+
+/** Public recipes in a category, newest (highest id) first. */
+export async function getRecetasByCategoria(slug: string): Promise<Receta[]> {
+  const all = await getAllRecetas();
+  return all
+    .filter((r) => (r.categorias ?? []).includes(slug))
+    .sort((a, b) => b.id - a.id);
 }
 
 export async function getAcerca(): Promise<Acerca | undefined> {

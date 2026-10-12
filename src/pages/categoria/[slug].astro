@@ -2,7 +2,7 @@
 import Layout from "../../components/Layout.astro";
 import Card from "../../components/Card.astro";
 import Pagination from "../../components/Pagination.astro";
-import { getAllRecetas, getCategorias } from "../../lib/content.js";
+import { getCategorias, getRecetasByCategoria } from "../../lib/content.js";
 import { PER_PAGE } from "../../lib/paginate.js";
 
 export async function getStaticPaths() {
@@ -11,14 +11,11 @@ export async function getStaticPaths() {
 }
 
 const { slug } = Astro.params;
-const all = (await getAllRecetas())
-  .filter((r) => (r.categorias ?? []).includes(slug!))
-  .sort((a, b) => b.id - a.id);
+const all = await getRecetasByCategoria(slug!);
 const total = Math.max(1, Math.ceil(all.length / PER_PAGE));
 const recetas = all.slice(0, PER_PAGE);
 const categorias = await getCategorias();
-const current = categorias.find((c) => c.slug === slug);
-const nombre = current?.categoria?.nombre ?? slug!;
+const nombre = categorias.find((c) => c.slug === slug)?.categoria?.nombre ?? slug!;
 ---
 
 <Layout title={nombre}>

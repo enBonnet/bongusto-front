@@ -2,14 +2,14 @@
 import Layout from "../../../components/Layout.astro";
 import Card from "../../../components/Card.astro";
 import Pagination from "../../../components/Pagination.astro";
-import { getAllRecetas, getCategorias } from "../../../lib/content.js";
+import { getCategorias, getRecetasByCategoria } from "../../../lib/content.js";
 import { PER_PAGE } from "../../../lib/paginate.js";
 
 export async function getStaticPaths() {
   const categorias = await getCategorias();
   const paths: { params: { slug: string; page: string } }[] = [];
   for (const { slug } of categorias) {
-    const all = (await getAllRecetas()).filter((r) => (r.categorias ?? []).includes(slug));
+    const all = await getRecetasByCategoria(slug);
     const total = Math.ceil(all.length / PER_PAGE);
     for (let p = 2; p <= total; p++) paths.push({ params: { slug, page: String(p) } });
   }
@@ -17,9 +17,7 @@ export async function getStaticPaths() {
 }
 
 const { slug, page } = Astro.params;
-const all = (await getAllRecetas())
-  .filter((r) => (r.categorias ?? []).includes(slug!))
-  .sort((a, b) => b.id - a.id);
+const all = await getRecetasByCategoria(slug!);
 const total = Math.max(1, Math.ceil(all.length / PER_PAGE));
 const current = Math.min(Math.max(2, Number(page)), total);
 const recetas = all.slice((current - 1) * PER_PAGE, current * PER_PAGE);
