@@ -2,24 +2,25 @@
 interface Props {
   current: number; // 1-based
   total: number;
+  /** Where page N lives. Defaults to the global recipe pagination. */
+  makeHref?: (page: number) => string;
 }
-const { current, total } = Astro.props;
-const href = (n: number) => (n <= 1 ? "/" : `/pagina/${n}`);
+const { current, total, makeHref = (n) => (n <= 1 ? "/" : `/pagina/${n}`) } = Astro.props;
 ---
 
 {
   total > 1 && (
     <nav class="pagination" aria-label="Paginación">
       {current > 1 && (
-        <a href={href(current - 1)} class="link nav-link">
+        <a href={makeHref(current - 1)} class="link nav-link">
           ← Anterior
         </a>
       )}
-      <span class="status">
+      <span class="status" aria-current={current > 1 ? "page" : undefined}>
         Página {current} de {total}
       </span>
       {current < total && (
-        <a href={href(current + 1)} class="link nav-link">
+        <a href={makeHref(current + 1)} class="link nav-link">
           Siguiente →
         </a>
       )}

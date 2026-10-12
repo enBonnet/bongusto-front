@@ -24,9 +24,10 @@ const preparacion = renderMarkdoc(receta.preparacion);
 ---
 
 <Layout
-  title={receta.titulo}
+  title={receta.titulo.trim()}
   description={receta.descripcion}
   image={receta.photo?.url}
+  ogType="article"
 >
   <article class="receta big-card" data-pagefind-body>
     <h1 class="title" data-pagefind-meta="title">{receta.titulo}</h1>

@@ -2,8 +2,22 @@
   command = "npm run build"
   publish = "dist"
 
+[build.environment]
+  NODE_VERSION = "22"
+
 [[headers]]
   for = "/*"
   [headers.values]
     X-Frame-Options = "DENY"
     X-Content-Type-Options = "nosniff"
+
+# pagefind assets are content-hashed → cache hard; entry points get short TTL
+[[headers]]
+  for = "/pagefind/fragment/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+  for = "/pagefind/index/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"

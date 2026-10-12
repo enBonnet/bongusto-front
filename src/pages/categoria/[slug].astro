@@ -1,8 +1,9 @@
 ---
 import Layout from "../../components/Layout.astro";
 import Card from "../../components/Card.astro";
+import Pagination from "../../components/Pagination.astro";
 import { getAllRecetas, getCategorias } from "../../lib/content.js";
-import { slugify } from "../../lib/slugify.js";
+import { PER_PAGE } from "../../lib/paginate.js";
 
 export async function getStaticPaths() {
   const categorias = await getCategorias();
@@ -10,19 +11,22 @@ export async function getStaticPaths() {
 }
 
 const { slug } = Astro.params;
-const recetas = (await getAllRecetas())
+const all = (await getAllRecetas())
   .filter((r) => (r.categorias ?? []).includes(slug!))
   .sort((a, b) => b.id - a.id);
+const total = Math.max(1, Math.ceil(all.length / PER_PAGE));
+const recetas = all.slice(0, PER_PAGE);
 const categorias = await getCategorias();
 const current = categorias.find((c) => c.slug === slug);
+const nombre = current?.categoria?.nombre ?? slug!;
 ---
 
-<Layout title={`${current?.categoria?.nombre ?? slug} | BonGusto`}>
+<Layout title={nombre}>
   <div class="cards-wrapper">
     <div class="title">
-      <h1>{current?.categoria?.nombre ?? slug}</h1>
+      <h1>{nombre}</h1>
     </div>
-    <nav class="cats">
+    <nav class="cats" aria-label="Categorías">
       {
         categorias.map(({ slug: s, categoria }) => (
           <a href={`/categoria/${s}`} class={`link cat ${s === slug ? "active" : ""}`}>
@@ -32,7 +36,7 @@ const current = categorias.find((c) => c.slug === slug);
       }
     </nav>
     {
-      recetas.length === 0 ? (
+      all.length === 0 ? (
         <p>No hay recetas en esta categoría todavía.</p>
       ) : (
         <div class="cards">
@@ -42,6 +46,7 @@ const current = categorias.find((c) => c.slug === slug);
         </div>
       )
     }
+    <Pagination current={1} total={total} makeHref={(n) => (n <= 1 ? `/categoria/${slug}` : `/categoria/${slug}/${n}`)} />
   </div>
 </Layout>
 

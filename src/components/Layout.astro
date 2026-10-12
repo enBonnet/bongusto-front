@@ -7,12 +7,14 @@ interface Props {
   description?: string;
   image?: string;
   canonical?: string;
+  ogType?: "website" | "article";
 }
 const {
   title = "BonGusto",
   description = SITE.description,
   image = SITE.image,
   canonical,
+  ogType = "website",
 } = Astro.props;
 const canonicalUrl = canonical ?? new URL(Astro.url.pathname, Astro.site).href;
 const fullTitle = title === "BonGusto" ? title : `${title} | BonGusto`;
@@ -28,7 +30,7 @@ const fullTitle = title === "BonGusto" ? title : `${title} | BonGusto`;
     <link rel="canonical" href={canonicalUrl} />
     <link rel="icon" type="image/png" href="/bongusto-rounded.png" />
     <link rel="sitemap" href="/sitemap-index.xml" />
-    <meta property="og:type" content="website" />
+    <meta property="og:type" content={ogType} />
     <meta property="og:site_name" content="BonGusto" />
     <meta property="og:title" content={fullTitle} />
     <meta property="og:description" content={description} />
