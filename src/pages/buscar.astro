@@ -1,0 +1,36 @@
+---
+import Layout from "../components/Layout.astro";
+---
+
+<Layout title="Buscar">
+  <div class="big-card search-page">
+    <h1>Buscar recetas</h1>
+    <link rel="stylesheet" href="/pagefind/pagefind-ui.css" />
+    <script src="/pagefind/pagefind-ui.js" is:inline></script>
+    <div id="search"></div>
+    <script is:inline>
+      new PagefindUI({ element: "#search", showImages: true, translations: {
+        placeholder: "Buscar por título, ingrediente…",
+        clear_search: "Limpiar",
+        zero_results: "No se encontraron recetas para “[SEARCH_TERM]”",
+        many_results: "[COUNT] recetas encontradas para “[SEARCH_TERM]”",
+        one_result: "[COUNT] receta encontrada para “[SEARCH_TERM]”",
+        searching: "Buscando “[SEARCH_TERM]”…",
+        search_for_something_else: "Busca otra cosa",
+      }});
+    </script>
+  </div>
+</Layout>
+
+<style>
+  .search-page {
+    background-color: var(--white);
+    border-radius: 4px;
+    padding: 16px;
+    margin-top: 20px;
+  }
+  .search-page h1 {
+    font-size: 32px;
+    font-weight: 300;
+  }
+</style>

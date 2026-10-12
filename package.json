@@ -6,7 +6,7 @@
   "description": "Recetas de comida latinoamericana con un poco de historia — blog estático con CMS embebido (Astro + Keystatic)",
   "scripts": {
     "dev": "astro dev",
-    "build": "astro build",
+    "build": "astro build && pagefind --site dist",
     "preview": "astro preview",
     "recover": "node scripts/recover-recetas.mjs",
     "transform": "node scripts/transform-raw.mjs",
@@ -26,6 +26,7 @@
   },
   "devDependencies": {
     "@types/react": "^19.3.0",
-    "@types/react-dom": "^19.3.0"
+    "@types/react-dom": "^19.3.0",
+    "pagefind": "^1.5.2"
   }
 }

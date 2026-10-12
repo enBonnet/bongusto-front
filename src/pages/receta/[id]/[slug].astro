@@ -28,12 +28,17 @@ const preparacion = renderMarkdoc(receta.preparacion);
   description={receta.descripcion}
   image={receta.photo?.url}
 >
-  <article class="receta big-card">
-    <h1 class="title">{receta.titulo}</h1>
+  <article class="receta big-card" data-pagefind-body>
+    <h1 class="title" data-pagefind-meta="title">{receta.titulo}</h1>
     {
       receta.photo?.url && (
         <div class="photo">
-          <img src={receta.photo.url} alt={receta.photo?.alt || receta.titulo} width="600" />
+          <img
+            src={receta.photo.url}
+            alt={receta.photo?.alt || receta.titulo}
+            width="600"
+            data-pagefind-meta="image[src]"
+          />
         </div>
       )
     }
