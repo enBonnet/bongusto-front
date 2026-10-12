@@ -6,6 +6,7 @@
  * data/raw/acerca.json      → content/acerca/acerca.yaml
  */
 import { mkdirSync, writeFileSync, readFileSync, readdirSync } from "node:fs";
+import { execSync } from "node:child_process";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 import { parse, stringify } from "yaml";
@@ -14,6 +15,23 @@ import { slugify } from "../src/lib/slugify.js";
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const RAW = join(ROOT, "data", "raw");
 const CONTENT = join(ROOT, "content");
+
+// Safety rail: once the CMS is in use, editor changes live in content/.
+// Refuse to clobber uncommitted work unless --force is passed.
+const FORCE = process.argv.includes("--force");
+if (!FORCE) {
+  let dirty = false;
+  try {
+    dirty = execSync("git status --porcelain -- content/", { cwd: ROOT, encoding: "utf8" }).trim().length > 0;
+  } catch {
+    // outside a git repo — nothing to protect
+  }
+  if (dirty) {
+    console.error("✋ content/ has uncommitted changes; editor edits live there now.");
+    console.error("   Commit or stash them first, or re-run with --force to overwrite anyway.");
+    process.exit(1);
+  }
+}
 
 mkdirSync(join(CONTENT, "recetas"), { recursive: true });
 mkdirSync(join(CONTENT, "categorias"), { recursive: true });

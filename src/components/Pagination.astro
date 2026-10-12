@@ -16,7 +16,7 @@ const { current, total, makeHref = (n) => (n <= 1 ? "/" : `/pagina/${n}`) } = As
           ← Anterior
         </a>
       )}
-      <span class="status" aria-current={current > 1 ? "page" : undefined}>
+      <span class="status" aria-current="page">
         Página {current} de {total}
       </span>
       {current < total && (

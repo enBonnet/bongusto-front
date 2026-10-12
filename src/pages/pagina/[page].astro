@@ -13,8 +13,15 @@ export async function getStaticPaths() {
 }
 
 const { page } = Astro.params;
+const pageNumber = Number(page);
 const all = sortedRecetas(await getAllRecetas());
-const { items: recetas, current, total } = paginate(all, Number(page));
+const { items: recetas, current, total } = paginate(all, pageNumber);
+// Static builds only generate in-range pages; this guards against the
+// clamp inside paginate() ever silently rendering a wrong page
+// (e.g. if this route is ever served dynamically).
+if (!Number.isInteger(pageNumber) || pageNumber < 2 || pageNumber > total) {
+  throw new Error(`404: /pagina/${page} is out of range (total ${total})`);
+}
 ---
 
 <Layout title={current <= 1 ? "BonGusto" : `Recetas — página ${current}`}>
