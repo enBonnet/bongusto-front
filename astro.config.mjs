@@ -24,7 +24,8 @@ export default defineConfig({
     react(),
     ...(mountKeystaticAdmin ? [keystatic()] : []),
     sitemap({
-      filter: (page) => !/\/pagina\/1\/?$/.test(page), // canonical home is "/"
+      // canonical home is "/" and the search UI has no indexable value
+      filter: (page) => !/\/pagina\/1\/?$/.test(page) && !/\/buscar\/?$/.test(page),
     }),
   ],
 });

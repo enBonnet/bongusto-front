@@ -40,6 +40,20 @@ export function recetaUrl(receta: Receta): string {
   return `/receta/${receta.id}/${slugify(receta.titulo)}`;
 }
 
+/**
+ * Listing image for a recipe card. Thumbs are stored as 100px Cloudinary
+ * crops (w_100,h_100,c_thumb); request the same transformation at card
+ * resolution instead of shipping a blurry upscale or the full photo.
+ * Falls back to the full photo when there is no Cloudinary thumb.
+ */
+export function recetaCardImage(receta: Pick<Receta, "photo">): string | undefined {
+  const thumb = receta.photo?.thumb;
+  if (thumb && thumb.includes("w_100,h_100,c_thumb")) {
+    return thumb.replace("w_100,h_100,c_thumb", "w_600,h_600,c_thumb");
+  }
+  return receta.photo?.url ?? undefined;
+}
+
 export async function getRecetaById(id: number): Promise<Receta | undefined> {
   const all = await getAllRecetas(true);
   return all.find((r) => r.id === id);

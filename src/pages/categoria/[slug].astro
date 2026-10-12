@@ -1,6 +1,7 @@
 ---
 import Layout from "../../components/Layout.astro";
 import Card from "../../components/Card.astro";
+import CategoryNav from "../../components/CategoryNav.astro";
 import Pagination from "../../components/Pagination.astro";
 import { getCategorias, getRecetasByCategoria } from "../../lib/content.js";
 import { PER_PAGE } from "../../lib/paginate.js";
@@ -16,6 +17,7 @@ const total = Math.max(1, Math.ceil(all.length / PER_PAGE));
 const recetas = all.slice(0, PER_PAGE);
 const categorias = await getCategorias();
 const nombre = categorias.find((c) => c.slug === slug)?.categoria?.nombre ?? slug!;
+const navCats = categorias.map(({ slug: s, categoria }) => ({ slug: s, nombre: categoria?.nombre ?? s }));
 ---
 
 <Layout title={nombre}>
@@ -23,15 +25,7 @@ const nombre = categorias.find((c) => c.slug === slug)?.categoria?.nombre ?? slu
     <div class="title">
       <h1>{nombre}</h1>
     </div>
-    <nav class="cats" aria-label="Categorías">
-      {
-        categorias.map(({ slug: s, categoria }) => (
-          <a href={`/categoria/${s}`} class={`link cat ${s === slug ? "active" : ""}`}>
-            {categoria?.nombre}
-          </a>
-        ))
-      }
-    </nav>
+    <CategoryNav cats={navCats} activeSlug={slug} />
     {
       all.length === 0 ? (
         <p>No hay recetas en esta categoría todavía.</p>
@@ -54,25 +48,6 @@ const nombre = categorias.find((c) => c.slug === slug)?.categoria?.nombre ?? slu
   }
   .cards-wrapper .title {
     padding-bottom: 8px;
-  }
-  .cats {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 8px;
-    padding-bottom: 16px;
-  }
-  .cat {
-    background-color: var(--white);
-    border: 1px solid var(--green);
-    border-radius: 4px;
-    padding: 4px 12px;
-    font-size: 14px;
-    font-weight: 700;
-    color: var(--green);
-  }
-  .cat.active {
-    background-color: var(--green);
-    color: var(--white);
   }
   @media only screen and (min-width: 768px) {
     .cards-wrapper .cards {

@@ -18,6 +18,8 @@ const {
 } = Astro.props;
 const canonicalUrl = canonical ?? new URL(Astro.url.pathname, Astro.site).href;
 const fullTitle = title === "BonGusto" ? title : `${title} | BonGusto`;
+// og/twitter require absolute URLs; SITE.image may be site-relative.
+const imageUrl = image ? new URL(image, Astro.site).href : undefined;
 ---
 
 <!doctype html>
@@ -35,11 +37,11 @@ const fullTitle = title === "BonGusto" ? title : `${title} | BonGusto`;
     <meta property="og:title" content={fullTitle} />
     <meta property="og:description" content={description} />
     <meta property="og:url" content={canonicalUrl} />
-    {image && <meta property="og:image" content={image} />}
+    {image && <meta property="og:image" content={imageUrl} />}
     <meta name="twitter:card" content={image ? "summary_large_image" : "summary"} />
     <meta name="twitter:title" content={fullTitle} />
     <meta name="twitter:description" content={description} />
-    {image && <meta name="twitter:image" content={image} />}
+    {image && <meta name="twitter:image" content={imageUrl} />}
   </head>
   <body>
     <header class="header">

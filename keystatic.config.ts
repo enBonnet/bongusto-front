@@ -27,7 +27,11 @@ export default config({
       entryLayout: "form",
       schema: {
         titulo: fields.slug({
-          name: { label: "Título" },
+          name: {
+            label: "Título",
+            description:
+              "Ojo: el título define la URL. Si renombras una receta ya publicada, añade una línea de redirección del slug antiguo al nuevo en public/_redirects.",
+          },
           slug: { label: "Identificador (slug)" },
         }),
         id: fields.integer({

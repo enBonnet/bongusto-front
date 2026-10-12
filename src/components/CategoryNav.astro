@@ -1,0 +1,43 @@
+---
+/**
+ * Chip-style category nav. Used on category listings (full nav, one active)
+ * and on recipe pages (only that recipe's categories, nothing active).
+ */
+interface Props {
+  cats: { slug: string; nombre: string }[];
+  activeSlug?: string;
+}
+const { cats, activeSlug } = Astro.props;
+---
+
+<nav class="cats" aria-label="Categorías">
+  {
+    cats.map(({ slug, nombre }) => (
+      <a href={`/categoria/${slug}`} class={`link cat ${slug === activeSlug ? "active" : ""}`}>
+        {nombre}
+      </a>
+    ))
+  }
+</nav>
+
+<style>
+  .cats {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    padding-bottom: 16px;
+  }
+  .cat {
+    background-color: var(--white);
+    border: 1px solid var(--green);
+    border-radius: 4px;
+    padding: 4px 12px;
+    font-size: 14px;
+    font-weight: 700;
+    color: var(--green);
+  }
+  .cat.active {
+    background-color: var(--green);
+    color: var(--white);
+  }
+</style>

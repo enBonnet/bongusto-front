@@ -1,6 +1,7 @@
 ---
 import Layout from "../../../components/Layout.astro";
-import { getAllRecetas, renderMarkdoc } from "../../../lib/content.js";
+import CategoryNav from "../../../components/CategoryNav.astro";
+import { getAllRecetas, getCategorias, renderMarkdoc } from "../../../lib/content.js";
 import { slugify } from "../../../lib/slugify.js";
 
 export async function getStaticPaths() {
@@ -21,16 +22,21 @@ const { receta } = Astro.props;
 const historia = renderMarkdoc(receta.historia);
 const ingredientes = renderMarkdoc(receta.ingredientes);
 const preparacion = renderMarkdoc(receta.preparacion);
+// Chips linking back into browse — a recipe page was previously a dead end.
+const categorias = await getCategorias();
+const nombreBySlug = new Map(categorias.map(({ slug, categoria }) => [slug, categoria?.nombre ?? slug]));
+const chipCats = (receta.categorias ?? []).map((s) => ({ slug: s, nombre: nombreBySlug.get(s) ?? s }));
 ---
 
 <Layout
   title={receta.titulo.trim()}
-  description={receta.descripcion}
-  image={receta.photo?.url}
+  description={receta.descripcion || undefined}
+  image={receta.photo?.url || undefined}
   ogType="article"
 >
   <article class="receta big-card" data-pagefind-body>
     <h1 class="title" data-pagefind-meta="title">{receta.titulo}</h1>
+    {chipCats.length > 0 && <CategoryNav cats={chipCats} />}
     {
       receta.photo?.url && (
         <div class="photo">
