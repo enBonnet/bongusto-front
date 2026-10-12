@@ -9,8 +9,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1573570381/gwerilrtxa4igfbbwmpq.png
   alt: Ceviche Panameño
-created_at: 2019-11-12T14:53:01.732Z
-updated_at: 2019-11-12T14:53:01.732Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/gwerilrtxa4igfbbwmpq
+created_at: 2019-11-12T14:53
+updated_at: 2019-11-12T14:53
 historia: Ceviche o Cebiche, algunos les atribuyen el origen del nombre, a los marineros ingleses que al llegar a los puertos peruanos degustaban un plato típico al que ellos llamaban “SEA BEACH” (Pescado en la Playa) y el nombre viene derivado de esa denominación.
 ingredientes: |-
   ### - ½ Kilogramo de Camarones, limpios sin venas	

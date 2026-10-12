@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1575725263/eewnqwbyet9ge9o0ny03.png
   alt: Codornices al Horno con Champiñones
-created_at: 2019-12-07T13:27:42.952Z
-updated_at: 2019-12-07T13:27:42.952Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/eewnqwbyet9ge9o0ny03
+created_at: 2019-12-07T13:27
+updated_at: 2019-12-07T13:27
 historia: Existen dos maneras de obtener una pieza horneada, dorada y bien cocida, Una de ellas exige sólo el manejo de la temperatura (técnica presentada en el pollo al horno); la otra, que se vale de una fritura o salteado previo, es la que se explica en esta receta. En esta receta se presentan las codornices cocidas con ingredientes que permiten obtener un plato de sabores intensos y jugos caramelizados (como los que proporcionan la cebolla y la tocineta), junto a texturas más suaves y esponjosas (como las que ofrecen las papas y los champiñones).
 ingredientes: |-
   ### Ingredientes (para 4 personas) 

@@ -9,8 +9,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1575761954/jcjzsl1fxjau3m0aq3in.png
   alt: Picante de Maguey
-created_at: 2019-12-07T23:39:14.737Z
-updated_at: 2019-12-07T23:39:14.737Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/jcjzsl1fxjau3m0aq3in
+created_at: 2019-12-07T23:39
+updated_at: 2019-12-07T23:39
 historia: |-
   Este picante es propio de la región andina. Lleva este nombre por su principal ingrediente, 
   el maguey: un bulbo que puede verse una vez al año en la mata de cabuya.

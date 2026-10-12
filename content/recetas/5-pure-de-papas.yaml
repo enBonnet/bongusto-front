@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1573166885/cknjjbfknasfqmlaes6b.jpg
   alt: Puré de Papas
-created_at: 2019-11-07T22:48:04.865Z
-updated_at: 2019-11-09T22:03:31.201Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/cknjjbfknasfqmlaes6b
+created_at: 2019-11-07T22:48
+updated_at: 2019-11-09T22:03
 historia: No existe una historia, definida en cuanto al origen del pure de papas, ya que es una tecnica enpleada en toda la cocina a nivel mundial, pero buscando el origen de la papa como tal, se puede presumir que este tipo de preparación con la papa, es de los pueblos origibarios. La civilización Tiahuanaco, que existió en el altiplano andino, en lo que hoy es Bolivia, entre el 1.500 AC y el 1.000 DC aproximadamente.
 ingredientes: |-
   ### 4 porciones:

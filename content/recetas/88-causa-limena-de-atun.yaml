@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1573513847/aps5msfpha0bl23nyuro.png
   alt: Causa Limeña de Atún
-created_at: 2019-11-11T23:10:46.971Z
-updated_at: 2019-11-11T23:10:46.971Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/aps5msfpha0bl23nyuro
+created_at: 2019-11-11T23:10
+updated_at: 2019-11-11T23:10
 historia: "Todo sucedió allá por los tiempos de la guerra con Chile, en que las valerosas mujeres peruanas pensaban en alguna manera de ayudar a aquellos soldados que defendían nuestra patria. Se organizó entonces una recolección de lo que voluntariamente pudiera darse, logrando acopiar: maíz, alverjas, zanahorias, entre otros; infaltable por supuesto la papa. De todo ello surgió la idea de crear un nuevo plato que pueda ser vendido y que ayude a solventar el auxilio necesario. Se cocinó la papa, se prensó, se aderezó con ají, limón y aceite. Se logró una masa homogénea que pudo ser rellenada con ingredientes diversos. El resultado se comercializó a través de las vianderas limeñas que la ofrecían “Por la Causa”, por la causa limeña, naciendo así el delicioso plato que hoy asombra a muchos. Platillo que por su sencillez y variedad ha logrado sobrepasar las fronteras peruanas, haciéndose irresistible."
 ingredientes: |-
   ### 4 porciones pequeñas o una grande:

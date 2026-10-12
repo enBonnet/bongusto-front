@@ -6,8 +6,9 @@ categorias: []
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1573400649/tptd53myqdub5vuvpyzr.png
   alt: Costillas de Cordero al Horno
-created_at: 2019-11-10T15:44:09.096Z
-updated_at: 2019-11-10T15:44:09.096Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/tptd53myqdub5vuvpyzr
+created_at: 2019-11-10T15:44
+updated_at: 2019-11-10T15:44
 historia: |-
   Este tipo de preparación es muy común en toda latino america, no hay definición de cual es su origen o quien fue el primero en elaborarlo, ya que actualmente en todo el mundo se consume este tipo de proteina, la diferencia esta en la sazón y la guarnición, con la que se sirve. 
   En mexico este tipo de preparación de proteinas al horno esta muy arraigado desde tiempos ancestrales y tienen muchas y variadas recetas, que pasan de generación en generación.

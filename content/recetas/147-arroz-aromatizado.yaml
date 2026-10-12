@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1574457197/l6qs7nepwryxgiwkj52e.png
   alt: Arroz Aromatizado
-created_at: 2019-11-22T21:13:17.320Z
-updated_at: 2019-11-22T21:13:17.320Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/l6qs7nepwryxgiwkj52e
+created_at: 2019-11-22T21:13
+updated_at: 2019-11-22T21:13
 historia: |-
   Exótico y sabroso arroz estilo hindú, con todo el sabor de las especias y el contraste de texturas de los frutos secos.
   Este tipo de arroz se elabora en toda asía, especialmente en la India, no tiene un origen definido.

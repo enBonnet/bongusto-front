@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1635692375/nzm9vkj9uuijw0589kak.png
   alt: Mojito Venezuela
-created_at: 2021-10-31T14:59:35.357Z
-updated_at: 2021-10-31T14:59:35.357Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/nzm9vkj9uuijw0589kak
+created_at: 2021-10-31T14:59
+updated_at: 2021-10-31T14:59
 historia: Creado en la isla de margarita, por el mixólogo Alexis Mijares, durante una convención donde se quedo sin ron blanco y azúcar. Y lo realizo con cocui y azúcar morena. Resultando un coctel muy apetitoso.
 ingredientes: |-
   - Vaso: vaso old fashion o jaibol

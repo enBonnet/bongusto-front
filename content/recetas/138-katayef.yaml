@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1574353507/hkvu3qhkdwnjobliw8cn.png
   alt: Katayef
-created_at: 2019-11-21T16:25:07.253Z
-updated_at: 2019-11-21T16:25:07.253Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/hkvu3qhkdwnjobliw8cn
+created_at: 2019-11-21T16:25
+updated_at: 2019-11-21T16:25
 historia: "Se cree que Qatayef es de origen fatimí .  Algunos creen que Qatayef es la creación de la dinastía fatimí, sin embargo, su historia se remonta al califato abasí , 566-653 CE.  Qatayef fue mencionado en un libro de cocina árabe del siglo X que se remonta al califato abasí por Ibn Sayyar al-Warraq llamado Kitab al-Ṭabīḫ (en árabe : كتاب الطبيخ , El libro de los platos ).  El libro fue traducido más tarde por Nawal Nasrallah, y lo nombró (Anales de las cocinas de los califas). Qatayef fue tradicionalmente preparada por vendedores ambulantes, así como por hogares en el Levante y Egipto . Por lo general, se prepara con queso Akkawi como relleno."
 ingredientes: |-
   ### De 6 a 10 porciones:

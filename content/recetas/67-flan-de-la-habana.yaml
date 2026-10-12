@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1574524857/kfmeyweiwroov7qajlep.jpg
   alt: Flan de la Habana
-created_at: 2019-11-10T21:27:20.421Z
-updated_at: 2019-11-10T21:27:20.421Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/kfmeyweiwroov7qajlep
+created_at: 2019-11-10T21:27
+updated_at: 2019-11-10T21:27
 historia: |-
   El flan es un postre muy antiguo y para sorpresa mía -quizás ustedes ya lo sabían- es de origen europeo, no hispano. Surge en la Era Medieval, en el área de Italia y Francia. En aquel entonces era reconocido como un postre  “con poderes afrodisíacos”.  Su primera mención recogida aparece en el libro Dulce caseros y leche agria del cocinero Apicius. Se encuentra bajo el nombre latino de tiropatinam. Sin embargo, el que se conoce en América, flan, proviene del francés flado, que es una torta u objeto plano.
 

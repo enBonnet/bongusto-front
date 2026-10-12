@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1574281019/bfgtgjkvdcqqofxjaihm.png
   alt: Compota de Verduras
-created_at: 2019-11-20T20:16:59.525Z
-updated_at: 2019-11-20T20:16:59.525Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/bfgtgjkvdcqqofxjaihm
+created_at: 2019-11-20T20:16
+updated_at: 2019-11-20T20:16
 historia: |-
   Este plato es una mezcla de verduras reducidas casi a salsa, y es oriundo de la región de la Provenza en Francia.
   El siglo XVII presentó también cambios en los que se refiere al consumo de frutas y verduras. Los tubérculos, como la patata, el nabo o la zanahoria, anteriormente menospreciados por las clases más altas, se pusieron de moda.

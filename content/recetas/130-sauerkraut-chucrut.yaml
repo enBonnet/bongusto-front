@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1574287442/mnbits2zs6wbscuo0li9.png
   alt: Sauerkraut Chucrut
-created_at: 2019-11-20T22:04:02.666Z
-updated_at: 2019-11-20T22:04:02.666Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/mnbits2zs6wbscuo0li9
+created_at: 2019-11-20T22:04
+updated_at: 2019-11-20T22:04
 historia: Parece que las primeras referencias a la elaboración del chucrut provienen de China del norte y fue exportado hacia Europa mediante la expansión de los mongoles. Está muy presente en todas las gastronomías del este de Europa.
 ingredientes: |-
   ### De 4 a 6 Porciones:

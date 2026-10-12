@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1575728265/bmerznulqasw1g7mqqrv.png
   alt: Ensalada de Garbanzos
-created_at: 2019-12-07T14:17:45.181Z
-updated_at: 2019-12-07T14:17:45.181Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/bmerznulqasw1g7mqqrv
+created_at: 2019-12-07T14:17
+updated_at: 2019-12-07T14:17
 historia: A este voluminoso grano se suman vegetales rojos y verdes, muy frescos y en cortes pequeños, y un sencillo aderezo de vinagre y aceite de oliva. Es una ensalada de origen árabe.
 ingredientes: |-
   ### Ingredientes (para 6 personas) 

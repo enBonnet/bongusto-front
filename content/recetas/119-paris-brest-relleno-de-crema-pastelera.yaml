@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1574264302/urwbnnbgeyzpstoeolwx.png
   alt: Paris –Brest Relleno De Crema Pastelera
-created_at: 2019-11-20T15:38:22.583Z
-updated_at: 2019-11-20T15:38:22.583Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/urwbnnbgeyzpstoeolwx
+created_at: 2019-11-20T15:38
+updated_at: 2019-11-20T15:38
 historia: En 1981 se realizó una carrera de ciclismo entre las ciudades de Paris y Brest (ciudad ubicada en una punta de la Bretaña Francesa) y constaba de 1.200km. Cuando tuvo lugar la competición, un pastelero aficionado a las bicicletas y el ciclismo elaboró en honor a la carrera un pastel para la ocasión. Hay quien dice que la forma redonda es un homenaje a la rueda de bicicleta (por eso el pastel es en forma de circulo con el centro vacío) otros dicen que expresa el “ir y volver” de las dos ciudades francesas.
 ingredientes: |-
   ### De 6 a 8 porciones:

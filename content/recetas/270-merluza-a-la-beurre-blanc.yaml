@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1619812256/tecmrewm08imtsxtby75.png
   alt: Merluza a la Beurre Blanc
-created_at: 2021-04-30T19:50:56.258Z
-updated_at: 2021-04-30T19:50:56.258Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/tecmrewm08imtsxtby75
+created_at: 2021-04-30T19:50
+updated_at: 2021-04-30T19:50
 historia: La Beurre Blanc es una salsa francesa creada en la región de Bretaña. Concretamente fue creada por error por la cocinera francesa Clémence Lefeuvre cuando estaba intentado hacer una salsa bearnesa.
 ingredientes: |-
   - 4 lomos o troncos de merluza 

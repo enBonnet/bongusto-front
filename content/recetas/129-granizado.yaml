@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1574285605/fvwsn7zcya1osncr2dxp.png
   alt: Granizado
-created_at: 2019-11-20T21:33:25.734Z
-updated_at: 2019-11-20T21:33:25.734Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/fvwsn7zcya1osncr2dxp
+created_at: 2019-11-20T21:33
+updated_at: 2019-11-20T21:33
 historia: Aunque fueron los chinos los primeros en popularizar eso de mezclar la fruta con nieve y leche, no son los inventores del granizado. Ya en la Biblia existen referencias anteriores con unos versículos sobre el Rey Salomón donde se cita a  “el refresco de la nieve en los días de las cosechas”.
 ingredientes: |-
   ### Ingredientes:	(4- 6 porciones)

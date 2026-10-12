@@ -6,8 +6,9 @@ categorias: []
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1573318180/oih2hk74inghunnkoaye.png
   alt: Pastas Frescas al Huevo
-created_at: 2019-11-09T16:49:39.813Z
-updated_at: 2019-11-09T21:56:44.423Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/oih2hk74inghunnkoaye
+created_at: 2019-11-09T16:49
+updated_at: 2019-11-09T21:56
 historia: Son muchas las teorías que se han elaborado en torno al origen de la pasta. Algunos investigadores adjudican el descubrimiento a Marco Polo en el siglo XIII, el cual la introdujo en Italia de vuelta de uno de sus viajes a China, en 1271. En el capítulo CLXXI de “Libros de Maravillas del mundo”, Marco Polo hace referencia sobre la pasta en China. Para otros se remonta mucho más allá, a antiguas civilizaciones etruscas, que la elaboraban mediante el machaque o trituración de diversos cereales y granos mezclados con agua, que luego cocían y resultando un alimento sabroso y nutritivo.
 ingredientes: |-
   ### Insumos para la pasta: (Para Una porción de pasta)

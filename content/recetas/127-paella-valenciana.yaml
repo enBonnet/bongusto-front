@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1574283677/ocevhrndokozpzf17eot.png
   alt: Paella Valenciana
-created_at: 2019-11-20T21:01:17.464Z
-updated_at: 2019-11-20T21:01:17.464Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/ocevhrndokozpzf17eot
+created_at: 2019-11-20T21:01
+updated_at: 2019-11-20T21:01
 historia: |-
   La paella es una especie de sartén de gran superficie, con dos o más asas pequeñas y poca profundidad. Esta proporción permite que los ingredientes que en ella se preparan tengan una cocción adecuada. En ella se cocina el arroz a la paella, un platillo típico español con variaciones en las distintas regiones del país.
   Historia de la paella

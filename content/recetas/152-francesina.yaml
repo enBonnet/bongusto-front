@@ -8,8 +8,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1574541221/vujmimmkygt9d2f2v6gl.jpg
   alt: Francesiña
-created_at: 2019-11-23T20:33:41.325Z
-updated_at: 2019-11-23T20:33:41.325Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/vujmimmkygt9d2f2v6gl
+created_at: 2019-11-23T20:33
+updated_at: 2019-11-23T20:33
 historia: Este sándwich ha sido creado por Daniel David Silva, un cocinero emigrante que retornó de Francia durante la década de los años 60. Existe cierta controversia acerca de su origen. Es un plato contundente, y que alguna gente acostumbra a tomar al almuerzo o como cena (de amigos principalmente)
 ingredientes: |-
   ### Para la salsa o molho de francesinha:

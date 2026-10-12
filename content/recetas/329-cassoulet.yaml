@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1654974908/pkowkiwokf4m1b3mxgms.png
   alt: Cassoulet
-created_at: 2022-06-11T19:15:08.921Z
-updated_at: 2022-06-11T19:15:08.921Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/pkowkiwokf4m1b3mxgms
+created_at: 2022-06-11T19:15
+updated_at: 2022-06-11T19:15
 historia: |-
   El Cassoulet es un guiso tradicional francés en el que se unen un sabor muy intenso, carnes que se deshacen en la boca, unas alubias tiernísimas y melosas y todo rematado en el horno (¡si, en el horno!) para conseguir una costra gratinada increíble que es difícil de olvidar.
   Originario de Toulouse, Francia.

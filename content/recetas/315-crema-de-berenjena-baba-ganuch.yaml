@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1648904793/m5aeritmamtmdpbgl8al.jpg
   alt: Crema de berenjena, Baba Ganuch
-created_at: 2022-04-02T13:06:33.233Z
-updated_at: 2022-04-02T13:06:33.233Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/m5aeritmamtmdpbgl8al
+created_at: 2022-04-02T13:06
+updated_at: 2022-04-02T13:06
 historia: Se considera que el baba ganoush representa el amor que existe entre una hija y su padre, pues según la leyenda la receta fue creada por una mujer que al ver que su progenitor, de una edad avanzada, ya no podía masticar los alimentos decidió prepararle un platillo con vegetales machacados.
 ingredientes: |-
   - 3 berenjenas medianas

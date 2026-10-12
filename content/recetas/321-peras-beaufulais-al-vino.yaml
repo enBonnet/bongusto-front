@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1654961914/rjr5ricllftwmudouodg.png
   alt: Peras Beaufulais (al vino)
-created_at: 2022-06-11T15:38:34.656Z
-updated_at: 2022-06-11T15:38:34.656Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/rjr5ricllftwmudouodg
+created_at: 2022-06-11T15:38
+updated_at: 2022-06-11T15:38
 historia: Las peras al vino tinto constituyen un postre clásico. Se consideran de origen francés. “La pera a la Beaujolaise”, o peras al vino, se originó en los territorios vitivinícolas de Borgoña y Lyon. Es un postre que se prepara al menos desde el siglo XVI. Se come además de en Francia y en España, en muchos otros países como Italia, Inglaterra, Alemania y Estados Unidos.
 ingredientes: |-
   - 4 peras grandes

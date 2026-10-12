@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1635604402/iwuwau1dabcf0kixrzd2.png
   alt: Whisky en las Rocas
-created_at: 2021-10-30T14:33:22.178Z
-updated_at: 2021-10-30T14:33:22.178Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/iwuwau1dabcf0kixrzd2
+created_at: 2021-10-30T14:33
+updated_at: 2021-10-30T14:33
 historia: Se dice que el hábito de tomar whisky escocés “On the rocks” empezó en los climas cálidos, después de que las personas encontraron un creativo método para enfriar el whisky, sumergiendo piedras en el fondo de los ríos.
 ingredientes: |-
   - Vaso: (vaso old fashion)

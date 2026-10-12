@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1575759645/h1yuiaty4cf8fx5qtjfw.png
   alt: Hallaquitas de Chicharrón
-created_at: 2019-12-07T23:00:45.795Z
-updated_at: 2019-12-07T23:00:45.795Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/h1yuiaty4cf8fx5qtjfw
+created_at: 2019-12-07T23:00
+updated_at: 2019-12-07T23:00
 historia: |-
   Fáciles Hallaquitas Aliñadas Venezolanas ¡este plato delicioso es perfecto para cualquier cena de verano, fiesta o parrilla!
   En Venezuela estas hallaquitas son muy famosas. Las hacen de harina de maíz combinadas con semillas de anís, con chicharrón, y estas que hice hoy, que las llaman hallaquitas aliñadas. Generalmente son el acompañamiento por excelencia de carne a la parrilla o pollo a la brasa.

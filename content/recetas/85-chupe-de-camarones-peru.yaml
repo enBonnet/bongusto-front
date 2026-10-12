@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1573508322/kizbixxm3samz9udeakl.png
   alt: Chupe de camarones Perú
-created_at: 2019-11-11T21:38:42.134Z
-updated_at: 2021-10-25T18:48:30.479Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/kizbixxm3samz9udeakl
+created_at: 2019-11-11T21:38
+updated_at: 2021-10-25T18:48
 historia: La palabra chupe viene del vocablo quechua chuwa misa, que significa “plato hondo” y era una sopa de papas típica que se preparaba durante la fiesta de Huarachicuy o Warachikuy, cuando los jóvenes incas celebraban su paso hacia la adultez.
 ingredientes: |-
   ### 6 Porciones:

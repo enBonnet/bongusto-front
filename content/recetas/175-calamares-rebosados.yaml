@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1575588870/afrizij6dl6yjwkmgb86.png
   alt: Calamares Rebosados
-created_at: 2019-12-05T23:34:29.849Z
-updated_at: 2019-12-05T23:34:29.849Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/afrizij6dl6yjwkmgb86
+created_at: 2019-12-05T23:34
+updated_at: 2019-12-05T23:34
 historia: "No es ningún secreto que esta receta no es particularmente venezolana, pero sin duda se trata de la manera más popular en el país de preparar los calamares. Como puede consumirse a temperatura ambiente, resulta un plato perfecto para comidas al aire libre en días cálidos. El rebozado más común es el elaborado con una mezcla de harina y huevo. Aquí se presenta una opción distinta, más crujiente y liviana: la tempura (que se diferencia principalmente porque lleva agua, y del huevo sólo se utilizan las claras). Para obtener un rebozado aún más llamativo, basta agregar una o varias especias a la harina."
 ingredientes: |-
   ### Ingredientes (para 4 personas) 

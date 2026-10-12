@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1575750671/ubzpw44k63af9hwxphd6.png
   alt: Plátano Sancochado
-created_at: 2019-12-07T20:31:10.908Z
-updated_at: 2019-12-07T20:31:10.908Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/ubzpw44k63af9hwxphd6
+created_at: 2019-12-07T20:31
+updated_at: 2019-12-07T20:31
 historia: De textura suave y esponjosa, el plátano sancochado lo único que necesita es agua para su cocción. Además de servir como contorno, esta forma de preparación es también un paso previo para la elaboración de purés u otros preparados.
 ingredientes: |-
   ### Ingredientes para 2 0 3 personas 

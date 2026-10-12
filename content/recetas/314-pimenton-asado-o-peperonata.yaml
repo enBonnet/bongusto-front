@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1648904609/mnmsvbewwjclqzb4fadg.jpg
   alt: Pimentón Asado o Peperonata
-created_at: 2022-04-02T13:03:29.837Z
-updated_at: 2022-04-02T13:03:29.837Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/mnmsvbewwjclqzb4fadg
+created_at: 2022-04-02T13:03
+updated_at: 2022-04-02T13:03
 historia: No se tiene una fecha exacta de su origen. Y en cada hogar de Italia o Europa, le dan sus toques personales.
 ingredientes: |-
   - 4 pimentones grandes (seria ideal que fuesen de diferentes colores)

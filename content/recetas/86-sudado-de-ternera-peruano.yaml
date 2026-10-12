@@ -6,8 +6,9 @@ categorias: []
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1573512886/zxvsc8ci4bpuhkmbexmb.png
   alt: Sudado De Ternera Peruano
-created_at: 2019-11-11T22:54:45.968Z
-updated_at: 2019-11-11T22:54:45.968Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/zxvsc8ci4bpuhkmbexmb
+created_at: 2019-11-11T22:54
+updated_at: 2019-11-11T22:54
 historia: Este Sudado de Carne Res es un plato muy popular en Perú, es muy fácil de hacer y delicioso cuando se sirve sobre arroz blanco con aguacate. Creo que en todos los hogares de Perú hacen un plato sudado por lo menos una vez a la semana. Los Sudados también se pueden hacer con carne de cerdo, pescado, mariscos o pollo.
 ingredientes: |-
   ### (6 porciones)

@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1575589300/oasz44yxwfs043vk9pub.png
   alt: Mariscos en Salsa Margariteña
-created_at: 2019-12-05T23:41:40.394Z
-updated_at: 2019-12-05T23:41:40.394Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/oasz44yxwfs043vk9pub
+created_at: 2019-12-05T23:41
+updated_at: 2019-12-05T23:41
 historia: Aunque en el plato criollo puede utilizarse cualquier tipo de tomate, el más adecuado es el Margariteño, caracterizado por su gran tamaño y dulce sabor. La versión venezolana de la sopa se conoce como fosforera, por la cantidad de fósforo que le aportan los mariscos.
 ingredientes: |-
   ### Ingredientes (para 6 personas) 

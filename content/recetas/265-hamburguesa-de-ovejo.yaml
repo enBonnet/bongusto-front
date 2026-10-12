@@ -8,8 +8,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1576941756/cmnt4wmaqtvcs9rrn770.png
   alt: Hamburguesa De Ovejo
-created_at: 2019-12-21T15:22:36.721Z
-updated_at: 2019-12-21T15:22:36.721Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/cmnt4wmaqtvcs9rrn770
+created_at: 2019-12-21T15:22
+updated_at: 2019-12-21T15:22
 historia: En 1895 un chef llamado Louis Lassen, de Connecticut, Estados Unidos, elabora la primera hamburguesa en Norteamérica; la receta se la dieron unos marineros provenientes del puerto de Hamburgo.
 ingredientes: |-
   ### Para 4 porciones 

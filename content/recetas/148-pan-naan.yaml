@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1574458264/ikva1wuxcgnqexf6zl8h.png
   alt: Pan Naan
-created_at: 2019-11-22T21:31:03.609Z
-updated_at: 2019-11-22T21:31:03.609Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/ikva1wuxcgnqexf6zl8h
+created_at: 2019-11-22T21:31
+updated_at: 2019-11-22T21:31
 historia: |-
   Naan es una palabra que significa “pan” en persa. En cuanto a su origen, se dice que es resultado de un experimento después de la llegada de la levadura a Egipto, pero otra teoría dice que fue inventado por los mogoles y los persas alrededor de 1520.
   Los panes en la India eran principalmente chapatis y rotis, alimentos que se crearon durante la cultura de Harappan, cuando también se cultivaba el trigo, pero a la civilización le tomó otros 100 años obtener una variación de pan fermentado utilizando el famoso horno tandur.

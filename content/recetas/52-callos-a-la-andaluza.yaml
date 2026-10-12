@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1575582534/j0c6xf8uhtwzc2ddzuxi.png
   alt: Callos a la Andaluza
-created_at: 2019-11-09T20:20:31.109Z
-updated_at: 2019-11-09T21:38:30.137Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/j0c6xf8uhtwzc2ddzuxi
+created_at: 2019-11-09T20:20
+updated_at: 2019-11-09T21:38
 historia: Los primeros registros en donde se menciona esta receta datan del siglo XIX y su origen es Andalucía, España. Esta es una de las recetas más famosas hechas a partir de callos.
 ingredientes: |-
   ### 8 porciones:

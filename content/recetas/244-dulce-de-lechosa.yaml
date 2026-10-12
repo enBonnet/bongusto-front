@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1575761338/htttzpypbjykpnui7fcj.png
   alt: Dulce de Lechosa
-created_at: 2019-12-07T23:28:58.461Z
-updated_at: 2019-12-07T23:28:58.461Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/htttzpypbjykpnui7fcj
+created_at: 2019-12-07T23:28
+updated_at: 2019-12-07T23:28
 historia: |-
   Aunque cada vez más se incorpora la torta negra, especialmente como merienda para ofrecer a las visitas, el dulce de lechosa sigue siendo en Venezuela, el gran postre tradicional de la Navidad. 
   Sobresaliente entre las frutas de consumo local por las virtudes curativas a las que está asociada, la lechosa se prepara como dulce desde tiempos remotos y recurriendo a las, técnicas más variadas, como secar la fruta verde colocándola sobre láminas de zinc bajo los rayos del sol, dejarla toda la noche bajo el sereno, acaramelarla para asegurar su conservación 

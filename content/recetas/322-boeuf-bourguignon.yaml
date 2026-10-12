@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1654962243/oampzbsubv5xpxrx5hpb.png
   alt: Boeuf Bourguignon
-created_at: 2022-06-11T15:44:03.586Z
-updated_at: 2022-06-11T15:44:03.586Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/oampzbsubv5xpxrx5hpb
+created_at: 2022-06-11T15:44
+updated_at: 2022-06-11T15:44
 historia: |-
   El bouef bourguignon es un plato cuyo origen se sitúa en la región francesa de la Borgoña, a 100 km al sur de París.  Es un estofado de buey, en esta zona es muy reconocido por su sabor y por la poca grasa que el buey de raza Charolais aporta al plato, ya que este que sólo se alimenta de heno, cereales y forraje, lo que da una carne muy tierna y sana, perfecta para este tipo de preparaciones.
   El primer chef que publicó la receta fue Auguste Escoffier y lo hizo a principios del Siglo XX, en 1903

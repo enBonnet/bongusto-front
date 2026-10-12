@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1574545319/fw7uyqbg6dklpynssadr.png
   alt: Custard
-created_at: 2019-11-23T21:41:59.660Z
-updated_at: 2019-11-23T21:41:59.660Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/fw7uyqbg6dklpynssadr
+created_at: 2019-11-23T21:41
+updated_at: 2019-11-23T21:41
 historia: "Las mezclas de leche y huevos espesados ​​por el calor han sido durante mucho tiempo parte de la cocina europea, al menos desde la antigua Roma. Las natillas horneadas en pasteles ( tartas de natillas ) fueron muy populares en la Edad Media , y son el origen de la palabra inglesa 'natillas': el término francés ' croustade ' originalmente se refería a la corteza de una tarta,  y se deriva de la palabra italiana crostata y, en última instancia, la crustáre latina ."
 ingredientes: |-
   ### Porciones: 4 

@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1575728570/qg9xovd0jwwnzea1r869.png
   alt: Arroz Blanco
-created_at: 2019-12-07T14:22:50.443Z
-updated_at: 2019-12-07T14:22:50.443Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/qg9xovd0jwwnzea1r869
+created_at: 2019-12-07T14:22
+updated_at: 2019-12-07T14:22
 historia: Suave, firme y suelto, el arroz blanco es contorno más popular en el país. Gracias a su sabor neutro y su fácil combinación con salsas, resulta siempre un buen acompañante para todo tipo de carnes y vegetales.
 ingredientes: |-
   ### Ingredientes (para 6 porciones) 

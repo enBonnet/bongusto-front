@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1631454171/d6cqucsunrbzuhrecjk3.png
   alt: Chipas
-created_at: 2021-09-12T13:42:50.982Z
-updated_at: 2021-09-12T13:42:50.982Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/d6cqucsunrbzuhrecjk3
+created_at: 2021-09-12T13:42
+updated_at: 2021-09-12T13:42
 historia: Se dice que el origen del chipá es el mbujape, un pan que elaboraban los indígenas guaraníes rallando mandioca cruda que se cocinaba envuelto en hojas de güembé (maíz), laachira o banana y jaguarundí (una planta medicinal con gusto a anís) sobre tanimbu (ceniza); al calentarse, el almidón de la mandioca se vuelve pegajoso, esa consistencia se denomina chipa en quechua, que significa también apelmazado.
 ingredientes: |-
   •	1 ¾ tazas de harina de tapioca

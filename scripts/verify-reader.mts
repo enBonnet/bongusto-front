@@ -6,12 +6,19 @@ import { createReader } from "@keystatic/core/reader";
 import keystaticConfig from "../keystatic.config";
 import Markdoc from "@markdoc/markdoc";
 
+import { readdirSync } from "node:fs";
+
 const reader = createReader(process.cwd(), keystaticConfig);
+
+// expected count = number of raw rescued files (source of truth), not hardcoded
+const expected = readdirSync(new URL("../data/raw/recetas/", import.meta.url)).filter((f) =>
+  f.endsWith(".json")
+).length;
 
 // 1. list recetas
 const slugs = await reader.collections.recetas.list();
-console.log(`recetas listed: ${slugs.length}`);
-if (slugs.length !== 306) throw new Error(`expected 306, got ${slugs.length}`);
+console.log(`recetas listed: ${slugs.length} (expected ${expected})`);
+if (slugs.length !== expected) throw new Error(`expected ${expected}, got ${slugs.length}`);
 
 // 2. read one full entry
 const entry = await reader.collections.recetas.read("1-ratatouille");

@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1635778140/w3sugqq6xv5dmhyfvupq.png
   alt: B52 (Flaming)
-created_at: 2021-11-01T14:49:00.869Z
-updated_at: 2021-11-01T14:49:00.869Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/w3sugqq6xv5dmhyfvupq
+created_at: 2021-11-01T14:49
+updated_at: 2021-11-01T14:49
 historia: Los orígenes del B-52 no están bien documentados, pero una afirmación es que el B-52 fue inventado por Peter Fich, jefe de camareros en el Hotel Banff Springs en Banff, Canadá. Fich nombró todas sus nuevas bebidas por bandas, álbumes y canciones favoritas, y nombró la bebida por la banda del mismo nombre, los B-52's que a su vez tomaron su nombre del bombardero estadounidense B-52 Stratofortress.
 ingredientes: |-
   - vaso shutter o caballito

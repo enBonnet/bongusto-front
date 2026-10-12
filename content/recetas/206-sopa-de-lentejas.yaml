@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1575727693/gkasurvnzvamoghltqze.png
   alt: Sopa de Lentejas
-created_at: 2019-12-07T14:08:13.268Z
-updated_at: 2019-12-07T14:08:13.268Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/gkasurvnzvamoghltqze
+created_at: 2019-12-07T14:08
+updated_at: 2019-12-07T14:08
 historia: La sopa de lentejas es un plato universal, quizá porque este grano tiene, además de un alto valor nutritivo, el privilegio de no requerir remojo previo a la cocción. Como tantas otras legumbres, las lentejas son muy populares en la región de los Andes, donde se acostumbra prepararlas con tocino o costillitas de cerdo y papas.
 ingredientes: |-
   ### Ingredientes (para 8 personas) 

@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1654976134/m0mbkekek1b3nehqmqnk.png
   alt: Miton Rennais
-created_at: 2022-06-11T19:35:34.000Z
-updated_at: 2022-06-11T19:35:34.000Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/m0mbkekek1b3nehqmqnk
+created_at: 2022-06-11T19:35
+updated_at: 2022-06-11T19:35
 historia: Una receta tradicional del campo de la cuenca de Rennes, el miton rennais (o cocido a fuego lento con leche) es una panada nutritiva, “cocida a fuego lento” durante mucho tiempo. Cuanto más se trabaja con cuchara de madera, más finura adquiere. Solo puede variar la cantidad de pan. ¡En algunas familias, la panade podía ser tan espesa que el cucharón se quedaba derecho en la sopera!
 ingredientes: |-
   - 250 g de pan de campo duro en trozos 

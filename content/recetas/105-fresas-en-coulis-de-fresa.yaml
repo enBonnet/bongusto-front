@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1573600827/ro8jgmfeutzvtagvc2yz.png
   alt: Fresas en Coulis de Fresa
-created_at: 2019-11-12T23:20:27.389Z
-updated_at: 2019-11-12T23:20:27.389Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/ro8jgmfeutzvtagvc2yz
+created_at: 2019-11-12T23:20
+updated_at: 2019-11-12T23:20
 historia: Un coulis es un tipo de salsa procedente de la cocina francesa. Su terminología ha avanzado tanto como ha avanzado la cocina, lo que en un principio era una elaboración de carne espesada que daba cuerpo y sabor a las salsas, ha pasado a ser también una salsa o puré dulce o salado, de frutas y de vegetales, elaborado por cocción, por maceración, etc.
 ingredientes: |-
   - 500 gramos de fresas		

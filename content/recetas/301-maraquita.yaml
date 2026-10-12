@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1635691942/al6lh5ta2qbdjll8tq1i.png
   alt: Maraquita
-created_at: 2021-10-31T14:52:22.617Z
-updated_at: 2021-10-31T14:52:22.617Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/al6lh5ta2qbdjll8tq1i
+created_at: 2021-10-31T14:52
+updated_at: 2021-10-31T14:52
 historia: Cóctel criollito, Venezolano, que tiene como nombre "Maraquita" el cual consiste en mezclar anís, zumo de limón y soda...
 ingredientes: |-
   - Vaso: (vaso old fashion)

@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1573602583/nhfobv3jtbhwoosaqykp.png
   alt: Les Babas al Ron
-created_at: 2019-11-12T23:49:43.319Z
-updated_at: 2019-11-12T23:49:43.319Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/nhfobv3jtbhwoosaqykp
+created_at: 2019-11-12T23:49
+updated_at: 2019-11-12T23:49
 historia: "Es uno de los postres más antiguos des recetas francesas de repostería: A mediados del 1700, el rey de Placo Stanislas Leszczynski, exilado en francia en Nancy en Lorraine, baño en ron un pastel regional y el resultado fue tan bueno que lo llamó como su personaje favorito de las mil y una noches, Ali Baba."
 ingredientes: |-
   ### 8 porciones:

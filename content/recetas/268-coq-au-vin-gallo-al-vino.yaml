@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1615837941/bpamxlu1yvc0bmwcdipv.jpg
   alt: "Coq au vin Gallo al Vino "
-created_at: 2021-03-15T19:52:20.838Z
-updated_at: 2021-03-15T19:52:20.838Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/bpamxlu1yvc0bmwcdipv
+created_at: 2021-03-15T19:52
+updated_at: 2021-03-15T19:52
 historia: Muchas regiones de Francia se disputan la invención de este plato, pero la leyenda dice que la receta es originaria de un Chef de Julio César que quiso ofrecerle un homenaje por la conquista de la Galia. Otra de las historias más contadas popularmente dice que fue durante el asedio romano a una tribu arverna cuando se cocinó por primera vez el Coq au vin. Para burlarse de lo duro que estaba resultándole al ejército romano la conquista de la Galia, un jefe arverno hizo llegar al César un gallo fuerte y agresivo, como símbolo de la determinación gala ante el asedio. Poco después, durante una tregua, Julio César invitaría a este jefe a almorzar, sirviéndole un ave bañada en espesa y sabrosa salsa roja. Al interesarse el arverno sobre el plato que degustaban, César le informó de que lo que comían era el gallo que él le regaló, marinado en vino (símbolo romano) y cocinado larga y muy lentamente.
 ingredientes: |-
   1.	½ kilo de pollo cortado

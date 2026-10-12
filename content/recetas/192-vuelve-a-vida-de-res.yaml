@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1575673070/ozkkwxywvcsoxgd8hyqp.png
   alt: Vuelve a Vida de Res
-created_at: 2019-12-06T22:57:50.271Z
-updated_at: 2019-12-06T22:57:50.271Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/ozkkwxywvcsoxgd8hyqp
+created_at: 2019-12-06T22:57
+updated_at: 2019-12-06T22:57
 historia: Exquisito caldo de res, muy sustancioso en nutrientes y muy popular entre los amantes de la carne. Es una entrada ideal para abrir el apetito y restaurar el cuerpo y el alma después de una noche de copas.
 ingredientes: |-
   - 4 huesos de ternera 

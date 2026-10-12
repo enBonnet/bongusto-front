@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1635691579/w0hgyxnufhclmk7gj9zz.png
   alt: Caipiroska
-created_at: 2021-10-31T14:46:19.711Z
-updated_at: 2021-10-31T14:46:19.711Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/w0hgyxnufhclmk7gj9zz
+created_at: 2021-10-31T14:46
+updated_at: 2021-10-31T14:46
 historia: La Caipiroska, también conocida como "caipirivodka", es originaria de Rusia y pertenece a la familia de cócteles denominados "caipiras", nacidos exclusivamente como una variación de está, la cual ha sido y es, uno de los grandes cócteles clásicos.
 ingredientes: |-
   - Vaso: (vaso old fashion)

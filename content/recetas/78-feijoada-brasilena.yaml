@@ -6,8 +6,9 @@ categorias: []
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1573485955/crmwom5l7blk3uxvzllf.png
   alt: Feijoada Brasileña
-created_at: 2019-11-11T15:25:54.780Z
-updated_at: 2019-11-11T15:25:54.780Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/crmwom5l7blk3uxvzllf
+created_at: 2019-11-11T15:25
+updated_at: 2019-11-11T15:25
 historia: |-
   Los portugueses llevaron recetas para Brasil, con ingredientes como la oreja, el morro, el rabo y la lengua de cerdo; por lo que se extendió el uso de este animal en las dietas. En el libro História da Alimentação no Brasil (Historia de la alimentación en Brasil), Luís da Cámara Cascudo escribe sobre los orígenes de la feijoada.
   Muchos autores concuerdan en decir que la feijoada tuvo su origen cuando luego de los festines que se daban los dueños de las plantaciones, los esclavos negros recogían las sobras para mezclarlas con frijoles negros, haciendo un nuevo guiso.

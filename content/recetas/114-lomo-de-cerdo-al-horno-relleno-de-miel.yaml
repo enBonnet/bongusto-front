@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1574258840/rdteft4hoskcw13pvkny.png
   alt: Lomo de cerdo al horno relleno de miel
-created_at: 2019-11-20T14:07:20.525Z
-updated_at: 2019-11-20T14:07:20.525Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/rdteft4hoskcw13pvkny
+created_at: 2019-11-20T14:07
+updated_at: 2019-11-20T14:07
 historia: |-
   A pesar de su época estimada de origen, las delicias del cerdo calaron en las sociedades a través de los siglos. Hoy, el cerdo es una receta infaltable en las mesas familiares españolas, venezolanas, colombianas, entre otras.
 

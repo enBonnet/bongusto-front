@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1575749383/dsjvx0negp5ljhikiotj.png
   alt: Mayonesa Casera
-created_at: 2019-12-07T20:09:43.783Z
-updated_at: 2019-12-07T20:09:43.783Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/dsjvx0negp5ljhikiotj
+created_at: 2019-12-07T20:09
+updated_at: 2019-12-07T20:09
 historia: La mayonesa o mahonesa (en España) es una salsa emulsionada fría elaborada principalmente a base de huevo entero y aceite vegetal batidos. De origen menorquín, generalmente se la sazonar con sal, zumo de limón o vinagre. Se trata de una salsa de origen español emparentada culinariamente con el alioli.  Hoy en día es empleada en multitud de platos internacionales como acompañamiento, por regla general de hortalizas y pescados. Su origen ha sido disputa de eruditos desde comienzos del siglo XX. En la actualidad, se sigue haciendo a mano —con batidora, ya no al mortero— en España, Cuba, Italia, Francia y Bélgica, pero en el resto del mundo occidental el consumo de esta salsa es mayoritariamente de origen industrial y se asocia principalmente a la comida rápida.
 ingredientes: |-
   ### Ingredientes para 500 gramos 

@@ -10,8 +10,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1620074854/gegrgu54xtwdcwzbvrrf.png
   alt: Papas Douphine
-created_at: 2021-05-03T20:47:34.444Z
-updated_at: 2021-05-03T20:47:34.444Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/gegrgu54xtwdcwzbvrrf
+created_at: 2021-05-03T20:47
+updated_at: 2021-05-03T20:47
 historia: |-
   Mucho se discute acerca del origen y la forma de preparar las "papas a la Dauphine" o "papas dauphines". Algunos dicen que esta receta se le sirvió por primera vez a la esposa del Delfin de Francia (el heredero al trono), aunque esto no está documentado. 
   Lo más probable es que lleve el nombre de la región montañosa de Dauphiné, próxima a la frontera entre Francia e Italia, en donde las preparan desde hace más de un siglo.

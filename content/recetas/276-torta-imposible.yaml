@@ -9,8 +9,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1627475505/lcmsnhao1vpc655drfhs.png
   alt: Torta Imposible
-created_at: 2021-07-28T12:31:45.374Z
-updated_at: 2021-07-28T12:31:45.374Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/lcmsnhao1vpc655drfhs
+created_at: 2021-07-28T12:31
+updated_at: 2021-07-28T12:31
 historia: El origen de “Pastel imposible” no está definido. Se le atribuye tanto a Italia como a Perú y últimamente se otorga el mérito de su creación a los mexicanos. Sin embargo, independientemente de su origen, este postre de dos texturas combinadas es altamente consumido en México; sobre todo en festividades.
 ingredientes: |-
   Insumos para la preparación en un molde de 16 centímetros de circunferencia y 9.5 de alto, lo que sería la qué-sillera normal.

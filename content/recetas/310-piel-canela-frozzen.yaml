@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1636121368/wte1d9pq1stpmsyzvtvr.png
   alt: Piel Canela (Frozzen)
-created_at: 2021-11-05T14:09:28.611Z
-updated_at: 2021-11-05T14:09:28.611Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/wte1d9pq1stpmsyzvtvr
+created_at: 2021-11-05T14:09
+updated_at: 2021-11-05T14:09
 historia: Presentado al mundo en El Mundial, celebrado del 6 al 11 de agosto de 2009 en el hotel Maritim de Berlín, por el bartender peruano Ángelo.
 ingredientes: |-
   - Copa Huracán

@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1575673878/h3ulsbazhapmylo5zcxg.png
   alt: Gallina Rellena
-created_at: 2019-12-06T23:11:17.987Z
-updated_at: 2019-12-06T23:11:17.987Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/h3ulsbazhapmylo5zcxg
+created_at: 2019-12-06T23:11
+updated_at: 2019-12-06T23:11
 historia: "Esta receta tiene dos referencias directas en la cocina venezolana: la gallina rellena, propia del estado Táchira, y la galantina de gallina, muy popular en los banquetes de la Casa Amarilla de finales del siglo XIX. Ambas coinciden en el uso del relleno y en el método de cocción: el ave es envuelta en una tela (que tiempo atrás solía ser el lienzo de los costales de harina), hervida en un caldo y servida en rodajas. Se diferencian en que la galantina es una entrada fría, que suele llevar huevo en su relleno y estar recubierta por una gelatina hecha del caldo clarificado de la cocción."
 ingredientes: |-
   ### Ingredientes (para 4 personas) 

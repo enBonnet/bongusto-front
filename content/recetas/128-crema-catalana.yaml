@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1574284091/edzdgxmicko2rb6y5ktd.png
   alt: Crema Catalana
-created_at: 2019-11-20T21:08:11.031Z
-updated_at: 2019-11-20T21:08:11.031Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/edzdgxmicko2rb6y5ktd
+created_at: 2019-11-20T21:08
+updated_at: 2019-11-20T21:08
 historia: La crema catalana actualmente está documentada en la literatura catalana. Ya aparece en los recetarios medievales catalanes Llibre de Sent Soví (siglo XIV) y Llibre del Coch (siglo XVI), y se considera uno de los postres más antiguos en Europa dentro de su categoría, a pesar de ser una evolución de las clásicas natillas, que ya existían en la República romana varios siglos antes de Cristo.
 ingredientes: |-
   ### Ingredientes: (4-6 porciones)

@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1573569152/g5o8ivbraiyxshpkcdze.png
   alt: Pan de Pascua Chileno
-created_at: 2019-11-12T14:32:32.078Z
-updated_at: 2019-11-12T14:32:32.078Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/g5o8ivbraiyxshpkcdze
+created_at: 2019-11-12T14:32
+updated_at: 2019-11-12T14:32
 historia: |-
   Se dice que proviene de Alemania o Italia, donde se elabora con levadura y mazapán. Luego se agregan las almendras, frutas secas y nueces, para recordar el lugar donde nació Jesús en donde estos frutos son abundantes. A su llegada a Chile, se generó el llamado «pan de Pascua criollo», el cual cambió las frutas secas por frutas cristalizadas, y el bizcocho cambió a uno de color más oscuro.
 

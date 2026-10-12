@@ -6,8 +6,9 @@ categorias: []
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1573259538/cczufccbyqbuo8fi64ms.jpg
   alt: Filet Mignon en salsa de Vino tinto
-created_at: 2019-11-09T00:32:18.215Z
-updated_at: 2019-11-09T21:47:04.626Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/cczufccbyqbuo8fi64ms
+created_at: 2019-11-09T00:32
+updated_at: 2019-11-09T21:47
 historia: |-
   El Filete Mignon tiene su origen en la cocina francesa su significado puede ser: “Filete pequeño”, “filete fino” o “filete exquisito” si lo llevamos al terreno gastronómico.
   Por otro lado, hay que mencionar que generalmente tiene entre tres y cinco centímetros de grosor y un diámetro reducido, y se suele decir (todo depende de la calidad) que no es necesario el cuchillo para cortarlo, basta utilizar el tenedor para tomar un bocado.

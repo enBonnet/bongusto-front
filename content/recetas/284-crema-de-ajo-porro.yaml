@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1634941675/immhco8wtk14jaiuzmdj.png
   alt: Crema de Ajo Porro
-created_at: 2021-10-22T22:27:55.522Z
-updated_at: 2021-10-22T22:27:55.522Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/immhco8wtk14jaiuzmdj
+created_at: 2021-10-22T22:27
+updated_at: 2021-10-22T22:27
 historia: Conocido también como puerro o porro, era consumido en el antiguo Egipto y en el Lejano Oriente en el año 4000 a. C; los romanos lo utilizaban en la cocina y Nerón era un apasionado de este vegetal. Se utiliza en ensaladas, cremas, sopas, budines, como condimento y como verdura. Por su gran cantidad de agua tiene poco contenido calórico. Por sus propiedades diuréticas se recomienda para las personas que sufren de retención de líquidos e hipertensión y para combatir el estreñimiento por la cantidad de fibra.
 ingredientes: |-
   •	4 ajo porros medianos

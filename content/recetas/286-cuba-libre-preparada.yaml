@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1635606129/cjjj4rcnawh4urf0afnd.png
   alt: Cuba Libre Preparada
-created_at: 2021-10-25T19:37:24.709Z
-updated_at: 2021-10-25T19:37:24.709Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/cjjj4rcnawh4urf0afnd
+created_at: 2021-10-25T19:37
+updated_at: 2021-10-25T19:37
 historia: La historia del Cuba Libre se remonta al año 1898, cuando las tropas norteamericanas liberaron la isla cubana del dominio español y ésta pasó a ser colonia norteamericana. Se cuenta que los soldados estadounidenses introdujeron la Coca-Cola en Cuba donde la combinaron con el Ron.
 ingredientes: |-
   - Vaso: High ball (H.B)

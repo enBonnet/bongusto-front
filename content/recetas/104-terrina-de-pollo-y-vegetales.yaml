@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1573600362/pozbu67wfpmsgjnhhffu.png
   alt: Terrina de Pollo y Vegetales
-created_at: 2019-11-12T23:12:42.470Z
-updated_at: 2019-11-12T23:12:42.470Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/pozbu67wfpmsgjnhhffu
+created_at: 2019-11-12T23:12
+updated_at: 2019-11-12T23:12
 historia: El origen de la Terrina se remonta a los banquetes del Imperio Romano donde se realizan ya combinaciones de alimentos como la terrina de queso, higos y castañas. A partir de allí la terrina ha ido evolucionando de acuerdo con los gustos y variedad de aliemntos de cada lugar.
 ingredientes: |-
   6 porciones:

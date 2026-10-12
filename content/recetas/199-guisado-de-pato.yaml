@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1575725441/fubrmqc6zrrvuxgcomgl.png
   alt: Guisado de Pato
-created_at: 2019-12-07T13:30:41.060Z
-updated_at: 2019-12-07T13:30:41.060Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/fubrmqc6zrrvuxgcomgl
+created_at: 2019-12-07T13:30
+updated_at: 2019-12-07T13:30
 historia: |-
   El pato se usa en muchos platos de todo el mundo. En la mayoría se asa durante al menos parte del proceso de cocción para hacer que la piel quede crujiente.
   No hay una historia definida sobre el uso del pato en la gastronomía, lo que sí se sabe es que se consume en todo el mundo.

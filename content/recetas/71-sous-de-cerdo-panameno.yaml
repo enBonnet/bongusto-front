@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1574526604/allqctykvrobfec4x9hs.jpg
   alt: Sous de Cerdo Panameño
-created_at: 2019-11-10T22:17:25.866Z
-updated_at: 2019-11-10T22:39:30.527Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/allqctykvrobfec4x9hs
+created_at: 2019-11-10T22:17
+updated_at: 2019-11-10T22:39
 historia: El saus tiene origen Afro-Antillana, se dicen que fue introducido a Panamá durante la construcción del Canal de Panamá.  Puedes encontrar platos muy similares en países caribeños, también se le conoce como “pickled pork feet”
 ingredientes: |-
   ### 8 porciones:

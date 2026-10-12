@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1574526553/ifcdcsmpnauecn1ylkp8.png
   alt: Pudín de Pan Dominicano
-created_at: 2019-11-10T22:06:55.833Z
-updated_at: 2019-11-10T22:06:55.833Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/ifcdcsmpnauecn1ylkp8
+created_at: 2019-11-10T22:06
+updated_at: 2019-11-10T22:06
 historia: Los dominicanos no somos los únicos que tenemos Pudín de Pan, este es un postre casi universal. Lo que hace al nuestro diferente es la combinación de especias y pasas, lo que le da un sabor y textura diferente y muy especial
 ingredientes: |-
   ### 12 porciones:

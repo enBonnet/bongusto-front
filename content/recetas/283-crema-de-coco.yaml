@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1634935821/rdsnp2qclpf9jlwxx0dg.png
   alt: Crema de Coco
-created_at: 2021-10-22T20:50:21.194Z
-updated_at: 2021-10-22T20:50:21.194Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/rdsnp2qclpf9jlwxx0dg
+created_at: 2021-10-22T20:50
+updated_at: 2021-10-22T20:50
 historia: El origen de la crema de coco no es algo que se pueda ubicar en el tiempo, ya que existen muchas recetas antiguas donde se usa la leche de coco y la crema de coco como parte de la misma.
 ingredientes: |-
   •	3 cocos medianos (con su agua)

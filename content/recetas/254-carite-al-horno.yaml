@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1576617376/wumxlqs5ouokbklaa8ba.jpg
   alt: Carite al Horno
-created_at: 2019-12-17T21:16:16.036Z
-updated_at: 2021-10-22T20:52:16.247Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/wumxlqs5ouokbklaa8ba
+created_at: 2019-12-17T21:16
+updated_at: 2021-10-22T20:52
 historia: Carite, pescado que abunda en las costas venezolanas, de sabor espléndido y textura suave, hay muchas formas de prepararlo, hoy proporciono una receta que engalana las ruedas de carite sin hacerles perder su sabor, esta es una forma original de presentar este pescado, prepárelo y disfrute de su textura y sabor incomparable.
 ingredientes: |-
   ### Para 4 porciones 

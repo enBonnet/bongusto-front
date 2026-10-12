@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1573597636/npxxufctd9alknsuo1zp.png
   alt: Consomé de pollo con quenelles
-created_at: 2019-11-12T22:27:15.992Z
-updated_at: 2019-11-12T22:27:15.992Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/npxxufctd9alknsuo1zp
+created_at: 2019-11-12T22:27
+updated_at: 2019-11-12T22:27
 historia: |-
   El consome es Especialidad de la cocina francesa, se elabora un caldo clarificado y quenelles. Una típica entrada de la cocina gala.
   Las quenelles ya eran frecuentes en los menús de los reyes franceses de los siglos XVII y XVIII, pero poco tenían que ver con las actuales quenelles de Lyon.

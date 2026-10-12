@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1573568616/jx6ux71lcnhebxp8mhri.png
   alt: Pebre Chileno
-created_at: 2019-11-12T14:23:36.635Z
-updated_at: 2019-11-12T14:23:36.635Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/jx6ux71lcnhebxp8mhri
+created_at: 2019-11-12T14:23
+updated_at: 2019-11-12T14:23
 historia: |-
   El pebre es una salsa del tipo adobo típica de Chile, parecida al chancho en piedra chileno, a la llajua boliviana, a las salsas criollas peruanas y rioplatentenses, al pico de gallo mexicano y al ajicero venezolano. Se usa para aderezar caldos, porotos granados, carnes o choripanes en un asado. También se sirve con tortilla de rescoldo, sopaipillas o simplemente con pan (churrascas, hallulla o marraqueta).
   No tiene un origen definido

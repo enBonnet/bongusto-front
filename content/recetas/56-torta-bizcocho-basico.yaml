@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1573341326/tgmmpa1csk0mmm2eyori.png
   alt: Torta Bizcocho Básico
-created_at: 2019-11-09T23:15:25.861Z
-updated_at: 2019-11-10T12:44:54.745Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/tgmmpa1csk0mmm2eyori
+created_at: 2019-11-09T23:15
+updated_at: 2019-11-10T12:44
 historia: |-
   Los primeros registros de recetas dulces simples se remontan a Mesopotamia y al Antiguo Egipto, hace más de siete mil años, dónde se preparaban panes de miel redondos espolvoreados con ajonjolí.
   En la Antigua Grecia, los nacimientos se celebraban con pasteles. Los fabricados en Atenas tenían fama, eran elaborados con harina, queso y aceite. Fue en el Imperio Romano, hacia el siglo IV a.C. cuando se distinguió por primera vez la diferencia entre el panadero y pastelero; introduciendo el oficio de los ‘pastillariorum’.

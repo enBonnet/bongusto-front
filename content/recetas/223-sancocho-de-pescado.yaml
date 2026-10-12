@@ -9,8 +9,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1575755958/eprsvp1bp2hkp63srqea.png
   alt: Sancocho de Pescado
-created_at: 2019-12-07T21:59:18.678Z
-updated_at: 2019-12-07T21:59:18.678Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/eprsvp1bp2hkp63srqea
+created_at: 2019-12-07T21:59
+updated_at: 2019-12-07T21:59
 historia: |-
   Los Sancochos: Se hace con base de res (en algunos sitios, como Barcelona, también se le 
   añade carne de cerdo), de pescado (muy popular en los pueblos de la costa), o de gallina (aunque el dicho afirma que "la gallina vieja da el mejor caldo", los que saben de sancocho, las prefieren no muy viejas), y cuando tienen dos o más tipos de carne, reciben el nombre de cruzado. En cualquiera de los casos, la carne se cocina en agua junto con diferentes tubérculos y vegetales.

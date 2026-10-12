@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1574436776/aghk0pabhvhlfib4oauu.png
   alt: Canada Dream
-created_at: 2019-11-22T15:32:55.998Z
-updated_at: 2019-11-22T15:32:55.998Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/aghk0pabhvhlfib4oauu
+created_at: 2019-11-22T15:32
+updated_at: 2019-11-22T15:32
 historia: No tiene una historia definida, pero es originario de Canadá, donde es muy consumido después de las comidas como un puss-café
 ingredientes: |-
   - 1 oz de brandy			

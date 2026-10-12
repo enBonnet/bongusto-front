@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1620073655/e1cncy6qhu7feguiu5ah.png
   alt: Cordón Bleu de Pollo Frito
-created_at: 2021-05-03T20:27:35.790Z
-updated_at: 2021-05-03T20:27:35.790Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/e1cncy6qhu7feguiu5ah
+created_at: 2021-05-03T20:27
+updated_at: 2021-05-03T20:27
 historia: La historia de la receta del cordón bleu tiene su origen en Francia, aunque esa cinta azul era un símbolo en la cocina antes de dar el nombre a una receta que perdura hoy en día. Y es que en la época de Enrique III, allá por el siglo XVI, en Francia se distinguía con una cinta azul a aquellas personas que habían recibido la Orden del Caballero del Espíritu Santo, la más alta distinción de la época.
 ingredientes: |-
   Para 4 Comensales

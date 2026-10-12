@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1620225429/zvdcyaewet7xroj0akb9.png
   alt: Hachís Parmentier
-created_at: 2021-05-05T14:37:09.191Z
-updated_at: 2021-05-05T14:37:09.191Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/zvdcyaewet7xroj0akb9
+created_at: 2021-05-05T14:37
+updated_at: 2021-05-05T14:37
 historia: Este plato debe su nombre al nutricionista Antoine-Augustin Parmentier que promocionó el consumo de la papa en Francia, tubérculo importado desde hacia un tiempo de América pero que no gozaba de mucha aceptación. Convencido de su valor nutricional para combatir la escasez de alimento en una época de hambrunas, se lo daría a probar al propio rey Luis XVI.
 ingredientes: |-
   Para 4-6 personas

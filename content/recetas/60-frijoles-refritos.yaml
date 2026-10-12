@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1573344004/syudqwbk8rhoog6cow1w.png
   alt: Frijoles Refritos
-created_at: 2019-11-10T00:00:04.316Z
-updated_at: 2019-11-10T00:00:04.316Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/syudqwbk8rhoog6cow1w
+created_at: 2019-11-10T00:00
+updated_at: 2019-11-10T00:00
 historia: Los frijoles refritos, molidos, colados, volteados o licuados son una guarnición típica en México y Centroamérica.​ Su variante mexicana se caracteriza porque los frijoles se muelen mientras se fríen en aceite o manteca, después de haberse cocido hervidos, y sirven como guarnición de platillos populares acompañados con totopos o tortillas; o como un ingrediente esencial de tacos, tostadas, tlacoyos, molletes, bocoles, sopes y huaraches.
 ingredientes: |-
   ### 8 porciones:

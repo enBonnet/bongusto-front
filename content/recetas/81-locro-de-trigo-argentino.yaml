@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1574522247/sasf6g0xa3zje8nnjukk.jpg
   alt: Locro de Trigo Argentino
-created_at: 2019-11-11T20:49:20.428Z
-updated_at: 2019-11-11T20:49:20.428Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/sasf6g0xa3zje8nnjukk
+created_at: 2019-11-11T20:49
+updated_at: 2019-11-11T20:49
 historia: "Como cada 25 de mayo, hoy el pueblo argentino compartirá una receta tan particular como especial: el locro. Se trata de una suerte de guiso de origen prehispánico y preincaico, típico de varios pueblos andinos que basaban gran parte de su dieta en el maiz o los porotos y la papa. Se lo prepara según multitud de recetas, siendo lo único invariable su base vegetal y el procedimiento de cocción, a fuego lento durante varias horas."
 ingredientes: |-
   ### 8 Porciones:

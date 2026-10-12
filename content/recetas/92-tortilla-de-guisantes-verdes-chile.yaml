@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1574514035/qsmawbnkzkmnguvtwcos.jpg
   alt: Tortilla De Guisantes Verdes Chile
-created_at: 2019-11-12T13:38:48.298Z
-updated_at: 2019-11-12T13:38:48.298Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/qsmawbnkzkmnguvtwcos
+created_at: 2019-11-12T13:38
+updated_at: 2019-11-12T13:38
 historia: |-
   Aunque, por su simplicidad de ingredientes y preparación, poca duda hay de que sus orígenes se remontan a la prehistoria, los más antiguos antecedentes documentados refieren al Imperio aqueménida,​ como predecesora de la actual Kuku sabzi, tortilla de hierbas típica de la comida iraní.
   Hacia el siglo XVI, tanto los conquistadores como los indígenas americanos conocían y comían "tortillas de huevo".

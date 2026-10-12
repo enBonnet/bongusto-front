@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1575758328/uhina7pum2msfdne9w7x.png
   alt: Empanadas
-created_at: 2019-12-07T22:38:47.973Z
-updated_at: 2019-12-07T22:38:47.973Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/uhina7pum2msfdne9w7x
+created_at: 2019-12-07T22:38
+updated_at: 2019-12-07T22:38
 historia: 'Tiene forma de media luna y su masa es firme, arenosa, dorada y crujiente. En algunas ocasiones, es endulzada con un poco de papelón. Los rellenos varían de acuerdo a la zona: en Margarita las más comunes son las de cazón, en Los Roques se encuentran de langosta, en occidente, de mojito, y en el centro, de "pabellón” (carne mechada, caraota y tajada). Las más típicas en todo el territorio son las de queso, pollo o carne. También el tamaño y el grosor pueden ser una sorpresa: desde empanadas pequeñas con masas muy delgadas y coloreadas con onoto, como las margariteñas, hasta otras más gruesas y grandes, como las centrales (variación que también puede depender de su uso: las pequeñas como pasa palos las grandes para el desayuno o la merienda).'
 ingredientes: |-
   ### Ingredientes (para 12 empanadas) 

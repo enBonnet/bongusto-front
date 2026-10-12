@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1636121130/cql1jxwsdxkjnh52hbyo.png
   alt: Piña Colada (Frozzen)
-created_at: 2021-11-05T14:05:30.119Z
-updated_at: 2021-11-05T14:05:30.119Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/cql1jxwsdxkjnh52hbyo
+created_at: 2021-11-05T14:05
+updated_at: 2021-11-05T14:05
 historia: El Caribe Hilton Hotel, ubicado en la capital boricua San Juan afirma que Ramón "Monchito" Marrero creó la Piña Colada en 1954 mientras era cantinero en el hotel. Según este relato, el Sr. Marrero finalmente se decidió por la receta de la Piña Colada, que sintió que capturó la verdadera naturaleza y esencia de Puerto Rico. El hotel recibió una proclamación en 2004 por la gobernadora de Puerto Rico, Sila Calderón, celebrando el 50 aniversario de la bebida.
 ingredientes: |-
   - Copa Huracán o en la piña

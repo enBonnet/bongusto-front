@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1576702770/rcczcwtjwrbkir4nptjb.jpg
   alt: Chuletas De Cerdo Con Cambur
-created_at: 2019-12-18T20:59:29.964Z
-updated_at: 2019-12-18T20:59:29.964Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/rcczcwtjwrbkir4nptjb
+created_at: 2019-12-18T20:59
+updated_at: 2019-12-18T20:59
 historia: La carne de cerdo siempre resulta deliciosa y es más magra de los que imaginamos muchas veces, las chuletas de cochino necesitan una buena cocción para exaltar su sabor y por medidas de higiene y salubridad, combina de forma excelente con muchas frutas pero con cambures toman un sabor dulzón y muy tropical. En esta ocasión les enseño una receta que termina con un espectáculo de flameado fuerte pues el trópico toma vida en esta receta que lleva chuletas de cochino, cambur y ron añejo.
 ingredientes: |-
   ### Para 4 porciones 

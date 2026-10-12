@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1575750967/qpspjjozshgkq8pfha80.png
   alt: Yoyo
-created_at: 2019-12-07T20:36:07.165Z
-updated_at: 2019-12-07T20:36:07.165Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/qpspjjozshgkq8pfha80
+created_at: 2019-12-07T20:36
+updated_at: 2019-12-07T20:36
 historia: Esta receta se presenta con el sabor de una pequeña torta de plátano. Hereda su nombre del juguete tradicional que cuenta con dos discos y un pabilo, tal vez por contar igualmente con dos partes (las tajadas de plátano) unidas por un centro más delgado y filamentoso (que forma el queso al derretirse con el calor de la fritura». Mientras más pequeñas sean las tajadas, más redondeada será su forma y más cercano su parecido al juguete. En algunas regiones se le conoce también como patacones rellenos.
 ingredientes: |-
   ### Ingredientes- para 10 porciones 

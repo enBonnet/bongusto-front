@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1575589050/ledoh1uydunm8mf1vwvy.png
   alt: Pasta con Guacuco
-created_at: 2019-12-05T23:37:30.447Z
-updated_at: 2019-12-05T23:37:30.447Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/ledoh1uydunm8mf1vwvy
+created_at: 2019-12-05T23:37
+updated_at: 2019-12-05T23:37
 historia: La pasta es un alimento fundamental en la dieta del venezolano. No son pocas las intervenciones creativas de la sazón y los ingredientes criollos en la preparación de sus salsas. Esta sencilla y popular receta combina la versatilidad y rendimiento de la pasta con el sabor de uno de los moluscos más apreciado en la gastronomía costeña. Se trata de un plato que asocia el aroma del ají dulce y el sabor acre y algo picante del ajo con la suave textura (para muchos, afrodisíaca) de este molusco.
 ingredientes: |-
   ### Ingredientes (para 4 personas) 

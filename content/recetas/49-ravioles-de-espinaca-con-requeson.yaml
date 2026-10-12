@@ -6,8 +6,9 @@ categorias: []
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1573328339/ylmtqpilw0qarxnia16e.png
   alt: " Ravioles de Espinaca con Requesón"
-created_at: 2019-11-09T19:38:59.220Z
-updated_at: 2019-11-09T22:08:12.677Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/ylmtqpilw0qarxnia16e
+created_at: 2019-11-09T19:38
+updated_at: 2019-11-09T22:08
 historia: La más difundida sugiere que fueron llevados a Italia desde China por Marco Polo, quien habría conocido los ravioles chinos llamados jiaozi o las preparaciones llamadas wontón. Otras opiniones consideran que los ravioles son autóctonos de Italia, más precisamente de la Liguria medieval.
 ingredientes: |-
   ### 4 Porciones:

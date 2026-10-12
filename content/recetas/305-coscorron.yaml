@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1635778002/xnodb2ikombjuhreyfdd.png
   alt: Coscorrón
-created_at: 2021-11-01T14:46:41.888Z
-updated_at: 2021-11-01T14:46:41.888Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/xnodb2ikombjuhreyfdd
+created_at: 2021-11-01T14:46
+updated_at: 2021-11-01T14:46
 historia: No se tiene claro el origen de esta particular forma de degustar tequila
 ingredientes: |-
   - vaso shutter o caballito

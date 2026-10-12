@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1575672176/updspk4m84v33zvoozje.png
   alt: Hígado Encebollado
-created_at: 2019-12-06T22:42:56.073Z
-updated_at: 2019-12-06T22:42:56.073Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/updspk4m84v33zvoozje
+created_at: 2019-12-06T22:42
+updated_at: 2019-12-06T22:42
 historia: |-
   EI hígado de res es la víscera más popular en Venezuela, valorada además por sus amplias cualidades alimenticias: un bistec de hígado contiene casi tanta vitamina A como la que necesita el organismo durante un mes. Habitualmente se sofríe con cebolla, aunque también 
   puede prepararse guisado en una salsa de tomates y especias, en paté o a la brasa. El modo de cocción que aquí se sugiere puede aplicarse a cualquier tipo de carne; sólo hay que saber que lo mejor es sofreír la cebolla después del bistec, para que absorba todo el sabor y jugo que ha dejado la pieza en la sartén.

@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1575762231/stwnnxrmdip0hf5i9vxs.png
   alt: Mojo de Cilantro y Perejil
-created_at: 2019-12-07T23:43:51.129Z
-updated_at: 2019-12-07T23:43:51.129Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/stwnnxrmdip0hf5i9vxs
+created_at: 2019-12-07T23:43
+updated_at: 2019-12-07T23:43
 historia: |-
   Se trata de un aderezo que realza el sabor de otros platos. Suele prepararse con hierbas o vegetales molidos (o diminutamente cortados), aceite y vinagre. Los más conocidos son los 
   mojos trujillanos, que admiten muchas variaciones de ingredientes y suelen ser servidos en el desayuno, como acompañante de las arepas. Acompañan muy bien papas, yuca hervida, carnes, hallaquitas, hervidos o sopas.

@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1576938244/nzu6ckqffwx9yr52acsw.png
   alt: Ensalada Primaveral
-created_at: 2019-12-21T14:24:04.717Z
-updated_at: 2019-12-21T14:24:04.717Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/nzu6ckqffwx9yr52acsw
+created_at: 2019-12-21T14:24
+updated_at: 2019-12-21T14:24
 historia: |-
   Una ensalada es, en líneas generales, un plato frío con hortalizas mezcladas, cortadas en trozos y aderezadas, fundamentalmente con sal, aceite vegetal y vinagre. Puede tomarse como plato único, antes o después del plato principal e incluso como complemento. También puede ser de una sola hortaliza.
 

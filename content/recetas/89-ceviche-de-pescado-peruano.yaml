@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1573514262/odfgnamzifwuiumj9lpn.png
   alt: Ceviche de Pescado Peruano
-created_at: 2019-11-11T23:17:42.179Z
-updated_at: 2019-11-11T23:17:42.179Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/odfgnamzifwuiumj9lpn
+created_at: 2019-11-11T23:17
+updated_at: 2019-11-11T23:17
 historia: En cuanto a su origen, se dan varias explicaciones. Según algunas fuentes históricas del Perú, el cebiche se habría originado entre los moche, una civilización costera que comenzó a florecer entre los siglos I y II en lo que actualmente es el norte del Perú.
 ingredientes: |-
   ### 6 porciones:

@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1575669857/jlsxuk0tywyjylofcslz.png
   alt: Camarones en Vinagreta
-created_at: 2019-12-06T22:04:17.497Z
-updated_at: 2019-12-06T22:05:48.200Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/jlsxuk0tywyjylofcslz
+created_at: 2019-12-06T22:04
+updated_at: 2019-12-06T22:05
 historia: |-
   Este platillo consiste en la combinación de camarones con tomate, pepino, cebolla, chile y más ingredientes (que irá descubriendo). Después todos los ingredientes se sazonan con una vinagreta que le da un sabor exacto al platillo.
   Estos camarones a la vinagreta son una preparación ideal para servir como botana, antojito o plato de entrada en una comida o cena familiar al aire libre.

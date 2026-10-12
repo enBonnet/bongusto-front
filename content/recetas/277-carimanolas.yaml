@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1632577421/ivg3vwagv7xofd8py4yz.png
   alt: "Carimañolas "
-created_at: 2021-09-11T12:30:35.549Z
-updated_at: 2021-09-11T12:30:35.549Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/ivg3vwagv7xofd8py4yz
+created_at: 2021-09-11T12:30
+updated_at: 2021-09-11T12:30
 historia: |-
   A pesar de que la yuca envuelve como «una chaqueta» al relleno y de que los franceses estuvieron presentes en la historia de América latina.
   Lo cierto es que Panamá y Colombia comparten una tradición que seguramente procede de la época (año 1821) en la que ambos países fueron uno solo.

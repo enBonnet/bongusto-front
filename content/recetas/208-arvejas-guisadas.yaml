@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1575728140/sauuojifflmach300eyk.png
   alt: Arvejas Guisadas
-created_at: 2019-12-07T14:15:40.137Z
-updated_at: 2019-12-07T14:15:40.137Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/sauuojifflmach300eyk
+created_at: 2019-12-07T14:15
+updated_at: 2019-12-07T14:15
 historia: Las arvejas o guisantes contienen un alto nivel de fibra, vitaminas y proteínas. Dentro de los platos de nuestro país se les tiene un espacio especial, pues son altamente consumidos por su carácter nutritivo y que logran saciar con mucha facilidad los comensales. Se utilizan en sopas o durante los almuerzos normalmente. Esta es su preparación básica que le añadirá el toque personal a tus comidas.
 ingredientes: |-
   ### Ingredientes (para 4 personas) 

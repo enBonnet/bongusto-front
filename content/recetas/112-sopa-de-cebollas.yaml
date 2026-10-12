@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1573686565/mplnvpxgldzhqicou4dj.png
   alt: Sopa de Cebollas
-created_at: 2019-11-13T23:09:24.812Z
-updated_at: 2019-11-13T23:09:24.812Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/mplnvpxgldzhqicou4dj
+created_at: 2019-11-13T23:09
+updated_at: 2019-11-13T23:09
 historia: |-
   Esta sopa es una tradición que puede haber tenido su origen dentro del mercado de alimentos más grande del mundo en París, conocido como Les Halles, fundado en 1135 por el rey Philippe-Auguste.
   Este lugar abrió sus puertas como un simple mercado de comida al aire libre, creció rápidamente y pronto se requirió un muro para mantenerlo separado de su vecino, el cementerio de Los Santos Inocentes.

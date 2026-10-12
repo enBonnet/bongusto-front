@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1576938966/bx5pwywxnbkocif7lv9t.png
   alt: Galletitas Con Especias
-created_at: 2019-12-21T14:36:05.925Z
-updated_at: 2019-12-21T14:36:05.925Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/bx5pwywxnbkocif7lv9t
+created_at: 2019-12-21T14:36
+updated_at: 2019-12-21T14:36
 historia: Todos los indicios indican que fueron elaboradas hace 10.000 años por los nómadas, los que necesitaban un alimento fácil de transportar y con un alto aporte de energía. Su preparación fue en cierto modo una coincidencia, al someter por error una pasta de cereales a altas temperaturas. Esta no tenía levadura y tomaba la misma consistencia que el pan.
 ingredientes: |-
   ### Para 25 unidades 

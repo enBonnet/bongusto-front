@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1573260361/wr232bafsrpjiknenvta.jpg
   alt: Vegetales Salteados
-created_at: 2019-11-09T00:46:01.592Z
-updated_at: 2019-11-09T22:17:14.354Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/wr232bafsrpjiknenvta
+created_at: 2019-11-09T00:46
+updated_at: 2019-11-09T22:17
 historia: El salteado de vegetales como el de otros elementos de la gastronomía no tienen un origen definido, aunque se cree que puede ser asiático, por el uso del wok a altas temperaturas y pudo ser adoptado por el resto del mundo.
 ingredientes: |-
   ### Tres porciones:

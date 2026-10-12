@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1631455403/wbx852kosi2me33uimdk.png
   alt: Pichanga
-created_at: 2021-09-12T14:03:23.209Z
-updated_at: 2021-09-12T14:08:56.914Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/wbx852kosi2me33uimdk
+created_at: 2021-09-12T14:03
+updated_at: 2021-09-12T14:08
 historia: La pichanga caliente es originaria del Sur de Chile. ... Ambos platos se consumen directamente "picando" (de ahí el nombre pichanga) de una fuente entre varios comensales, con tenedores o brochetas, para acompañar el consumo de bebidas, especialmente bebida alcohólicas.
 ingredientes: |-
   para 8 personas

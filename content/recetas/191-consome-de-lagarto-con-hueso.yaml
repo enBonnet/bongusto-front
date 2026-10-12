@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1575672670/i5v9gjmws9kqkrwayaea.png
   alt: Consomé de Lagarto con Hueso
-created_at: 2019-12-06T22:51:09.941Z
-updated_at: 2019-12-06T22:51:09.941Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/i5v9gjmws9kqkrwayaea
+created_at: 2019-12-06T22:51
+updated_at: 2019-12-06T22:51
 historia: "Los consomés de carnes son esenciales para elaborar salsas gustosas o arroces, El de ternera es uno de los fondos más preciados: por el suave color de su carne y porque tiene la cualidad de influir delicada y aromáticamente en cualquier preparación, sin modificarla sustancialmente, se le considera un caldo blanco. El de lagarto con hueso es de sabor más fuerte y notorio. En todo buen consomé, los huesos son muy aprovechables: del tuétano se desprende todo el gusto para el líquido. y si los huesos se hornean previamente, no es difícil obtener un caldo sustancioso (mientras más quemado quede el hueso, el consomé será más oscuro y de sabor más intenso). Además de los que se presentan en esta página, el consomé de lagarto trasero y el de rabo son muy habituales en el país."
 ingredientes: |-
   - 3 cucharadas de aceite 

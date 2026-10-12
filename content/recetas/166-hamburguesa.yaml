@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1574552806/zzhehtcyejscyo5k8ot9.png
   alt: Hamburguesa
-created_at: 2019-11-23T23:46:46.661Z
-updated_at: 2019-11-23T23:46:46.661Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/zzhehtcyejscyo5k8ot9
+created_at: 2019-11-23T23:46
+updated_at: 2019-11-23T23:46
 historia: En 1895 un chef llamado Louis Lassen, de Connecticut, Estados Unidos, elabora la primera hamburguesa en Norteamérica; la receta se la dieron unos marineros provenientes del puerto de Hamburgo.
 ingredientes: |-
   ### Ingredientes para la carne:

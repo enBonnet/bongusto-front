@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1635604749/zzeox8hvnyun4b9sour1.png
   alt: TNT
-created_at: 2021-10-30T14:39:08.946Z
-updated_at: 2021-10-30T14:39:08.946Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/zzeox8hvnyun4b9sour1
+created_at: 2021-10-30T14:39
+updated_at: 2021-10-30T14:39
 historia: Se dice que el hábito de tomar whisky escocés “On the rocks” empezó en los climas cálidos, después de que las personas encontraron un creativo método para enfriar el whisky, sumergiendo piedras en el fondo de los ríos. Sumandole el anis tenemos un estupendo trago.
 ingredientes: |-
   - Vaso: (vaso old fashion)

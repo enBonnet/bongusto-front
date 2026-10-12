@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1574257285/y8b1mmudbrvlidhjftxv.png
   alt: Ensalada de Pollo con semillas de Sésamo
-created_at: 2019-11-20T13:41:25.223Z
-updated_at: 2019-11-20T13:41:25.223Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/y8b1mmudbrvlidhjftxv
+created_at: 2019-11-20T13:41
+updated_at: 2019-11-20T13:41
 historia: |-
   El pollo al sésamo es un plato chino-estadounidense frecuente en los restaurantes bufé y de take-out chinos de Estados Unidos y Canadá. Es muy parecido al pollo General Tso (careciendo habitualmente de la cebolla blanca y los pimientos surtidos, y añadiendo las semillas de sésamo) y, como éste, procede probablemente de la gastronomía de Hunan, que es china.
   Actualmente es parte de la nueva cocina francesa donde se le incorpora vegetales y verduras frescas de la estación.

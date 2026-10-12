@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1654975644/eltbjbhphdzk0yrgjvef.png
   alt: Carbonade Flamande
-created_at: 2022-06-11T19:27:24.671Z
-updated_at: 2022-06-11T19:27:24.671Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/eltbjbhphdzk0yrgjvef
+created_at: 2022-06-11T19:27
+updated_at: 2022-06-11T19:27
 historia: |-
   La carbonade es un plato tradicional belga (de las regiones de Flandes belga) también presente en las cocinas del norte de Francia (regiones de Flandes francés, Artois, Norte-Paso de Calais). Se trata de un estofado de ternera y cebolla cocinado en cerveza y sazonado con tomillo y laurel.
   Su nombre se deriva del italiano “carbonata”, que se usa para designar a los alimentos que se cuecen a la brasa.

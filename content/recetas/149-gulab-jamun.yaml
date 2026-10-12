@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1574458909/pfgdkmbsvkhmifuxcazz.png
   alt: Gulab Jamun
-created_at: 2019-11-22T21:41:49.045Z
-updated_at: 2019-12-07T23:52:52.143Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/pfgdkmbsvkhmifuxcazz
+created_at: 2019-11-22T21:41
+updated_at: 2019-12-07T23:52
 historia: El gulab jamun encuentra su origen en un postre árabe conocido como Luqmat Al-Qadi que se hizo muy popular en el subcontinente de la India durante la era Mughal. La utilización del sirope de agua de rosas se ha convertido en tradición desde hace tiempo, aunque también se ha expandido el uso del azafrán y de la miel.
 ingredientes: |-
   ### Ingredientes para una docena de gulab jamun

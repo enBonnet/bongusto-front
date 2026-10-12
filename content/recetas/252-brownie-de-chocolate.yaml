@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1576616140/sodstnkbdelifkkl4y9u.jpg
   alt: "Brownie de Chocolate "
-created_at: 2019-12-17T20:55:39.865Z
-updated_at: 2021-10-22T20:51:42.548Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/sodstnkbdelifkkl4y9u
+created_at: 2019-12-17T20:55
+updated_at: 2021-10-22T20:51
 historia: El brownie es un bizcocho de chocolate, fruto de un accidente culinario, un error de un cocinero que olvidó poner levadura al bizcocho de chocolate que estaba elaborando. El origen de esta delicia se ubica en Estados Unidos en el año 1897. Se conoce también como brownie de chocolate o brownie de Boston.
 ingredientes: |-
   ### Para 8 porciones 

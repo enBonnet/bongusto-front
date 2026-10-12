@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1573513304/uajquygzayd6giqrg0wm.png
   alt: Papa A la Huancaina
-created_at: 2019-11-11T23:01:43.870Z
-updated_at: 2019-11-11T23:01:43.870Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/uajquygzayd6giqrg0wm
+created_at: 2019-11-11T23:01
+updated_at: 2019-11-11T23:01
 historia: El nombre de esta receta radica en la región peruana “Junín”. Dicen que el creador de esta receta compraba la papa en Huancayo - en el Valle del Río Mantaro, luego para homenajear esta región se le dio el nombre a la receta de “Papa a la Huancayo - Huancaína”.
 ingredientes: |-
   ### 6 porciones:

@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1574542785/eh3spuufyigf9nagyx7s.jpg
   alt: Sangría
-created_at: 2019-11-23T20:59:45.852Z
-updated_at: 2019-11-23T20:59:45.852Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/eh3spuufyigf9nagyx7s
+created_at: 2019-11-23T20:59
+updated_at: 2019-11-23T20:59
 historia: |-
   En la Roma antigua era muy común beber vino en lugar de agua, ya que el alcohol mataba los gérmenes frecuentes en el agua contaminada de la época. Tanto niños como adultos tomaban diariamente vinos que se especiaban para dar distintos sabores agradables al paladar. A esta bebida se le llamaba grog o hippocras.
   Esta costumbre se fue expandiendo por el resto de Europa, incluyendo la península ibérica, donde empezó a llamársele sangría al vino tinto por su coloración roja.

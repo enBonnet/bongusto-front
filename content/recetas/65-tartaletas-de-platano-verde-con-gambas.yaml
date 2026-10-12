@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1574524707/eig28he4m927r2r0avkx.jpg
   alt: Tartaletas de plátano verde con Gambas
-created_at: 2019-11-10T21:09:06.051Z
-updated_at: 2019-11-10T21:18:13.721Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/eig28he4m927r2r0avkx
+created_at: 2019-11-10T21:09
+updated_at: 2019-11-10T21:18
 historia: Este plato es una entrada muy popular en la isla de cuba, no se tiene datos de fechas ni autor del mismo, ni tampoco si es originario de cuba ya que el plátano verde es consumido en Latinoamérica, en muchas presentaciones.
 ingredientes: |-
   ### 6 Raciones:

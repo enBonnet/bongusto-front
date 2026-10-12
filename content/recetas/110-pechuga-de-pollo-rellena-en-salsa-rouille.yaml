@@ -6,8 +6,9 @@ categorias: []
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1573685829/ryz38itxes0zwfwrg0lt.png
   alt: Pechuga de Pollo Rellena en Salsa Rouille
-created_at: 2019-11-13T22:57:09.694Z
-updated_at: 2019-11-13T22:57:09.694Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/ryz38itxes0zwfwrg0lt
+created_at: 2019-11-13T22:57
+updated_at: 2019-11-13T22:57
 historia: |-
   Hay muchos platos de la región de Europa que comparten características con el pollo a la CordonBleu. Algunos de los países que incluyen rollitos, o enrollados de carne, en su cocina son Alemania, Francia e Italia. Casi todos ellos se basan en ternera o pollo envuelto alrededor del relleno, otracarne, queso o una combinación de cualquiera de estos. Muchos de ellos están empanados y fritos. Los nombres y recetas varían ampliamente, pero su conexión con el platillo es evidente.
   Platilloscercanos

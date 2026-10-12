@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1575759833/uoldp3pfs1cznyu6bvjy.png
   alt: La Cachapa
-created_at: 2019-12-07T23:03:53.566Z
-updated_at: 2019-12-07T23:03:53.566Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/uoldp3pfs1cznyu6bvjy
+created_at: 2019-12-07T23:03
+updated_at: 2019-12-07T23:03
 historia: De sabor dulzón y suave textura, la cachapa es una tortilla delgada y redondeada, hecha con maíz tierno molido. Su cocción es breve y se efectúa en budare o a la plancha. Puede ser endulzada con papelón o azúcar, pero se sabe que mientras más tierno es el maíz, resulta más dulce y requiere menor cantidad de agua. Suele comerse cubierta con mantequilla y queso blanco (de mano, guayanés o rallado), que se derrite con el calor de la cachapa recién cocida, aunque también se consume con otras preparaciones más fuertes y saladas (pernil, carne mechada, jamón o pollo). Cuando se hace pequeña, funciona como pasapalo. La cachapa de hoja (también llamada bollito, por los guayaneses, o guapita, por los zulianos) lleva la misma mezcla de granos triturados, pero envuelta con hojas de maíz y cogida en agua hirviente.
 ingredientes: |-
   ### Ingredientes (para 8 o 10 cachapas) 

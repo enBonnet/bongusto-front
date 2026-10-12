@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1654960987/dx69kyergaidkjvipmxt.png
   alt: Magdalena
-created_at: 2022-06-11T15:23:07.128Z
-updated_at: 2022-06-11T15:23:07.128Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/dx69kyergaidkjvipmxt
+created_at: 2022-06-11T15:23
+updated_at: 2022-06-11T15:23
 historia: Según la leyenda culinaria, este popular dulce conocido en todo el mundo debe su nombre a la cocinera y pastelera francesa Madeleine Palmier, que vivió en el pueblo de Commercy, en la región de Lorena, durante el siglo XIX.
 ingredientes: |-
   - 3 huevos

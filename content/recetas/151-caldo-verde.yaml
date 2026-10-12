@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1574540540/hxa3xuasmvxdyn21eubt.jpg
   alt: Caldo Verde
-created_at: 2019-11-23T20:22:20.591Z
-updated_at: 2019-11-23T20:22:20.591Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/hxa3xuasmvxdyn21eubt
+created_at: 2019-11-23T20:22
+updated_at: 2019-11-23T20:22
 historia: En realidad se trata de una sopa elaborada de un puré de patatas acompañado de unas tiras de couve-galega - las berzas que se pueden ver en Galicia) y que le proporcionan el color verde característico, algo de ajo, aceite de oliva y todo ello ligeramente sazonado, pero su combinación proporciona el aroma típico de algunas calles de Lisboa, Oporto, etc. Se menciona que es originaria de la región del Miño (en la antigua frontera con Galicia). Esta sopa es conocida también en Brasil.
 ingredientes: |-
   ### De 2 a 3 Porciones:

@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1573257997/hzla4vccqfakc67gu5yn.jpg
   alt: Pay de Limón
-created_at: 2019-11-09T00:06:37.402Z
-updated_at: 2019-11-09T21:59:48.949Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/hzla4vccqfakc67gu5yn
+created_at: 2019-11-09T00:06
+updated_at: 2019-11-09T21:59
 historia: Según cuentan los historiadores, el lemon Pie ha sido preparado desde la época Medieval, era usualmente servido como postre en banquetes ofrecidos por la reina Elizabeth de Inglaterra. No fué hasta el siglo 17 que se inventara el merengue, por lo que el denominado Lemon pie o "Lemon Meringue Pie" tal cual como lo conocemos hoy en dia, es un producto del siglo 19.
 ingredientes: |-
   ### Insumos pay o base:      1 pay mediano 8 porciones

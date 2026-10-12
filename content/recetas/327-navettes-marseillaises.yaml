@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1654963429/p1vxuzykdycpfv6jmqll.png
   alt: Navettes Marseillaises
-created_at: 2022-06-11T16:03:49.324Z
-updated_at: 2022-06-11T16:03:49.324Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/p1vxuzykdycpfv6jmqll
+created_at: 2022-06-11T16:03
+updated_at: 2022-06-11T16:03
 historia: Francia celebra La Chandeleur (la Candelaria por nuestras tierras) donde lo tradicional es comer crêpes. Sin embargo, en la Provenza la tradición es otra, allí lo tradicional es comer navettes, una especie de suave bizcocho con forma de barquita, con textura crujiente por fuera, ligeramente azucarados y con un delicioso y sutil aroma a flor de azahar. Y es, sin duda alguna, uno de los dulces más tradicionales de Marsella ya que fue allí donde nacieron en 1782.
 ingredientes: |-
   - 190 g de harina

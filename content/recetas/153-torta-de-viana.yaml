@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1574542087/tquj1knsxbwwcbrh8qud.jpg
   alt: Torta de Viana
-created_at: 2019-11-23T20:48:07.047Z
-updated_at: 2019-11-23T20:48:07.047Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/tquj1knsxbwwcbrh8qud
+created_at: 2019-11-23T20:48
+updated_at: 2019-11-23T20:48
 historia: En la rica y vasta pastelería de Viana do Castelo, destaca este pastel, de origen convento, muy apreciado en toda la región y una de las famosas recetas de Portugal.
 ingredientes: |-
   ### De 6 a 8 Porciones:

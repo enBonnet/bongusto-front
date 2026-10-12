@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1574261425/z6vcubaz5rrtcbhduakb.png
   alt: Crema San German
-created_at: 2019-11-20T14:50:24.765Z
-updated_at: 2019-11-20T14:50:24.765Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/z6vcubaz5rrtcbhduakb
+created_at: 2019-11-20T14:50
+updated_at: 2019-11-20T14:50
 historia: |-
   El potage Saint Germain es un clásico de la cocina francesa, originalmente hecho con guisantes (petit pois) frescos. Es la típica sopa de primavera que puede hacerse todo el año con arvejas verdes partidas, que luego de cocinadas se procesan y se convierten en un cremoso puré.
   Elaborada originalmente con guisantes frescos, esta sopa de guisantes partidos debe su nombre al conde de Saint Germain, ministro de la guerra en el siglo XVIII.

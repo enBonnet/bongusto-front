@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1635605965/hgjajekkqxt4vrag0rjx.png
   alt: Vodka Tonic
-created_at: 2021-10-25T20:53:12.751Z
-updated_at: 2021-10-25T20:53:12.751Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/hgjajekkqxt4vrag0rjx
+created_at: 2021-10-25T20:53
+updated_at: 2021-10-25T20:53
 historia: El Gin Tonic y/o Vodka Tonic. surge por la proposición de un alto oficial británico de añadir ginebra a la tónica, para tener una bebida con la que celebrar las victorias de las tropas británicas en la India. Esta proposición fue motivada por el hecho de que la tónica contiene quinina que resulta un eficaz remedio contra la malaria.
 ingredientes: |-
   - Vaso: Vaso alto, preferiblemente Collins

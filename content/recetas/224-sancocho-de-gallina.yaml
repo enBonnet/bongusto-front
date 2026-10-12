@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1575756105/f80sbw4mbuia8k7wtpfd.png
   alt: Sancocho de Gallina
-created_at: 2019-12-07T22:01:45.709Z
-updated_at: 2019-12-07T22:01:45.709Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/f80sbw4mbuia8k7wtpfd
+created_at: 2019-12-07T22:01
+updated_at: 2019-12-07T22:01
 historia: El hervido de carne ó gallina, se acostumbra a comer en Caracas desde mucho antes del siglo XVIII, se preparaba esta sopa para comer antes del plato fuerte, en épocas de la colonia se presentaba casi diariamente, se hacía primero un caldo con la carne ó el ave, y en esta base se añadían los tubérculos, verduras y aliños, hasta estar blandos, se le agregaba el "sofrito" y el "compuesto", para darle sabor y aroma, entonces se servía el caldo en el plato y las verduras y tubérculos en una bandeja, y las presas del ave ó los trozos de carne en otra, para que el comensal tomara la ración de verduras y carnes de su preferencia, esto representaba el preámbulo al plato fuerte.
 ingredientes: |-
   ### Ingredientes para 8 personas 

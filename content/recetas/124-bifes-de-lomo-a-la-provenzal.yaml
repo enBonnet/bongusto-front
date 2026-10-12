@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1574282005/kq2suwo8glslhy8dw9hy.png
   alt: "Bifes de lomo a la provenzal "
-created_at: 2019-11-20T20:33:25.161Z
-updated_at: 2019-11-20T20:33:25.161Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/kq2suwo8glslhy8dw9hy
+created_at: 2019-11-20T20:33
+updated_at: 2019-11-20T20:33
 historia: |-
   Aunque todo indica que es de Francia, específicamente de la parte mediterránea, también existe esta receta tanto en Chile como Perú.
   Se denominan hierbas provenzales o de la Provenza a una mezcla de plantas culinarias secadas y originarias de la cuenca del Mediterráneo. Tradicionalmente se usan en todos los pueblos mediterráneos sin llamarlas así

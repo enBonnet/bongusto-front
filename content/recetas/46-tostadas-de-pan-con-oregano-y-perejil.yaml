@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1573307592/nlj5tr6i1sz5fdqibtb1.png
   alt: Tostadas de Pan con Orégano y Perejil
-created_at: 2019-11-09T13:53:12.240Z
-updated_at: 2019-11-09T22:15:14.956Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/nlj5tr6i1sz5fdqibtb1
+created_at: 2019-11-09T13:53
+updated_at: 2019-11-09T22:15
 historia: Estas tostadas, o rebanadas, o tapas, o brusquetas, etc… Son muy populares en todo el mundo, se cree que su origen es de España, ya que fue un monarca español, quien las popularizo al usarlas como tapas. Si para tapar la copa de vino, para evitar que este se contaminara o le cayeran impurezas al vino.
 ingredientes: |-
   ### 4 porciones:

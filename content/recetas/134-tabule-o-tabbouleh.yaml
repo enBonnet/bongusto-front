@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1574349836/aeyfiywvzbq0eyepkmgj.png
   alt: Tabule o Tabbouleh
-created_at: 2019-11-21T15:23:56.497Z
-updated_at: 2019-11-21T15:23:56.497Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/aeyfiywvzbq0eyepkmgj
+created_at: 2019-11-21T15:23
+updated_at: 2019-11-21T15:23
 historia: Es una ensalada oriunda de Siria y Líbano que es empleada a veces como acompañamiento del conjunto de aperitivos típicos de la zona. Se trata de un plato frío consumido en los calurosos meses de verano en todo el mundo árabe.
 ingredientes: |-
   ### De 6 a 10 Porciones:

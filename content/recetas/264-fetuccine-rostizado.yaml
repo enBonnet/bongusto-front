@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1576940989/lok6gzm7zhkdg3lz3ur4.jpg
   alt: Fetuccine Rostizado
-created_at: 2019-12-21T15:09:48.981Z
-updated_at: 2019-12-21T15:09:48.981Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/lok6gzm7zhkdg3lz3ur4
+created_at: 2019-12-21T15:09
+updated_at: 2019-12-21T15:09
 historia: "El origen de los espaguetis. En Italia saltaron a la fama y su lugar de nacimiento sigue envuelto en un mar de dudas: de Siria a China sin olvidar la novelesca historia que los relaciona con los viajes de Marco Polo."
 ingredientes: |-
   ### Para 4 porciones 

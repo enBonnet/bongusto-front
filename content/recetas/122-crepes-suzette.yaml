@@ -8,8 +8,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1574512907/ab8sfdmpo7ar5cud3gug.png
   alt: Crêpes Suzette
-created_at: 2019-11-20T20:00:29.508Z
-updated_at: 2019-11-20T20:00:29.508Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/ab8sfdmpo7ar5cud3gug
+created_at: 2019-11-20T20:00
+updated_at: 2019-11-20T20:00
 historia: La historia más difundida sobre el origen de la crêpe suzette cuenta que el Príncipe de Gales, frecuentemente pasaba el invierno en la Costa Azul francesa, en Montecarlo, un día en compañía de un grupo de personas fueron a comer. Mientras el maitre preparaba las crêpes para el postre, se derramó e incendió por descuido el licor de mandarina que había cerca. El asustado maitre probó el resultado y tenía buen sabor, por lo que animosamente, las sirvió dobladas dos veces y las presentó como nueva creación; el Príncipe de Gales quedó entusiasmado y aunque el maitre las bautizó como “Crêpe Princesse”, el príncipe decidió que se llamaran en honor de la niña de uno de los acompañantes, cuyo nombre supuestamente era Suzette.
 ingredientes: |-
   ### Para la salsa:

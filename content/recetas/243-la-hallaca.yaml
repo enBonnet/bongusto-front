@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1575761185/yx6rzgkcjrgm0wpivfjt.png
   alt: La Hallaca
-created_at: 2019-12-07T23:26:25.192Z
-updated_at: 2019-12-07T23:26:25.192Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/yx6rzgkcjrgm0wpivfjt
+created_at: 2019-12-07T23:26
+updated_at: 2019-12-07T23:26
 historia: Este plato es el alma de la cena navideña y una de las creaciones originales de la cocina venezolana que más placer, satisfacción y orgullo generan entre nosotros. Su elaboración, generalmente convertida en encuentro amistoso y familiar, es una verdadera ceremonia parcipativa en la que se distribuyen tareas a los participantes (cocinar, amasar, envolver, amarrar), incluso a los más pequeños de la casa. Asociable a los tamales, en su preparación.
 ingredientes: |-
   ### Ingredientes (para 50 unidades) 

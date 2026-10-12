@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1619644141/djvvvb57czqqdlnlxljo.png
   alt: Mermelada de Batata y Piña
-created_at: 2021-04-28T21:09:01.065Z
-updated_at: 2021-04-30T19:04:56.128Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/djvvvb57czqqdlnlxljo
+created_at: 2021-04-28T21:09
+updated_at: 2021-04-30T19:04
 historia: Las mermeladas son unas de las formas más prácticas de incluir frutas en el menú diario. Con tan sólo variar la fruta, ya le estará dando un nuevo sabor, además de que podrá almacenarla y tenerla lista para cuando la necesite. En esta ocasión se ofrece la receta de una deliciosa mermelada de piña y batata, para que unte en el pan tostado o en las panquecas del desayuno.
 ingredientes: |-
   Rinde aproximadamente 1 litro de mermelada

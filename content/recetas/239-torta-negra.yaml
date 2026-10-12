@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1575760290/rpxd3ykadjtqnhruu6zt.png
   alt: Torta Negra
-created_at: 2019-12-07T23:11:29.897Z
-updated_at: 2019-12-07T23:11:29.897Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/rpxd3ykadjtqnhruu6zt
+created_at: 2019-12-07T23:11
+updated_at: 2019-12-07T23:11
 historia: |-
   La torta Negra es famosa por elaborarse solo en época decembrina como parte de los festejos navideños, su sabor es maravilloso y mientras más tiempo lleven maceradas las frutas que la componen mejor será su sabor.
   Este dulce tiene referencias extranjeras, particularmente de los países nórdicos europeos, donde suele hacerse con frutas secas maceradas en licor para preservarlas hasta las fiestas 

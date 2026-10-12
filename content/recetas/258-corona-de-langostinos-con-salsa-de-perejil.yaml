@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1576704706/lzs6ndyjdcsyvzq6ucdm.jpg
   alt: Corona De Langostinos Con Salsa De Perejil
-created_at: 2019-12-18T21:31:46.780Z
-updated_at: 2019-12-18T21:31:46.780Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/lzs6ndyjdcsyvzq6ucdm
+created_at: 2019-12-18T21:31
+updated_at: 2019-12-18T21:31
 historia: Esta receta de Corona de Langostinos es ideal para preparar en verano. Gusta tanto a niños como a mayores y además la puedes dejar hecha con antelación.
 ingredientes: |-
   ### Para 4 porciones 

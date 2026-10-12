@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1575759989/vuncmjlxxb0nxxdhtvik.jpg
   alt: Bienmesabe
-created_at: 2019-12-07T23:06:29.120Z
-updated_at: 2019-12-07T23:08:49.925Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/vuncmjlxxb0nxxdhtvik
+created_at: 2019-12-07T23:06
+updated_at: 2019-12-07T23:08
 historia: Con este nombre, se conoce en España un dulce hecho a base de almíbar, almendra y yemas de huevo. En Venezuela, este postre se tropicalizó con ingredientes como el coco y el papelón, y sin almendras. Actualmente prepara casi siempre con azúcar, en lugar de papelón. El merengue con el que se cubre es una modificación bastante reciente.
 ingredientes: |-
   ### Ingredientes (para 6 personas) 

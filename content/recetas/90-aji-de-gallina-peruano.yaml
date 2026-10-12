@@ -6,8 +6,9 @@ categorias: []
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1573514666/dquxhhlrcjq8tbc1fouc.png
   alt: Ají De Gallina Peruano
-created_at: 2019-11-11T23:24:26.214Z
-updated_at: 2019-11-11T23:24:26.214Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/dquxhhlrcjq8tbc1fouc
+created_at: 2019-11-11T23:24
+updated_at: 2019-11-11T23:24
 historia: El origen del ají de gallina parece remontarse a tiempos de la colonia en el Perú. ... Se cuenta que antiguamente este plato se presentaba con una crema que llevaba pechuga de gallina, arroz, almendras y que se caracterizaba por su sabor ligeramente dulce debido a que se le agregaba azúcar.
 ingredientes: |-
   ### 2 Porciones:

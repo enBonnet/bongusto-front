@@ -8,8 +8,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1575726928/siqh1m8ovnfkihremikc.png
   alt: Aceite Onotado
-created_at: 2019-12-07T13:55:28.568Z
-updated_at: 2019-12-07T13:55:28.568Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/siqh1m8ovnfkihremikc
+created_at: 2019-12-07T13:55
+updated_at: 2019-12-07T13:55
 historia: |-
   El aceite teñido con las rojizas semillas del onoto resulta un colorante natural perfecto para 
   todas las preparaciones en las que se desee un tinte que puede ir desde amarillo claro o 

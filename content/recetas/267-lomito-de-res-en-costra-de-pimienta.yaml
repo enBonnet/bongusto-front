@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1576947079/wkgx4oay6q70ou9u7a4s.jpg
   alt: Lomito De Res En Costra De Pimienta
-created_at: 2019-12-21T16:51:19.801Z
-updated_at: 2019-12-21T16:51:19.801Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/wkgx4oay6q70ou9u7a4s
+created_at: 2019-12-21T16:51
+updated_at: 2019-12-21T16:51
 historia: El lomo es un corte de carne de la región dorsal de los animales de matadero.
 ingredientes: |-
   ### Para 6 porciones 

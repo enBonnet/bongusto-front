@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1635605819/e3crv1in7o6pktxqdjnu.png
   alt: Tequila Sunrise
-created_at: 2021-10-25T20:36:39.704Z
-updated_at: 2021-10-25T20:36:39.704Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/e3crv1in7o6pktxqdjnu
+created_at: 2021-10-25T20:36
+updated_at: 2021-10-25T20:36
 historia: Según la historia el cóctel Tequila Sunrise fue creado en el Hotel Arizona Biltmore Resort & Spa de Phoenix entre los años 1930 y 1940. ... Gene Sulit le sorprendió con una bebida a la que llamó Tequila Sunrise por la forma de los colores del cóctel preparado que se asemejaban a la salida del sol.
 ingredientes: |-
   - Vaso: Lo mejor seria presentarlo en una copa huracan, puede ser en vasos altos

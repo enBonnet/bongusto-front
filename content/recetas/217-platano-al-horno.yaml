@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1575750264/rkkge5l9p7cvu9jkhqf3.png
   alt: Plátano al Horno
-created_at: 2019-12-07T20:24:23.998Z
-updated_at: 2019-12-07T20:24:23.998Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/rkkge5l9p7cvu9jkhqf3
+created_at: 2019-12-07T20:24
+updated_at: 2019-12-07T20:24
 historia: Para esta receta se utiliza el plátano maduro o pasado. Apenas necesita el calor constante del horno para resultar un acompañante ideal de otros preparados. Con este método, el plátano evapora parte de su humedad, quedando muy dulce, suave y con una cubierta dorada y un poco crujiente. En el Zulia se sine entero, abierto a lo largo y relleno con queso blanco rallado.
 ingredientes: |-
   ### Ingredientes- para 3 0 4 personas 

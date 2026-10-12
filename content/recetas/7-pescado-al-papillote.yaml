@@ -6,8 +6,9 @@ categorias: []
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1573170189/iqkuslcvyeckembr8gvc.jpg
   alt: Pescado al Papillote
-created_at: 2019-11-07T23:43:09.493Z
-updated_at: 2019-11-09T22:01:18.879Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/iqkuslcvyeckembr8gvc
+created_at: 2019-11-07T23:43
+updated_at: 2019-11-09T22:01
 historia: La cocción en papillotes es una de las grandes técnicas de la prestigiosa cocina francesa de principios del siglo XIX. En un principio eran de papel, tenían forma de corazón o de ovalo y se untaban por ambas caras con mantequilla fundida c aceite Se metía en ellas la comida y luego se freían en aceite para que se hincharan y después se hacían en el horno Hoy, los cocineros más prácticos utilizan hojas de aluminio y bolsas de asar transparentes para obrar maravillas sin preocupaciones.
 ingredientes: |-
   ### 2 Porciones:

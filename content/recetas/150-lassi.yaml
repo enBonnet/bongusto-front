@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1574459318/r5r99qsvw1245j8rifw6.png
   alt: Lassi
-created_at: 2019-11-22T21:48:38.182Z
-updated_at: 2019-11-22T21:48:38.182Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/r5r99qsvw1245j8rifw6
+created_at: 2019-11-22T21:48
+updated_at: 2019-11-22T21:48
 historia: El lassi se consume en la India, sobre todo en el norte, desde hace miles de años, pues se piensa que comenzó a elaborarse alrededor del año 1000 a. C. La zona donde se originó es Punyab. Esta bebida junto con cúrcuma se preparaba para combatir los problemas de estómago.
 ingredientes: |-
   - Agua fría			

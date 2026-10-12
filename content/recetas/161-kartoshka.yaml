@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1574549873/u3htr8gsos7njnaqzhlh.png
   alt: Kartoshka
-created_at: 2019-11-23T22:57:52.948Z
-updated_at: 2019-11-23T22:57:52.948Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/u3htr8gsos7njnaqzhlh
+created_at: 2019-11-23T22:57
+updated_at: 2019-11-23T22:57
 historia: La Kartoshka es un postre de origen soviético que se preparaba en restaurantes, así como también en casas y en comedores estudiantiles. Su gran popularidad se debe a que permite reciclar los restos de bizcochos y galletas rotas. En tiempos difíciles, se utilizaba incluso el pan. Aunque esta receta surgió en el siglo XX, se ha popularizado durante la época soviética y continúa siendo uno de los postres preferidos de los rusos. Hay muchísimas variantes de esta receta, ya sea a base de bizcochos, pan tostado o galletas. Aunque los puedes encontrar en cualquier cafetería, lo mejor es hacerlos en casa.
 ingredientes: |-
   ### 4 porciones

@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1573473471/hghczvwloxzuybda4bxf.png
   alt: Pan de Queso Brasilero
-created_at: 2019-11-11T11:57:50.995Z
-updated_at: 2019-11-11T11:57:50.995Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/hghczvwloxzuybda4bxf
+created_at: 2019-11-11T11:57
+updated_at: 2019-11-11T11:57
 historia: Esta receta tiene un origen incierto pero se especula se creó en el siglo XVIII en estado de Minas Gerais, el centro de producción de leche en Brasil. Obtener harina de trigo era difícilo en según que zonas de Brasil, así que se buscaron alternativas para sustituir esta harina.
 ingredientes: |-
   ### 8 Raciones:

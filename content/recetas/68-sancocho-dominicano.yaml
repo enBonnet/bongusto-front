@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1574525196/tjvaixsv49piverjhych.png
   alt: Sancocho Dominicano
-created_at: 2019-11-10T21:38:16.420Z
-updated_at: 2019-11-10T21:38:16.420Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/tjvaixsv49piverjhych
+created_at: 2019-11-10T21:38
+updated_at: 2019-11-10T21:38
 historia: Según los entendidos, el sancocho es un plato de origen canario, que procede de las primeras inmigraciones del archipiélago español a República Dominicana y que se fue adaptando con productos endémicos como la yuca, el ñame, la yautía y los plátanos.
 ingredientes: |-
   ### 8 porciones:

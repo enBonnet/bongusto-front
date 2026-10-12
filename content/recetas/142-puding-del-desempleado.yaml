@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1574435657/gqjhwfsuejrz0s3iur5j.png
   alt: Puding del Desempleado
-created_at: 2019-11-22T15:14:17.604Z
-updated_at: 2019-11-22T15:14:17.604Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/gqjhwfsuejrz0s3iur5j
+created_at: 2019-11-22T15:14
+updated_at: 2019-11-22T15:14
 historia: Es un postre económico preparado por las mujeres trabajadoras durante el difícil período de despidos masivos en los distritos industriales de Montreal durante la crisis económica de 1929.​ El pouding chômeur es una modificación del pudín de migas de pan (bread crumbs pudding) popular en las clases obreras de Inglaterra.​ Las familias debían desenvolverse con los pocos recursos que tenían y la receta al ser sencilla se propagó rápidamente en los entornos desfavorecidos de Montreal y zonas cercanas. Es una mezcla de cuatro ingredientes principales ingredientes baratos ​ en esa época (harina, agua, azúcar morena y mantequilla ​), aunque podrían agregarse otros ingredientes. Su popularidad ha dado lugar a varias versiones, en particular mediante la sustitución del azúcar morena por jarabe de arce.
 ingredientes: |-
   ### Ingredientes para 6-8 comensales:

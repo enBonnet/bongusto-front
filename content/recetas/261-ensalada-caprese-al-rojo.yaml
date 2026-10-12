@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1576937455/idqtq5irdserdmiovfj3.png
   alt: Ensalada Caprese Al Rojo
-created_at: 2019-12-21T14:10:55.588Z
-updated_at: 2019-12-21T14:10:55.588Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/idqtq5irdserdmiovfj3
+created_at: 2019-12-21T14:10
+updated_at: 2019-12-21T14:10
 historia: |-
   La ensalada caprese proviene de la isla de Capri, lugar mítico situado enfrente de Nápoles, donde se creó esta sabrosa e inigualable combinación, y es uno de los símbolos gastronómicos de Italia, no sólo por lo sabrosa que resulta, sino porque los italianos hacen alarde de ella por su juego de colores: verde, blanco y rojo, los mismos que su bandera. Por cierto, que el diseño de la enseña italiana tiene su origen en Napoleón.
 

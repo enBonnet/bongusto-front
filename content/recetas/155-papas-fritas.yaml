@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1574543485/yggcbqk851bc27lrwutf.png
   alt: Papas Fritas
-created_at: 2019-11-23T21:11:24.975Z
-updated_at: 2019-11-23T21:11:24.975Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/yggcbqk851bc27lrwutf
+created_at: 2019-11-23T21:11
+updated_at: 2019-11-23T21:11
 historia: "El origen de la papa frita cortada en forma de bastón está disputado entre Bélgica y Francia, pero es sólo en el primero donde se considera una comida típica. Los franceses se adjudican la invención del plato; se dice que a fines del siglo XVIII sobre el Pont Neuf de París se instalaban los vendedores de esta delicia, que preparaban a la vista de sus clientes dentro de braseros y sartenes.​ Los belgas la cocinan en dos etapas: en aceite y con grasa; los franceses sólo en aceite."
 ingredientes: |-
   ### ### 4 Porciones:

@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1574282875/mqjuyj9gfyodi1y8ewab.png
   alt: Mousse de chocolate
-created_at: 2019-11-20T20:47:54.712Z
-updated_at: 2019-11-20T20:47:54.712Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/mqjuyj9gfyodi1y8ewab
+created_at: 2019-11-20T20:47
+updated_at: 2019-11-20T20:47
 historia: La mousse aparece por primera vez en un recetario de 1755, Les soupers de la cour, del cocinero francés Menon.​ Describía tres mousses, de café, de chocolate y de azafrán, que se hacían con nata batida a la que se podía añadir claras de huevo. Se servían en unos vasitos de plata o vidrio que recomendaba guardar en hielo un par de horas hasta el momento de consumirlas, en un recipiente de hojalata hecho al uso.
 ingredientes: |-
   ### 4 a 6 Porciones:

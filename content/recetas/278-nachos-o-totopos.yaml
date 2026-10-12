@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1631453211/izo0oomlzfkxvjnkt5dy.png
   alt: Nachos o Totopos
-created_at: 2021-09-12T13:26:50.812Z
-updated_at: 2021-09-12T13:26:50.812Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/izo0oomlzfkxvjnkt5dy
+created_at: 2021-09-12T13:26
+updated_at: 2021-09-12T13:26
 historia: Estos totopos crujientes en forma circular y en triángulo fueron creados en 1943 por Ignacio Anaya García, un mexicano que trabajaba en un restaurante de Piedras Negras, Coahuila al norte de México.
 ingredientes: |-
   (para dos personas)

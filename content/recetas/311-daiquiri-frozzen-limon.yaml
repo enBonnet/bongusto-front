@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1636121556/ubevm7w4nvwlrcqrdebw.png
   alt: Daiquiri Frozzen Limón
-created_at: 2021-11-05T14:12:36.681Z
-updated_at: 2021-11-05T14:12:36.681Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/ubevm7w4nvwlrcqrdebw
+created_at: 2021-11-05T14:12
+updated_at: 2021-11-05T14:12
 historia: |-
   Cuenta la historia más extendida sobre la creación del Daiquiri que el cóctel fue creación de un ingeniero estadounidense, de nombre Jennings Cox, que trabajaba en una mina próxima a la playa de Daiquiri, junto a Santiago de Cuba.
   Corría el año 1896 cuando Cox recibió la visita de unos amigos y, al ver que se había quedado sin ginebra, que es lo que solía beber, recurrió a una botella de ron local y mezcló la bebida con zumo de las limas de un árbol que tenía en el jardín.

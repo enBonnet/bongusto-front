@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1573684692/w9dxb0dc15jiprlukg6a.png
   alt: Quiche Lorraine
-created_at: 2019-11-13T22:38:12.697Z
-updated_at: 2019-11-13T22:38:12.697Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/w9dxb0dc15jiprlukg6a
+created_at: 2019-11-13T22:38
+updated_at: 2019-11-13T22:38
 historia: "La receta original nació en la región de Lorena, en el noroeste de Francia. De ahí su nombre: 'Quiche Lorraine'. Su preparación es a base de huevos batidos y crema de leche, mezclada con verduras cortadas y añadiéndole jamón o bacon."
 ingredientes: |-
   ### 200 grs. De tocineta entera.		

@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1632578027/do2pxiunkcffjyjqsbtf.png
   alt: Cocada Panameña
-created_at: 2019-11-10T22:56:03.954Z
-updated_at: 2019-11-10T22:56:03.954Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/do2pxiunkcffjyjqsbtf
+created_at: 2019-11-10T22:56
+updated_at: 2019-11-10T22:56
 historia: |-
   ¡Las cocadas! Estas pequeñas y deliciosas rocas de coco fresco, no solo nos transportarán a Panamá. De hecho, estas tradicionales delicias son originarias de España y populares en la República Dominicana y en muchas otras partes de América Latina.
 

@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1575588450/tm4xem2dyxhwgl61cdfi.png
   alt: Melao de Papelón
-created_at: 2019-12-05T23:27:30.375Z
-updated_at: 2019-12-05T23:27:30.375Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/tm4xem2dyxhwgl61cdfi
+created_at: 2019-12-05T23:27
+updated_at: 2019-12-05T23:27
 historia: El melao de papelón es una salsa almibarada producto de mezclar agua con papelón también conocido como piloncillo panela, raspadura, rapadura, atado dulce, chancaca, empanizado o panocha. Esta preparación sirve para acompañar jugos, dulces, carnes, ensaladas y pasapalos, lo que permite ver la versatilidad de esta preparación. Su consumo se extiende por todo el territorio nacional y en muchas preparaciones forma parte para equilibrar sabores.
 ingredientes: |-
   ### Ingredientes (para 1 litro aproximadamente) 

@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1575749567/cmz9djw3iyxgo6xbhsj5.png
   alt: Torta de Plátano
-created_at: 2019-12-07T20:12:47.604Z
-updated_at: 2019-12-07T20:12:47.604Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/cmz9djw3iyxgo6xbhsj5
+created_at: 2019-12-07T20:12
+updated_at: 2019-12-07T20:12
 historia: "Muy popular en los estados Zulia y Trujillo, esta torta constituye la gran receta del plátano: como ocurre pocas veces, el fruto es presentado como plato principal y no como contorno de otros alimentos. La preparación es muy sencilla y apenas requiere de plátano, papelón, huevo y queso."
 ingredientes: |-
   ### Ingredientes (para 6 personas) 

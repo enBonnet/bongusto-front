@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1574455367/nj8jqpz1xttacqk3z6wn.png
   alt: Torticas de Papa Sabzi tikki con Chutney de Tomate
-created_at: 2019-11-22T20:42:47.662Z
-updated_at: 2019-11-22T20:42:47.662Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/nj8jqpz1xttacqk3z6wn
+created_at: 2019-11-22T20:42
+updated_at: 2019-11-22T20:42
 historia: |-
   Este plato, está elaborado en base de Otros y pertenece a los platos de la cocina Tradicional India. Por regla general se consume, principalmente, durante Todo el año, y se suele servir a los comensales como Entrante.
   Sabzi tikki es el nombre original de esta receta de la cocina hindú, un rebozado a base de patatas que, como buen plato indio, contiene un buen puñado de especias que le dan ese sabor tan característico.

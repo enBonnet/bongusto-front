@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1575758101/rf2z0jt54mdtdc2rs2jh.png
   alt: Tequeños
-created_at: 2019-12-07T22:35:01.147Z
-updated_at: 2019-12-07T22:35:01.147Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/rf2z0jt54mdtdc2rs2jh
+created_at: 2019-12-07T22:35
+updated_at: 2019-12-07T22:35
 historia: "Su nombre proviene de Los Teques, donde se supone que fue creado en las primeras décadas del siglo xx. La calidad de la preparación recae casi por completo en la correcta selección del queso: blanco, no muy salado y que derrita fácilmente sin llegar a quedar completamente líquido. En Barlovento, en lugar de masa, se recubre el queso con una larga tajada. También se conoce una versión rápida en la que se prescinde de la elaboración de la masa: antes de freírse, el queso se pasa primero por la harina, para ser bañado luego en cerveza."
 ingredientes: |-
   ### Ingredientes (para 50 tequeños) 

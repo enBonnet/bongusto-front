@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1575728415/wmezv9q5oshb4qdefyqk.png
   alt: Torticas de Arroz
-created_at: 2019-12-07T14:20:14.957Z
-updated_at: 2019-12-07T14:20:14.957Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/wmezv9q5oshb4qdefyqk
+created_at: 2019-12-07T14:20
+updated_at: 2019-12-07T14:20
 historia: "Esta sencilla y rápida receta es ideal para aprovechar el arroz ya cocinado que ha perdido la frescura o suavidad ser refrigerado: basta mezclarlo con huevo y harina, poner (si se quiere) un poco de queso, y freírlo. También llamadas fritas, estas torticas son apropiadas como contorno de otros preparados o en las meriendas."
 ingredientes: |-
   ### Ingredientes (para 4 personas) 

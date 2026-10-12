@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1654961622/xbkiwdimrnrx8g8lkeb3.png
   alt: Pollo Dijonnaise
-created_at: 2022-06-11T15:33:42.458Z
-updated_at: 2022-06-11T15:33:42.458Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/xbkiwdimrnrx8g8lkeb3
+created_at: 2022-06-11T15:33
+updated_at: 2022-06-11T15:33
 historia: |-
   La ciudad de Dijon (Francia) es responsable de que la cocina clásica del país adoptara un término para describir ciertas recetas, la ciudad es conocida como ‘la capital de la mostaza’, pero no es su única especialidad gastronómica, por eso, las recetas elaboradas À la Dijonnaise pueden ser variadas.
   Los platos al estilo de Dijon o à la Dijonnaise reconocen indistintamente las preparaciones que incluyen entre sus ingredientes la mostaza de Dijon cuando se refiere a platos salados, o el cassis cuando se habla de platos dulces.

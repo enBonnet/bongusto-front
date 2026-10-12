@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1574513108/khsjyrd9xvs2ic68wbwz.jpg
   alt: Matambre a la Criolla Argentina
-created_at: 2019-11-11T21:05:43.794Z
-updated_at: 2019-11-11T21:05:43.794Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/khsjyrd9xvs2ic68wbwz
+created_at: 2019-11-11T21:05
+updated_at: 2019-11-11T21:05
 historia: La palabra matambre, es una composición que viene de la unión de dos términos matar y hambre. Su origen remonta al 1800 cuando Argentina abastecía a Europa de carne vacuna y se solía pagar los faenadores con este tipo de cortes que saciaban su apetito, o mataban el hambre luego de la ardua faena.
 ingredientes: |-
   ### 8 Raciones:

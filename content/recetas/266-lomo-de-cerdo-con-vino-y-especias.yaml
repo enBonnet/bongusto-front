@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1576942467/du6boynuqtcmfz72rg8l.jpg
   alt: Lomo De Cerdo Con Vino Y Especias
-created_at: 2019-12-21T15:34:27.480Z
-updated_at: 2019-12-21T15:34:27.480Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/du6boynuqtcmfz72rg8l
+created_at: 2019-12-21T15:34
+updated_at: 2019-12-21T15:34
 historia: 'El lomo de cerdo es cada una de las dos piezas de la carne del cerdo que están junto al espinazo y bajo las costillas del animal. Suele tener una forma cilíndrica. Es frecuente encontrarlo secado al aire o preparado en adobo: lomo en adobo. En la cocina española es frecuente encontrarlo en forma de bocadillo pequeño en los que se denomina "montado de lomo".'
 ingredientes: |-
   ### Para 6 porciones 

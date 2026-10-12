@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1574553328/sw57jyrlwi2xcooedd6m.png
   alt: Hot Dog
-created_at: 2019-11-23T23:55:28.839Z
-updated_at: 2019-11-23T23:55:28.839Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/sw57jyrlwi2xcooedd6m
+created_at: 2019-11-23T23:55
+updated_at: 2019-11-23T23:55
 historia: Los perritos calientes se elaboraban en diversas partes de Europa antes de que los inmigrantes europeos (en especial de origen alemán) los llevaran a los Estados Unidos y se convirtiera en una comida callejera muy popular entre la clase media. En Nueva York se abrió paso en la primera década del siglo XIX gracias a la contribución de varios carniceros europeos que se dedicaron a «replicar» la salchicha en el nuevo continente. Al parecer, el carnicero alemán Charles Feltman fue el primero en vender perritos calientes en unos carritos en las playas de Coney Island (cerca de Nueva York), en 1867.​ El éxito de ventas que tuvo hizo que su carrito cobrara un mayor tamaño y que finalmente se incorporaran diversos camareros en él.
 ingredientes: |-
   - 8 salchichas Winer				

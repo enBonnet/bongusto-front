@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1574352821/o5ysauts9oabxhh1l5yg.png
   alt: Pan Pita
-created_at: 2019-11-21T16:13:41.018Z
-updated_at: 2019-11-21T16:13:41.018Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/o5ysauts9oabxhh1l5yg
+created_at: 2019-11-21T16:13
+updated_at: 2019-11-21T16:13
 historia: El pan pita es uno de los alimentos más antiguos cuyo origen se lo atribuye a medio oriente, especialmente a Egipto, siglos atrás La pita, más conocida por ser de esa especie de panes planos, también tiene sus raíces en ciertas regiones de Grecia, de la India y de África y al ser uno de los alimentos milenarios de esa región del mundo refleja muchas de las costumbres y tradiciones de algunos de estos países. En algunas culturas de África, por ejemplo, es utilizado como una especie de tenedor el cual sirve para que la comida sea llevada a la boca, en regiones más cercanas al Mediterráneo en cambio se usa como una especie de platillo que sostiene y soporta el resto de los alimentos.
 ingredientes: |-
   ### De 6 a 10 porciones:

@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1575672345/tfop8iv1u3m3qgarhpvk.png
   alt: Conejo en Coco
-created_at: 2019-12-06T22:45:45.621Z
-updated_at: 2019-12-06T22:45:45.621Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/tfop8iv1u3m3qgarhpvk
+created_at: 2019-12-06T22:45
+updated_at: 2019-12-06T22:45
 historia: En la gastronomía zuliana, particularmente en la maracaibera, la leche de coco es fundamental. El plato que aquí se presenta es uno más de los múltiples preparados que incorporan este ingrediente.
 ingredientes: |-
   ### Ingredientes (para 6 personas) 

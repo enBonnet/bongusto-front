@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1575750095/steyt9hekmp6dujhp75e.png
   alt: Plátano Dulce
-created_at: 2019-12-07T20:21:35.720Z
-updated_at: 2019-12-07T20:21:35.720Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/steyt9hekmp6dujhp75e
+created_at: 2019-12-07T20:21
+updated_at: 2019-12-07T20:21
 historia: Es una receta sencilla y apetecible que aprovecha la facilidad que tiene el plátano maduro para caramelizarse y la acentúa con melao de papelón. Además de acompañar preparados salados, puede servirse como postre. Este modo de preparación también es utilizado con cambures, particularmente titiaros.
 ingredientes: |-
   ### Ingredientes (para 3 personas) 

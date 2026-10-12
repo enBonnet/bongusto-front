@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1574279599/smdgb4xfdaz2xauuntme.png
   alt: Crepes
-created_at: 2019-11-20T19:53:19.115Z
-updated_at: 2019-11-20T19:53:19.115Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/smdgb4xfdaz2xauuntme
+created_at: 2019-11-20T19:53
+updated_at: 2019-11-20T19:53
 historia: |-
   Las crepas, derivando del latín “crispus” que significa crespo, la palabra crepa es antigua, tan antigua data de la Francia del medievo, en la zona de Bretaña para ser más precisos tiempo en que los agricultores fabricaban una especie de torta de consistencia crepitante.
   Hechas con harina de trigo mejor conocida como galette que comúnmente se le integraban con ingredientes con un toque de sal.

@@ -9,8 +9,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1575673428/dtvff57dmyaoswrpnmaz.png
   alt: Pate de Hígados de Pollo
-created_at: 2019-12-06T23:03:48.760Z
-updated_at: 2019-12-06T23:03:48.760Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/dtvff57dmyaoswrpnmaz
+created_at: 2019-12-06T23:03
+updated_at: 2019-12-06T23:03
 historia: |-
   Entre los múltiples platos e ingredientes galos que se introdujeron a finales del siglo MX se 
   encuentra el paté, que según la receta originaria se hace con hígados de ganso, No obstante, la versión criolla utiliza higaditos de pollo. Suele servirse como entrada o pasa paló en reuniones, acompañado con galletas crujientes, pan tostado o casabe. Existen numerosas maneras de prepararlo (algunas incluyen el uso de gelatina sin sabor), pero la receta de estas páginas tiene la particularidad de ser muy rápida y sencilla.

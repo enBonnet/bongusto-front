@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1574544811/qypv3pi33rq7oputaopn.png
   alt: Fish and Chips
-created_at: 2019-11-23T21:33:31.418Z
-updated_at: 2019-11-23T21:33:31.418Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/qypv3pi33rq7oputaopn
+created_at: 2019-11-23T21:33
+updated_at: 2019-11-23T21:33
 historia: |-
   El Fish & Chips se sirvió por primera vez como plato completo en 1860. Se cree que la familia Malin de Londres y la familia Lee de Mossley, cerca de Manchester, fueron las primeras en plantar la tradición. Joseph Malin, de hecho, abrió el primer establecimiento (Fish & Chip Shop) en Londres en 1860. El pescado frito fue introducido primero en Londres de la mano de inmigrantes judíos que venían de Portugal y España por allá el siglo XVII, como derivado del famoso ‘pescaíto frito’ andaluz.
   El presidente estadounidense Thomas Jefferson, por otro lado, dijo haber comido “pescado frito al estilo judío” en una visita a la capital a finales del siglo XVIII, y hasta Charles Dickens hace referencia a un almacén de pescado frito en su obra ‘Oliver Twist’ (1838).

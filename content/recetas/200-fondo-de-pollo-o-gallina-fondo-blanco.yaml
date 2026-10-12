@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1575725624/p68hq7lokl1wkkjjt2ey.png
   alt: Fondo de Pollo o Gallina Fondo Blanco
-created_at: 2019-12-07T13:33:43.962Z
-updated_at: 2019-12-07T13:33:43.962Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/p68hq7lokl1wkkjjt2ey
+created_at: 2019-12-07T13:33
+updated_at: 2019-12-07T13:33
 historia: |-
   Los consomés de aves son parte de los llamados caldos blancos, que por ser los más neutros resultan así mismo los más versátiles. Además, las creencias populares les atribuyen otras cualidades: el de pollo es popular como un reconstituyente para la "resaca "; mientras que el de pichón de paloma, garantiza la vitalidad reproductiva, pues funciona como afrodisiaco.
   El uso del fondo claro es muy común en toda preparación que lo requiera.

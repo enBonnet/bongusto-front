@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1573168393/cwsrrvknbbrhidfstc11.png
   alt: Cascos de Parchita
-created_at: 2019-11-07T23:07:59.013Z
-updated_at: 2019-11-09T21:42:59.250Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/cwsrrvknbbrhidfstc11
+created_at: 2019-11-07T23:07
+updated_at: 2019-11-09T21:42
 historia: No hay claridad en cuanto al origen de este postre tradicional venezolano, pero, posiblemente se halle en esas señoras que se negaban a botar y con creatividad le encontraban utilidad a los diferentes elementos de la cocina. Así lo que resultaba del refrescante jugo de esta fruta tropical se utilizó para hacer un delicioso dulce criollo típico.
 ingredientes: |-
   12 porciones:

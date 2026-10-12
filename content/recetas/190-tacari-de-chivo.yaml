@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1575672505/ftjw7pbop28ld96mrhet.png
   alt: Tacarí de Chivo
-created_at: 2019-12-06T22:48:24.869Z
-updated_at: 2019-12-06T22:48:24.869Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/ftjw7pbop28ld96mrhet
+created_at: 2019-12-06T22:48
+updated_at: 2019-12-06T22:48
 historia: "EI origen de este plato es hindú y llegó a Venezuela desde Trinidad, por el norte de Sucre. Es típico de Paria y aunque puede prepararse con gallina, el de chivo es el más popular. Es conocido también con el nombre de talkarí o talcarí, pero su denominación más habitual es la propia del oriente del país: tarcarí. En algunas versiones de esta receta se añade leche de coco."
 ingredientes: |-
   ### Ingredientes (para 6 personas) 

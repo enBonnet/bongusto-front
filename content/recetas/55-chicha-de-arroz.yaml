@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1573333016/c0ogvtz4nsomlnhlbv4o.png
   alt: Chicha de Arroz
-created_at: 2019-11-09T20:56:56.086Z
-updated_at: 2019-11-09T21:44:04.652Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/c0ogvtz4nsomlnhlbv4o
+created_at: 2019-11-09T20:56
+updated_at: 2019-11-09T21:44
 historia: |-
   La chicha criolla es una bebida no alcohólica de Venezuela. Es una bebida hecha a base de arroz y leche de vaca, suele agregársele leche condensada y canela al gusto, es una bebida muy espesa que se toma fría, con hielo. A diferencia de la chicha andina, esta bebida no es fermentada y es de uso comercial en el país, vendida de forma ambulante por vendedores llamados usualmente "chicheros", incluso se vende pasteurizada con presentaciones similares a la de los jugos, leches y malteadas industriales. Es usual encontrar en la calle "chicheros" y en casa suele encontrarse fría en la nevera.
   No existe mucha historia al respecto de la chicha criolla, únicamente sabemos que se extendió su consumo gracias a los “chicheros”, unos señores con unos carritos ambulantes que se dedican a la venta de esta bebida. Cuando hablamos de chicheros solemos referirnos al “chichero de…” señalando el barrio, la esquina o el mercado en el que se encontraba.

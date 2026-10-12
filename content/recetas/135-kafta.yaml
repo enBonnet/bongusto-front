@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1574350548/gsls8jhjeygz27mkepyd.png
   alt: Kafta
-created_at: 2019-11-21T15:35:47.925Z
-updated_at: 2019-11-21T15:35:47.925Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/gsls8jhjeygz27mkepyd
+created_at: 2019-11-21T15:35
+updated_at: 2019-11-21T15:35
 historia: La palabra kofta proviene del persa y significa molido. Con este nombre se designa a varios platos típicos de origen árabe y oriental que tienen forma de albóndigas o hamburguesas
 ingredientes: |-
   De 5 a 10 porciones:

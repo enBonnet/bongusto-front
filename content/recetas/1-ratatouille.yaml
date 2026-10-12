@@ -9,8 +9,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1573170326/nzzlltblm8rfco38t1ao.jpg
   alt: Ratatouille
-created_at: 2019-11-06T23:03:46.783Z
-updated_at: 2019-11-09T22:06:48.059Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/nzzlltblm8rfco38t1ao
+created_at: 2019-11-06T23:03
+updated_at: 2019-11-09T22:06
 historia: La ratatouille es una especialidad regional francesa elaborada con diferentes hortalizas guisadas. Proviene de la región de Provenza y del antiguo condado de Niza (sureste de Francia), por lo que se la llama también ratatouille niçoise​.
 ingredientes: |-
   4 Porciones

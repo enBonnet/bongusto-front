@@ -6,6 +6,11 @@ import { slugify } from "../../../lib/slugify.js";
 export async function getStaticPaths() {
   // Public recipes only — drafts are committed but never rendered publicly.
   const recetas = await getAllRecetas();
+  const seen = new Set<number>();
+  for (const r of recetas) {
+    if (seen.has(r.id)) throw new Error(`duplicate receta id: ${r.id}`);
+    seen.add(r.id);
+  }
   return recetas.map((receta) => ({
     params: { id: String(receta.id), slug: slugify(receta.titulo) },
     props: { receta },
@@ -20,7 +25,7 @@ const preparacion = renderMarkdoc(receta.preparacion);
 
 <Layout title={`${receta.titulo} | BonGusto`}>
   <article class="receta big-card">
-    <div class="title">{receta.titulo}</div>
+    <h1 class="title">{receta.titulo}</h1>
     {
       receta.photo?.url && (
         <div class="photo">
@@ -32,7 +37,7 @@ const preparacion = renderMarkdoc(receta.preparacion);
       {
         historia && (
           <div class="history">
-            <div class="title">Historia</div>
+            <h2 class="title">Historia</h2>
             <div class="text" set:html={historia} />
           </div>
         )
@@ -40,7 +45,7 @@ const preparacion = renderMarkdoc(receta.preparacion);
       {
         ingredientes && (
           <div class="ingredients">
-            <div class="title">Ingredientes</div>
+            <h2 class="title">Ingredientes</h2>
             <div class="text" set:html={ingredientes} />
           </div>
         )
@@ -48,7 +53,7 @@ const preparacion = renderMarkdoc(receta.preparacion);
       {
         preparacion && (
           <div class="preparation">
-            <div class="title">Preparación</div>
+            <h2 class="title">Preparación</h2>
             <div class="text" set:html={preparacion} />
           </div>
         )
@@ -71,7 +76,7 @@ const preparacion = renderMarkdoc(receta.preparacion);
     margin-bottom: 20px;
   }
   .receta .title {
-    margin-bottom: 16px;
+    margin: 0 0 16px;
     font-size: 24px;
     font-weight: 700;
   }
@@ -94,7 +99,7 @@ const preparacion = renderMarkdoc(receta.preparacion);
   .receta .history .title,
   .receta .ingredients .title,
   .receta .preparation .title {
-    margin-bottom: 16px;
+    margin: 0 0 16px;
     font-size: 24px;
     font-weight: 700;
   }

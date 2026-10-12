@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1635604928/cdmkndl9zvk4qhpdhnjc.png
   alt: Godmather (Madrina)
-created_at: 2021-10-30T14:42:08.777Z
-updated_at: 2021-10-30T14:42:08.777Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/cdmkndl9zvk4qhpdhnjc
+created_at: 2021-10-30T14:42
+updated_at: 2021-10-30T14:42
 historia: No se conoce el origen exacto del Godmother, pero este cóctel se volvió muy popular en Estados Unidos a entre los años 70 y 80. Mientras la saga El Padrino estaba en su máximo apogeo.
 ingredientes: |-
   - Vaso: (vaso old fashion)

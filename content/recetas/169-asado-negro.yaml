@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1575575186/o7aygslzysuopywvfqoq.png
   alt: Asado Negro
-created_at: 2019-12-05T19:46:26.559Z
-updated_at: 2019-12-05T19:46:26.559Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/o7aygslzysuopywvfqoq
+created_at: 2019-12-05T19:46
+updated_at: 2019-12-05T19:46
 historia: |-
   Asado negro, un plato con alma y corazón caraqueño. Su preparación se realiza con la pieza llamada redondo de res o muchacho.
   El asado negro tiene origen colonial, y se supone que accidentalmente una cocinera dejó quemar la carne y luego remediando el daño incluyó salsas y condimentos, uniendo el dulzor del papelón con especias foráneas y ajíes dulces.

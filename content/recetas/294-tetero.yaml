@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1635604256/vv3jtguqunqkqjw1mvng.png
   alt: Tetero
-created_at: 2021-10-30T14:30:56.256Z
-updated_at: 2021-10-30T14:30:56.256Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/vv3jtguqunqkqjw1mvng
+created_at: 2021-10-30T14:30
+updated_at: 2021-10-30T14:30
 historia: El origen del cóctel no esta bien definido.
 ingredientes: |-
   - Vaso corto o Copa Alta. Ideal en una copa huracan

@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1576616808/ciratlhd85mpalzohari.jpg
   alt: Camarones Creole
-created_at: 2019-12-17T21:06:48.029Z
-updated_at: 2019-12-17T21:06:48.029Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/ciratlhd85mpalzohari
+created_at: 2019-12-17T21:06
+updated_at: 2019-12-17T21:06
 historia: Se trata, también, de una entrada perfecta para quienes disfrutan de los sabores del mar. ¿Ya tienes el menú navideño listo? Quizá estos camarones creole aún pueden entrar en tu cocina y quedarse para siempre en el corazón de tus comensales.
 ingredientes: |-
   ### para 4 porciones 

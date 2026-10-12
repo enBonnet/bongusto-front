@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1573329082/b6svqjafhnx8qw0dpmhc.png
   alt: Salsa Napolitana
-created_at: 2019-11-09T19:51:22.211Z
-updated_at: 2019-11-09T22:10:04.272Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/b6svqjafhnx8qw0dpmhc
+created_at: 2019-11-09T19:51
+updated_at: 2019-11-09T22:10
 historia: |-
   Esta salsa originalmente en Italia es llamada ¨sugo di pomodoro alla napoletana¨. Otros nombres que suele ser usado para llamarla son:  Marinara, Al Pomodoro.
 

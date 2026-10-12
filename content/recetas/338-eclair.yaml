@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1654976751/zutwwv91diig9jsbycgs.png
   alt: Éclair
-created_at: 2022-06-11T19:45:51.372Z
-updated_at: 2022-06-11T19:45:51.372Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/zutwwv91diig9jsbycgs
+created_at: 2022-06-11T19:45
+updated_at: 2022-06-11T19:45
 historia: |-
   Un éclair, a veces también petisús, relámpago o palo de jacob, es un bollo fino o dona hecho con pasta choux, a la que se da forma alargada y se hornea hasta que queda crujiente y hueco,  y que habitualmente se rellena.
   El éclair se originó durante el siglo XIX en Francia, donde fue llamado "pain à la Duchesse" o "petite duchesse" hasta 1850.  El primer testimonio escrito en francés fue en la década de 1860.  Algunos historiadores de la comida especulan que los éclairs fueron hechos por primera vez por el famoso chef francés Marie-Antoine Carême (1784–1833).

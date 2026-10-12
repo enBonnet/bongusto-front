@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1574527359/xbe8rz2rgmsubq3q21wt.jpg
   alt: Ajiaco Colombiano
-created_at: 2019-11-10T23:23:58.774Z
-updated_at: 2019-11-10T23:23:58.774Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/xbe8rz2rgmsubq3q21wt
+created_at: 2019-11-10T23:23
+updated_at: 2019-11-10T23:23
 historia: "El nombre de este plato tiene varias teorías: la más arraigada dice que se denominó así porque su receta inicial contenía ají. Este dato lo afirmó Rufino José Cuervo en 1907, cuando señaló que “el ajiaco es un plato caracterizado por el ají, y así sucede en Cuba, Perú y Chile […] entre nosotros lo que se llama así no lleva tanto picante”. Otros creen en una leyenda indígena que cuenta que este caldo se bautizó así cuando gobernaba el Cacique Aco junto a su esposa Aj, y la combinación de sus nombres originó esta palabra. Los demás consideran que el término ajiaco es un nombre genérico, que se le otorgaba a sopas y cocidos, lo que explicaría la existencia de diversos tipos de ajiaco en varios países de Hispanoamérica. La idea de esta preparación que tuvo su auge y desarrollo en la época de la Colonia se le atribuye a los Muiscas que habitaban"
 ingredientes: |-
   ### 8 Porciones:

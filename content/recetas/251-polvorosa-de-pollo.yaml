@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1576420125/rnu2fczxiy1d2zakxzdm.png
   alt: Polvorosa de Pollo
-created_at: 2019-12-15T14:28:45.298Z
-updated_at: 2019-12-15T14:28:45.298Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/rnu2fczxiy1d2zakxzdm
+created_at: 2019-12-15T14:28
+updated_at: 2019-12-15T14:28
 historia: Hoy vamos a hablar de un plato fusión de comida española y venezolana, muy popular en Venezuela y dentro de nuestra gastronomía está considerado uno de los platos más deliciosos y emblemáticos. Se ha hablado que tuvo su origen en el polvorón español, otros estudiosos dicen que este guiso de pollo tiene su origen en la galantina de pollo, plato venezolano del siglo XIX., para derivar en lo que hoy conocemos como Polvorosa de Pollo. Este delicioso plato no podría preparase si no existiese el intercambio económico y cultural que se comenzó con el descubrimiento de América.
 ingredientes: |-
   ### Para 10 o 12 personas

@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1635777876/tm3pbfvvurjio7ihcg1f.png
   alt: "Tequila "
-created_at: 2021-11-01T14:44:36.568Z
-updated_at: 2021-11-01T14:44:36.568Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/tm3pbfvvurjio7ihcg1f
+created_at: 2021-11-01T14:44
+updated_at: 2021-11-01T14:44
 historia: "El tequila es una bebida de origen ancestral, que se ha producido desde el siglo XVI – aproximadamente en el 1538- y que toma el nombre de la región donde nace: Tequila Jalisco."
 ingredientes: |-
   - vaso shutter o caballito

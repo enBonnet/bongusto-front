@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1574435037/suc144qadks6ot8feumq.png
   alt: Tourtière
-created_at: 2019-11-22T15:03:56.824Z
-updated_at: 2019-11-22T15:03:56.824Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/suc144qadks6ot8feumq
+created_at: 2019-11-22T15:03
+updated_at: 2019-11-22T15:03
 historia: El Tourtière es una especie de pastel de carne originario de Quebec, Canadá. Generalmente se elabora con carne de cerdo o venado, o vaca. Es un plato tradicional en Navidad y Año Nuevo en la provincia de Quebec, aunque se puede encontrar en las tiendas durante todo el año.
 ingredientes: |-
   ### De 4 a 6 porciones:

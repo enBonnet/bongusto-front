@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1575588643/xtrt1ytwm4lhtxjrt3vx.png
   alt: Pargo Relleno en Hojas de Plátano
-created_at: 2019-12-05T23:30:43.712Z
-updated_at: 2019-12-05T23:30:43.712Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/xtrt1ytwm4lhtxjrt3vx
+created_at: 2019-12-05T23:30
+updated_at: 2019-12-05T23:30
 historia: "A diferencia del que se encuentra en el Mediterráneo, este pez es especialmente suave y gustoso en las costas venezolanas, probablemente por la alta salinidad del mar Caribe. Desde tiempos de la Colonia, el uso de las hojas de plátano ha sido muy popular como envoltorio para la cocción: preserva los perfumes y sabores, ala vez que añade cierto aroma ahumado a los alimentos. Esta receta presenta la técnica de rellenar un pescado (más sencilla de lo que muchos piensan) y brinda una combinación de sabores salados, dulces y cítricos, proporcionados por el relleno de vegetales y el baño de limones y naranjas."
 ingredientes: |-
   ### Ingredientes (para 4 personas) 

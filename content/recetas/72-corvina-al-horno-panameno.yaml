@@ -6,8 +6,9 @@ categorias: []
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1573425417/lfbp2ddaqiwv8btcglew.png
   alt: Corvina al Horno Panameño
-created_at: 2019-11-10T22:36:57.800Z
-updated_at: 2019-11-10T22:36:57.800Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/lfbp2ddaqiwv8btcglew
+created_at: 2019-11-10T22:36
+updated_at: 2019-11-10T22:36
 historia: Este plato, es muy común en toda la gastronomia y especialmente en las costas donde este pez se encuentra, no hay una historia definida ni un autor, pero en Panama es muy consumido y apreciado.
 ingredientes: |-
   ### 1 a 2 Porciones:

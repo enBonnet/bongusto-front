@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1574521802/bp3ydcfy43lk3wp43d3k.jpg
   alt: Arroz a la Marinera o Paella Marinera
-created_at: 2019-11-09T13:32:42.809Z
-updated_at: 2019-11-09T21:29:47.929Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/bp3ydcfy43lk3wp43d3k
+created_at: 2019-11-09T13:32
+updated_at: 2019-11-09T21:29
 historia: La paella (del catalán (Valencia) sartén) es una receta que tiene como  base el arroz, con origen en la Comunidad Valenciana y hoy en día muy popular en toda España y también en otros países; en esta receta el arroz se cocina junto a otros alimentos en una sartén, generalmente ancha y con asas.
 ingredientes: |-
   6 Porciones

@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1575728786/rd76sbxvwi4h2w1ozhbw.png
   alt: Ensalada de Gallina
-created_at: 2019-12-07T14:26:25.796Z
-updated_at: 2019-12-07T14:26:25.796Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/rd76sbxvwi4h2w1ozhbw
+created_at: 2019-12-07T14:26
+updated_at: 2019-12-07T14:26
 historia: |-
   Junto con la hallaca, el pernil y el pan de jamón, la ensalada de gallina es parte indispensable de la mesa navideña. De igual modo, es uno de los platos más comunes en las celebraciones venezolanas, aunque también suele comerse sola o como relleno de arepas.
   Algunos ingredientes varían de una región a otra, pero su base se mantiene siempre: gallina o pollo desmechado, papas, guisantes y zanahorias, aderezado todo con mayonesa y un toque dulzón provisto generalmente por cuadritos de manzana verde o amarilla.

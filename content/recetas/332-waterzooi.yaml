@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1654975437/yp8ye8dinuddqdhbxhmm.png
   alt: Waterzooi
-created_at: 2022-06-11T19:23:56.921Z
-updated_at: 2022-06-11T19:23:56.921Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/yp8ye8dinuddqdhbxhmm
+created_at: 2022-06-11T19:23
+updated_at: 2022-06-11T19:23
 historia: |-
   El nombre de este plato es de origen flamenco, concretamente de la ciudad de Gante, y significa "hervido". Es uno de los platos más conocidos de Bélgica preparado como un estofado. Suele servirse caliente y suele ser tanto de pescado como de pollo.
   El waterzooi se remonta a la Edad Media, hacia finales del siglo XIII. La receta fue creada en la ciudad de Gante, y más precisamente en Quai de Brabant.

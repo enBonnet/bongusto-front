@@ -6,8 +6,9 @@ categorias: []
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1632578181/lk00dgehsuteub8aunlx.jpg
   alt: Cordón Bleu de pollo en Salsa
-created_at: 2021-05-02T20:54:23.418Z
-updated_at: 2021-05-02T20:54:23.418Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/lk00dgehsuteub8aunlx
+created_at: 2021-05-02T20:54
+updated_at: 2021-05-02T20:54
 historia: |-
   Durante la monarquía francesa el el cordón bleu (que traducido literalmente significa cinta azul) era la máxima condecoración de los Caballeros del Santo Espíritu, orden instituida en 1578 por Enrique III de Francia y la máxima distinción de la aristocracia francesa. De ahí que utilizar cordón blue significa hablar de algo excelente.
   Otras fuentes afirman que los Caballeros del Santo Espíritu, y portadores del "lazo azul" de la orden, tenían por costumbre reunirse en un club, tipo club de gourmet para mantener el arte del buen comer y del buen beber.

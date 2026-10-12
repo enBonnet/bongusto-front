@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1573343322/dnhakm8oaicabhjs6gkg.png
   alt: Pico Gallo
-created_at: 2019-11-09T23:48:42.121Z
-updated_at: 2019-11-09T23:48:42.121Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/dnhakm8oaicabhjs6gkg
+created_at: 2019-11-09T23:48
+updated_at: 2019-11-09T23:48
 historia: Existe la teoría de que al momento de cortar  los cuadritos de cebolla y jitomate, quedaban  tan pequeños como el pico de un gallo, además de que su sabor condimentado era como si el gallo te picara.
 ingredientes: |-
   ### 8 porciones:

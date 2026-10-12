@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1575729092/ed5aikhpfqyw1pl9kg0n.png
   alt: Ensalada de Ruedas
-created_at: 2019-12-07T14:31:32.604Z
-updated_at: 2019-12-07T14:31:32.604Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/ed5aikhpfqyw1pl9kg0n
+created_at: 2019-12-07T14:31
+updated_at: 2019-12-07T14:31
 historia: |-
   Sabores, texturas y colores contrastantes son los que definen esta fresca y popular ensalada. Pocos platos se descubren tan distintos en cada bocado: más que una unidad de ingredientes, los vegetales que la conforman se presentan en trozos grandes, contundentes, para una degustación casi individual. 
   Así, los sabores dulces de la remolacha y la zanahoria se combinan con otros más neutros como el de la papa, o más fuertes, como los de la cebolla o el rábano. Suele servirse como contorno de carnes rojas o blancas.

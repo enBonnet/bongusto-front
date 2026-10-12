@@ -39,7 +39,8 @@ export async function getAcerca(): Promise<Acerca | undefined> {
   return reader.singletons.acerca.read();
 }
 
-/** Render a markdoc field (Reader returns { node }; tolerate plain strings). */
+/** Render a markdoc field (Reader returns { node }; tolerate plain strings).
+ *  Strips the `<article>` wrapper Markdoc.renderers.html adds for documents. */
 export function renderMarkdoc(value: unknown): string {
   if (!value) return "";
   const node =
@@ -47,5 +48,9 @@ export function renderMarkdoc(value: unknown): string {
       ? Markdoc.parse(value)
       : (value as { node?: unknown }).node ?? null;
   if (!node) return "";
-  return Markdoc.renderers.html(Markdoc.transform(node as never));
+  const html: string = Markdoc.renderers.html(Markdoc.transform(node as never));
+  if (html.startsWith("<article>") && html.endsWith("</article>") && !html.includes("<article>", 9)) {
+    return html.slice(9, -10);
+  }
+  return html;
 }

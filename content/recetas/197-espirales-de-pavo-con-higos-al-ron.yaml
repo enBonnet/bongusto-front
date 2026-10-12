@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1575674066/myxfa1soc8ewpkjkhcyi.png
   alt: Espirales de Pavo con Higos al Ron
-created_at: 2019-12-06T23:14:26.428Z
-updated_at: 2019-12-06T23:14:26.428Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/myxfa1soc8ewpkjkhcyi
+created_at: 2019-12-06T23:14
+updated_at: 2019-12-06T23:14
 historia: "Con esta receta se presenta una peculiar y vistosa manera de preparar el pavo: el enrollado. Para lograr una interesante combinación entre la textura fibrosa de esta ave y la suavidad que pueden aportar las frutas, se incluye un relleno de higos remojados en uno de los licores más típicos del país: el ron. De esta manera, se impregna toda la pieza con su sabor dulce."
 ingredientes: |-
   ### Ingredientes (para 4 personas) 

@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1575669290/wic4pm05d7zrwwwrpojm.png
   alt: Consomé de Pescado
-created_at: 2019-12-06T21:54:49.825Z
-updated_at: 2019-12-06T21:54:49.825Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/wic4pm05d7zrwwwrpojm
+created_at: 2019-12-06T21:54
+updated_at: 2019-12-06T21:54
 historia: "La sopa de pescado es una preparación culinaria elaborada principalmente con trozos de pescado que suele ser cocido en un medio líquido en presencia de otros ingredientes, como pueden ser verduras. Suele emplearse en la cocción del pescado: agua, caldo, o en algunos casos agua de mar. La sopa de pescado responde a la disponibilidad regional del pescado. Es por esta razón por la que existen numerosas recetas ligadas a cada gastronomía. La sopa suele prepararse en una cocción que dura varios minutos. Debido a la consistencia del pescado no suele llevar largos periodos de cocción. Generalmente suele servirse caliente en cuenco, o plato hondo."
 ingredientes: |-
   ### Ingredientes (Para 1 litro de caldo) 

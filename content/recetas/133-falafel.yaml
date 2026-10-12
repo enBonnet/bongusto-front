@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1574349403/cmdbbqmbyq357br6avvo.png
   alt: Falafel
-created_at: 2019-11-21T15:16:43.051Z
-updated_at: 2019-11-21T15:16:43.051Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/cmdbbqmbyq357br6avvo
+created_at: 2019-11-21T15:16
+updated_at: 2019-11-21T15:16
 historia: A pesar de que su origen es incierto, se cree que es original de la India, donde se cocinó en un pan con especias amargas. La palabra "falafel" viene de la palabra árabe فلفل (filfil), que significa pimiento, y probablemente del sánscrito pippalī.
 ingredientes: |-
   ### De 6 a 10 porciones:

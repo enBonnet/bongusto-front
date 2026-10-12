@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1631453894/gxs3ndjwtf1nccpuwecr.png
   alt: Churros
-created_at: 2021-09-12T13:38:14.814Z
-updated_at: 2021-10-16T14:52:42.514Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/gxs3ndjwtf1nccpuwecr
+created_at: 2021-09-12T13:38
+updated_at: 2021-10-16T14:52
 historia: El churro que conocemos hoy en México llego de España, pero se cree que la técnica de la fritura de la masa se originó en China y fue introducida en la Península Ibérica por los navegantes portugueses.
 ingredientes: |-
   ### De 16 a 18 porciones 

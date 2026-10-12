@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1575758660/t2drlukswtiv627xggaj.png
   alt: Bolitas de Carne
-created_at: 2019-12-07T22:44:20.647Z
-updated_at: 2019-12-07T22:44:20.647Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/t2drlukswtiv627xggaj
+created_at: 2019-12-07T22:44
+updated_at: 2019-12-07T22:44
 historia: La popularización de los entremeses o pasapalos es relativamente reciente en nuestro país. Algunos de ellos han sido parte de los platos fuertes, pero desde hace algunos años, se han ido adaptando a las nuevas costumbres sociales, para acompañar las bebidas en reuniones festivas, y servir como entradas o primeros platos. Las bolitas de carne, al igual que las de queso, se encuentran entre los platillos más solicitados en fiestas y brindis, son muy fáciles de preparar y pueden consumirse calientes o a temperatura ambiente.
 ingredientes: |-
   ### Ingredientes - para 35 porciones 

@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1574528863/kbdoz75wrcsvwd1rlfzt.png
   alt: Ensalada de Niçoise
-created_at: 2019-11-20T15:52:40.088Z
-updated_at: 2019-11-20T15:52:40.088Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/kbdoz75wrcsvwd1rlfzt
+created_at: 2019-11-20T15:52
+updated_at: 2019-11-20T15:52
 historia: La Ensalada Niçoise (también llamada Nizzarda) es una ensalada típica de la Gastronomía de Francia, concretamente de la región de la Costa Azul (Cote D’Azur) y cuyo origen como su propio nombre indica está en la ciudad de Niza. Tradicionalmente se sirve sobre un plato llano y se presenta sobre un lecho o cama de lechuga.
 ingredientes: |-
   ### De 4 a 6 Porciones:

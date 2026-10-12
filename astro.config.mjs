@@ -8,6 +8,6 @@ import netlify from "@astrojs/netlify";
 export default defineConfig({
   output: "static",
   adapter: netlify(),
-  site: "https://bongusto.net",
+  site: "https://www.bongusto.net",
   server: { port: 4321 },
 });

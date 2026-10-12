@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1575673638/falpzb5nj3b78wewba0a.png
   alt: Pollo al Horno
-created_at: 2019-12-06T23:07:18.769Z
-updated_at: 2019-12-06T23:07:18.769Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/falpzb5nj3b78wewba0a
+created_at: 2019-12-06T23:07
+updated_at: 2019-12-06T23:07
 historia: "Para obtener un pollo al horno jugoso y crujiente sólo hace falta conocer un secreto: la temperatura correcta. Por debajo de 240°C, ninguna pieza se dora; mientras que con un calor mayor es difícil cocerla en su totalidad sin quemar alguna parte. Los métodos de cocción en seco (al horno, a la parrilla o a la plancha) son siempre. recomendables para carnes suaves y jugosas, como la de esta ave, mientras que para otras más duras suele utilizarse con mayor frecuencia la cocción húmeda (guisado, hervido o en caldo corto). El pollo al horno es una receta sencilla y muy popular en la dieta cotidiana."
 ingredientes: |-
   ### Ingredientes (para 4 personas) 

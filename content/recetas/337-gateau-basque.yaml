@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1654976515/hzbmdxgjyl2hvwqeejtm.png
   alt: Gateau Basque
-created_at: 2022-06-11T19:41:55.330Z
-updated_at: 2022-06-11T19:41:55.330Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/hzbmdxgjyl2hvwqeejtm
+created_at: 2022-06-11T19:41
+updated_at: 2022-06-11T19:41
 historia: Consta de una masa de pasta de harina, manteca y huevos que se rellena generalmente de crema pastelera, aunque también los hay rellenos de albaricoques o de alguna fruta. Su origen se encuentra en el siglo XVIII en la localidad labortana de Cambo, cuando estaba relleno de fruta como higos, moras y cerezas de Itsasu. A partir del siglo XIX se empezó a rellenar de crema pastelera.
 ingredientes: |-
   - 120 g de azúcar 

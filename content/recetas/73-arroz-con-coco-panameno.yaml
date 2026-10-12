@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1573426162/qkqzwejso0m8xkee8jtd.png
   alt: Arroz con Coco Panameño
-created_at: 2019-11-10T22:49:22.224Z
-updated_at: 2019-11-10T22:49:22.224Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/qkqzwejso0m8xkee8jtd
+created_at: 2019-11-10T22:49
+updated_at: 2019-11-10T22:49
 historia: |-
   En Panamá es un arroz de contorno que es una delicia!
 

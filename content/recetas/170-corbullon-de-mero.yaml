@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1575587827/npwcqk74yjuxie1myn0j.png
   alt: Corbullón de Mero
-created_at: 2019-12-05T23:17:07.461Z
-updated_at: 2019-12-05T23:17:07.461Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/npwcqk74yjuxie1myn0j
+created_at: 2019-12-05T23:17
+updated_at: 2019-12-05T23:17
 historia: |-
   El corbullón de mero es un plato mestizo. Llegó a nuestro territorio con la inmigración corsa de comienzos del siglo XIX, asentada principalmente en Carúpano, que en ese momento constituía una ciudad muy atractiva para el comercio.
   Como su nombre lo indica, esta receta Se prepara con mero, aunque se conocen versiones con pargo. Una de las muestras de crio-llización de este plato es la incorporación de bolitas de masa con ají dulce.

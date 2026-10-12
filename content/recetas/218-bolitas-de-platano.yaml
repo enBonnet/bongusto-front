@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1575750441/tbegcfihhdggtb9kwu8p.png
   alt: Bolitas de Plátano
-created_at: 2019-12-07T20:27:21.311Z
-updated_at: 2019-12-07T20:27:21.311Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/tbegcfihhdggtb9kwu8p
+created_at: 2019-12-07T20:27
+updated_at: 2019-12-07T20:27
 historia: Como si se trataran de unas pequeñas croquetas, las bolitas de plátano resultan un delicado contorno, entrada o pasa paló. En el estado Táchira las llaman micos y se hacen con una masa de cambur chocheco, plátano o cambur guineo verde, y en lugar de freírse, son asadas en un budare, en brasas o sobre cenizas.
 ingredientes: |-
   ### Ingredientes para 25 porciones 

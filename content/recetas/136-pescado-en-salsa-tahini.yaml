@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1574351428/d2faglhw4i35bcvzmhtt.png
   alt: "Pescado en Salsa Tahini "
-created_at: 2019-11-21T15:50:27.890Z
-updated_at: 2019-11-21T15:50:27.890Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/d2faglhw4i35bcvzmhtt
+created_at: 2019-11-21T15:50
+updated_at: 2019-11-21T15:50
 historia: Esta receta está decorada con una de las salsas más deliciosas y celebres de la cocina sirio-libanesa tradicional. Pues ambas tradiciones se encuentran estrechamente relacionadas en lo que a cultura alimentaria se refiere, no sólo por la proximidad geográfica, sino también por la multiplicidad de elementos de la vida cotidiana que comparten provenientes de un mismo sustrato cultural.
 ingredientes: |-
   ### 4 Porciones:

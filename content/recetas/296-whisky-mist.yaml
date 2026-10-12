@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1635604540/mbbkr4i8w38kz1kb9b1n.png
   alt: Whisky Mist
-created_at: 2021-10-30T14:35:40.862Z
-updated_at: 2021-10-30T14:35:40.862Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/mbbkr4i8w38kz1kb9b1n
+created_at: 2021-10-30T14:35
+updated_at: 2021-10-30T14:35
 historia: Se dice que el hábito de tomar whisky escocés “On the rocks” empezó en los climas cálidos, después de que las personas encontraron un creativo método para enfriar el whisky, sumergiendo piedras en el fondo de los ríos. Y no esta bien definodo como comenzaron a aromatizarlo con piel de limón.
 ingredientes: |-
   - Vaso: (vaso old fashion)

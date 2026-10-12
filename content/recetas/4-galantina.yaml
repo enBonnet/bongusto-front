@@ -6,8 +6,9 @@ categorias: []
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1573164107/ksniq3ucqbjtnfcvhhzm.jpg
   alt: Galantina
-created_at: 2019-11-07T22:01:47.846Z
-updated_at: 2019-11-09T21:49:47.679Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/ksniq3ucqbjtnfcvhhzm
+created_at: 2019-11-07T22:01
+updated_at: 2019-11-09T21:49
 historia: La historia de las primeras es muy antigua y los famosos cocineros de la Edad Media ya ofrecían recetas de diferentes galantinas. Uno de ellos, Martino da Como, declarado el “príncipe de los cocineros” y jefe de cocina del entonces administrador de las finanzas del Vaticano, escribió en su obra del siglo XV “Libro de Arte Culinaria”, varias recetas de galantinas, como se denominaban entonces estas preparaciones que incluían gelatinas. En esta época, el término galauntine, quizás dando referencias de la galantería, o galantyne, era la denominación de las variadas salsas elaboradas a partir del rizoma molido llamado galangal, prensado y sazonado con sal y pimienta negra. La salsa se empleaba con pescado y anguilas, y también con ocas y venados.
 ingredientes: |-
   ### De 6 a 8 Raciones:

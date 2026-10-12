@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1576703701/xxztgdiftyxjjvrzrerz.jpg
   alt: Chupe De Camarones
-created_at: 2019-12-18T21:15:01.520Z
-updated_at: 2019-12-18T21:15:01.520Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/xxztgdiftyxjjvrzrerz
+created_at: 2019-12-18T21:15
+updated_at: 2019-12-18T21:15
 historia: |-
   Una buena receta de chupe de camarones puede funcionar como primer y segundo plato. Es 
   una comida abundante que rinde para muchas porciones; así que, si tienes muchos comensales, 

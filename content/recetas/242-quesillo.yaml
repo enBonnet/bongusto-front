@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1575760827/aaesesonqu90yfbitqiz.png
   alt: Quesillo
-created_at: 2019-12-07T23:20:27.139Z
-updated_at: 2019-12-07T23:20:27.139Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/aaesesonqu90yfbitqiz
+created_at: 2019-12-07T23:20
+updated_at: 2019-12-07T23:20
 historia: Suele decirse que el quesillo es la versión criolla del flan, un postre muy popular en España, y ciertamente, en poco se diferencian las preparaciones de uno y otro, salvo que el primero lleva huevos enteros y el segundo requiere únicamente las yemas. El quesillo típico tradicional muestra muchos pequeños, agujeros, efecto producido precisamente por las claras de huevo. Quizá su nombre, que se sabe enteramente venezolano, se deba a esta textura perforada y consistencia blanda que recuerda al queso llanero. En algunas variaciones incluye ingredientes que le dan sabor específico y "apellido" como es el caso de los quesillos de café, coco, chocolate, guanábana, naranja, guayaba o piña.
 ingredientes: |-
   ### Ingredientes (para 12 personas) 

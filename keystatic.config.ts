@@ -61,6 +61,10 @@ export default config({
               label: "URL de la foto (Cloudinary)",
               description: "Sube la imagen en Cloudinary y pega su URL aquí.",
             }),
+            thumb: fields.url({
+              label: "URL miniatura (opcional)",
+              description: "Versión reducida para listados/SEO (transformación de Cloudinary).",
+            }),
             alt: fields.text({
               label: "Texto alternativo",
               defaultValue: "",

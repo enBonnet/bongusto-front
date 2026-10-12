@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1654976266/guezff5tqahcsp62g0ku.png
   alt: Entrecot en salsa Bordalesa
-created_at: 2022-06-11T19:37:46.523Z
-updated_at: 2022-06-11T19:37:46.523Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/guezff5tqahcsp62g0ku
+created_at: 2022-06-11T19:37
+updated_at: 2022-06-11T19:37
 historia: La salsa bordelaise es una preparación francesa popular que se agrega con frecuencia a las carnes y otras preparaciones saladas. Llamada así por la región productora de vino de Burdeos, Francia, esta abundante salsa generalmente involucra una base de vino y caldo. La salsa Bordelaise es una característica común en los menús de inspiración francesa en todo el mundo y puede agregar un sabor sofisticado a una amplia variedad de platos.
 ingredientes: |-
   - 2 solomillos troceados 

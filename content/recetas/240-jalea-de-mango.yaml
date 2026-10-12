@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1575760421/i0yhhk2olglqje4zjrit.png
   alt: Jalea de Mango
-created_at: 2019-12-07T23:13:41.746Z
-updated_at: 2019-12-07T23:13:41.746Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/i0yhhk2olglqje4zjrit
+created_at: 2019-12-07T23:13
+updated_at: 2019-12-07T23:13
 historia: "Entre todas las preparaciones dulces que se elaboran con este fruto, la jalea de mango (que puede ser verde o maduro, con resultados algo distintos) es la más criolla. Se caracteriza por su textura sedosa, color brillante y sabor pronunciado. Muchos otros dulces criollos (como el de hicacos o limonzón) se preparan con un procedimiento parecido: basta hervir la fruta con abundante azúcar o papelón, y servirla con o sin semilla."
 ingredientes: |-
   ### Ingredientes (para 5 porciones) 

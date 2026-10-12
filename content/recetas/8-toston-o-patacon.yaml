@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1573170963/cj2m24rfaiubqmoqof5s.png
   alt: Tostón o patacón
-created_at: 2019-11-07T23:56:02.979Z
-updated_at: 2019-11-09T22:16:17.860Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/cj2m24rfaiubqmoqof5s
+created_at: 2019-11-07T23:56
+updated_at: 2019-11-09T22:16
 historia: El patacón, tostón, tachino, frito o tajada es una comida a base de trozos aplanados fritos de plátano verde, tradicional en la culinaria de varios países de América y el Caribe como Colombia, Cuba, Ecuador, Haití, Honduras, Nicaragua, Costa Rica, Panamá, Puerto Rico, República Dominicana y Venezuela.
 ingredientes: |-
   ### 4 porciones:

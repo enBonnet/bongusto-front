@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1574553892/ipq8tt1vhoyvwst7epcw.png
   alt: Ensalada Coleslaw
-created_at: 2019-11-24T00:04:52.498Z
-updated_at: 2019-11-24T00:04:52.498Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/ipq8tt1vhoyvwst7epcw
+created_at: 2019-11-24T00:04
+updated_at: 2019-11-24T00:04
 historia: |-
   Esta ensalada tiene su origen probablemente en los periodos del imperio romano. No obstante el moderno coleslaw nace en el siglo XVIII tomando como origen una palabra en holandés «koolsla», una abreviación de la frase «kool salade» que viene a significar «ensalada de col».
   En inglaterra durante los años 1860 se usaba la denominación cold slaw cuando se hablaba de este plato.

@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1654963126/xk2dlzeaddaioslwerke.png
   alt: Sopa Pistou
-created_at: 2022-06-11T15:58:46.115Z
-updated_at: 2022-06-11T15:58:46.115Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/xk2dlzeaddaioslwerke
+created_at: 2022-06-11T15:58
+updated_at: 2022-06-11T15:58
 historia: |-
   Pistou, es una salsa francesa parecida al famoso pesto genovés. Es un condimento típico de la región de Provenza en Francia cuyo uso principal es realzar el sabor de la sopa al pistou.
   Probablemente el pistou y el pesto compartan origen. El poeta romano Virgilio describe una salsa de hierbas machacadas, ajo, sal y aceite de oliva.  

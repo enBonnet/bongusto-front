@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1573313558/bbzdlbst39snxj0jw2yo.png
   alt: Negro en Camisa
-created_at: 2019-11-09T15:32:38.757Z
-updated_at: 2019-11-09T21:51:08.117Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/bbzdlbst39snxj0jw2yo
+created_at: 2019-11-09T15:32
+updated_at: 2019-11-09T21:51
 historia: |-
   Los postres tradicionales venezolanos son un deleite, tanto por su sabor como por la historia que los acompaña. La mayoría, como la gastronomía criolla en general, tiene influencias de culturas extranjeras debido a la gran cantidad de inmigrantes que llegaron a Venezuela en el siglo XX, además de los colonizadores españoles.
 

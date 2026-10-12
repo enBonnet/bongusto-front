@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1574546338/jffs25zeflojywpgu2ux.png
   alt: Filete Stroganoff De Ternera Con Fettuccine
-created_at: 2019-11-23T21:58:58.778Z
-updated_at: 2019-11-23T21:58:58.778Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/jffs25zeflojywpgu2ux
+created_at: 2019-11-23T21:58
+updated_at: 2019-11-23T21:58
 historia: Los orígenes del “beef Stroganoff” son claramente franceses y la mayor parte de los historiadores de la gastronomía, como Darra Goldstein, autora de “El gusto de Rusia”, están de acuerdo en que fue el famoso chef francés del conde Pável Stroganoff quien adaptó un guiso de ternera francés de manual al gusto de su patrón ruso en el siglo XIX.
 ingredientes: |-
   ### 5 porciones:

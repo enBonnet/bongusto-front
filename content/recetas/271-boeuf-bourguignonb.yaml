@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1619814396/zx1zu7j7tnjuwi4jyvpu.png
   alt: Boeuf BourguignonB
-created_at: 2021-04-30T20:26:35.778Z
-updated_at: 2021-10-16T14:46:23.987Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/zx1zu7j7tnjuwi4jyvpu
+created_at: 2021-04-30T20:26
+updated_at: 2021-10-16T14:46
 historia: |-
   El bouef bourguignon es un plato cuyo origen se sitúa en la región francesa de la Borgoña, a 100 km al sur de París.
   El primer chef que publicó la receta fue Auguste Escoffier y lo hizo a principios del SXX, en 1903 utilizó una pieza completa de buey para hacer este estofado, llevándolo a formar parte de la alta cocina. Más tarde, fue Julia Child quien lo popularizó, aunque en este caso, la carne iba troceada.

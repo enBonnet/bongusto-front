@@ -6,8 +6,9 @@ categorias: []
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1573686188/whqdplgplxy8ucljfmy0.png
   alt: Tostada Francesa
-created_at: 2019-11-13T23:03:08.304Z
-updated_at: 2019-11-13T23:03:08.304Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/whqdplgplxy8ucljfmy0
+created_at: 2019-11-13T23:03
+updated_at: 2019-11-13T23:03
 historia: |-
   En el Imperio Romano ya existían
   De hecho, las pruebas de la existencia de las tostadas francesas se remontan hasta nada más y nada menos que hasta una colección de Recetas de Apicius que datan del siglo V en pleno Imperio Romano.

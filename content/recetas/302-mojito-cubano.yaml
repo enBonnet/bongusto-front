@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1635692206/cqizfxwokx1pojppdtsf.png
   alt: Mojito Cubano
-created_at: 2021-10-31T14:56:46.628Z
-updated_at: 2021-10-31T14:56:46.628Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/cqizfxwokx1pojppdtsf
+created_at: 2021-10-31T14:56
+updated_at: 2021-10-31T14:56
 historia: |-
   Cuenta la leyenda que la invención de este famoso cóctel denominado mojito, tuvo lugar en el siglo XVI de manos de uno de los piratas ingleses más famosos de su tiempo, Francis Drake.
   La combinación inicial del mojito conocido entonces como “Draque”, mezclaba “tafia” (aguardiente de caña antecesor del ron), azúcar, lima y menta siendo remedio habitual para dolencias estomacales, combatir el cólera y el escorbuto, mal  que azotaba a las tripulaciones que pasaban largas temporadas en alta mar.

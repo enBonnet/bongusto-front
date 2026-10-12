@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1576708554/skorz1a68i1epmhg6gdx.jpg
   alt: Cotufas De Pollo En Salsa Agridulce
-created_at: 2019-12-18T22:35:54.063Z
-updated_at: 2019-12-18T22:35:54.063Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/skorz1a68i1epmhg6gdx
+created_at: 2019-12-18T22:35
+updated_at: 2019-12-18T22:35
 historia: El nugget de pollo fue inventado en la década de 1950 por Robert C. Baker, un profesor de tecnología de los alimentos en la Universidad Cornell, que lo publicó como trabajo académico sin patente.​ Las innovaciones de Baker permitieron elaborar nuggets de pollo de cualquier forma. La receta de McDonald's para los McNuggets de pollo fue creada por encargo por Tyson Foods en 1979 y el producto empezó a comercializarse al año siguiente. Una sentencia en 2003 en una demanda contra McDonald's por parte de un grupo de adolescentes obesos catalogó los 38 ingredientes del Chicken McNugget.​
 ingredientes: |-
   ### Para 4 porciones 

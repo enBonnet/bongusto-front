@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1575760558/ranxgs4l9vxqwyd0tv3n.png
   alt: Huevos Chimbos
-created_at: 2019-12-07T23:15:58.857Z
-updated_at: 2019-12-07T23:15:58.857Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/ranxgs4l9vxqwyd0tv3n
+created_at: 2019-12-07T23:15
+updated_at: 2019-12-07T23:15
 historia: Lo que más sorprende a quienes por primera vez prueban esta almíbarada y esponjosa preparación es saber que su base es yema de huevo batido. Se cocina en baño de María, bien sea en unos moldes (llamados también chimberas entre los maracuchos) o en las mismas cáscaras de los huevos.
 ingredientes: |-
   ### Ingredientes (para 6 porciones) 

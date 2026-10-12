@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1575727253/vieg7hqo2t02rij7qg3p.png
   alt: Caraotas Negras
-created_at: 2019-12-07T14:00:53.826Z
-updated_at: 2019-12-07T14:00:53.826Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/vieg7hqo2t02rij7qg3p
+created_at: 2019-12-07T14:00
+updated_at: 2019-12-07T14:00
 historia: Las caraotas negras han sido tan populares en todas las clases sociales que han llegado a despertar odios y afectos. Tiempo atrás las llamaban carolinas (o caviar criollo, en momentos de escasez), y se asociaban sus cualidades alas de las mujeres de color.
 ingredientes: |-
   ### Ingredientes (para 8 personas) 

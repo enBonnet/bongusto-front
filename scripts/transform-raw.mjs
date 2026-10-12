@@ -52,6 +52,8 @@ for (const raw of recipes) {
   filenameSlugs.set(entrySlug, raw.id);
 
   const cats = [...new Set((raw.categorias ?? []).map((c) => slugify(c.nombre)))];
+  // Keystatic fields.datetime expects "YYYY-MM-DDTHH:mm" (minutes precision).
+  const dt = (v) => (typeof v === "string" ? v.slice(0, 16) : v);
   const data = {
     titulo: raw.titulo,
     id: raw.id,
@@ -59,10 +61,10 @@ for (const raw of recipes) {
     publico: raw.publico === true,
     categorias: cats,
     photo: raw.photo?.url
-      ? { url: raw.photo.url, alt: raw.titulo }
+      ? { url: raw.photo.url, alt: raw.titulo, ...(raw.imageBase ? { thumb: raw.imageBase } : {}) }
       : { url: null, alt: "" },
-    created_at: raw.created_at,
-    updated_at: raw.updated_at,
+    created_at: dt(raw.created_at),
+    updated_at: dt(raw.updated_at),
   };
   for (const key of ["historia", "ingredientes", "preparacion"]) {
     const val = (raw[key] ?? "").trim();
@@ -85,7 +87,10 @@ const acerca = {
   cursos: (about.cursos ?? "").trim(),
   photo: { url: about.photo?.url ?? null, alt: "Antonio Bonnet" },
 };
-writeFileSync(join(CONTENT, "acerca", "acerca.yaml"), stringify(acerca, { lineWidth: 0 }));
+writeFileSync(
+  join(CONTENT, "acerca", "acerca.yaml"),
+  stringify(acerca, { lineWidth: 0 })
+);
 
 // ---------- report ----------
 console.log(`\n=== TRANSFORM SUMMARY ===`);
@@ -95,3 +100,7 @@ console.log(`categorias: ${catSlugToName.size}`);
 console.log(`acerca: OK`);
 const noCat = recipes.filter((r) => !(r.categorias ?? []).length).length;
 if (noCat) console.log(`⚠ ${noCat} recipes without categories`);
+console.log(
+  `⚠ WARNING: this overwrites content/ in place. Once the CMS is in use, ` +
+    `editor changes live in content/ and re-running this script will clobber them.`
+);

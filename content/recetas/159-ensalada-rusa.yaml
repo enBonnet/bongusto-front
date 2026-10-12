@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1574545968/c4hqjzhxvfky0nwswnof.png
   alt: Ensalada Rusa
-created_at: 2019-11-23T21:52:48.792Z
-updated_at: 2019-11-23T21:52:48.792Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/c4hqjzhxvfky0nwswnof
+created_at: 2019-11-23T21:52
+updated_at: 2019-11-23T21:52
 historia: |-
   La ensalada rusa es una de las ensaladas mas populares del mundo, sin embargo, existen muchas variaciones de este platillo ya que su receta original siempre fue considerada un misterio.
   Una de las teorías más divulgadas sobre la ensalada rusa es la de un cocinero belga de origen francés llamado Lucien Olivier. Se cuenta que Olivier emigró a Rusia para abrir su restaurante de alta cocina en Moscú, el Hermitage (o Ermitage) por ahí de 1860 en un edificio al lado de la plaza Trubnaya. En su restaurante, Olivier ofrecía lo mejor de la gastronomía francesa; el negocio triunfó gracias a la aristocracia zarista y a los grandes intelectuales que se reunían allí.

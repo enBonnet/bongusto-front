@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1573303555/aqg1iygqwo5dzrpzdxph.jpg
   alt: Torta de Yuca
-created_at: 2019-11-09T12:45:55.479Z
-updated_at: 2019-11-09T22:12:43.884Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/aqg1iygqwo5dzrpzdxph
+created_at: 2019-11-09T12:45
+updated_at: 2019-11-09T22:12
 historia: Este tipo de tortas se desarrolla ampliamente a partir del siglo XVIII, y se fueron perfeccionando al pasar el tiempo convirtiéndose en suaves y dulces manjares, que aportó a nuestra cocina cierta distinción. Posteriormente, Guzmán Blanco, en su empeñó en afrancesar nuestra ciudad capital y su gente, promueve la difusión de la reconocida cocina francesa y por supuesto sus postres; entonces flanes, pudines, espumas, crepes, refinados ponques y bizcochuelos se convierten en parte importante del menú de esa época, y aportan nuevos ingredientes y técnicas culinarias a la ya mestizada repostería venezolana.
 ingredientes: |-
   ### Insumos: 8 porciones

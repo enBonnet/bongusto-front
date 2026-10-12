@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1574288321/ex2m6ynmdozcbhdkwdiu.png
   alt: Selva Negra
-created_at: 2019-11-20T22:18:41.194Z
-updated_at: 2019-11-20T22:18:41.194Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/ex2m6ynmdozcbhdkwdiu
+created_at: 2019-11-20T22:18
+updated_at: 2019-11-20T22:18
 historia: El origen de esta torta se ubica en el siglo XVI cuando el chocolate ya se había asentado en Europa, y en la zona llamada Foresta Negra en alemán Der Schwarzwald situada en el estado de Baden-Württemberg. El nombre evoca la oscuridad y el misterio de una región conocida por sus cerezas algo agrias de las cuales se obtiene el Kirsch o Kirschwasser, un destilado doble, transparente, de la calidad Morello. La combinación de la cereza, el kirsch, la crema de leche y el chocolate hace de esta torta una tentación.
 ingredientes: |-
   De 4 a 6 porciones:

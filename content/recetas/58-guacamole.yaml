@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1573342617/hbi6oaspzehaawk6p6fu.png
   alt: Guacamole
-created_at: 2019-11-09T23:36:57.571Z
-updated_at: 2019-11-09T23:36:57.571Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/hbi6oaspzehaawk6p6fu
+created_at: 2019-11-09T23:36
+updated_at: 2019-11-09T23:36
 historia: La historia del guacamole en México se remonta a la época de los aztecas, quienes recolectaban aguacates para preparar un mole, de ahí su nombre en náhuatl “ahuacamolli” que viene de ahuacatl (aguacate) y molli (mole), sin embargo, con la conquista y la llegada de los españoles a América, el aguacate se volvió un alimento escaso, exclusivo y muy buscado pues se decía que su textura y sabor eran muy exóticos. Con el tiempo, el guacamole se convirtió en una preparación típica de todo México que ha trascendido fronteras, pues su elaboración es muy sencilla, ya que sólo debes mezclar el aguacate con chiles verdes, sal y ajo, aunque hay que tener cuidado para que no se oxide y pierda su sabor.
 ingredientes: |-
   ### 8 porciones:

@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1573601281/fcho8swvaklnq0xsz7tt.png
   alt: Huevos en Aspicc
-created_at: 2019-11-12T23:28:00.908Z
-updated_at: 2019-11-12T23:28:00.908Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/fcho8swvaklnq0xsz7tt
+created_at: 2019-11-12T23:28
+updated_at: 2019-11-12T23:28
 historia: Se cree que los primeros áspic se prepararon en tierras inglesas en épocas medievales, cuando se producía un tipo de jaleas a base de productos cárnicos y pescados. El proceso comenzaba con un consomé al cual, si era de carne, se le agregaba una pezuña de ternera para poder darle la textura gelatinosa, mientras que al de pescado al ser más delicado se le agregaban los huesos del animal.
 ingredientes: |-
   ### Insumos: (6 personas)

@@ -6,8 +6,9 @@ categorias: []
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1573602033/bq3db7chga7gvdei4lo2.png
   alt: Magret De Pato Con Zanahorias a la Vichy
-created_at: 2019-11-12T23:40:33.119Z
-updated_at: 2019-11-12T23:40:33.119Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/bq3db7chga7gvdei4lo2
+created_at: 2019-11-12T23:40
+updated_at: 2019-11-12T23:40
 historia: A pesar de que parece haber sido conocido desde hace mucho tiempo, el magret es una invención reciente. Tradicionalmente, la carne del pato cebado se preparaba en confit, y el asado entero se reservaba al pato ordinario. Fue André Daguin, chef del Hôtel de France en Auch (Gers), el primero en idear esta forma de preparar los filetes de pato cebado a principios de los años 1960. Daguin abogó por escoger entre el uso del término afrancesado le maigret y el término gascón lo magret, pero terminó imponiéndose en francés la forma mixta le magret.
 ingredientes: |-
   - 1 pechuga de Pato, con piel y su grasa.

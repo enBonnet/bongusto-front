@@ -6,8 +6,9 @@ categorias: []
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1573398253/t7cqctzgxujovy6yo7a4.png
   alt: Tacos Mexicanos
-created_at: 2019-11-10T15:04:12.963Z
-updated_at: 2021-09-12T13:32:30.368Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/t7cqctzgxujovy6yo7a4
+created_at: 2019-11-10T15:04
+updated_at: 2021-09-12T13:32
 historia: |-
   - Las tortillas se consumían en la América precolombina y el modo de comerlas en taco es una herencia directa del periodo a la actualidad.
 

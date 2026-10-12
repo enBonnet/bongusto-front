@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1574513469/olvf53ad4kg9avnudzqk.jpg
   alt: Brigadeiros de chocolate Brasil
-created_at: 2019-11-11T16:03:06.079Z
-updated_at: 2019-11-11T16:03:06.079Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/olvf53ad4kg9avnudzqk
+created_at: 2019-11-11T16:03
+updated_at: 2019-11-11T16:03
 historia: Brigadeiro es un dulce típico de la gastronomía brasileña, creado en la década de 1940, en Rio de Janeiro.​ Es común en todo el país y está presente en prácticamente todas las fiestas de cumpleaños.
 ingredientes: |-
   ### De 8 a 16 porciones:

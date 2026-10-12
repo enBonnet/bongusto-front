@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1575670572/wbjm7vbw5cls8vlbydux.png
   alt: Vuelve a la Vida
-created_at: 2019-12-06T22:16:12.072Z
-updated_at: 2021-09-12T14:06:37.278Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/wbjm7vbw5cls8vlbydux
+created_at: 2019-12-06T22:16
+updated_at: 2021-09-12T14:06
 historia: |-
   En todas las costas venezolanas es casi una religión que pase un vendedor ofreciendo el famoso “rompe colchón, Siete potencias, vuelve a la vida” con sus peculiares nombres que hacen sonrojar tanto a hombres como mujeres.
   Este conocido manjar afrodisíaco, suele seducir frecuentemente a los paladares por la diversidad de ingredientes: Camarones, mejillones, pulpo, pepitonas y calamares todos bañado en vinagre y limón, que le aporta ese toque ácido pero adictivo al paladar.

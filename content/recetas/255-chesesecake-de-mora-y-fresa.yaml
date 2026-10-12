@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1576618000/gmswbxhsbuwe4jbzcpl6.jpg
   alt: Chesesecake de Mora y Fresa
-created_at: 2019-12-17T21:26:40.671Z
-updated_at: 2021-10-22T20:53:36.774Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/gmswbxhsbuwe4jbzcpl6
+created_at: 2019-12-17T21:26
+updated_at: 2021-10-22T20:53
 historia: |-
   El pastel de queso tal y como lo conocemos ahora es el resultado de muchas modificaciones a lo largo de miles de años, se cree que su nacimiento se remonta 4000 años antes de la era actual, allá por la Antigua Grecia, en concreto en la isla de Samos.
 

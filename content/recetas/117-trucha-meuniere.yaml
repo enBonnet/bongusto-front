@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1574262059/p9xusgrd5q8e5kgv3sox.png
   alt: Trucha Meuniere
-created_at: 2019-11-20T15:00:59.134Z
-updated_at: 2019-11-20T15:00:59.134Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/p9xusgrd5q8e5kgv3sox
+created_at: 2019-11-20T15:00
+updated_at: 2019-11-20T15:00
 historia: Su origen es incierto, porque, si bien el nombre, cuya traducción es molinera en castellano, alude al rebozado en harina, y este procedimiento culinario es muy antiguo, el aporte de la salsa de mantequilla tostada y limón es la verdadera identidad del plato y parece una técnica más moderna. Esta receta ha viajado con la cultura francesa allá donde ésta ha dejado su impronta, así pues, la encontramos arraigada en la gastronomía criolla de Louisiana en el sur de Estados Unidos, donde Francia estableció una colonia entre los siglos XVII.
 ingredientes: |-
   ### 3 Porciones:

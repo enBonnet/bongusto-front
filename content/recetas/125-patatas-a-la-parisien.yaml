@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1574282438/fwxez8ivemvytbwzwxvr.png
   alt: Patatas a la parisien
-created_at: 2019-11-20T20:40:38.053Z
-updated_at: 2019-11-20T20:40:38.053Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/fwxez8ivemvytbwzwxvr
+created_at: 2019-11-20T20:40
+updated_at: 2019-11-20T20:40
 historia: Los franceses las hacían haciendo bolitas de patata con la ayuda de la cuchara noisette o "cuchara parisina", que no es otra que el aparato de hacer bolitas de melón. De ahí le viene el nombre de patatas parisinas.
 ingredientes: |-
   ### 6 Porciones:

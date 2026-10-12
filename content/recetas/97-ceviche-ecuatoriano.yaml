@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1573569901/xipjteiba2oqrfrilnlv.png
   alt: Ceviche Ecuatoriano
-created_at: 2019-11-12T14:45:01.705Z
-updated_at: 2019-11-12T14:45:01.705Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/xipjteiba2oqrfrilnlv
+created_at: 2019-11-12T14:45
+updated_at: 2019-11-12T14:45
 historia: Ceviche o Cebiche, algunos les atribuyen el origen del nombre, a los marineros ingleses que al llegar a los puertos peruanos degustaban un plato típico al que ellos llamaban “SEA BEACH” (Pescado en la Playa) y el nombre viene derivado de esa denominación.
 ingredientes: |-
   ### 4 porciones regulares o un tazón grande:

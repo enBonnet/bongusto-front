@@ -7,8 +7,9 @@ categorias:
 photo:
   url: https://res.cloudinary.com/enbonnet/image/upload/v1573571162/somkpumj7xkrufaw3sb9.png
   alt: Ceviche Mexicano
-created_at: 2019-11-12T15:06:02.310Z
-updated_at: 2019-11-12T15:06:02.310Z
+  thumb: https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/somkpumj7xkrufaw3sb9
+created_at: 2019-11-12T15:06
+updated_at: 2019-11-12T15:06
 historia: |-
   Los limones desembarcaron en América con los españoles y México fue una de sus primeras paradas. Los chiles –pimientos– son uno de los ingredientes fundamentales de la cocina del país, y el Pacífico no anda mal servido de pescado.
 
