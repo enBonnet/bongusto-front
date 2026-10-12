@@ -23,9 +23,13 @@ const historia = renderMarkdoc(receta.historia);
 const ingredientes = renderMarkdoc(receta.ingredientes);
 const preparacion = renderMarkdoc(receta.preparacion);
 // Chips linking back into browse — a recipe page was previously a dead end.
+// Dangling refs (category renamed/deleted in the CMS) are dropped, not
+// rendered as slug-labeled chips pointing at a 404.
 const categorias = await getCategorias();
 const nombreBySlug = new Map(categorias.map(({ slug, categoria }) => [slug, categoria?.nombre ?? slug]));
-const chipCats = (receta.categorias ?? []).map((s) => ({ slug: s, nombre: nombreBySlug.get(s) ?? s }));
+const chipCats = (receta.categorias ?? [])
+  .filter((s) => nombreBySlug.has(s))
+  .map((s) => ({ slug: s, nombre: nombreBySlug.get(s) ?? s }));
 ---
 
 <Layout

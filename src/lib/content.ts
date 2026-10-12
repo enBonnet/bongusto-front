@@ -48,7 +48,7 @@ export function recetaUrl(receta: Receta): string {
  */
 export function recetaCardImage(receta: Pick<Receta, "photo">): string | undefined {
   const thumb = receta.photo?.thumb;
-  if (thumb && thumb.includes("w_100,h_100,c_thumb")) {
+  if (thumb?.includes("/image/upload/") && thumb.includes("w_100,h_100,c_thumb")) {
     return thumb.replace("w_100,h_100,c_thumb", "w_600,h_600,c_thumb");
   }
   return receta.photo?.url ?? undefined;
