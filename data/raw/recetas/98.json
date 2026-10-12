@@ -1,0 +1,40 @@
+{
+  "id": 98,
+  "titulo": "Ceviche Panameño",
+  "descripcion": "El panameño degusta este tentempié en cualquier momento, sin importar si es de camarón, corvina o langostino.\n\n",
+  "historia": "Ceviche o Cebiche, algunos les atribuyen el origen del nombre, a los marineros ingleses que al llegar a los puertos peruanos degustaban un plato típico al que ellos llamaban “SEA BEACH” (Pescado en la Playa) y el nombre viene derivado de esa denominación.",
+  "ingredientes": "### - ½ Kilogramo de Camarones, limpios sin venas\t\n- 1 Pizca de Sal al gusto\n- ½ Kilogramo de Pescado corvina\t\t\n- 1 Cucharadita de Paprika\n- ½ Kilogramo de Almejas frescas\t\t\t\n- 1 Chorro de Vinagre\n- 2 Unidades de Cebollas grande bien picaditas\t\n- 1  rama Culantro    picadito\t\t\t\n- 1 Cucharadita de Mostaza\n- 1  ajie chombo, o habanero al gusto, bien picadito\n- 1 Taza de Jugo de Limón (aprox, 7 limones)",
+  "preparacion": "- Introducir los mariscos en un recipiente que sea de vidrio preferiblemente y manipularlos con una espátula de madera o plástico, esto ayuda a conservar fresco el producto.\n- introducir todos los mariscos en el recipiente e irle agregando el limón y el vinagre.\n- Luego la cebolla, el culantro, la mostaza y las demás especies, y la sal.\n- Revolver bien y buscarle el punto de picante deseado, dejar reposar por lo menos 4 horas en frio, y servir acompañado con galletitas simples o de soda.\n- Nota: esta receta es mejor si se deja reposar de un día para el otro y degustar nuevamente por si desea darle más gusto, agregándole más picante, ya que en ocasiones el marisco absorbe el sabor y se requiere de más sabor o grado de picante.\n- Esta es una receta que se acompaña con  cerveza bien fría.",
+  "publico": true,
+  "created_at": "2019-11-12T14:53:01.732Z",
+  "updated_at": "2019-11-12T14:53:01.732Z",
+  "photo": {
+    "id": 105,
+    "name": "Ceviche Panameño.png",
+    "hash": "d30ef7883c6844ef84ab8dc0cf9af1b8",
+    "sha256": "brP5EaNaSId-sL2zW9n6YVE1Iw6bKwZrY3NfyLu0c2c",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "444.51",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1573570381/gwerilrtxa4igfbbwmpq.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "gwerilrtxa4igfbbwmpq",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-12T14:53:02.406Z",
+    "updated_at": "2019-11-12T14:53:02.406Z"
+  },
+  "categorias": [
+    {
+      "id": 6,
+      "nombre": "Entrada",
+      "created_at": "2019-11-07T21:23:25.610Z",
+      "updated_at": "2019-11-07T21:23:25.610Z"
+    }
+  ],
+  "url": "/receta/98/ceviche-panameno",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/gwerilrtxa4igfbbwmpq",
+  "_sourceUrl": "https://bongusto.net/receta/98/ceviche-panameno",
+  "_fetchedAt": "2026-10-12T16:27:07.944Z"
+}

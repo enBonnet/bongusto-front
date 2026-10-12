@@ -1,0 +1,40 @@
+{
+  "id": 74,
+  "titulo": "Cocada Panameña",
+  "descripcion": "Estas pequeñas y deliciosas rocas de coco fresco, no solo nos transportarán a Panamá.",
+  "historia": "¡Las cocadas! Estas pequeñas y deliciosas rocas de coco fresco, no solo nos transportarán a Panamá. De hecho, estas tradicionales delicias son originarias de España y populares en la República Dominicana y en muchas otras partes de América Latina.\n\nLas cocadas, que a veces se llaman de manera diferente, son particularmente populares en México, Argentina, Brasil, Costa Rica, Colombia, Venezuela, Ecuador, Perú, Bolivia, Uruguay y Chile.",
+  "ingredientes": "8 Porciones:\n- 1 coco\t\t\t\t\t\n- Cáscara de naranja\n- 1 raja de canela\t\t\t\n- 4 tazas de miel\n",
+  "preparacion": "Primero se raya el coco, luego se mezclan todos los ingredientes, la miel, el coco rallado, la canela y la cáscara de naranja a cocinar. Se revuelve constantemente hasta lograr que dicha mezcla se vuelva espesa y hasta que por su consistencia se desprenda de la olla, es decir, que no se pegue. Luego se vierte la mezcla en moldes para darle forma a las cocadas. Se le puede añadir colorantes para cambiar su presentación.",
+  "publico": true,
+  "created_at": "2019-11-10T22:56:03.954Z",
+  "updated_at": "2019-11-10T22:56:03.954Z",
+  "photo": {
+    "id": 319,
+    "name": "Cocada.png",
+    "hash": "baf1eaf46ec448d89426e041f5aafe99",
+    "sha256": "Kx-BLI8a06fZixl5I1GtH_cB5bDGO-I7t6jUNvMBaPc",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "504.50",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1632578027/do2pxiunkcffjyjqsbtf.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "do2pxiunkcffjyjqsbtf",
+      "resource_type": "image"
+    },
+    "created_at": "2021-09-25T13:53:47.572Z",
+    "updated_at": "2021-09-25T13:53:47.572Z"
+  },
+  "categorias": [
+    {
+      "id": 9,
+      "nombre": "Postre",
+      "created_at": "2019-11-07T22:49:20.381Z",
+      "updated_at": "2019-11-07T22:49:20.381Z"
+    }
+  ],
+  "url": "/receta/74/cocada-panamena",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/do2pxiunkcffjyjqsbtf",
+  "_sourceUrl": "https://bongusto.net/receta/74/cocada-panamena",
+  "_fetchedAt": "2026-10-12T16:27:27.499Z"
+}

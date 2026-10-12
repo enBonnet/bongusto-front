@@ -1,0 +1,40 @@
+{
+  "id": 328,
+  "titulo": "La Tielle de Sète",
+  "descripcion": "La Empanada Francesa con Origen Italiano.",
+  "historia": "Es una especie de empanada rellena de pulpo con salsa de tomate y especias. Siendo el almuerzo tradicional de los pescadores en el mar, se ha convertido en el plato típico de la gastronomía de Sète, ciudad marinera del sur de Francia.",
+  "ingredientes": "**Para la masa: **\n- 400 g de harina \n- 2 cucharadas de aceite de oliva \n- 50 ml de vino blanco \n- 1 sobre de levadura de panadería \n- 1 yema de huevo (para dorarla antes de meterla al horno) \n- Sal \n**Para la guarnición: **\n- 1 kg de pulpo (y / o calamar) \n- 1 kg de tomates concasette\n- 2 cebollas en brunoise\n- 3 dientes de ajo majados\n- Tomillo, \n- laurel \n- Cayena en polvo \n- Aceite de oliva \n- Sal, \n- Pimienta",
+  "preparacion": "**Preparación de la masa**\n- Mezclar la levadura de panadería en un bol con unas cucharadas de agua tibia y dejar reposar durante 15 minutos. \n- Tamizar la harina en un bol, agregar la sal, el aceite de oliva, el vino blanco y luego agregar la levadura. \n- Amasar la masa hasta obtener una bola suave y homogénea que no se pegue a los dedos. (Si la masa está demasiado seca añade agua poco a poco). Deje reposar la masa en el bol cubierto con un paño húmedo durante al menos 1 hora.\n**Relleno**\n- Pre cocinar los pulpos en un caldo de corte (bouquet garni, caldo de pescado, etc.) y luego enjuagarlos con agua fría para poder “pelarlos”: se quitan la piel y las ventosas. (Si los pulpos no son demasiado grandes, podemos dejar la piel que dará un bonito color rojo al cocinarlos). \n- Cortar la pulpa del pulpo en trozos pequeños.\n- Triturar la pulpa de los tomates. Las cebollas y los ajos y dorarlos unos minutos en un poco de aceite de oliva. Agregue los tomates, la hoja de laurel, el tomillo, la pimienta, el pulpo, la sal y la pimienta y cocine a fuego lento durante 1 hora a fuego lento. La salsa debe reducirse, pero aún estar un poco líquida para humedecer la masa del tielle. Dejar enfriar.\n**Montaje de la tielle**\n- Aceitar 4 moldes de unos 16 cm de diámetro.\n- Corta la masa de pan en cuatro partes, luego divide cada parte en 2/3 y 1/3. (2/3 para la parte inferior y 1/3 para la tapa). Enharinar la superficie de trabajo y extender los fondos en forma redonda (2/3) hasta un espesor de menos de 1 cm, la masa debe desbordar los moldes. Coloca la masa sobre los moldes, dejando que se desborde por los lados. Decora con la preparación de pulpo.\n- Estirar la segunda masa (1/3) para formar la tapa (la masa también debe sobresalir del molde). Diluir un poco de salsa con aceite de oliva y untar los bordes de la masa del fondo con ella. Coloque la masa superior y suelde los bordes presionando entre los dedos. Dejar reposar unos minutos y controlar la soldadura.\nCepille el tielle con la mezcla de salsa y aceite de oliva y haga muescas cada centímetro en la soldadura. Pincelar con yema de huevo para dorar la masa. Pincha la parte superior del tielle con 2 o 3 cuchillos para expulsar el aire y dejar que la salsa se escape para colorear el tielle con su hermoso color naranja. Hornee a 210/220 C ° durante 30 minutos.\n",
+  "publico": true,
+  "created_at": "2022-06-11T19:08:12.725Z",
+  "updated_at": "2022-06-11T19:12:11.667Z",
+  "photo": {
+    "id": 372,
+    "name": "LA TIELLE DE SÈTE.png",
+    "hash": "00b0cbaec30047aa96940c2a972bcf1e",
+    "sha256": "O2oGqq7TZtUrCATrlyIdqilqwFYRSoIeHSqqdaZZkSI",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "103.94",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1654974492/qlwg6kppjbrmqvucmunc.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "qlwg6kppjbrmqvucmunc",
+      "resource_type": "image"
+    },
+    "created_at": "2022-06-11T19:08:13.188Z",
+    "updated_at": "2022-06-11T19:08:13.188Z"
+  },
+  "categorias": [
+    {
+      "id": 6,
+      "nombre": "Entrada",
+      "created_at": "2019-11-07T21:23:25.610Z",
+      "updated_at": "2019-11-07T21:23:25.610Z"
+    }
+  ],
+  "url": "/receta/328/la-tielle-de-sete",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/qlwg6kppjbrmqvucmunc",
+  "_sourceUrl": "https://bongusto.net/receta/328/la-tielle-de-sete",
+  "_fetchedAt": "2026-10-12T16:24:01.128Z"
+}

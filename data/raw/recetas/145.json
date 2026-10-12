@@ -1,0 +1,40 @@
+{
+  "id": 145,
+  "titulo": "Torticas de Papa Sabzi tikki con Chutney de Tomate",
+  "descripcion": "Sabzi tikki es el nombre original de esta receta de la cocina hindú.",
+  "historia": "Este plato, está elaborado en base de Otros y pertenece a los platos de la cocina Tradicional India. Por regla general se consume, principalmente, durante Todo el año, y se suele servir a los comensales como Entrante.\nSabzi tikki es el nombre original de esta receta de la cocina hindú, un rebozado a base de patatas que, como buen plato indio, contiene un buen puñado de especias que le dan ese sabor tan característico.",
+  "ingredientes": "### De 6 a 8 porciones:\n- 400g de papa\t\t\t\t\t\n- Aceite vegetal para freír\n- 1 cebolla\t\t\t\t\t\n- Sal a gusto\n- 100g de coliflor\t\t\t\t\n- 1 pimiento rojo\n- 1 cucharadita de comino molido\t\t\n- 100g de arvejas\n- 1 cucharadita de cilantro molido\t\t\n- 1 cucharadita de cúrcuma\n- 4 cucharadas de harina de garbanzos secos (harina de besan)\n- 2 cucharadas de pan rallado\t\t\t\n- Pimienta recién molida a gusto\n### Chutney de Tomate:\n### Ingredientes:\n- 1/2 kilo de tomates maduros\t\t\n- 130g de azúcar\n- 2 cucharadas de jugo de limón\t\n- cucharada de jengibre fresco rallado\n- 1 cucharadita de comino\t\t\n- 1/4 cucharadita de canela\n- 1/4 cucharadita de clavo de olor molido\t\n- 1/2 cucharaditas de sal\n- 1/4 cucharadita de pimienta de cayena",
+  "preparacion": "1. Lavar y cocinar las papas con piel, en agua con sal. Cuando estén cocidas, dejarlas enfriar, pelarlas y triturarlas. Cocinar del mismo modo la coliflor cortada en ramilletes muy pequeños. Blanquear las arvejas si son congeladas y si son frescas cocinarlas por 15 minutos.\n2. Cortar finamente la cebolla y el pimiento. Añadir a las papas la coliflor, las arvejas, el pimiento, las cebollas, las especias, la sal y la pimienta y mezclar bien. \n3. Formar bolas de papas y rebozarlas de pan rallado y harina. Aplastarlas en forma de hamburguesa. \n4. En una sartén coloca el aceite vegetal a calentar y freír las tortitas por ambos lados. Sacarlas del aceite y depositarlas sobre papel de cocina para que absorba el exceso de grasa. Se sirven calientes acompañadas de chutney de tomate.\n### Chutney de Tomate\n### Preparación:\n1. Retirar los cabitos de los tomates y cortarlos brunoise fino.\n2. Mezclar todos los ingredientes en una olla de hierro y dejar que hiervan. Bajar la temperatura y dejar cocinar destapado por 90 minutos.\n3. Sazonar a gusto. Colocar en frascos esterilizados y cerrarlos herméticamente. Darlos vuelta y dejar reposar hasta que estén fríos.",
+  "publico": true,
+  "created_at": "2019-11-22T20:42:47.662Z",
+  "updated_at": "2019-11-22T20:42:47.662Z",
+  "photo": {
+    "id": 152,
+    "name": "Torticas de Papa Sabzi tikki con Chutney de Tomate.png",
+    "hash": "8a2ec77fa1834a7b836c04cd86dfb8ba",
+    "sha256": "xC0X0qlNNM7csSxnYcMWQyVVtsINrlB16-dX5MOM010",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "284.71",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1574455367/nj8jqpz1xttacqk3z6wn.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "nj8jqpz1xttacqk3z6wn",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-22T20:42:48.061Z",
+    "updated_at": "2019-11-22T20:42:48.061Z"
+  },
+  "categorias": [
+    {
+      "id": 6,
+      "nombre": "Entrada",
+      "created_at": "2019-11-07T21:23:25.610Z",
+      "updated_at": "2019-11-07T21:23:25.610Z"
+    }
+  ],
+  "url": "/receta/145/torticas-de-papa-sabzi-tikki-con-chutney-de-tomate",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/nj8jqpz1xttacqk3z6wn",
+  "_sourceUrl": "https://bongusto.net/receta/145/torticas-de-papa-sabzi-tikki-con-chutney-de-tomate",
+  "_fetchedAt": "2026-10-12T16:26:30.066Z"
+}

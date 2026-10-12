@@ -1,0 +1,33 @@
+{
+  "id": 7,
+  "titulo": "Pescado al Papillote",
+  "descripcion": "Vamos a preparar una receta sencilla y súper rápida: pescado en papillote. Aquellos que gusten de este tipo de alimento seguramente la encontrarán deliciosa.",
+  "historia": "La cocción en papillotes es una de las grandes técnicas de la prestigiosa cocina francesa de principios del siglo XIX. En un principio eran de papel, tenían forma de corazón o de ovalo y se untaban por ambas caras con mantequilla fundida c aceite Se metía en ellas la comida y luego se freían en aceite para que se hincharan y después se hacían en el horno Hoy, los cocineros más prácticos utilizan hojas de aluminio y bolsas de asar transparentes para obrar maravillas sin preocupaciones. \n",
+  "ingredientes": "### 2 Porciones:\n- 1 pescado despinado (1 1/2 a 2 kilos)\t\t\t\n- Aceite C/N\n- ½ cebolla en juliana\t\t\t\n- Una rama de cilantro o culantro en haché\n- ½ pimentón en juliana\t\t\n- Sal al gusto\n- 1 ají dulce en juliana\t\t\t\n- Pimienta al gusto\n- 2 dientes de ajos majados\t\t\n- ½ litro de fume\n- 2 Hojas de plátano (la misma que se usan para las hallacas)\n- Papel de aluminio\t\t\t\n\n",
+  "preparacion": "### Procedimiento para el Pescado Relleno al Papillote:\n- a.\tPrecalentamos el horno a 200°\n- b.\tSe sazona el pescados al gusto y se dejan marinar. \n- c.\tSe rehogan en aceite la cebolla, el pimentón, ají dulce y ajo. Salpimentamos y en lo que la cebolla transparente, se le agrega un toque del fume.\n- d.\tTomamos el pescado y los rellenamos con la preparación anterior, junto con el cilantro o culantro.\n- e.\tProcedemos a envolver el pescado en hojas de plátano o en su defecto en papel aluminio. Colocándolos en una bandeja honda para el horno.\n- f.\tSe baña con el resto del fume.\n- g.\tSe lleva al horno a 170° por media hora.\n",
+  "publico": true,
+  "created_at": "2019-11-07T23:43:09.493Z",
+  "updated_at": "2019-11-09T22:01:18.879Z",
+  "photo": {
+    "id": 11,
+    "name": "Pescado al Papillote.jpg",
+    "hash": "7fdf2a71dd5c4f76a3f61d4c053ffc1e",
+    "sha256": "JKSChIextGQDmgcP2Vr5lb_cbJge3TnchXK5NOBYTWw",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "size": "72.93",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1573170189/iqkuslcvyeckembr8gvc.jpg",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "iqkuslcvyeckembr8gvc",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-07T23:43:09.950Z",
+    "updated_at": "2019-11-07T23:43:09.950Z"
+  },
+  "categorias": [],
+  "url": "/receta/7/pescado-al-papillote",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/iqkuslcvyeckembr8gvc",
+  "_sourceUrl": "https://bongusto.net/receta/7/pescado-al-papillote",
+  "_fetchedAt": "2026-10-12T16:27:54.682Z"
+}

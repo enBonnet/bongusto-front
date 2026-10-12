@@ -1,0 +1,40 @@
+{
+  "id": 287,
+  "titulo": "Destornillador",
+  "descripcion": "El Destornillador, coloquialmente conocido como Destorni en algunos lugares e internacionalmente conocido por su nombre inglés, Screwdriver.",
+  "historia": "Se desconoce el origen tanto del cóctel como del motivo de su nombre, aunque las diferentes historias apuntan principalmente a tres teorías: la primera, que fue creado durante la Ley Seca estadounidense (1920–1933), en la que se simulaba beber un inocente jugo de naranja mientras se estaba ingiriendo vodka. Una segunda hipó tesis asocia el destornillador con la Segunda Guerra Mundial, donde los soldados británicos recibían una lata de jugo de naranja por cabeza y ellos la adulteraban con vodka. La última teoría relaciona este cóctel con obreros estadounidenses que durante los años 50 estuvieron trabajando en perforaciones petrolíferas en el Golfo Pérsico, quienes sólo disponían de un destornillador para remover la mezcla.\nAunque no se conozca a ciencia cierta su origen, este cóctel está asociado a los Estados Unidos, ya en la edición del 24 de octubre de 1949 de la revista Times se refieren al Screwdriver como «el último invento norteamericano».\n",
+  "ingredientes": "- Vaso: High ball (H.B)\n- Hielo en cubos (H.C)\n- Curacao o Triple “C”\n- Vodka\n- Jugo de Naranja (Preferiblemente Pasteurizado)\n**Decoración: **\n- Rebanada de Naranja\n- Cereza \n- Removedor de Bebidas\n- Pitillos o Pajillas ",
+  "preparacion": "- Agregar al vaso alto hielo en cubos \n- Agregar sobre el hielo un Dash de Curacao o Triple “C”\n- Agregar ½ onza de Vodka\n- Alargar con jugo de naranja\n**Decorar:**\n- Colocar removedor de bebidas y pitillo\n- Colocar rodaja de naranja y cereza\n",
+  "publico": true,
+  "created_at": "2021-10-25T19:55:09.386Z",
+  "updated_at": "2021-10-25T19:55:09.386Z",
+  "photo": {
+    "id": 325,
+    "name": "Destornillador.png",
+    "hash": "eac23522d3d1438bb8f9dee7651e24a9",
+    "sha256": "1R6OgvkHnSS-IHwzSYl4C-2UaSnTIwT0vpnSLX3raP0",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "45.90",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1635191709/bkribrbxmdrz9gi6hvdm.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "bkribrbxmdrz9gi6hvdm",
+      "resource_type": "image"
+    },
+    "created_at": "2021-10-25T19:55:09.810Z",
+    "updated_at": "2021-10-25T19:55:09.810Z"
+  },
+  "categorias": [
+    {
+      "id": 43,
+      "nombre": "Maridaje ",
+      "created_at": "2019-11-09T20:57:22.945Z",
+      "updated_at": "2019-11-09T20:57:22.945Z"
+    }
+  ],
+  "url": "/receta/287/destornillador",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/bkribrbxmdrz9gi6hvdm",
+  "_sourceUrl": "https://bongusto.net/receta/287/destornillador",
+  "_fetchedAt": "2026-10-12T16:24:33.672Z"
+}

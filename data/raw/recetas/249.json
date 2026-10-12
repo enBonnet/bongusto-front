@@ -1,0 +1,40 @@
+{
+  "id": 249,
+  "titulo": "Mojo Isleño",
+  "descripcion": "Se trata de un aderezo que realza el sabor de otros platos. Suele prepararse con hierbas o vegetales molidos (o diminutamente cortados), aceite y vinagre.",
+  "historia": "Se trata de un aderezo que realza el sabor de otros platos. Suele prepararse con hierbas o vegetales molidos (o diminutamente cortados), aceite y vinagre. Los más conocidos son los \nmojos trujillanos, que admiten muchas variaciones de ingredientes y suelen ser servidos en el desayuno, como acompañante de las arepas. Acompañan muy bien papas, yuca hervida, carnes, hallaquitas, hervidos o sopas.",
+  "ingredientes": "### Ingredientes (Para 4 tazas de mojo) \n- 3 cebollas medianas peladas y cortadas en cuatro (unos 225 gramos) \n- 16 dientes de ajo pequeños y majados (¼ de taza) \n- 3 tazas de hojas de cilantro, preferiblemente no florecido \n- 1 taza de hojas de perejil \n- 2 o 3 ajíes picantes, de unos 5 cm de largo (1 ½ cucharadas, si es ají seco molido) \n- ¼ de taza de pan duro rallado \n- 1 taza de consomé de carne \n- ½ taza de aceite \n- ½ taza de vinagre \n- ½ cucharadita de pimienta negra recién molida \n- 2 cucharaditas de sal \n- 1 cucharada de pimentón rojo seco molido (páprika)",
+  "preparacion": "1. Con una máquina demoler maíz, se trituran las cebollas, los ajos, el cilantro, el perejil y los ajíes, de manera que quede una pasta gruesa. Se mezcla con el pan rallado. \n2. En una cacerola no muy grande se coloca el preparado y se agrega el consomé de carne, el aceite, el vinagre, la pimienta negra, la sal y el pimentón molido. Se cocina a fuego fuerte durante 12 minutos, o hasta que adquiera un color verde amarillento oscuro y consistencia espesa.",
+  "publico": true,
+  "created_at": "2019-12-07T23:41:43.635Z",
+  "updated_at": "2019-12-07T23:41:43.635Z",
+  "photo": {
+    "id": 283,
+    "name": "Mojo Isleño.png",
+    "hash": "0a427c48185a4569b4dede6517bade73",
+    "sha256": "C-3zTqa2k5vtcXWke1BG6wf4Fe8lYdJYdBqCe3aYe5Q",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "119.26",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1575762103/krvjqvhifdz4c9stib8q.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "krvjqvhifdz4c9stib8q",
+      "resource_type": "image"
+    },
+    "created_at": "2019-12-07T23:41:44.216Z",
+    "updated_at": "2019-12-07T23:41:44.216Z"
+  },
+  "categorias": [
+    {
+      "id": 42,
+      "nombre": "Salsa",
+      "created_at": "2019-11-09T19:51:40.254Z",
+      "updated_at": "2019-11-09T19:51:40.254Z"
+    }
+  ],
+  "url": "/receta/249/mojo-isleno",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/krvjqvhifdz4c9stib8q",
+  "_sourceUrl": "https://bongusto.net/receta/249/mojo-isleno",
+  "_fetchedAt": "2026-10-12T16:25:05.991Z"
+}

@@ -1,0 +1,40 @@
+{
+  "id": 284,
+  "titulo": "Crema de Ajo Porro",
+  "descripcion": "Exquisita crema, ideal parta ser consumida en tardes lluviosas o a su gusto. Con increíbles propiedades terapéuticas.",
+  "historia": "Conocido también como puerro o porro, era consumido en el antiguo Egipto y en el Lejano Oriente en el año 4000 a. C; los romanos lo utilizaban en la cocina y Nerón era un apasionado de este vegetal. Se utiliza en ensaladas, cremas, sopas, budines, como condimento y como verdura. Por su gran cantidad de agua tiene poco contenido calórico. Por sus propiedades diuréticas se recomienda para las personas que sufren de retención de líquidos e hipertensión y para combatir el estreñimiento por la cantidad de fibra.",
+  "ingredientes": "•\t4 ajo porros medianos\n•\t2 papas medianas o un apio grande\n•\t1 litro de fondo blanco (Caldo de pollo) o agua\n•\tSal y pimienta al gusto\n",
+  "preparacion": "1.\tCortar el ajo porro en ruedas, solo la parte blanca con un poco de la verde. Lo que queda de la parte verde se puede utilizar en otras recetas.\n2.\tLavar muy bien el ajo porro\n3.\tPelar las papas o el apio y cortar en cubos \n4.\tAgregar en una olla el ajo porro y las papas (O el apio) cubrir con el fondo de ave o agua.\n5.\tLlevar a hervor hasta que ablandé la papa (O el apio)\n6.\tSalpimentar al gusto.\n7.\tProcesar en licuadora y llevar de nuevo al fuego. Hasta que hierva.\n8.\tBajar del fuego dejar reposar y servir.\nNota: Si gusta puede agregarle antes de servir una cucharada de margarina, remueve y sirve.\n",
+  "publico": true,
+  "created_at": "2021-10-22T22:27:55.522Z",
+  "updated_at": "2021-10-22T22:27:55.522Z",
+  "photo": {
+    "id": 322,
+    "name": "Crema de Ajo Porro.png",
+    "hash": "61f0fd2e228946ba8f32cff73523f036",
+    "sha256": "VnhKd0E8-EhiEw7IdB3tEST62fYNbqz_LFdXB2ocwDk",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "77.54",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1634941675/immhco8wtk14jaiuzmdj.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "immhco8wtk14jaiuzmdj",
+      "resource_type": "image"
+    },
+    "created_at": "2021-10-22T22:27:55.986Z",
+    "updated_at": "2021-10-22T22:27:55.986Z"
+  },
+  "categorias": [
+    {
+      "id": 6,
+      "nombre": "Entrada",
+      "created_at": "2019-11-07T21:23:25.610Z",
+      "updated_at": "2019-11-07T21:23:25.610Z"
+    }
+  ],
+  "url": "/receta/284/crema-de-ajo-porro",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/immhco8wtk14jaiuzmdj",
+  "_sourceUrl": "https://bongusto.net/receta/284/crema-de-ajo-porro",
+  "_fetchedAt": "2026-10-12T16:24:36.305Z"
+}

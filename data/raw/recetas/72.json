@@ -1,0 +1,33 @@
+{
+  "id": 72,
+  "titulo": "Corvina al Horno Panameño",
+  "descripcion": "La tradicional receta de corvina. Un plato perfecto para compartir con la familia los fines de semana. Si el pescado te apasiona, atrévete a preparar esta deliciosa elaboración. ",
+  "historia": "Este plato, es muy común en toda la gastronomia y especialmente en las costas donde este pez se encuentra, no hay una historia definida ni un autor, pero en Panama es muy consumido y apreciado. ",
+  "ingredientes": "### 1 a 2 Porciones:\n- 1 kg de corvina\t\t\t\t\n- Pimienta\n- 50 g de mantequilla\t\t\t\t\n- Sal\n- 1 limón en zumo\t\t\t\t\n- Aceite de oliva\n- 10 ml de vino blanco\t\t\t\t\n- 1 chorrito de vinagre de Jerez\n- 3 dientes de ajo\t\t\t\t\n- 1 cucharada de perejil\n- 1 guindilla\n",
+  "preparacion": "Lo primero, la cortamos o completa la corvina, salpimentamos y la marcamos en una sartén con aceite.\nPosteriormente, horneamos a 220º C durante 5 minutos.\nMientras, mezclamos la mantequilla con la sal y el perejil en hache, la pimienta, el zumo de limón y el vino.\nColocamos la mantequilla en papel film, formamos un tubo y enfriamos en agua con hielo hasta que endurezca.\nEn una sartén con un poco de aceite, doramos el ajo y la guindilla. Mojamos con el vinagre.\nVertemos el sofrito sobre la corvina y servimos acompañada de una rodaja de la mantequilla especiada\n",
+  "publico": true,
+  "created_at": "2019-11-10T22:36:57.800Z",
+  "updated_at": "2019-11-10T22:36:57.800Z",
+  "photo": {
+    "id": 79,
+    "name": "Curvina.png",
+    "hash": "7233965d89e84be1bbd5e943fa00a42e",
+    "sha256": "ZJ77QVrIEiZU828ko5iq5NvNciXxCJZYA_rmUXgAB+8",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "908.21",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1573425417/lfbp2ddaqiwv8btcglew.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "lfbp2ddaqiwv8btcglew",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-10T22:36:58.242Z",
+    "updated_at": "2019-11-10T22:36:58.242Z"
+  },
+  "categorias": [],
+  "url": "/receta/72/corvina-al-horno-panameno",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/lfbp2ddaqiwv8btcglew",
+  "_sourceUrl": "https://bongusto.net/receta/72/corvina-al-horno-panameno",
+  "_fetchedAt": "2026-10-12T16:27:28.944Z"
+}

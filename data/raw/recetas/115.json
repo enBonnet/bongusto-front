@@ -1,0 +1,40 @@
+{
+  "id": 115,
+  "titulo": "Coulant de chocolate",
+  "descripcion": "Un bizcocho que, al partirlo provocamos una erupción de chocolate derretido… Absolutamente irresistible a los sentidos.",
+  "historia": "Un bizcocho que, al partirlo provocamos una erupción de chocolate derretido… Absolutamente irresistible a los sentidos. Ese era el objetivo que buscaba el chef francés Michel Bras cuando creó el coulant de chocolate. Fue en los años 80, durante un viaje familiar de esquí, cuando lo llegó la inspiración al cocinero galo, que permitió que creara uno de los postres más internacionales y exitosos de la historia.\nPero ¿cómo fue ese proceso de creación?  Durante esa escapada a la nieve, hizo muy mal tiempo, y todo el grupo tuvo que volver a la cabaña donde se alojaban. Reunidos a cubierto y resguardados del frío, tomaron chocolate a la taza. Michel decidió recrear ese momento en un postre: un irresistible chocolate resguardado en el interior de un bizcocho y que fluyera de su interior. La creación de perfeccionó posteriormente haciendo pruebas y más pruebas, hasta conseguir un bizcocho capaz de atesorar en su interior chocolate fundido.\nEl nombre elegido fue coulant, que deriva directamente de la característica lingüísticas del verbo »couler» que a su traducción significa fluido, derretido. Pero no es un nombre tan internacional como el propio postre, ya que en algunos países adopta otras nomenclaturas: en Argentina se llama volcán de chocolate, y en Italia es conocido como soffiato.",
+  "ingredientes": "### Ingredientes para 6 coulant de chocolate\n- 250 gr. Chocolate negro\t\t\t\n- 250 gr. Mantequilla.\n- 5 huevos enteros.\n- 5 gr. de levadura.\t\t\t\t\n- 25 gr. Cacao negro.\n- 1 cucharada sopera de café ya hecho.\n### Para la decoración\n- Almendra cruda laminada.\t\n- Grosellas o cerecitas\t\t\t\n- Menta hojas ",
+  "preparacion": "Lo primero que hacemos es cortar el chocolate negro en trocitos, colocarlo en un bol y fundirlo al baño maría junto con la mantequilla, removemos con una cuchara, y cuando el chocolate se derrita, lo apartamos del fuego y añadimos los huevos, el cacao, la levadura y el café, lo trituramos todo con un túrmix hasta que se hallan incorporado todos los ingredientes, la masa resultante será bastante espesa.\nLo tapamos con papel film y lo metemos en la nevera hasta que esté muy frio.\nDisponemos unos moldes de silicona, en este caso son cuadrados de 4 cm. y medio.\nSacamos el chocolate de la nevera, veréis que se ha quedado una masa bastante dura, no os preocupéis, no lo habéis hecho mal, es así como debe de quedar.\nCon la ayuda de una cuchara llenamos la tercera parte de los moldes, o sea un poco más de la mitad porque luego nos va a subir, aplastamos ligeramente con la cuchara para que no queden huecos en los moldes. Lo cocemos en el horno a 200º durante 8 min.\nMontaje y decoración: Esperamos unos 5 min. Para desmoldar los coulant y ya podemos servir, decorado al gusto de cada uno, en este caso con grosellas, almendra laminada y menta. ¡¡También lo podéis acompañar de helado, el contraste del chocolate caliente con el helado es brutal!!\n",
+  "publico": true,
+  "created_at": "2019-11-20T14:35:16.780Z",
+  "updated_at": "2019-11-20T14:35:16.780Z",
+  "photo": {
+    "id": 122,
+    "name": "Coulant de chocolate.png",
+    "hash": "ecde9d8860d047018cb27dd28b4cb62d",
+    "sha256": "2OP2iy_0XPux8dfx1mCFEyUUbNnUeFmiqYvPK6qSZlE",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "148.35",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1574260517/ogwtcxtndbljv4cn1d9a.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "ogwtcxtndbljv4cn1d9a",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-20T14:35:17.402Z",
+    "updated_at": "2019-11-20T14:35:17.402Z"
+  },
+  "categorias": [
+    {
+      "id": 9,
+      "nombre": "Postre",
+      "created_at": "2019-11-07T22:49:20.381Z",
+      "updated_at": "2019-11-07T22:49:20.381Z"
+    }
+  ],
+  "url": "/receta/115/coulant-de-chocolate",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/ogwtcxtndbljv4cn1d9a",
+  "_sourceUrl": "https://bongusto.net/receta/115/coulant-de-chocolate",
+  "_fetchedAt": "2026-10-12T16:26:54.014Z"
+}

@@ -1,0 +1,40 @@
+{
+  "id": 307,
+  "titulo": "Cucaracha",
+  "descripcion": "Chupito tipo pousse-café, para luego arrastrarse como una cucaracha",
+  "historia": "Se dice, que un barman, al combinar el tequila con el licor de café, obtuvo una combinación algo fuerte, y al darle de probar a sus amigos, estos no podían caminar, y por eso el nombre del trago.\nEl nombre probablemente provenga de la canción popular mexicana La Cucaracha, cantada durante la Revolución Mexicana, que en la primera estrofa dice: «la cucaracha ya no puede caminar».",
+  "ingredientes": "- vaso shutter o caballito\n- Licor de Café\n- Tequila\n- Yesquero\n- Pitillo",
+  "preparacion": "En un vaso de shot de 2 oz (60 ml), añadimos el licor de café hasta un poco menos de la mitad, ayudándonos con una cuchara hacemos una capa con el tequila, encendemos, se bebe muy rápido con un absorbedor (pitillo). ",
+  "publico": true,
+  "created_at": "2021-11-01T14:51:08.912Z",
+  "updated_at": "2021-11-01T14:51:08.912Z",
+  "photo": {
+    "id": 351,
+    "name": "Cucaracha.png",
+    "hash": "a5941a01f779446a91ad43ca7606e2af",
+    "sha256": "mgNlP6-ILa7B82vWbjf49_TR4qdkZRn-xaw4Y72FhLs",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "107.80",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1635778268/dfv7lkgtlucl0czd01qt.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "dfv7lkgtlucl0czd01qt",
+      "resource_type": "image"
+    },
+    "created_at": "2021-11-01T14:51:09.315Z",
+    "updated_at": "2021-11-01T14:51:09.315Z"
+  },
+  "categorias": [
+    {
+      "id": 43,
+      "nombre": "Maridaje ",
+      "created_at": "2019-11-09T20:57:22.945Z",
+      "updated_at": "2019-11-09T20:57:22.945Z"
+    }
+  ],
+  "url": "/receta/307/cucaracha",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/dfv7lkgtlucl0czd01qt",
+  "_sourceUrl": "https://bongusto.net/receta/307/cucaracha",
+  "_fetchedAt": "2026-10-12T16:24:17.657Z"
+}

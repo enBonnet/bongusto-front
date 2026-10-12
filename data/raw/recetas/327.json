@@ -1,0 +1,40 @@
+{
+  "id": 327,
+  "titulo": "Navettes Marseillaises",
+  "descripcion": "En la Provenza la tradición es otra, allí lo tradicional es comer navettes",
+  "historia": "Francia celebra La Chandeleur (la Candelaria por nuestras tierras) donde lo tradicional es comer crêpes. Sin embargo, en la Provenza la tradición es otra, allí lo tradicional es comer navettes, una especie de suave bizcocho con forma de barquita, con textura crujiente por fuera, ligeramente azucarados y con un delicioso y sutil aroma a flor de azahar. Y es, sin duda alguna, uno de los dulces más tradicionales de Marsella ya que fue allí donde nacieron en 1782.",
+  "ingredientes": "- 190 g de harina\n- 75 g de azúcar glass\n- 1 pizca de sal\n- 20 g de mantequilla a temperatura ambiente\n- 1 huevo\n- 1 y ½ cucharaditas de agua de azahar\n- 1 cucharada de polvo de hornear",
+  "preparacion": "- Tamizar en un bol la harina, el azúcar, la sal y la levadura.\n- Batir ligeramente el huevo y añadírselo junto al resto de los ingredientes. Mezclar bien y amasar hasta conseguir una bola donde todos los ingredientes estén perfectamente integrados.\n- Envolver en film plástico y dejar reposar en la nevera durante media hora.\n- Dividir la bola en 4 partes y estirar cada parte en forma de cilindro de unos 2cm de diámetro y unos 21cm de largo. \n- Cortar en tres partes cada cilindro y afinar las puntas rodándolos con las manos.\n- Con un cuchillo afilado pegar un corte profundo en el medio de cilindro, sin llegar a los extremos, y abrirlo con los dedos hacia los lados dándoles su característica forma de barquita. \n- Colocar en una bandeja cubierta con papel de horno y meter de nuevo en la nevera para que repose durante una hora.\n- Precalentar el horno a 200ºC, con calor de arriba-abajo.\n- Hornear durante unos 15 minutos hasta que veáis que la superficie está ligeramente dorada, sacar y dejar enfriar sobre una rejilla.\n- Servir acompañado con el helado de su gusto, coronando con un sirop, al gusto.",
+  "publico": true,
+  "created_at": "2022-06-11T16:03:49.324Z",
+  "updated_at": "2022-06-11T16:03:49.324Z",
+  "photo": {
+    "id": 371,
+    "name": "Navettes marseillaises.png",
+    "hash": "bd997b2b31434854a3ebe7b20e50a55a",
+    "sha256": "2J2VflqYTTOfkp66PhV6QvLTu34bexldRztg04DRCsA",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "269.11",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1654963429/p1vxuzykdycpfv6jmqll.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "p1vxuzykdycpfv6jmqll",
+      "resource_type": "image"
+    },
+    "created_at": "2022-06-11T16:03:49.899Z",
+    "updated_at": "2022-06-11T16:03:49.899Z"
+  },
+  "categorias": [
+    {
+      "id": 9,
+      "nombre": "Postre",
+      "created_at": "2019-11-07T22:49:20.381Z",
+      "updated_at": "2019-11-07T22:49:20.381Z"
+    }
+  ],
+  "url": "/receta/327/navettes-marseillaises",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/p1vxuzykdycpfv6jmqll",
+  "_sourceUrl": "https://bongusto.net/receta/327/navettes-marseillaises",
+  "_fetchedAt": "2026-10-12T16:24:01.765Z"
+}

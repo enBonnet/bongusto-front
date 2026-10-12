@@ -1,0 +1,46 @@
+{
+  "id": 122,
+  "titulo": "Crêpes Suzette",
+  "descripcion": "Crêpe dulce, rellena con mantequilla Suzette, una mezcla de mantequilla, azúcar, zumo exprimido de mandarina o naranja, y triple sec de naranja. ",
+  "historia": "La historia más difundida sobre el origen de la crêpe suzette cuenta que el Príncipe de Gales, frecuentemente pasaba el invierno en la Costa Azul francesa, en Montecarlo, un día en compañía de un grupo de personas fueron a comer. Mientras el maitre preparaba las crêpes para el postre, se derramó e incendió por descuido el licor de mandarina que había cerca. El asustado maitre probó el resultado y tenía buen sabor, por lo que animosamente, las sirvió dobladas dos veces y las presentó como nueva creación; el Príncipe de Gales quedó entusiasmado y aunque el maitre las bautizó como “Crêpe Princesse”, el príncipe decidió que se llamaran en honor de la niña de uno de los acompañantes, cuyo nombre supuestamente era Suzette.",
+  "ingredientes": "### Para la salsa:\n- 100 g de mantequilla\t\t\t\t\n- 50 g de azúcar\n- 250 ml de zumo de naranja \t\t\t\n- la ralladura de la piel de una naranja \n- 75 ml de licor de naranja (Grand Marnier, Cointreau, Curaçao u otro triple seco)\n",
+  "preparacion": "### Salsa: \n- En el mismo una sartén antiadherente grande (25 ctm) a fuego medio. Fundir en ella la mantequilla y cuando empiece a espumar, agregar el azúcar, remover y dejar que comience a caramelizarse. Cuando esté ligeramente dorado, añadir dos tercios (170ml) del zumo de naranja, la ralladura, un poco de licor y revolver bien. Reducir durante 2 minutos.\n- Meter un crepe en la salsa, deja que se impregne y con ayuda de unas pinzas o dos tenedores se dobla a la mitad dos veces, quedando en forma de abanico. Sacar la crepe a una fuente y hacer lo mismo con el resto.\n- Añadir el resto del zumo a la salsa restante, revolver y meter las crepes dobladas en la sartén.\n- Verter el resto del licor por encima y prender fuego al conjunto con un encendedor de cocina o una cerilla larga. Servir y comer inmediatamente.",
+  "publico": true,
+  "created_at": "2019-11-20T20:00:29.508Z",
+  "updated_at": "2019-11-20T20:00:29.508Z",
+  "photo": {
+    "id": 158,
+    "name": "Crepes Suzette.png",
+    "hash": "5360868c61284783aea7ea508d793c5b",
+    "sha256": "kypOicw4dqrApEpXHFrNe50aNUa6GssGkgL_wQbnD7A",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "221.19",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1574512907/ab8sfdmpo7ar5cud3gug.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "ab8sfdmpo7ar5cud3gug",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-23T12:41:48.039Z",
+    "updated_at": "2019-11-23T12:41:48.039Z"
+  },
+  "categorias": [
+    {
+      "id": 6,
+      "nombre": "Entrada",
+      "created_at": "2019-11-07T21:23:25.610Z",
+      "updated_at": "2019-11-07T21:23:25.610Z"
+    },
+    {
+      "id": 9,
+      "nombre": "Postre",
+      "created_at": "2019-11-07T22:49:20.381Z",
+      "updated_at": "2019-11-07T22:49:20.381Z"
+    }
+  ],
+  "url": "/receta/122/crepes-suzette",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/ab8sfdmpo7ar5cud3gug",
+  "_sourceUrl": "https://bongusto.net/receta/122/crepes-suzette",
+  "_fetchedAt": "2026-10-12T16:26:48.502Z"
+}

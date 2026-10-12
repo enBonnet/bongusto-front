@@ -1,0 +1,40 @@
+{
+  "id": 335,
+  "titulo": "Miton Rennais",
+  "descripcion": "Una receta tradicional del campo de la cuenca de Rennes",
+  "historia": "Una receta tradicional del campo de la cuenca de Rennes, el miton rennais (o cocido a fuego lento con leche) es una panada nutritiva, “cocida a fuego lento” durante mucho tiempo. Cuanto más se trabaja con cuchara de madera, más finura adquiere. Solo puede variar la cantidad de pan. ¡En algunas familias, la panade podía ser tan espesa que el cucharón se quedaba derecho en la sopera!",
+  "ingredientes": "- 250 g de pan de campo duro en trozos \n- 1 cebolla grande en brunoise\n- 25 cl de leche\n- 20 g de mantequilla\n- 1 yema de huevo\n- 1 cda. cucharadas de azúcar glass\n- Sal\n- Pimienta",
+  "preparacion": "- Poner a hervir un litro de agua en una cacerola. Añadir el pan de molde y la cebolla. \n- Sal, pimienta y endulza ligeramente. \n- Cocine por 30 minutos a fuego lento, revolviendo con una cuchara de madera para que el pan no se pegue. \n- El mitón debe tomar una consistencia cremosa y lo más fina posible. \n- Justo antes de servir, espese con la leche, la yema de huevo y la mantequilla. \n- Verter en una sopera y servir inmediatamente.\n- Acompañar con pan de costra dura.",
+  "publico": true,
+  "created_at": "2022-06-11T19:35:34.000Z",
+  "updated_at": "2022-06-11T19:35:34.000Z",
+  "photo": {
+    "id": 379,
+    "name": "miton rennais.png",
+    "hash": "30c7a6ff3c90442282b53c1673543cb9",
+    "sha256": "vWfrW6W_O-fcSHQqzrQEkSFrQWQlKdESNfln6dXKBhk",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "173.63",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1654976134/m0mbkekek1b3nehqmqnk.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "m0mbkekek1b3nehqmqnk",
+      "resource_type": "image"
+    },
+    "created_at": "2022-06-11T19:35:34.353Z",
+    "updated_at": "2022-06-11T19:35:34.353Z"
+  },
+  "categorias": [
+    {
+      "id": 6,
+      "nombre": "Entrada",
+      "created_at": "2019-11-07T21:23:25.610Z",
+      "updated_at": "2019-11-07T21:23:25.610Z"
+    }
+  ],
+  "url": "/receta/335/miton-rennais",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/m0mbkekek1b3nehqmqnk",
+  "_sourceUrl": "https://bongusto.net/receta/335/miton-rennais",
+  "_fetchedAt": "2026-10-12T16:23:55.639Z"
+}

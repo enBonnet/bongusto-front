@@ -1,0 +1,40 @@
+{
+  "id": 247,
+  "titulo": "Ajicero en Vinagre",
+  "descripcion": "Los ajiceros criollos son preparaciones picantes para aderezar otros platos, y pueden ser preservados en vinagre, leche, aceite o agua caliente",
+  "historia": "Los ajiceros criollos son preparaciones picantes para aderezar otros platos, y pueden ser preservados en vinagre, leche, aceite o agua caliente, elementos que permiten conservar por \nperíodo prolongado sus ingredientes. Originalmente se solía comer con pescado, atribuyéndosele poderes digestivos y sensuales, paro ahora se utiliza como aderezo para casi todo tipo de preparados, como sancochos, guisos, arepas, empanadas y carnes.",
+  "ingredientes": "### Ingredientes (para 2 tazas de ajicero) \n- 3 cucharadas de aceite \n- 4 ajíes picantes cortados en cuadros medianos (sin venas ni semillas) \n- 1 pimentón cortado en cuadros medianos (sin corazón, venas ni semillas) \n- 1 cebollín cortado en trozos medianos \n- 3 dientes de ajo enteros \n- ½ taza de agua potable \n- 2 tazas de vinagre \n- 1 cucharadita de sal \n- 2 cucharadas de azúcar \n- 1 rama de cilantro entera \n- 5 granos de pimienta guayabita",
+  "preparacion": "1. En una sartén grande, se vierte el aceité y se sofríen por 3 minutos los ajíes picantes, el \n2. pimentón, el cebollín y los dientes de ajo. \n3. En una olla, se calienta el agua, el vinagre, la sal y el azúcar, y se deja hervir por 3 minutos. \n4. Se retira el líquido del fuego y se deja reposar. \n5. Se introduce el cilantro en un frasco de boca amplia, se añade el sofrito y se vierte encima \n6. la mezcla de agua y vinagre, así como la pimienta guayabita. \n7. Se cierra bien el frasco y se refrigera por una semana antes de usar.",
+  "publico": true,
+  "created_at": "2019-12-07T23:36:41.125Z",
+  "updated_at": "2019-12-07T23:36:41.125Z",
+  "photo": {
+    "id": 281,
+    "name": "Ajicero en Vinagre.png",
+    "hash": "cd35cb73394141a4b61a67703104fb64",
+    "sha256": "BKLD4edG9K9vru1GODw9czsLw9OcsNdW04T-3i_pe88",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "52.70",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1575761801/vkgq9emnxm3tswgb3ite.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "vkgq9emnxm3tswgb3ite",
+      "resource_type": "image"
+    },
+    "created_at": "2019-12-07T23:36:41.464Z",
+    "updated_at": "2019-12-07T23:36:41.464Z"
+  },
+  "categorias": [
+    {
+      "id": 42,
+      "nombre": "Salsa",
+      "created_at": "2019-11-09T19:51:40.254Z",
+      "updated_at": "2019-11-09T19:51:40.254Z"
+    }
+  ],
+  "url": "/receta/247/ajicero-en-vinagre",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/vkgq9emnxm3tswgb3ite",
+  "_sourceUrl": "https://bongusto.net/receta/247/ajicero-en-vinagre",
+  "_fetchedAt": "2026-10-12T16:25:07.649Z"
+}

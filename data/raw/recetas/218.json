@@ -1,0 +1,40 @@
+{
+  "id": 218,
+  "titulo": "Bolitas de Plátano",
+  "descripcion": "Como si se trataran de unas pequeñas croquetas, las bolitas de plátano resultan un delicado contorno, entrada o pasa paló.",
+  "historia": "Como si se trataran de unas pequeñas croquetas, las bolitas de plátano resultan un delicado contorno, entrada o pasa paló. En el estado Táchira las llaman micos y se hacen con una masa de cambur chocheco, plátano o cambur guineo verde, y en lugar de freírse, son asadas en un budare, en brasas o sobre cenizas.",
+  "ingredientes": "### Ingredientes para 25 porciones \n- 2 plátanos maduros con piel \n- Agua \n- 1 huevo batido \n- 2 cucharadas de mantequilla sin sal \n- 2 cucharadas de harina \n- 1 cucharadita de azúcar \n- 2 cucharadas de queso blanco rallado \n- ½ litro de aceite de maíz \n- Papel absorbente\n",
+  "preparacion": "1. Se sancochan los plátanos hasta que ablanden (unos 30 min). \n2. Se retiran del fuego, se dejan escurrir y se pelan. Se cortan a lo largo y se eliminan las semillas. \n3. Sobre una tabla, se tritura la pulpa con un tenedor hasta que quede como una pasta. Se coloca en un recipiente hondo. \n4. Se agrega el huevo, la mantequilla, la harina, el azúcar y el queso rallado. Se mezcla bien hasta que quede homogéneo. \n5. Con las manos, se elaboran bolitas de unos 2 ,5 centímetros de diámetro. \n6. En una sartén profunda o en un caldero con el aceite caliente, se fríen a fuego alto hasta que se doren ligeramente. \n7. Se retiran del fuego y se colocan sobre papel absorbente para eliminar el exceso de grasa.",
+  "publico": true,
+  "created_at": "2019-12-07T20:27:21.311Z",
+  "updated_at": "2019-12-07T20:27:21.311Z",
+  "photo": {
+    "id": 252,
+    "name": "Bolitas de Plátano.png",
+    "hash": "8cb2f835e45f46f38773500a4c3f4497",
+    "sha256": "ObtIQOvztlrczHgxzFmvxNoD4M2BLB3nEQ7jvUQeEww",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "343.21",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1575750441/tbegcfihhdggtb9kwu8p.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "tbegcfihhdggtb9kwu8p",
+      "resource_type": "image"
+    },
+    "created_at": "2019-12-07T20:27:21.774Z",
+    "updated_at": "2019-12-07T20:27:21.774Z"
+  },
+  "categorias": [
+    {
+      "id": 49,
+      "nombre": "Pasa Palo",
+      "created_at": "2019-12-07T22:49:13.689Z",
+      "updated_at": "2019-12-07T22:49:13.689Z"
+    }
+  ],
+  "url": "/receta/218/bolitas-de-platano",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/tbegcfihhdggtb9kwu8p",
+  "_sourceUrl": "https://bongusto.net/receta/218/bolitas-de-platano",
+  "_fetchedAt": "2026-10-12T16:25:30.322Z"
+}

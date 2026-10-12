@@ -1,0 +1,40 @@
+{
+  "id": 158,
+  "titulo": "Custard",
+  "descripcion": "Custard o La natilla es una variedad de preparaciones culinarias a base de leche o crema cocinada con yema de huevo para espesarla, y a veces también harina , almidón de maíz o gelatina .",
+  "historia": "Las mezclas de leche y huevos espesados ​​por el calor han sido durante mucho tiempo parte de la cocina europea, al menos desde la antigua Roma. Las natillas horneadas en pasteles ( tartas de natillas ) fueron muy populares en la Edad Media , y son el origen de la palabra inglesa 'natillas': el término francés ' croustade ' originalmente se refería a la corteza de una tarta,  y se deriva de la palabra italiana crostata y, en última instancia, la crustáre latina .",
+  "ingredientes": "### Porciones: 4 \n- 80g de azúcar\t\t\t\t\n- 1 cucharada de fécula de maíz\n- 100cc de agua\t\t\t\n- 30g de manteca\n- 1 cucharadita de esencia de vainilla\t\n- 6 cucharadas de crema o leche\n- canela en polvo ",
+  "preparacion": "1. Mezclar el azúcar con la fécula en una sartén. Agregar el agua, y mezclar con un batidor de alambre. Una vez que se hayan disuelto, calentar a fuego bajo, revolviendo de vez en cuando.\n2. Cuando empiece a burbujear, y se empieza a caramelizar, cocinar a fuego bajo por 1 minuto más, revolviendo constantemente. Ahora el azúcar se transformó en jarabe.\n3. Retirar del fuego y agregar la manteca y la esencia de vainilla. Cuando la manteca esté toda disuelta, incorporar la crema de leche.\n4. Servir en porciones espolvoreando canela y refrigerar, también se puede Servir tibia",
+  "publico": true,
+  "created_at": "2019-11-23T21:41:59.660Z",
+  "updated_at": "2019-11-23T21:41:59.660Z",
+  "photo": {
+    "id": 190,
+    "name": "Custard.png",
+    "hash": "d8c788faa2b14dcaae9ed46060c3d678",
+    "sha256": "1KrvuAgUUgsB7PZULRXThv9oHMVtUSuMtpzcx3b2UIk",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "207.90",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1574545319/fw7uyqbg6dklpynssadr.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "fw7uyqbg6dklpynssadr",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-23T21:42:00.065Z",
+    "updated_at": "2019-11-23T21:42:00.065Z"
+  },
+  "categorias": [
+    {
+      "id": 9,
+      "nombre": "Postre",
+      "created_at": "2019-11-07T22:49:20.381Z",
+      "updated_at": "2019-11-07T22:49:20.381Z"
+    }
+  ],
+  "url": "/receta/158/custard",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/fw7uyqbg6dklpynssadr",
+  "_sourceUrl": "https://bongusto.net/receta/158/custard",
+  "_fetchedAt": "2026-10-12T16:26:19.287Z"
+}

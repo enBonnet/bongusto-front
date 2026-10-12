@@ -1,0 +1,40 @@
+{
+  "id": 118,
+  "titulo": "Papas al Roquefort",
+  "descripcion": "Las patatas al horno con roquefort son una opción diferente y elegante de disfrutar de un queso tan especial. Esta receta de patatas horneadas es muy fácil.",
+  "historia": "La historia de este plato no esta definida como tal ya que en las investigaciones el queso como tal es más antiguo en Europa que la llegada de la papa, Como se encontraron ambos ingredientes no se define lo que si se sabe es que es una exquisitez de la nueva cocina francesa",
+  "ingredientes": "### De 4 a 6 Porciones:\n- 1 ½ kg. De papa.\t\t\n- 2 tazas de leche\n- 2 cdas de mantequilla\n- 2 cdas de harina.\t\n- 1 taza de queso roquefort.",
+  "preparacion": "Salcochar las papas con piel, mondar y cortar en rodajas, aparte preparar una bechamel y colocar en un paire queso roquefort cama de papa, queso roquefort y cama de papa, hasta terminar en Queso y gratinar.",
+  "publico": true,
+  "created_at": "2019-11-20T15:20:28.586Z",
+  "updated_at": "2019-11-20T15:20:28.586Z",
+  "photo": {
+    "id": 125,
+    "name": "Papas al Roquefort.png",
+    "hash": "a9588ff0deee4f9c9b6e2afb4c7dbbc5",
+    "sha256": "XGHJFLHQfWyA_UWFtPULtJIsj+Jr2dy1TXwkWEklEeA",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "677.21",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1574263228/mlfqfzfhdwxbvf8nsz8h.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "mlfqfzfhdwxbvf8nsz8h",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-20T15:20:29.085Z",
+    "updated_at": "2019-11-20T15:20:29.085Z"
+  },
+  "categorias": [
+    {
+      "id": 7,
+      "nombre": "Guarnición",
+      "created_at": "2019-11-07T21:25:47.915Z",
+      "updated_at": "2019-11-07T21:25:47.915Z"
+    }
+  ],
+  "url": "/receta/118/papas-al-roquefort",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/mlfqfzfhdwxbvf8nsz8h",
+  "_sourceUrl": "https://bongusto.net/receta/118/papas-al-roquefort",
+  "_fetchedAt": "2026-10-12T16:26:51.816Z"
+}

@@ -1,0 +1,40 @@
+{
+  "id": 319,
+  "titulo": "Pollo Dijonnaise",
+  "descripcion": "Los platos al estilo de Dijon o à la Dijonnaise reconocen indistintamente las preparaciones que incluyen entre sus ingredientes la mostaza de Dijon ",
+  "historia": "La ciudad de Dijon (Francia) es responsable de que la cocina clásica del país adoptara un término para describir ciertas recetas, la ciudad es conocida como ‘la capital de la mostaza’, pero no es su única especialidad gastronómica, por eso, las recetas elaboradas À la Dijonnaise pueden ser variadas.\nLos platos al estilo de Dijon o à la Dijonnaise reconocen indistintamente las preparaciones que incluyen entre sus ingredientes la mostaza de Dijon cuando se refiere a platos salados, o el cassis cuando se habla de platos dulces.",
+  "ingredientes": "- ½ cucharas mantequilla sin sal\n- 1 cucharadas aceite de oliva\n- 1 pechuga pollo sin piel y deshuesadas\n- ½ chalotes \n- 50ml vino blanco\n- 2 dientes ajo\n- 50ml crema espesa doble\n- 1 cucharadas mostaza Dijon\n- 1 cucharadas estragón fresco o una cucharadita si es seco\n- 1 cucharadas tomillo seco\n- 2 cdas perejil finamente cortado\n- 100ml caldo \n- Sal y pimienta.",
+  "preparacion": "- En un sartén derrita la mantequilla con una cucharada de aceite de oliva agregue las pechugas de pollo cocine bien por ambos lados, pase a un plato tape con papel de aluminio y reserve.\n- Agregue al sartén la mantequilla restante coloque el chalote y saltee, luego agregue el vino, el caldo y el ajo deje hervir hasta que reduzca a la mitad integre la crema y la mostaza cocine 3 min. Siempre batiendo. Agregar las hierbas Salpimentar. Vuelva a colocar las pechugas en la mezcla del sartén cerca de 5 min. Servir acompañada de chip y rúcula.\n",
+  "publico": true,
+  "created_at": "2022-06-11T15:33:42.458Z",
+  "updated_at": "2022-06-11T15:33:42.458Z",
+  "photo": {
+    "id": 363,
+    "name": "Pollo Dijonnaise.png",
+    "hash": "12108f3192c345b9a55cb14b32632039",
+    "sha256": "VRWx_01NyUQHdpo3El-Wraaw31Iy3v1bqDSEeZRMK3U",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "352.05",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1654961622/xbkiwdimrnrx8g8lkeb3.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "xbkiwdimrnrx8g8lkeb3",
+      "resource_type": "image"
+    },
+    "created_at": "2022-06-11T15:33:43.174Z",
+    "updated_at": "2022-06-11T15:33:43.174Z"
+  },
+  "categorias": [
+    {
+      "id": 47,
+      "nombre": "Principal",
+      "created_at": "2019-11-20T14:11:58.958Z",
+      "updated_at": "2019-11-20T14:11:58.958Z"
+    }
+  ],
+  "url": "/receta/319/pollo-dijonnaise",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/xbkiwdimrnrx8g8lkeb3",
+  "_sourceUrl": "https://bongusto.net/receta/319/pollo-dijonnaise",
+  "_fetchedAt": "2026-10-12T16:24:07.942Z"
+}

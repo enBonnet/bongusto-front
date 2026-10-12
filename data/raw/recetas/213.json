@@ -1,0 +1,40 @@
+{
+  "id": 213,
+  "titulo": "Ensalada de Ruedas",
+  "descripcion": "Sabores, texturas y colores contrastantes son los que definen esta fresca y popular ensalada. Pocos platos se descubren tan distintos en cada bocado",
+  "historia": "Sabores, texturas y colores contrastantes son los que definen esta fresca y popular ensalada. Pocos platos se descubren tan distintos en cada bocado: más que una unidad de ingredientes, los vegetales que la conforman se presentan en trozos grandes, contundentes, para una degustación casi individual. \nAsí, los sabores dulces de la remolacha y la zanahoria se combinan con otros más neutros como el de la papa, o más fuertes, como los de la cebolla o el rábano. Suele servirse como contorno de carnes rojas o blancas.\n",
+  "ingredientes": "### Ingredientes (para 10 personas) \n- Las hojas de una lechuga criolla \n- 3 tomates manzanos cortados en rodajas \n- 2 cebollas moradas cortadas en rodajas \n- 3 papas sancochadas cortadas en rodajas \n- 2 zanahorias sancochadas cortadas en rodajas \n- 3 remolachas sancochadas cortadas en rodajas \n- 6 huevos sancochados cortados en rodajas \n- 2 rábanos medianos cortados en rodajas \n### Vinagreta \n- ½ taza de vinagre blanco \n- ½ taza de aceite de maíz\n- 3 yemas de huevo mezcladas en un tazón \n- Sal y pimienta negra recién molida, al gusto \n- 2 cucharadas de mayonesa (opcional)",
+  "preparacion": "1. Se cortan y preparan todos los vegetales. \n2. Se mezclan todos los ingredientes de la vinagreta. \n3. En una ensaladera, se colocan las verduras por capas, en este orden: lechuga, tomates, cebollas, papas, zanahorias, remolachas, huevos y rábanos. Se baña cada capa con la vinagreta.",
+  "publico": true,
+  "created_at": "2019-12-07T14:31:32.604Z",
+  "updated_at": "2019-12-07T14:31:32.604Z",
+  "photo": {
+    "id": 247,
+    "name": "Ensalada de Ruedas.png",
+    "hash": "6e18aba3bf0f4c7ca675937cf83fcfdf",
+    "sha256": "bKdv7-DeDJ-7CYaQ-6At7XMkFrQQsByCF9IIBb9XvH0",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "276.23",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1575729092/ed5aikhpfqyw1pl9kg0n.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "ed5aikhpfqyw1pl9kg0n",
+      "resource_type": "image"
+    },
+    "created_at": "2019-12-07T14:31:33.751Z",
+    "updated_at": "2019-12-07T14:31:33.751Z"
+  },
+  "categorias": [
+    {
+      "id": 6,
+      "nombre": "Entrada",
+      "created_at": "2019-11-07T21:23:25.610Z",
+      "updated_at": "2019-11-07T21:23:25.610Z"
+    }
+  ],
+  "url": "/receta/213/ensalada-de-ruedas",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/ed5aikhpfqyw1pl9kg0n",
+  "_sourceUrl": "https://bongusto.net/receta/213/ensalada-de-ruedas",
+  "_fetchedAt": "2026-10-12T16:25:34.241Z"
+}

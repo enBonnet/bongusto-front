@@ -1,0 +1,40 @@
+{
+  "id": 250,
+  "titulo": "Mojo de Cilantro y Perejil",
+  "descripcion": "Se trata de un aderezo que realza el sabor de otros platos. Suele prepararse con hierbas o vegetales molidos (o diminutamente cortados), aceite y vinagre.",
+  "historia": "Se trata de un aderezo que realza el sabor de otros platos. Suele prepararse con hierbas o vegetales molidos (o diminutamente cortados), aceite y vinagre. Los más conocidos son los \nmojos trujillanos, que admiten muchas variaciones de ingredientes y suelen ser servidos en el desayuno, como acompañante de las arepas. Acompañan muy bien papas, yuca hervida, carnes, hallaquitas, hervidos o sopas.",
+  "ingredientes": "### Ingredientes (Para 2 tazas de mojo) \n- 2 cucharadas de aceite vegetal \n- 1 ají dulce cortado en cuadritos diminutos (sin venas ni semillas) \n- l cebolla cortada en cuadritos diminutos \n- 1 tomate cortado en cuadritos diminutos (sin semillas) \n- 1 manojo de cilantro (o ½ taza de hojas de cilantro) \n- 1 manojo de perejil, sin tallo (o ½ taza de hojas de perejil) \n- 2 cucharadas de vinagre de vino \n- 2 cucharaditas de sal \n- 1 cucharadita de pimienta \n- 2 hojas de cilantro finamente cortadas (reservar aparte) \n- 2 cucharadas de perejil fresco finamente cortado (reservar aparte)",
+  "preparacion": "1. En una sartén mediana, se vierte el aceite y se sofríen el ají y la cebolla por 2 minutos. Se \n2. agregan el tomate, el cilantro y el perejil (ambos en hojas), se sofríe todo durante 2 minutos más y se retira del fuego. \n3. Se añade el vinagre de vino, la sal, la pimienta y las hojitas de cilantro y perejil finamente cortadas, y se mezcla todo.",
+  "publico": true,
+  "created_at": "2019-12-07T23:43:51.129Z",
+  "updated_at": "2019-12-07T23:43:51.129Z",
+  "photo": {
+    "id": 284,
+    "name": "Mojo de Cilantro y p.png",
+    "hash": "f6dfee65136048228a9ea9339c56ab97",
+    "sha256": "W1jc9bT-taEDyIY13F1Y0KHecCMC0HzPV4ByAQxK-Yw",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "177.96",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1575762231/stwnnxrmdip0hf5i9vxs.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "stwnnxrmdip0hf5i9vxs",
+      "resource_type": "image"
+    },
+    "created_at": "2019-12-07T23:43:51.492Z",
+    "updated_at": "2019-12-07T23:43:51.492Z"
+  },
+  "categorias": [
+    {
+      "id": 42,
+      "nombre": "Salsa",
+      "created_at": "2019-11-09T19:51:40.254Z",
+      "updated_at": "2019-11-09T19:51:40.254Z"
+    }
+  ],
+  "url": "/receta/250/mojo-de-cilantro-y-perejil",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/stwnnxrmdip0hf5i9vxs",
+  "_sourceUrl": "https://bongusto.net/receta/250/mojo-de-cilantro-y-perejil",
+  "_fetchedAt": "2026-10-12T16:25:05.056Z"
+}

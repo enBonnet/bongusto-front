@@ -1,0 +1,40 @@
+{
+  "id": 157,
+  "titulo": "Fish and Chips",
+  "descripcion": "Durante generaciones, el pescado rebozado y crujiente y las patatas fritas y calientes han alimentado a millones de personas.",
+  "historia": "El Fish & Chips se sirvió por primera vez como plato completo en 1860. Se cree que la familia Malin de Londres y la familia Lee de Mossley, cerca de Manchester, fueron las primeras en plantar la tradición. Joseph Malin, de hecho, abrió el primer establecimiento (Fish & Chip Shop) en Londres en 1860. El pescado frito fue introducido primero en Londres de la mano de inmigrantes judíos que venían de Portugal y España por allá el siglo XVII, como derivado del famoso ‘pescaíto frito’ andaluz.\nEl presidente estadounidense Thomas Jefferson, por otro lado, dijo haber comido “pescado frito al estilo judío” en una visita a la capital a finales del siglo XVIII, y hasta Charles Dickens hace referencia a un almacén de pescado frito en su obra ‘Oliver Twist’ (1838).\nLas patatas fritas conocidas como ‘chips’ probablemente se originaron en Bélgica. En Irlanda, la leyenda asegura que el primer pescado frito con patatas fritas fue vendido por un inmigrante italiano: Giuseppe Cervi, que erróneamente se bajó de un barco con destino a América en Cobh, en el condado de Cork, e inició allí su camino hacia Dublín. Comenzó la venta de pescado y patatas fritas fuera de los pubs de Dublín con un carro.",
+  "ingredientes": "### Raciones: 4\n- 4 filetes grandes de pescado blanco (merluza)\t\n- 170 ml. cerveza rubia fría\n- 120 gr. harina de trigo\t\t\t\t\n- 1 cda. Miel\n- 2 patatas grandes\t\t\t\t\t\n- Aceite C/N\n- Pimienta negra molida\t\t\t\t\n- Sal",
+  "preparacion": "### Preparación:\tPapas Fritas\n1. Cortamos las patatas en bastones medio gruesos y largos.\n2. En una olla con agua hirviendo las ponemos a cocer durante unos 7 - 8 minutos hasta que estén tiernas, pero que no lleguen a romperse. Las dejamos enfriar unos 15 minutos. Secar\n3. Hacemos una primera fritura a fuego bajo (unos 160º) para pochar la patata hasta que esté dorada. Las sacamos y dejamos enfriar otros 10 minutos.\n4. Las volvemos a freír por segunda vez, pero a fuego fuerte (180-200ºC) un par de minutos, para que queden muy crujientes y tiernas por dentro.\n5. Dejamos escurrir el exceso de aceite colocando las patatas en papel absorbente y añadimos sal y pimienta negra al gusto.\n### Pescado Rebozado:\n1. Cortamos en tiras el pescado, sin ninguna espina. Añadimos sal y pimienta.\n2. Preparamos el rebozado mezclando bien en un cuenco cerveza rubia muy fría (170ml.) con 120 gr. de harina y una cucharada colmada de miel.\n3. Calentamos abundante aceite en una sartén a fuego fuerte (180ºC).\n4. Preparamos un platito de harina y vamos pasando cada tira de pescado por harina, y luego la mojamos en el rebozado. Escurrimos bien el exceso de rebozado y freímos unos dos o tres minutos el pescado, de tres en tres.\n5. Por último lo dejamos escurrir el exceso de grasa en papel absorbente.\nNotas: Podemos usar el pescado que más nos guste: merluza, bacalao, panga, fletán, etc.\nTambién podemos freír el filete de pescado entero sin cortarlo en tiras, como se sirve originalmente en Inglaterra.\n",
+  "publico": true,
+  "created_at": "2019-11-23T21:33:31.418Z",
+  "updated_at": "2019-11-23T21:33:31.418Z",
+  "photo": {
+    "id": 189,
+    "name": "Fish and Chips.png",
+    "hash": "9e8cc3d6d5c24354b8aeacb142a491ab",
+    "sha256": "GccU6UYlf2pkDRzt2XrTt82lhEwkWRFTO4gNUiDnU58",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "443.07",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1574544811/qypv3pi33rq7oputaopn.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "qypv3pi33rq7oputaopn",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-23T21:33:31.843Z",
+    "updated_at": "2019-11-23T21:33:31.843Z"
+  },
+  "categorias": [
+    {
+      "id": 47,
+      "nombre": "Principal",
+      "created_at": "2019-11-20T14:11:58.958Z",
+      "updated_at": "2019-11-20T14:11:58.958Z"
+    }
+  ],
+  "url": "/receta/157/fish-and-chips",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/qypv3pi33rq7oputaopn",
+  "_sourceUrl": "https://bongusto.net/receta/157/fish-and-chips",
+  "_fetchedAt": "2026-10-12T16:26:20.125Z"
+}

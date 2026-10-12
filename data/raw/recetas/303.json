@@ -1,0 +1,40 @@
+{
+  "id": 303,
+  "titulo": "Mojito Venezuela",
+  "descripcion": "Versión del Famoso Mojito Cubano con un toque venezolano",
+  "historia": "Creado en la isla de margarita, por el mixólogo Alexis Mijares, durante una convención donde se quedo sin ron blanco y azúcar. Y lo realizo con cocui y azúcar morena. Resultando un coctel muy apetitoso. ",
+  "ingredientes": "- Vaso: vaso old fashion o jaibol\n- Hielo: Frape \n- Hierba Buena\n- Azúcar Morena o papelón rayado \n- Jugo de limón\n- Cocui\n- Soda o Agua gasificada\n**- Decoración:**\n- Hierba Buena\n- Removedor de bebidas\n- Removedor \n- Pitillos",
+  "preparacion": "- Agregar al vaso 3 o 4 hojas de hierba buena\n- Agregar 1 medida de azúcar morena\n- Agregar jugo de ½ limón\n- Agregar hielo frape hasta el borde del vaso\n- Agregar 1 ½ onza de cocui\n- Remover\n- Completar con agua gassificada o soda\n**- Decorar:**\n- Rodaja de limón, hierba buena, removedor y pitillos\n",
+  "publico": true,
+  "created_at": "2021-10-31T14:59:35.357Z",
+  "updated_at": "2021-10-31T14:59:35.357Z",
+  "photo": {
+    "id": 347,
+    "name": "Mojito Venezuela.png",
+    "hash": "aa96d86dd9a941e29b3f69d59bfe1e3b",
+    "sha256": "XmfmrfwPg5fcP_tjmfMcPP09t1kwZMV5LNCl9nRvSiE",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "72.69",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1635692375/nzm9vkj9uuijw0589kak.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "nzm9vkj9uuijw0589kak",
+      "resource_type": "image"
+    },
+    "created_at": "2021-10-31T14:59:35.785Z",
+    "updated_at": "2021-10-31T14:59:35.785Z"
+  },
+  "categorias": [
+    {
+      "id": 43,
+      "nombre": "Maridaje ",
+      "created_at": "2019-11-09T20:57:22.945Z",
+      "updated_at": "2019-11-09T20:57:22.945Z"
+    }
+  ],
+  "url": "/receta/303/mojito-venezuela",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/nzm9vkj9uuijw0589kak",
+  "_sourceUrl": "https://bongusto.net/receta/303/mojito-venezuela",
+  "_fetchedAt": "2026-10-12T16:24:20.717Z"
+}

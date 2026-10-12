@@ -1,0 +1,40 @@
+{
+  "id": 292,
+  "titulo": "Ruso Negro",
+  "descripcion": "Black Russian es un cóctel que se elabora a base de vodka y licor de café.",
+  "historia": "El cóctel Black Russian fue creado entre los años 1949 y 1950 por un barman belga llamado Gustave Tops; se dice que Gustave Tops hizo esta bebida para deleitar a sus amigos mientras éste trabajaba como jefe de bar en el famoso Hotel Metropole de Bruselas, construido en 1895, siendo el único hotel del siglo XIX que aún funciona en Bruselas.",
+  "ingredientes": "- Vaso: (vaso old fashion)\n- Hielo: (Hielo Picado)\n- vodka\n- licor de café\n**Decoración:**\n- Removedor de bebidas\n- Hoja de hierba buena \n- Guinda\n",
+  "preparacion": "- Agregar hielo al vaso (Lleno que sobresalga algo)\n- Servir 1 ½ onza de Vodka\n- Servir 1 onza de licor de café\n- Remover\n**Decorar:**\n- Removedor de bebidas\n- Hoja de Hierba Buena (Nalgueada)\n- Guinda\n",
+  "publico": true,
+  "created_at": "2021-10-30T14:23:46.958Z",
+  "updated_at": "2021-10-30T14:23:46.958Z",
+  "photo": {
+    "id": 330,
+    "name": "Ruso Negro.png",
+    "hash": "b7dcf4485f22442ab3929d07d8a74d42",
+    "sha256": "fGPLu9p8NJpbZ0EWe5lax9CcVWr-iEobiddrBO8jOoo",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "39.59",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1635603827/uysvoojvpmtydtszcysz.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "uysvoojvpmtydtszcysz",
+      "resource_type": "image"
+    },
+    "created_at": "2021-10-30T14:23:47.380Z",
+    "updated_at": "2021-10-30T14:23:47.380Z"
+  },
+  "categorias": [
+    {
+      "id": 43,
+      "nombre": "Maridaje ",
+      "created_at": "2019-11-09T20:57:22.945Z",
+      "updated_at": "2019-11-09T20:57:22.945Z"
+    }
+  ],
+  "url": "/receta/292/ruso-negro",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/uysvoojvpmtydtszcysz",
+  "_sourceUrl": "https://bongusto.net/receta/292/ruso-negro",
+  "_fetchedAt": "2026-10-12T16:24:29.480Z"
+}

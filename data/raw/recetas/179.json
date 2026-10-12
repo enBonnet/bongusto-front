@@ -1,0 +1,40 @@
+{
+  "id": 179,
+  "titulo": "Consomé de Pescado",
+  "descripcion": "La sopa de pescado es una preparación culinaria elaborada principalmente con trozos de pescado que suele ser cocido en un medio líquido en presencia de otros ingredientes, como pueden ser verduras.",
+  "historia": "La sopa de pescado es una preparación culinaria elaborada principalmente con trozos de pescado que suele ser cocido en un medio líquido en presencia de otros ingredientes, como pueden ser verduras. Suele emplearse en la cocción del pescado: agua, caldo, o en algunos casos agua de mar. La sopa de pescado responde a la disponibilidad regional del pescado. Es por esta razón por la que existen numerosas recetas ligadas a cada gastronomía. La sopa suele prepararse en una cocción que dura varios minutos. Debido a la consistencia del pescado no suele llevar largos periodos de cocción. Generalmente suele servirse caliente en cuenco, o plato hondo.",
+  "ingredientes": "### Ingredientes (Para 1 litro de caldo) \n- 1 cabeza o espinazo de cualquier pescado que no sea graso (mero, pargo, dorado, róbalo, curvina, etc.,) \n- 3 cucharadas de aceite de maíz \n- 1 cucharada de mantequilla \n- 2 zanahorias peladas y cortadas en trozos grandes \n- 6 ajíes dulces cortados por la mitad (sin semillas) \n- 1 pimentón cortado en cuatro (sin semillas) \n- 1 cebolla pelada \n- 1 cabeza de ajo entera, sin pelar \n- 1 ajoporro en trozos \n- 4 granos de pimienta guayabita \n- 6 granos de pimienta negra \n- 1 clavo de olor \n- 1 ½ litros de agua \n- 1 compuesto (2 ramas de cilantro, 2 de yerbabuena, 2 de perejil y apio España)",
+  "preparacion": "1. Se lava el pescado con poca agua, se enjuaga y se escurre.\n2. En una olla con el aceite y la mantequilla, se saltean las zanahorias, el ají dulce, el pimentón, la cebolla, la cabeza de ajo, el ajoporro y las (pimientas y clavo), por unos 5 minutos, Se añade el pescado y se sofríe 5 minutos más. \n3. Se incorpora el agua y una rama de cada hierba. Se cocina a fuego medio durante 20 minutos (más tiempo de cocción hará que la cabeza del pescado libere sabores amargos). Cuando falten 2 minutos se introducen las hiervas restantes para que aromaticen el caldo. \n4. Si se quiere reducir este fondo para tener un consomé más concentrado, se saca la cabeza de pescado y se deja hervir tanto como se quiera evaporar. \n5. Se cuela para separar los sólidos del líquido.",
+  "publico": true,
+  "created_at": "2019-12-06T21:54:49.825Z",
+  "updated_at": "2019-12-06T21:54:49.825Z",
+  "photo": {
+    "id": 213,
+    "name": "Consome de Pescado.png",
+    "hash": "37b7a9a572f84891bf0d22517a216cfa",
+    "sha256": "gEfMkfmB_qPbVHC1nMZLstCLFt+TB7jyrJ2rBbkufa8",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "389.60",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1575669290/wic4pm05d7zrwwwrpojm.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "wic4pm05d7zrwwwrpojm",
+      "resource_type": "image"
+    },
+    "created_at": "2019-12-06T21:54:50.478Z",
+    "updated_at": "2019-12-06T21:54:50.478Z"
+  },
+  "categorias": [
+    {
+      "id": 6,
+      "nombre": "Entrada",
+      "created_at": "2019-11-07T21:23:25.610Z",
+      "updated_at": "2019-11-07T21:23:25.610Z"
+    }
+  ],
+  "url": "/receta/179/consome-de-pescado",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/wic4pm05d7zrwwwrpojm",
+  "_sourceUrl": "https://bongusto.net/receta/179/consome-de-pescado",
+  "_fetchedAt": "2026-10-12T16:26:02.616Z"
+}

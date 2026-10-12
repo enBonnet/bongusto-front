@@ -1,0 +1,33 @@
+{
+  "id": 61,
+  "titulo": "Tacos Mexicanos",
+  "descripcion": "Un taco es una preparación mexicana que en su forma estándar consiste en una tortilla enrollada que contiene algún alimento encima y algún tipo de sala.",
+  "historia": "- Las tortillas se consumían en la América precolombina y el modo de comerlas en taco es una herencia directa del periodo a la actualidad.\n\n- En diferentes culturas se desarrolló la tradición de una preparación a base de harina que aporta carbohidratos elaboradas  de tal manera que queda como una superficie plana que sirve de sostén para otros alimentos. Así podemos comparar el taco con el shawarma de origen turco, preparaciones que no comparten nexos pero funcionan de la misma manera.\n\n- Una teoría sobre el posible origen de la palabra taco es el término 'tlahco' del idioma náhuatl, que significa 'mitad' o 'en el medio', en el sentido que el alimento se coloca en el medio de la tortilla de maíz. La palabra en náhuatl para referirse a la tortilla de maíz (invento indígena precolombino) es 'tlaxcalli'.",
+  "ingredientes": "### Tacos de Carne\n### Ingredientes:\n- Carne de res, 1/2 kilo\t\t\t\n- Sal fina\t\t\n- Salsa de chile\n- 1 cebolla mediana\t\t\t\n- Aceite de oliva\t\n- Un poco de cilantro\n- Tortitas de maíz\t\t\t\n- Guacamole\n### Tacos de Pollo\n### Ingredientes:\n- Pechuga de pollo, 1/4 kilo\t\t\n- Aceite de oliva\t\t\n- Un pimiento rojo\n- Un aguacate\t\t\t\t\n- Tortitas\t\t\t\n- Cilantro\n- Varios tomates\t\t\t\n- Varias hojas de lechuga\t\n- Una cebolla mediana\n",
+  "preparacion": "### Preparación Taco de Carne:\n- Para hacer estos estupendos tacos de carne, vamos a utilizar una buena carne magra de res de buena calidad. La cortamos de forma fileteada, salpimentamos un poco al gusto y ponemos a calentar una sartén con un chorrito de aceite. Pasamos la carne por la sartén cuando el aceite esté bien caliente, hemos de freírla por ambos lados hasta dejarla bien doradita. \n- Cuando tengas toda la carne hecha, la partimos en trozos más pequeños en forma de taquitos. Se pela la cebolla quitándole la piel y la cortas en trozos muy pequeñitos. Haz lo mismo con el cilantro. Saltea ligeramente tanto la cebolla como el cilantro en una pequeña sartén con aceite de oliva. No la sofrías demasiado, cuando tome un poco de calor lo sacas y reservas para después. \n- Ahora procedemos a calentar las tortitas de maíz, puedes usar cualquier plancha o sartén sin ningún tipo de aceite ni mantequilla. Tan sólo hay que ponerlas en la plancha caliente, dejarlo un minuto aproximadamente, le damos la vuelta y aguantamos otro minutito. Una vez tengas las tortitas calientes, comenzamos a montar los tacos. \n- Para montar los tacos, teniendo ya los ingredientes preparados, ponemos una cantidad de carne en cada tortita caliente, acompañamos con un poco de guacamole, agrega trocitos de cilantro y cebollas, añadimos una pizca de salsa picante y exprimimos un poco de jugo de limón por encima. Ya puedes saborear tu taco de carne.\n\nPreparación de Pollo:\n- Comenzamos estos tacos de pollo pelando la cebolla y cortándola en trozos bien finos. Limpia el pimiento y lo cortas en trocitos pequeños, con el cilantro y los tomates hacemos lo mismo. Aliña con un poco de pimienta y sal y mezcla todos estos ingredientes cortados. \n- Le quitamos la piel a los tomates, los cortamos y los ponemos a rehogar en una sartén a fuego lento. Les añadimos el resto de verduras troceadas y continuamos rehogando brevemente a fuego lento. Rectifica el punto de sal si es necesario. \n- A continuación, pelamos el aguacate y lo cortamos en cuadraditos, aliñamos con un poco de jugo de limón exprimido. Ponemos a calentar ahora una sartén con un poco de aceite de oliva, cortamos los filetes en trozos pequeñitos y los freímos durante 2 ó 3 minutos en la sartén para que se doren. \n- Comienza a rellenar las tortitas con los trozos de pollo, pon ahora un poco del sofrito de verduras que hemos hecho, unos trocitos de aguacate y un poco de salsa picante por encima. Si quieres puedes añadir unos trocitos de lechuga, pero es opcional. Ya tienes terminado tus tacos de pollo.\n\n",
+  "publico": true,
+  "created_at": "2019-11-10T15:04:12.963Z",
+  "updated_at": "2021-09-12T13:32:30.368Z",
+  "photo": {
+    "id": 68,
+    "name": "Tacos.png",
+    "hash": "42fab9b214a84cb089492feed7d15022",
+    "sha256": "cH5g5SAcZn1F5SeOvTCd5jhxwHm8dZFqj9Fq_a9lOZE",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "131.91",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1573398253/t7cqctzgxujovy6yo7a4.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "t7cqctzgxujovy6yo7a4",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-10T15:04:13.505Z",
+    "updated_at": "2019-11-10T15:04:13.505Z"
+  },
+  "categorias": [],
+  "url": "/receta/61/tacos-mexicanos",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/t7cqctzgxujovy6yo7a4",
+  "_sourceUrl": "https://bongusto.net/receta/61/tacos-mexicanos",
+  "_fetchedAt": "2026-10-12T16:27:37.499Z"
+}

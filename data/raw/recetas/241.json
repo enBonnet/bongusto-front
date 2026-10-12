@@ -1,0 +1,40 @@
+{
+  "id": 241,
+  "titulo": "Huevos Chimbos",
+  "descripcion": "Lo que más sorprende a quienes por primera vez prueban esta almíbarada y esponjosa preparación es saber que su base es yema de huevo batido.",
+  "historia": "Lo que más sorprende a quienes por primera vez prueban esta almíbarada y esponjosa preparación es saber que su base es yema de huevo batido. Se cocina en baño de María, bien sea en unos moldes (llamados también chimberas entre los maracuchos) o en las mismas cáscaras de los huevos.",
+  "ingredientes": "### Ingredientes (para 6 porciones) \n### Huevos \n- 12 yemas de huevo \n- Mantequilla para engrasar los moldes \n### Almíbar \n- 3 tazas de agua \n- 2 tazas de azúcar \n- ¼ de cucharadita de vainilla \n- 3 cucharadas de ron, brandy o cogñac",
+  "preparacion": "1. Con una batidora eléctrica se. baten las yemas hasta obtener una crema que haga \n2. picos. \n3. Se enmantequillan unos moldes pequeños (que incluso pueden ser unas tacitas de café) y se llenan hasta la mitad con el huevo batido.\n4. Se colocan los moldes en baño de María durante unos 10 minutos (al introducir un palillo de madera, debe salir seco). Se desmoldan y se reservan. \n5. En una olla aparte, a fuego alto, se hace hervir el agua y se agrega el azúcar, revolviendo constantemente durante 15 minutos, hasta obtener un almíbar espeso. \n6. Se baja el calor a fuego medio y se agregan los huevos chimbos, dejando que se cocinen por 5 minutos más. Se retiran del fuego. \n7. Se añade el licor y la vainilla al almíbar. Se deja enfriar y se refrigera.",
+  "publico": true,
+  "created_at": "2019-12-07T23:15:58.857Z",
+  "updated_at": "2019-12-07T23:15:58.857Z",
+  "photo": {
+    "id": 275,
+    "name": "Huevos Chinbos.png",
+    "hash": "6800e8f409fb47649815f53ef6e6b8a8",
+    "sha256": "FxlB-HLlBqvCG_xAAw4geQfUMu6tusNER3R04RnToLE",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "115.43",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1575760558/ranxgs4l9vxqwyd0tv3n.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "ranxgs4l9vxqwyd0tv3n",
+      "resource_type": "image"
+    },
+    "created_at": "2019-12-07T23:15:59.209Z",
+    "updated_at": "2019-12-07T23:15:59.209Z"
+  },
+  "categorias": [
+    {
+      "id": 9,
+      "nombre": "Postre",
+      "created_at": "2019-11-07T22:49:20.381Z",
+      "updated_at": "2019-11-07T22:49:20.381Z"
+    }
+  ],
+  "url": "/receta/241/huevos-chimbos",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/ranxgs4l9vxqwyd0tv3n",
+  "_sourceUrl": "https://bongusto.net/receta/241/huevos-chimbos",
+  "_fetchedAt": "2026-10-12T16:25:12.682Z"
+}

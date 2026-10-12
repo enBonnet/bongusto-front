@@ -1,0 +1,40 @@
+{
+  "id": 156,
+  "titulo": "Cornish Pasty",
+  "descripcion": "Esta especie de empanada rellena de carne y verdura es un receta británica conocida mundialmente como Classic Cornish Pasty, un pastel que fue inventado en Cornwall, al sur-este de Inglaterra.",
+  "historia": "Se trata de un plato típico para alimentar a los mineros que se encontraban dentro de las minas trabajando y no tenían tiempo para salir a almorzar, ya que es un plató fácil de guardar, sostener y comer en cuestión de minutos. Además, la corteza gruesa procuraba mantener calientes los ingredientes del interior.\nEn la actualidad, este alimento es muy popular en Cornwall, donde podrás encontrar empanada de todos los sabores y tamaños, incluso con rellenos exóticos con ingredientes de otros países. Cabe decir que, aunque sea un plato muy típico inglés, aún está en conflicto la manera de elaborarse y los ingredientes que incorpora, ya que cada persona lo cocina a su gusto.",
+  "ingredientes": "### 6 a 8 porciones:\n### Para la masa:\n- 125 gr. de mantequilla fría en dados\t\t\n- 500 gr. de harina de trigo (y más para espolvorear)\n- 125 gr. de manteca de cerdo\t\t\t\n- 6 cucharadas de agua\n-  1 huevo batido\t\t\n### Para el relleno:\n- 1 cebolla blanca grande en brunoise\t fino\t\n- 2 papas medianas, en brunoise fino\n- 1 Zanahoria mediana en brunoise fino\t\t\t\n- 350 gr. de carne de res cortada\n- Sal y pimienta",
+  "preparacion": "1. Mezcla la mantequilla, la manteca y la harina usando las manos o un procesador de alimentos. Añade las seis cucharadas de agua y sigue mezclando hasta que se incorporen.\n2. Corta en cuatro partes iguales y enfría por 20 minutos.\n3. Calienta el horno a 200°C.\n4. Mezcla en un bowl la carne cortada, las cebollas, las papas, zanahoria, sal y pimienta.\n5. Aplana con rodillo cada cuarto de masa sobre una superficie enharinada, hasta hacer un círculo de aproximadamente 23 cm. de diámetro con cada pieza.\n6. Coloca un cuarto del relleno en el centro de cada círculo de masa, dejando un margen moderado hacia los bordes.\n7. Cubre con una capa de huevo batido (ayúdate con una brocha) la superficie de la masa que no esté tocando el relleno y con cuidado, une los extremos doblando el círculo en una forma de “D” sin aplastar.\n8. Pellizca los bordes para sellar y coloca sobre una bandeja con lámina de silicón o papel encerado.\n9. Hornea durante 10 minutos, luego baja la temperatura del horno a 170°C y hornea 45 minutos más.\n10. Puedes servir caliente o a temperatura ambiente.\n",
+  "publico": true,
+  "created_at": "2019-11-23T21:24:57.845Z",
+  "updated_at": "2019-11-23T21:24:57.845Z",
+  "photo": {
+    "id": 188,
+    "name": "Cornish Pasty.png",
+    "hash": "87df9ad32fa642c29895b0741dbb7ed2",
+    "sha256": "ORqc90bANImwEFCk1WcR-mbppKbrDQO2-cm03HF4lrU",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "436.87",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1574544297/v5zve5aqbfkzkavteift.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "v5zve5aqbfkzkavteift",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-23T21:24:58.263Z",
+    "updated_at": "2019-11-23T21:24:58.263Z"
+  },
+  "categorias": [
+    {
+      "id": 6,
+      "nombre": "Entrada",
+      "created_at": "2019-11-07T21:23:25.610Z",
+      "updated_at": "2019-11-07T21:23:25.610Z"
+    }
+  ],
+  "url": "/receta/156/cornish-pasty",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/v5zve5aqbfkzkavteift",
+  "_sourceUrl": "https://bongusto.net/receta/156/cornish-pasty",
+  "_fetchedAt": "2026-10-12T16:26:20.929Z"
+}

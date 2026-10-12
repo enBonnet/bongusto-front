@@ -1,0 +1,40 @@
+{
+  "id": 99,
+  "titulo": "Ceviche Mexicano",
+  "descripcion": "No sólo peruano, México también reivindica su ceviche",
+  "historia": "Los limones desembarcaron en América con los españoles y México fue una de sus primeras paradas. Los chiles –pimientos– son uno de los ingredientes fundamentales de la cocina del país, y el Pacífico no anda mal servido de pescado.\n\nAhí están los tres pilares del ceviche, un plato que Perú ha conseguido colocar en el mapa mundial de la gastronomía, pero sobre el que México también tiene mucho que decir. Hemos estado por la costa del Pacífico del país –Puerto Vallarta y Riviera Nayarit, más concretamente– rastreando el posible origen mexicano del ceviche.\n\n",
+  "ingredientes": "### 4 porciones medianas o un tazón grande:\n- 12 Unidades de Limones\t\t\t\t\n- 1/2 Kg de Mero\n- 2  Cebollas \t\t\t\t\t\n- 100 grs de Cazón\n- ½ rama de Apio picado\t\t\t\t\n- 200 grs de Rape\n- 1/2  Pimiento italiano\t\t\t\t\n- 1/2 Kilogramo de Lenguado\n- 2 Tomates rojos y firmes sin pepitas\t\t\n- 1 Pizca de Orégano\n- 1 Puñado de Cilantro picado\t\t\t\n- 1 Pizca de Sal\n- 1 Cucharadita de Gotas de salsa Soja\t\t\n- 2 Cdas sopera de Ketchup",
+  "preparacion": "Lavar el pescado y cortar en cubos y agregar el jugo de limón teniendo cuidado de no agregar las semillas del limón, dejar marinar por 40 minutos y luego colar sin estropear el pescado, luego agregarle el resto de los ingredientes y mover con cuidado, llevar al refrigerador y servir con tostadas.",
+  "publico": true,
+  "created_at": "2019-11-12T15:06:02.310Z",
+  "updated_at": "2019-11-12T15:06:02.310Z",
+  "photo": {
+    "id": 106,
+    "name": "Ceviche Mexicano.png",
+    "hash": "f66a876bf0124c8bb4609f8f6494c6b8",
+    "sha256": "SCm5sF_pVImLJx88LFT7uA1ZnMnpZXH9A3bwDuCWpC4",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "359.83",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1573571162/somkpumj7xkrufaw3sb9.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "somkpumj7xkrufaw3sb9",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-12T15:06:02.760Z",
+    "updated_at": "2019-11-12T15:06:02.760Z"
+  },
+  "categorias": [
+    {
+      "id": 6,
+      "nombre": "Entrada",
+      "created_at": "2019-11-07T21:23:25.610Z",
+      "updated_at": "2019-11-07T21:23:25.610Z"
+    }
+  ],
+  "url": "/receta/99/ceviche-mexicano",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/somkpumj7xkrufaw3sb9",
+  "_sourceUrl": "https://bongusto.net/receta/99/ceviche-mexicano",
+  "_fetchedAt": "2026-10-12T16:27:07.080Z"
+}

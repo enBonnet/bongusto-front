@@ -1,0 +1,40 @@
+{
+  "id": 331,
+  "titulo": "Créme Broulet",
+  "descripcion": "Es un postre que consiste en una crema cuya superficie se ha espolvoreado de azúcar con el fin de quemarlo y obtener así una fina capa crujiente de caramelo.",
+  "historia": "Se considera que la primera mención de la crème brûlée aparece en Francia, en el libro de cocina Nouveau cuisinier royal et bourgeois de François Massialot, publicado en 1691. La crema empleada entonces era a base de yema de huevo y leche con una pizca de harina. Este cocinero de Felipe I de Orleans precisa en su recetario que: \"Es necesario echar bastante azúcar encima, a parte del azúcar que se echa dentro: se coge la paleta del fuego, al rojo vivo; y a la vez se quema con ella la crema a fin de que coja un hermoso color oro.",
+  "ingredientes": "- ½ litro de leche entera\n- ½ cucharadita de vainilla\n- 3 yemas de huevo\n- 50 g de azúcar\n- 1 lajita de canela\n- 4 a 5 cucharadas de azúcar para caramelizar",
+  "preparacion": "- En una olla, colocamos la leche con la vainilla y la canela. Calentamos a fuego bajo durante unos 10 minutos, teniendo cuidado de que no hierva. Retiramos del fuego y dejamos reposar media hora.\n- Encendemos el horno a 160°C y ponemos dentro una bandeja donde entren todas las cazuelitas. Pondremos en la bandeja 2 o 3 dedos de agua para que se vayan calentando con\n- el horno.\n- Una vez que la leche ha reposado, la colamos para eliminar la canela. En un bol batimos las yemas con el azúcar hasta que estén espumosas. Luego vamos agregando la leche de a poco, sin dejar de batir, hasta que esté todo integrado.\n- Ponemos la crema que hemos preparado en una olla y la cocinamos al fuego medio, siempre\n- removiendo, hasta que comience a espesar. Llevará 3 o 4 minutos.\n- Vertemos la crema en las cazuelas, y las colocamos en la bandeja con agua que teníamos en el horno. El agua debería llegar hasta la mitad de las cazuelas. Horneamos por 30 minutos, retiramos y dejamos enfriar.\n- Cubrimos cada creme brulée con una cucharada abundante de azúcar, y con un soplete de cocina quemamos la superficie hasta que el azúcar se dore. El punto de tostado es a gusto, lo importante es que el azúcar se caramelice formando la capa crujiente.\n- Dejamos que el caramelo se enfríe y solidifique.",
+  "publico": true,
+  "created_at": "2022-06-11T19:20:16.123Z",
+  "updated_at": "2022-06-11T19:20:16.123Z",
+  "photo": {
+    "id": 375,
+    "name": "CRÉME BROULET.png",
+    "hash": "4a7b4d7760084d66b42ae8c42bd6e2dd",
+    "sha256": "Z4QoE7Ps4rrRZuDVDpsPXm4e_cEtZsNZsvgu7Dj+Kg4",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "131.92",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1654975216/xf1y8py5ubkepkweojch.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "xf1y8py5ubkepkweojch",
+      "resource_type": "image"
+    },
+    "created_at": "2022-06-11T19:20:16.510Z",
+    "updated_at": "2022-06-11T19:20:16.510Z"
+  },
+  "categorias": [
+    {
+      "id": 9,
+      "nombre": "Postre",
+      "created_at": "2019-11-07T22:49:20.381Z",
+      "updated_at": "2019-11-07T22:49:20.381Z"
+    }
+  ],
+  "url": "/receta/331/creme-broulet",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/xf1y8py5ubkepkweojch",
+  "_sourceUrl": "https://bongusto.net/receta/331/creme-broulet",
+  "_fetchedAt": "2026-10-12T16:23:58.718Z"
+}

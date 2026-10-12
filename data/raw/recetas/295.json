@@ -1,0 +1,40 @@
+{
+  "id": 295,
+  "titulo": "Whisky en las Rocas",
+  "descripcion": "Un cóctel on the rocks (aunque también es cada vez más común oírlo en castellano «en las rocas») se sirve con cubos de hielo.",
+  "historia": "Se dice que el hábito de tomar whisky escocés “On the rocks” empezó en los climas cálidos, después de que las personas encontraron un creativo método para enfriar el whisky, sumergiendo piedras en el fondo de los ríos.",
+  "ingredientes": "- Vaso: (vaso old fashion)\n- Hielo (en cubos) \n- Whisky",
+  "preparacion": "- Colocar dos o tres cubos de hielo en el vaso\n- Agregar 1 ½ onza de Whisky\n**Nota:** Cuando el cliente solicite uno doble de le agrega 1 ½ onza más de Whisky\n",
+  "publico": true,
+  "created_at": "2021-10-30T14:33:22.178Z",
+  "updated_at": "2021-10-30T14:33:22.178Z",
+  "photo": {
+    "id": 333,
+    "name": "Whisky.png",
+    "hash": "ce04039f5821497da191fd1d75fa8bd6",
+    "sha256": "aDGss0HC7gHEnXAS4XjMUx00i0HqaL9DfPIbXaLEh7I",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "25.27",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1635604402/iwuwau1dabcf0kixrzd2.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "iwuwau1dabcf0kixrzd2",
+      "resource_type": "image"
+    },
+    "created_at": "2021-10-30T14:33:22.452Z",
+    "updated_at": "2021-10-30T14:33:22.452Z"
+  },
+  "categorias": [
+    {
+      "id": 43,
+      "nombre": "Maridaje ",
+      "created_at": "2019-11-09T20:57:22.945Z",
+      "updated_at": "2019-11-09T20:57:22.945Z"
+    }
+  ],
+  "url": "/receta/295/whisky-en-las-rocas",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/iwuwau1dabcf0kixrzd2",
+  "_sourceUrl": "https://bongusto.net/receta/295/whisky-en-las-rocas",
+  "_fetchedAt": "2026-10-12T16:24:26.728Z"
+}

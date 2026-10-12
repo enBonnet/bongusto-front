@@ -1,0 +1,40 @@
+{
+  "id": 67,
+  "titulo": "Flan de la Habana",
+  "descripcion": "Sin duda el flan cubano es más que un plato delicioso que se ha convertido en tradición.",
+  "historia": "El flan es un postre muy antiguo y para sorpresa mía -quizás ustedes ya lo sabían- es de origen europeo, no hispano. Surge en la Era Medieval, en el área de Italia y Francia. En aquel entonces era reconocido como un postre  “con poderes afrodisíacos”.  Su primera mención recogida aparece en el libro Dulce caseros y leche agria del cocinero Apicius. Se encuentra bajo el nombre latino de tiropatinam. Sin embargo, el que se conoce en América, flan, proviene del francés flado, que es una torta u objeto plano.\n\nAlgunos recogen que fue introducido en Cuba a través de la colonización española. En la isla, existe un sinfín de recetas que agregan sabor y un toque especial al flan tradicional. Es un dulce manjar imprescindible en la cocina cubana, más allá de su procedencia, y si la comida termina con una porción de este postre pues ya tienes el cielo ganado por la boca. Existen diversas formas de hacerlo, siempre en función de la disponibilidad de los ingredientes o del gusto de quien lo prepara.",
+  "ingredientes": "8 porciones:\n- •\t6 huevos\t\t\t\t\n- •\t1 cda de esencia de vainilla\n- •\t1 taza de azúcar\t\t\t\n- •\t½ lt. De leche\n- •\t1 lata de leche condensada\n",
+  "preparacion": "Mezclar los huevos, leche, leche condensada y esencia de vainilla, cocinar en baño de maría a 180 °C por 40 minutos, previamente en molde acaramelado, desmoldar y servir.",
+  "publico": true,
+  "created_at": "2019-11-10T21:27:20.421Z",
+  "updated_at": "2019-11-10T21:27:20.421Z",
+  "photo": {
+    "id": 174,
+    "name": "Flan de la Habana.png",
+    "hash": "c5350852a8f64493bc5fd65ef0f2c03d",
+    "sha256": "OQ0vw8UxCBvkOk-qAzDid7ravVoocXY9rnLXxp9jgXU",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "46.93",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1574524857/kfmeyweiwroov7qajlep.jpg",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "kfmeyweiwroov7qajlep",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-23T16:00:58.149Z",
+    "updated_at": "2019-11-23T16:00:58.149Z"
+  },
+  "categorias": [
+    {
+      "id": 9,
+      "nombre": "Postre",
+      "created_at": "2019-11-07T22:49:20.381Z",
+      "updated_at": "2019-11-07T22:49:20.381Z"
+    }
+  ],
+  "url": "/receta/67/flan-de-la-habana",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/kfmeyweiwroov7qajlep",
+  "_sourceUrl": "https://bongusto.net/receta/67/flan-de-la-habana",
+  "_fetchedAt": "2026-10-12T16:27:32.962Z"
+}

@@ -1,0 +1,40 @@
+{
+  "id": 227,
+  "titulo": "Crema de Apio",
+  "descripcion": "Entre las muchas variedades de cremas, las de vegetales son las preferidas, y la de apio una de las más populares.",
+  "historia": "Entre las muchas variedades de cremas, las de vegetales son las preferidas, y la de apio una de las más populares. Son preparaciones ligeras y rápidas de hacer. Con escasas variaciones, cualquier tubérculo u hortaliza admite la secuencia de esta receta.",
+  "ingredientes": "### Ingredientes (para 4 personas) \n- ½ kg de apio (pelados y cortados en trozos medianos) \n- 1 litro de consomé de pollo o carne \n- Sal al gusto (si el consomé no tiene sal) \n- Queso blanco blando cortado en cuadritos \n- 12 hojas de yerbabuena cortadas finamente",
+  "preparacion": "1. Se cocina el apio en el consomé, a fuego alto, durante unos 25 minutos o hasta que ablande. \n2. Se procesa el apio con el caldo. \n3. Se regresa la mezcla a la olla y se vuelve a calentar de 5 a 10 minutos a fuego bajo, antes de servir. \n4. Ya en el plato, se agregan los cuadritos de queso y se colocan las hojitas de yerbabuena, para adornar.\n### Opcional \n- Al líquido de la cocción se le pueden agregar ingredientes como cebolla, ajoporro, cilantro o \n- albahaca, que se retiran antes de procesar la mezcla. \n- Si se quiere una crema más homogénea, pueden añadirse 2 cucharadas de mantequilla cuando se procesa el apio. \n### Sugerencia \n- Servir con cuadritos de pan tostado en mantequilla.",
+  "publico": true,
+  "created_at": "2019-12-07T22:31:11.472Z",
+  "updated_at": "2019-12-07T22:32:14.043Z",
+  "photo": {
+    "id": 261,
+    "name": "Crema de Apio.png",
+    "hash": "03337e4aa5644877bcd941f27f08f0c6",
+    "sha256": "ldbC8i5X_V0CYbC2D0rbn3Z-FgJ7VUHu0JEcrJHF32U",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "78.06",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1575757871/ssqwbbxuhokw84b8vpjh.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "ssqwbbxuhokw84b8vpjh",
+      "resource_type": "image"
+    },
+    "created_at": "2019-12-07T22:31:11.798Z",
+    "updated_at": "2019-12-07T22:31:11.798Z"
+  },
+  "categorias": [
+    {
+      "id": 6,
+      "nombre": "Entrada",
+      "created_at": "2019-11-07T21:23:25.610Z",
+      "updated_at": "2019-11-07T21:23:25.610Z"
+    }
+  ],
+  "url": "/receta/227/crema-de-apio",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/ssqwbbxuhokw84b8vpjh",
+  "_sourceUrl": "https://bongusto.net/receta/227/crema-de-apio",
+  "_fetchedAt": "2026-10-12T16:25:23.672Z"
+}

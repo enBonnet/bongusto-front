@@ -1,0 +1,40 @@
+{
+  "id": 197,
+  "titulo": "Espirales de Pavo con Higos al Ron",
+  "descripcion": "Con esta receta se presenta una peculiar y vistosa manera de preparar el pavo: el enrollado.",
+  "historia": "Con esta receta se presenta una peculiar y vistosa manera de preparar el pavo: el enrollado. Para lograr una interesante combinación entre la textura fibrosa de esta ave y la suavidad que pueden aportar las frutas, se incluye un relleno de higos remojados en uno de los licores más típicos del país: el ron. De esta manera, se impregna toda la pieza con su sabor dulce.",
+  "ingredientes": "### Ingredientes (para 4 personas) \n### Pavo \n- 1 pechuga de pavo de 850 gramos, aproximadamente \n- 2 cucharaditas de sal \n- 1 ½ cucharadita de pimienta negra recién molida \n- ½ taza de aceite de oliva \n### Relleno \n- ½ kg de higos secos cortados en tiritas, sin las bases del tallo \n- 2 tazas de ron venezolano \n### Envoltorio \n- Papel aluminio\n",
+  "preparacion": "1. Se remojan los higos en ron y se resguardan en la nevera (preferiblemente unas 24 horas). \n2. Seprecalientaelhornoa180° C. \n3. Se corta la pechuga de forma tal que se vaya abriendo a la manera de una tela lo más larga posible, como si el cuchillo la estuviera desenrollando. Lo importante es que quede lo más delgada y extensa posible.\n4. Se adoba por ambos lados con la sal, la pimienta y el aceite. \n5. Se amasan los higos con los dedos hasta formar una pasta. \n6. Sobre la superficie de la pechuga se extiende la pasta de higos. Se enrolla la carne sobre sí misma para darle forma cilíndrica. \n7. Se envuelve con papel aluminio, presionando los extremos para cerrarlos. Se coloca en un molde con el caldo y se hornea por 1 hora. \n8. Se saca del horno, se deja reposar durante 15 minutos y se le retira el papel aluminio. El jugo de la cocción se pasa por el colador y se cocina en una olla a fuego medio hasta reducirlo a la mitad, aproximadamente 15 minutos (agregar sal, si el caldo no la tiene) \n9. Se corta el pavo en ruedas de 1 ½ cm y se sirve en el centro del plato, sobre el jugo de la cocción. \n#### Sugerencia \n- Acompañar con brócoli al vapor.",
+  "publico": true,
+  "created_at": "2019-12-06T23:14:26.428Z",
+  "updated_at": "2019-12-06T23:14:26.428Z",
+  "photo": {
+    "id": 231,
+    "name": "Espirales de Pavo.png",
+    "hash": "7e6ec91ed3d34260b883ce182e0cff5d",
+    "sha256": "NEV2X62Kw8JXE9c8JHrRFmGy6hnXirKZHovW1KmJgno",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "136.88",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1575674066/myxfa1soc8ewpkjkhcyi.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "myxfa1soc8ewpkjkhcyi",
+      "resource_type": "image"
+    },
+    "created_at": "2019-12-06T23:14:26.844Z",
+    "updated_at": "2019-12-06T23:14:26.844Z"
+  },
+  "categorias": [
+    {
+      "id": 47,
+      "nombre": "Principal",
+      "created_at": "2019-11-20T14:11:58.958Z",
+      "updated_at": "2019-11-20T14:11:58.958Z"
+    }
+  ],
+  "url": "/receta/197/espirales-de-pavo-con-higos-al-ron",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/myxfa1soc8ewpkjkhcyi",
+  "_sourceUrl": "https://bongusto.net/receta/197/espirales-de-pavo-con-higos-al-ron",
+  "_fetchedAt": "2026-10-12T16:25:47.634Z"
+}

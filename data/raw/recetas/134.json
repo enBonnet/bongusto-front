@@ -1,0 +1,40 @@
+{
+  "id": 134,
+  "titulo": "Tabule o Tabbouleh",
+  "descripcion": "El tabule o tabbouleh es una ensalada de origen arabe que resulta deliciosa y además es un plato muy refrescante.",
+  "historia": "Es una ensalada oriunda de Siria y Líbano que es empleada a veces como acompañamiento del conjunto de aperitivos típicos de la zona. Se trata de un plato frío consumido en los calurosos meses de verano en todo el mundo árabe.",
+  "ingredientes": "### De 6 a 10 Porciones:\n- 1 taza de Bulgur o burghul (sémola de trigo)\t\n- Sal\n- 2 tazas de perejil fresco picado en hache\t\t\n- 3 cebollín corte fino\n- 1 taza de hierbabuena fresca picada\t\t\t\n- Pimienta (opcional)\n- ½ Kg. De tomates rojos cortados en brunoise\t\n- 2-3 cucharadas de aceite de oliva\n- ½ taza de zumo de limón recién exprimido",
+  "preparacion": "1. Poner el burghul en un recipiente con agua y dejarlo en remojo durante 10 minutos.\n2. Escurrir el burghul en un colador y exprimir el agua restante presionando el burghul con una cuchara.\n3. Colocar el burgul junto con el resto de ingredientes en un cuenco y mezclarlos bien.\n4. Sírvalo como aperitivo, acompañado de hojitas de lechuga fresca. Para apilar el tabbouleh, o bien como ensalada para acompañar un plato principal.\n",
+  "publico": true,
+  "created_at": "2019-11-21T15:23:56.497Z",
+  "updated_at": "2019-11-21T15:23:56.497Z",
+  "photo": {
+    "id": 141,
+    "name": "Tabule o Tabbouleh.png",
+    "hash": "f3e005d3bee64d888eb890dc4e2033e7",
+    "sha256": "AXvuFkqa3KYbP6AK_pYd4evIscJPYEbNSkeNVi8ytjY",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "291.69",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1574349836/aeyfiywvzbq0eyepkmgj.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "aeyfiywvzbq0eyepkmgj",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-21T15:23:56.904Z",
+    "updated_at": "2019-11-21T15:23:56.904Z"
+  },
+  "categorias": [
+    {
+      "id": 6,
+      "nombre": "Entrada",
+      "created_at": "2019-11-07T21:23:25.610Z",
+      "updated_at": "2019-11-07T21:23:25.610Z"
+    }
+  ],
+  "url": "/receta/134/tabule-o-tabbouleh",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/aeyfiywvzbq0eyepkmgj",
+  "_sourceUrl": "https://bongusto.net/receta/134/tabule-o-tabbouleh",
+  "_fetchedAt": "2026-10-12T16:26:39.234Z"
+}

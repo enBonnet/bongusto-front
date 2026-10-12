@@ -1,0 +1,40 @@
+{
+  "id": 336,
+  "titulo": "Entrecot en salsa Bordalesa",
+  "descripcion": "La salsa bordelaise es una preparación francesa popular que se agrega con frecuencia a las carnes y otras preparaciones saladas.",
+  "historia": "La salsa bordelaise es una preparación francesa popular que se agrega con frecuencia a las carnes y otras preparaciones saladas. Llamada así por la región productora de vino de Burdeos, Francia, esta abundante salsa generalmente involucra una base de vino y caldo. La salsa Bordelaise es una característica común en los menús de inspiración francesa en todo el mundo y puede agregar un sabor sofisticado a una amplia variedad de platos.",
+  "ingredientes": "- 2 solomillos troceados \n- Aceite de oliva \n- 1cebolla en julianas \n- 1 diente de ajo laminado\n- 1 cucharada sopera de harina \n- 1 vaso de fondo negro \n- 1 vaso de vino tinto \n- Sal y pimienta",
+  "preparacion": "- Primero preparamos la salsa:\n- Añadimos aceite en una sartén, añadimos la cebolla, el diente de ajo laminado y lo cocinamos a fuego bajo.\n- Cuando esté pochado añadimos 1 cucharada sopera de harina, el vaso de caldo y el vaso de vino tinto. Lo tapamos y lo tenemos al fuego (bajo) por 20 min lo salamos al gusto, removemos constantemente hasta que espese.\n- Calentar un sartén o plancha con aceite caliente, pasamos los solomillos sólo vuelta y vuelta, salpimentándolo al gusto, hasta dorar por ambos lados, dejándolos al termino deseado. \n- Servir y napar con la salsa.",
+  "publico": true,
+  "created_at": "2022-06-11T19:37:46.523Z",
+  "updated_at": "2022-06-11T19:37:46.523Z",
+  "photo": {
+    "id": 380,
+    "name": "Entrecot en salsa Bordalesa.png",
+    "hash": "b68c923c33c94200aef0825d62adcee2",
+    "sha256": "nPMzC1CJYGHwod8fkx_nxldPNbh7-f1rXBc5pcJee-A",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "168.25",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1654976266/guezff5tqahcsp62g0ku.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "guezff5tqahcsp62g0ku",
+      "resource_type": "image"
+    },
+    "created_at": "2022-06-11T19:37:46.933Z",
+    "updated_at": "2022-06-11T19:37:46.933Z"
+  },
+  "categorias": [
+    {
+      "id": 47,
+      "nombre": "Principal",
+      "created_at": "2019-11-20T14:11:58.958Z",
+      "updated_at": "2019-11-20T14:11:58.958Z"
+    }
+  ],
+  "url": "/receta/336/entrecot-en-salsa-bordalesa",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/guezff5tqahcsp62g0ku",
+  "_sourceUrl": "https://bongusto.net/receta/336/entrecot-en-salsa-bordalesa",
+  "_fetchedAt": "2026-10-12T16:23:54.952Z"
+}

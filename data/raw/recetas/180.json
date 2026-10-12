@@ -1,0 +1,40 @@
+{
+  "id": 180,
+  "titulo": "Bisque de Mariscos",
+  "descripcion": "Dentro de la brillante y enriquecedora cocina francesa encontramos elaboraciones tan exquisitas como el bisque.",
+  "historia": "Dentro de la brillante y enriquecedora cocina francesa encontramos elaboraciones tan exquisitas como el bisque, término con origen incierto, pero que sugieren que proviene del Golfo de Vizcaya (Biscaye), dado que en la cocina de esta provincia se utilizan ingredientes similares a dicha receta. Otra creencia es que se debe a la doble cocción de la elaboración, es decir, que proviene de ‘bis cuites’ (dos veces cocido).\n¿Pero qué es un Bisque?, pues realmente tiene dos definiciones culinarias, siendo la más relevante la que referencia a la sopa o crema de marisco de la que os vamos a hablar. La otra acepción del bisque es un plato dulce, un postre, se trata de un helado en el que se incorporan macarons triturados o a veces frutos secos, pero de ello hablaremos en otro momento.",
+  "ingredientes": "- 3 cucharadas de aceite de maíz \n- 1 kg de cabezas y caparazones de camarones o langostinos \n- 1 vasito de licor (ron) \n- 1 cebolla entera \n- 1 clavo de olor \n- 1 hoja de laurel \n- 1 cabeza de ajo entera, sin pelar \n- ½ litro de vino blanco seco (si es para una salsa) 0 ½ litro de agua (si es para un caldo) \n- 1 zanahoria grande cortada en rodajas \n- 1 cucharada de pasta de tomate ",
+  "preparacion": "1. En una sartén grande o caldero con aceite, se sofríen las cabezas y los caparazones de los mariscos junto con la zanahoria, la cebolla, el clavo de olor, el ajo y la pasta de tomate; entre 5 y 10 minutos. \n2. Cuando el sofrito adquiera un color naranja oscuro, se agrega el ron para flambearlo. Luego se vierte el vino blanco, si es para una salsa, o el agua si es para un caldo. \n3. Se tapa y se deja cocinara fuego bajo, entre 15 y 20 minutos, Cuando hierva, se retira del fuego y se pasa por un chino o tamiz. \n4. Se debe obtener un concentrado color naranja oscuro; sirve de base para la preparación de:\n### Crema o bisque: se obtiene mezclando la preparación descrita con ½ litro de crema de leche, \n### Salsas: se mezcla con mantequilla o crema de leche y se obtiene una salsa de apariencia aterciopelada, que puede servirse sola o cubriendo algún pescado. \nCon los sobrantes se puede preparar un \"aderezo marino”: Se procesa lo que quedó en el colador (las cabezas de mariscos y restos del sofrito) y se mezcla con aceite de oliva, sal y pimienta al gusto.\n",
+  "publico": true,
+  "created_at": "2019-12-06T21:59:24.754Z",
+  "updated_at": "2019-12-06T21:59:24.754Z",
+  "photo": {
+    "id": 214,
+    "name": "Bisque de Mariscos.png",
+    "hash": "4d19cb8a97bf43f59e7569ecf9d66224",
+    "sha256": "d1-ffHzNM4oXVai-hQy5nFF1wQxKesNUvHtIB09fd74",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "129.64",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1575669565/ps1nzq5fggxyepob1cv8.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "ps1nzq5fggxyepob1cv8",
+      "resource_type": "image"
+    },
+    "created_at": "2019-12-06T21:59:25.371Z",
+    "updated_at": "2019-12-06T21:59:25.371Z"
+  },
+  "categorias": [
+    {
+      "id": 42,
+      "nombre": "Salsa",
+      "created_at": "2019-11-09T19:51:40.254Z",
+      "updated_at": "2019-11-09T19:51:40.254Z"
+    }
+  ],
+  "url": "/receta/180/bisque-de-mariscos",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/ps1nzq5fggxyepob1cv8",
+  "_sourceUrl": "https://bongusto.net/receta/180/bisque-de-mariscos",
+  "_fetchedAt": "2026-10-12T16:26:01.761Z"
+}

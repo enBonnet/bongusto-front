@@ -1,0 +1,40 @@
+{
+  "id": 100,
+  "titulo": "Consomé de pollo con quenelles",
+  "descripcion": "Especialidad de la cocina francesa, se elabora un caldo clarificado y quenelles. Una típica entrada de la cocina gala.",
+  "historia": "El consome es Especialidad de la cocina francesa, se elabora un caldo clarificado y quenelles. Una típica entrada de la cocina gala.\nLas quenelles ya eran frecuentes en los menús de los reyes franceses de los siglos XVII y XVIII, pero poco tenían que ver con las actuales quenelles de Lyon. ",
+  "ingredientes": "### ## 4 porciones:\n- 1 pechuga de pollo\t\t\n- 150 ml crema de leche\t\t\n- 2 cdas coñac (o Brandy)\n- 2 litro de fondo blanco\t\n- Sal, pimienta y nuez moscada al gusto\n\n\n\n",
+  "preparacion": "- 1. Hacer un puré con la pechuga de pollo (cruda) en una procesadora de alimentos\n- 2. Agregar el puré a un recipiente que este sobre un baño de maría invertido (agua helada)\n- 3. Poco a poco agregar la crema de leche y la clara de huevo\n- 4. Condimentar con sal y pimienta, nuez moscada, incorporar el coñac\n- 5. Colocar caldo de pollo al fuego\n- 6. Formar los querelles utilizando dos cucharillas\n- 7. Al estar formados los quenelles, con la cucharilla de abajo llevarlo al Caldo por 10 minutos\n- 8. Sacarlos y reservar, para luego servir con el caldo clarificado.",
+  "publico": true,
+  "created_at": "2019-11-12T22:27:15.992Z",
+  "updated_at": "2019-11-12T22:27:15.992Z",
+  "photo": {
+    "id": 107,
+    "name": "Cansome con queneles.png",
+    "hash": "2e7cabb99e4c4cb88d549c7cd1fb9d69",
+    "sha256": "a3gEtBM73pEOClBHZEcjdSGsJSN0tuxJ73I-BM54uTc",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "185.66",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1573597636/npxxufctd9alknsuo1zp.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "npxxufctd9alknsuo1zp",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-12T22:27:16.590Z",
+    "updated_at": "2019-11-12T22:27:16.590Z"
+  },
+  "categorias": [
+    {
+      "id": 6,
+      "nombre": "Entrada",
+      "created_at": "2019-11-07T21:23:25.610Z",
+      "updated_at": "2019-11-07T21:23:25.610Z"
+    }
+  ],
+  "url": "/receta/100/consome-de-pollo-con-quenelles",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/npxxufctd9alknsuo1zp",
+  "_sourceUrl": "https://bongusto.net/receta/100/consome-de-pollo-con-quenelles",
+  "_fetchedAt": "2026-10-12T16:27:06.257Z"
+}

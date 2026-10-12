@@ -1,0 +1,40 @@
+{
+  "id": 89,
+  "titulo": "Ceviche de Pescado Peruano",
+  "descripcion": " Es un plato consistente en carne marinada de pescado, mariscos o ambos, en aliños cítricos.",
+  "historia": "En cuanto a su origen, se dan varias explicaciones. Según algunas fuentes históricas del Perú, el cebiche se habría originado entre los moche, una civilización costera que comenzó a florecer entre los siglos I y II en lo que actualmente es el norte del Perú.",
+  "ingredientes": "### 6 porciones:\n- 500 grs de filete de Corvina\t\t\t\n- 2 dientes de ajo en hache\n- 1 cebolla morada\t\t\t\t\n- 2 choclos (Jojoto)\n- 5 ajíes limo\t\t\t\t\t\n- 1 hoja de lechuga\"\n- 1 ramita de celery\t\t\t\t\n- 1 boniato (Batata)\n- 1/2 cucharadita de jengibre\t\t\t\n- 2 papas cocidas\n- 1 taza de jugo de limón\t\t\t\n- Una pizca de ajinomoto\n- Sal y pimienta blanca\t\t\t\t\n- Una rama de cilantro",
+  "preparacion": "- 1. Se corta el pescado en dados; se coloca en un bol con sal .pimienta, ajo y jengibre en haché el celery cortado en brunise y ajinomoto se deja reposar par 10 minutos \n- 2. Después se le agrega la taza de limón y el ají finamente cortado. Se deja reposar por 10 minutos más, y se sirve con cebolla cortada en pluma, papas cocidas y boniato (batata).",
+  "publico": true,
+  "created_at": "2019-11-11T23:17:42.179Z",
+  "updated_at": "2019-11-11T23:17:42.179Z",
+  "photo": {
+    "id": 96,
+    "name": "Ceviche.png",
+    "hash": "97d7dc8e3ac54968851749e27eabbe17",
+    "sha256": "yk4fkpH8eLrJGpgPXT-8wLcxG8gcy7ZJ4L-mWxYeSeo",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "526.19",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1573514262/odfgnamzifwuiumj9lpn.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "odfgnamzifwuiumj9lpn",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-11T23:17:42.538Z",
+    "updated_at": "2019-11-11T23:17:42.538Z"
+  },
+  "categorias": [
+    {
+      "id": 6,
+      "nombre": "Entrada",
+      "created_at": "2019-11-07T21:23:25.610Z",
+      "updated_at": "2019-11-07T21:23:25.610Z"
+    }
+  ],
+  "url": "/receta/89/ceviche-de-pescado-peruano",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/odfgnamzifwuiumj9lpn",
+  "_sourceUrl": "https://bongusto.net/receta/89/ceviche-de-pescado-peruano",
+  "_fetchedAt": "2026-10-12T16:27:15.419Z"
+}

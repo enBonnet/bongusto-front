@@ -1,0 +1,40 @@
+{
+  "id": 330,
+  "titulo": "Tarta Tatín",
+  "descripcion": "La tarta Tatin es una variante de la tarta de manzana en la que las manzanas han sido caramelizadas en mantequilla y azúcar antes de incorporar la masa.",
+  "historia": "La tradición dice que la Tarte Tatin fue creada por accidente en el 'Hotel Tatin' en Lamotte-Beuvron, Francia en 1889, lugar del que deriva el nombre. El hotel era regentado por dos hermanas, Stéphanie Tatin (1838–1917) y Caroline Tatin (1847–1911). Existen múltiples versiones acerca del origen de la tarta, pero la historia más aceptada menciona que un despiste de Stéphanie Tatin hizo que se cocinaran más de la cuenta las manzanas, y para no desperdiciarlas le pusieron la pasta encima y la hornearon, y después le dieron vuelta con cuidado, dando lugar a esta variante tan conocida en la cocina francesa.",
+  "ingredientes": "**Para 6 personas**\n- 250 g Harina de repostería\n- 160 g Mantequilla para la masa\n- 50 ml Leche\n- 5 g Sal\n- 15 g Azúcar para la masa\n- 1 yema de huevo Mediano\n- 1 kg Manzana (aproximado 4 manzanas) \n- 200 g Azúcar para el relleno\n- 75 g Mantequilla para el relleno",
+  "preparacion": "- Comenzaremos preparando la masa. Para ello ponemos la harina y la mantequilla en dados bien fría en una superficie de trabajo. Con los dedos vamos cubriendo los dados de mantequilla con la harina. Luego con ambas manos trabajamos la mezcla hasta conseguir una textura arenosa.\n- \n- Hacemos un hueco en el centro y añadimos la leche y la yema de huevo. Vamos incorporando esto con los dedos, y cuando el líquido haya sido absorbido usamos las manos para mezclar la masa hasta que tenga una textura suave. En cuanto se unan los ingredientes estará lista. La envolvemos en film y la dejamos una hora reposar en la nevera.\n- \n- Mientras preparamos el relleno. Pelamos y cortamos las manzanas en cuartos y en una sartén o cazuela refractaria hacemos un caramelo suave con el azúcar y la mantequilla hasta que se vuelva marrón, pero no demasiado oscuro. Añadimos la manzana y cocemos todo junto durante veinte minutos. Dejamos reposar media hora hasta que enfríe.\n- \n- Precalentamos el horno a 180 grados con calor arriba y abajo. Extendemos la masa con un grosor de aproximadamente cuatro milímetros y cubrimos las manzanas con la masa, remetiendo los bordes hacia dentro de la cazuela. Cocemos durante 25 minutos hasta que la pasta esté dorada. Dejamos templar ligeramente y le damos la vuelta para una bandeja.",
+  "publico": true,
+  "created_at": "2022-06-11T19:18:03.704Z",
+  "updated_at": "2022-06-11T19:18:03.704Z",
+  "photo": {
+    "id": 374,
+    "name": "Tarta Tatin.png",
+    "hash": "6ac13c028ebb4a51b0dfb029a64cc7ca",
+    "sha256": "puiXj3e6JxD1Bft_PMQAYct3M4pJS-WhY0YVAZQWtFg",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "380.06",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1654975083/w0ucjpss8rao7mad6okg.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "w0ucjpss8rao7mad6okg",
+      "resource_type": "image"
+    },
+    "created_at": "2022-06-11T19:18:04.186Z",
+    "updated_at": "2022-06-11T19:18:04.186Z"
+  },
+  "categorias": [
+    {
+      "id": 9,
+      "nombre": "Postre",
+      "created_at": "2019-11-07T22:49:20.381Z",
+      "updated_at": "2019-11-07T22:49:20.381Z"
+    }
+  ],
+  "url": "/receta/330/tarta-tatin",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/w0ucjpss8rao7mad6okg",
+  "_sourceUrl": "https://bongusto.net/receta/330/tarta-tatin",
+  "_fetchedAt": "2026-10-12T16:23:59.485Z"
+}

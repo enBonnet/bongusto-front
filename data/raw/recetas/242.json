@@ -1,0 +1,40 @@
+{
+  "id": 242,
+  "titulo": "Quesillo",
+  "descripcion": "Suele decirse que el quesillo es la versión criolla del flan, un postre muy popular en España, y ciertamente, en poco se diferencian las preparaciones de uno y otro",
+  "historia": "Suele decirse que el quesillo es la versión criolla del flan, un postre muy popular en España, y ciertamente, en poco se diferencian las preparaciones de uno y otro, salvo que el primero lleva huevos enteros y el segundo requiere únicamente las yemas. El quesillo típico tradicional muestra muchos pequeños, agujeros, efecto producido precisamente por las claras de huevo. Quizá su nombre, que se sabe enteramente venezolano, se deba a esta textura perforada y consistencia blanda que recuerda al queso llanero. En algunas variaciones incluye ingredientes que le dan sabor específico y \"apellido\" como es el caso de los quesillos de café, coco, chocolate, guanábana, naranja, guayaba o piña.",
+  "ingredientes": "### Ingredientes (para 12 personas) \n- 12 huevos (con las claras separadas de las yemas) \n- ½ kg de azúcar \n- 2 cucharaditas de vainilla \n- 1 litro de leche \n### Caramelo \n- 1 taza de azúcar \n- 2 cucharadas de agua",
+  "preparacion": "1. En un recipiente se vierten las yemas y se baten con el azúcar hasta lograr una mezcla de consistencia cremosa. \n2. En otro envase se baten las claras apunto de nieve. Se agregan poco a poco a la mezcla anterior, revolviendo con movimientos lentos y envolventes hasta que se unifique. Se añade la vainilla y la leche. \n3. Se hace el caramelo: en una quesillera, molde o lata, se vierte la taza de azúcar con las 2 cucharadas de agua y se dora a fuego muy bajo, removiendo con una cuchara de madera y procurando que no se queme, hasta que la mezcla adquiera un color acaramelado y espeso, pero no negro (esto indicaría que el caramelo se quemó y podría darle un sabor amargo al quesillo).\n4. Se retira del fuego y se mueve el molde para que el caramelo se extienda por todas partes. Se \n5. deja enfriar (no más de 5 minutos). \n6. Se vierte la mezcla en la quesillera, se tapa y se cocina tapado en baño de María a fuego medio por 40 minutos o hasta que quede firme (cuidando de renovar el agua cada cierto tiempo, si se evapora, y de que ésta no le entre al molde). Igualmente se puede cocinar en el horno, a 200° C, por 1 hora (para ello, se hierve previamente el agua para el baño de María). Si el quesillo queda flojo o pálido por arriba, se cocina destapado unos 10 minutos más. \n7. Se retira del calor y se espera a que enfríe completamente para desmoldarlo. Se refrigera.\n### Quesillo con leche condensada \n- Si se sustituye la leche y el azúcar por leche condensada, y se sigue el mismo procedimiento, también se obtiene un buen quesillo: para 10 huevos, se utilizan 2 latas de leche condensada, la misma cantidad de leche entera, 1 cucharada grande de vainilla y, si se quiere, 1 cucharadita de licor (ron o brandy) y la corteza de 1 limón verde rallada.\n",
+  "publico": true,
+  "created_at": "2019-12-07T23:20:27.139Z",
+  "updated_at": "2019-12-07T23:20:27.139Z",
+  "photo": {
+    "id": 276,
+    "name": "Quesillo.png",
+    "hash": "f3642928fc044370835be50f37a7fad4",
+    "sha256": "6W2zkIaJ17ztIzpL2TdMeXWdP2mDdMH2zINN3rRJ53M",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "178.12",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1575760827/aaesesonqu90yfbitqiz.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "aaesesonqu90yfbitqiz",
+      "resource_type": "image"
+    },
+    "created_at": "2019-12-07T23:20:27.542Z",
+    "updated_at": "2019-12-07T23:20:27.542Z"
+  },
+  "categorias": [
+    {
+      "id": 9,
+      "nombre": "Postre",
+      "created_at": "2019-11-07T22:49:20.381Z",
+      "updated_at": "2019-11-07T22:49:20.381Z"
+    }
+  ],
+  "url": "/receta/242/quesillo",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/aaesesonqu90yfbitqiz",
+  "_sourceUrl": "https://bongusto.net/receta/242/quesillo",
+  "_fetchedAt": "2026-10-12T16:25:11.757Z"
+}

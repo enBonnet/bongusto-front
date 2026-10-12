@@ -1,0 +1,33 @@
+{
+  "id": 83,
+  "titulo": "Parrillada Argentina",
+  "descripcion": "Los argentinos se han caracterizado por la calidad de sus carnes y la calidad en la preparación de las mismas. La parrilla argentina por su parte es un plato con reconocimiento internacional, ",
+  "historia": "El origen gastronómico de este plato, radica en los tiempos en los cuales existían los gauchos en las pampas argentinas. Los gauchos eran los nómadas que recorrían el lugar con un vestuario característico, pantalones anchos, camisas blancas y botas.\n\nCuando los gauchos se encontraban recorriendo los caminos, cazaban las vacas que se encontraban libres y las asaban para su supervivencia, alimento necesario para la vida de cazador y recolector, siendo este el inicio de los asados, sin saberlo.\n\nEl arte de los gauchos radicaba en la colocación de los palos en el suelo y la habilidad para encenderlos y comenzar la cocción.",
+  "ingredientes": "### 8 Porciones:\n- ½ punta trasera\t\t\t\t\n- 2 bolsas de carbón\n- ½ kg de chinchurria\t\t\t\t\n- ½ kg de asado de tira.\n- ½ kg de riñón\t\t\t\t\t\n- ½ kg de costillas\n- ½ kg de chorizos\t\t\t\t\n- ½ kg de morcillas\n### Chimichurri:\n- Aceite\t\t\t\t\t\t\n- Salsa inglesa.\n- Vinagre\t\t\t\t\t\n- Pimienta\n- Ajo Majado\t\t\t\t\t\t\n- Sal\n- Perejil en Hache\t\t\t\t\t\n- Ají verde en brunoise pequeño\n- Orégano\t\t\t\t\t\n- Laurel molido\n- ",
+  "preparacion": "Preparar la parrillera y encender el carbón, colocar las carnes de acuerdo a la dureza los riñones deben ser marinado previamente con vinagre, sal, perejil y ajo durante una hora. Para el chimichurri mezclar todo y dejar reposar.",
+  "publico": true,
+  "created_at": "2019-11-11T21:15:02.506Z",
+  "updated_at": "2019-11-11T21:15:02.506Z",
+  "photo": {
+    "id": 90,
+    "name": "Parrillada.png",
+    "hash": "f1febcb9267743d1b06df0696fda2716",
+    "sha256": "rT9errAHFMThuYAIxmay22tQX_dXCBW5Q9wK0VsW7X4",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "315.65",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1573506902/dgh2qyywgrhf3ky79wr1.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "dgh2qyywgrhf3ky79wr1",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-11T21:15:03.100Z",
+    "updated_at": "2019-11-11T21:15:03.100Z"
+  },
+  "categorias": [],
+  "url": "/receta/83/parrillada-argentina",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/dgh2qyywgrhf3ky79wr1",
+  "_sourceUrl": "https://bongusto.net/receta/83/parrillada-argentina",
+  "_fetchedAt": "2026-10-12T16:27:20.540Z"
+}

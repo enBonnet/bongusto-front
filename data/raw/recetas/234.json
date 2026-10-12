@@ -1,0 +1,40 @@
+{
+  "id": 234,
+  "titulo": "Sanduchón",
+  "descripcion": "EI sanduchón siempre ofrece sus sorpresas. Las opciones de relleno son tan diversas como las de cualquier sándwich",
+  "historia": "EI sanduchón siempre ofrece sus sorpresas. Las opciones de relleno son tan diversas como las de cualquier sándwich, con la diferencia de que el color de los ingredientes cumple una función decorativa: desde queso fundido, aguacate, jamón o atún hasta mermelada o huevos duros. Este pasapalo se reviste totalmente con mayonesa sola o mezclada con queso crema, para mostrarse como una torta de contenido muy esponjoso. Es un pasapalo típico de fiestas infantiles, como piñatas, bautizos o primeras comuniones, Una variante es la serpentina, en la que el pan queda enrollado como un espiral.",
+  "ingredientes": "### Ingredientes (para 25 porciones) \n- 1 pan de sándwich sin piel, cortado a lo largo en 6 rebanadas. \n- 300 gramos de jamón endiablado \n- 4cucharadasdequesoparmesanorallado \n- 4 cucharadas de mayonesa \n- 150 gramos de crema de leche \n- 225 gramos de queso crema \n- 1 pechuga de pollo sancochada, sin piel ni huesos \n- 1 cucharada de salsa inglesa \n- 200 gramos de queso amarillo rebanado \n- 3 pimentones morrones cortados en tiritas \n- 200 gramos de jamón rebanado \n- 1 cucharada de hojas de perejil ",
+  "preparacion": "1. En un recipiente se mezcla el jamón endiablado, el queso parmesano rallado y la mayonesa. \n2. En otro recipiente se hace una crema uniendo la crema de leche y el queso crema. \n3. En un procesador de alimentos (\"pica todo\"), se tritura el pollo. Se mezcla en un tercer recipiente con la salsa inglesa y con una cucharada de la mezcla de crema de leche y queso crema. \n4. Con ayuda de una paleta, se unta la primera rebanada de pan con la mezcla de jamón endiablado. Las siguientes rebanadas que servirán de tapa, se untan todas por una cara (que quedará luego hacia abajo) con la crema blanca (Debe cuidarse el orden en el que vienen dispuestas, para que el sanduchón no presente irregularidades). \n5. Se pone la segunda rebanada, se unta por encima la crema blanca y se coloca una capa de lonjas de queso. \n6. Se pone la tercera rebanada, se cubre con la pasta de pollo y se colocan diagonalmente tiritas de pimentones morrones. \n7. Se coloca la cuarta rebanada, se unta por encima con la crema blanca y se recubre con lonjas de jamón. \n8. Se pone la quinta rebanada, se unta con la mezcla de jamón endiablado y se tapa con la última rebanada de pan. \n9. Se cubre todo el sanduchón con la crema blanca. \n10. Se decora con tiritas de pimentones morrones y con hojitas de perejil.",
+  "publico": true,
+  "created_at": "2019-12-07T22:54:05.893Z",
+  "updated_at": "2019-12-07T22:54:05.893Z",
+  "photo": {
+    "id": 268,
+    "name": "Sanduchón.png",
+    "hash": "1f36bbdf0e4e40f2a272bd22af8a4af6",
+    "sha256": "24XdiYAEQMK1jsYyJZg2oN8IHB1-bnd02KNI5o00aVw",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "126.24",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1575759246/n0vqpoxo47p7wmzofyvd.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "n0vqpoxo47p7wmzofyvd",
+      "resource_type": "image"
+    },
+    "created_at": "2019-12-07T22:54:06.303Z",
+    "updated_at": "2019-12-07T22:54:06.303Z"
+  },
+  "categorias": [
+    {
+      "id": 49,
+      "nombre": "Pasa Palo",
+      "created_at": "2019-12-07T22:49:13.689Z",
+      "updated_at": "2019-12-07T22:49:13.689Z"
+    }
+  ],
+  "url": "/receta/234/sanduchon",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/n0vqpoxo47p7wmzofyvd",
+  "_sourceUrl": "https://bongusto.net/receta/234/sanduchon",
+  "_fetchedAt": "2026-10-12T16:25:18.012Z"
+}

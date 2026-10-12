@@ -1,0 +1,40 @@
+{
+  "id": 46,
+  "titulo": "Tostadas de Pan con Orégano y Perejil",
+  "descripcion": "Deliciosas rebanadas de pan tostado aderezadas con orégano y perejil. Una sensación crujiente que acompaña las comidas.",
+  "historia": "Estas tostadas, o rebanadas, o tapas, o brusquetas, etc… Son muy populares en todo el mundo, se cree que su origen es de España, ya que fue un monarca español, quien las popularizo al usarlas como tapas. Si para tapar la copa de vino, para evitar que este se contaminara o le cayeran impurezas al vino.",
+  "ingredientes": "### 4 porciones:\n### Insumos:\n- Una vagué o pan campesino costra dura cortado en rebanadas.\n- 2 cucharadas de mantequilla.\t\t\n- 2 ramas de perejil en hache.\n- 2 cucharadas de orégano seco.",
+  "preparacion": "### Preparación:\n- a.\tSe precalienta el horno a 200°.\n- b.\tSe mezcla el perejil y la mantequilla.\n- c.\tSe untan las rebanadas de pan con la mezcla anterior.\n- d.\tSe disponen en una bandeja para horno.\n- e.\tSe espolvorea con el orégano triturado.\n- f.\tSe lleva al horno hasta que doren, al gusto.\n\n",
+  "publico": true,
+  "created_at": "2019-11-09T13:53:12.240Z",
+  "updated_at": "2019-11-09T22:15:14.956Z",
+  "photo": {
+    "id": 53,
+    "name": "Pan de Oregano y perejil.png",
+    "hash": "318a8d001647496b8542e68fc0b62dca",
+    "sha256": "ZmHiAq8Tzv3XJUdG36UYxVHqHTII5nGDPFDJqqmUikQ",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "529.00",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1573307592/nlj5tr6i1sz5fdqibtb1.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "nlj5tr6i1sz5fdqibtb1",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-09T13:53:12.809Z",
+    "updated_at": "2019-11-09T13:53:12.809Z"
+  },
+  "categorias": [
+    {
+      "id": 7,
+      "nombre": "Guarnición",
+      "created_at": "2019-11-07T21:25:47.915Z",
+      "updated_at": "2019-11-07T21:25:47.915Z"
+    }
+  ],
+  "url": "/receta/46/tostadas-de-pan-con-oregano-y-perejil",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/nlj5tr6i1sz5fdqibtb1",
+  "_sourceUrl": "https://bongusto.net/receta/46/tostadas-de-pan-con-oregano-y-perejil",
+  "_fetchedAt": "2026-10-12T16:27:49.396Z"
+}

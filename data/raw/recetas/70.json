@@ -1,0 +1,40 @@
+{
+  "id": 70,
+  "titulo": "Pudín de Pan Dominicano",
+  "descripcion": "Un postre delicioso con una gran combinación de especias, perfecto para cuando te sobre pan y no sepas que hacer con él.",
+  "historia": "Los dominicanos no somos los únicos que tenemos Pudín de Pan, este es un postre casi universal. Lo que hace al nuestro diferente es la combinación de especias y pasas, lo que le da un sabor y textura diferente y muy especial",
+  "ingredientes": "### 12 porciones:\n- 12 lonjas pan o 4 tazas de pan en trocitos\t\t\n- 1 pizca sal\n- 3 tazas leche evaporada\t\t\t\t\n- 1 cda vainilla\n- 1 taza leche de vaca entera\t\t\t\t\n- 5 huevos\n- 1 taza crema de leche (opcional, se puede substituir con leche evaporada)\n- ¾ taza azúcar blanca\t\t\t\t\t\n- 1 cucharada de canela en polvo\n- ½ taza mantequilla ablandada\t\t\t\n- ½ taza pasas\n### Para el caramelo\n- 3/4 taza azúcar morena  \n- 3 cucharadas de agua\t\n- Jugo de 1 limón\n",
+  "preparacion": "### **Preparación previa: ** \n- Unta con mantequilla un molde para hornear de 3 pulgadas de alto y aproximadamente 8 x 10. Cubrir con caramelo previamente hecho y espolvorea el fondo con 2 cucharadas de azúcar morena y un poco de pasas. Pre-calienta el horno a **350 °F (180°C) **\n- Con 3/4 taza de azúcar morena + 3 cucharadas de agua y el jugo de 1 limón haga un caramelo para cubrir el fondo del molden. Al cocinar no dejes de atender pues tiende a subir.\n- Al pan cortado en trocitos añada las pasas.\n- Mezcla los huevos con azúcar blanco y bata hasta que estén esponjosos. Reserve.\n- Mezcla las leches con el canela, vainilla, mantequilla y sal. Calienta la leche y cuando rompa el hervor apague el fuego. Reserva una taza para usar luego.\n- Mezcle un poco de leche con los huevos batido para temperar y agregar los dos al pan picado en trocitos. Ponga tapado en el refrigerador por 1 hora. Saca de refrigerador y hecha la taza de leche reservada\n- Hornea por 45 - 50 minutos a baño maría. Pincha el pudin con un cuchillo limpio, si no se pega al cuchillo, saca del horno. Deja refrescar antes de desmoldar. Sirve frío.\n\n",
+  "publico": true,
+  "created_at": "2019-11-10T22:06:55.833Z",
+  "updated_at": "2019-11-10T22:06:55.833Z",
+  "photo": {
+    "id": 177,
+    "name": "Pudin De Pan.png",
+    "hash": "dc50d0c9d27d46d498ae3c5f3b618480",
+    "sha256": "XofKRGI3NaXAhQB8tuE_cQl5M8+7phVpudRcd2opVQI",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "169.32",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1574526553/ifcdcsmpnauecn1ylkp8.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "ifcdcsmpnauecn1ylkp8",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-23T16:29:14.249Z",
+    "updated_at": "2019-11-23T16:29:14.249Z"
+  },
+  "categorias": [
+    {
+      "id": 9,
+      "nombre": "Postre",
+      "created_at": "2019-11-07T22:49:20.381Z",
+      "updated_at": "2019-11-07T22:49:20.381Z"
+    }
+  ],
+  "url": "/receta/70/pudin-de-pan-dominicano",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/ifcdcsmpnauecn1ylkp8",
+  "_sourceUrl": "https://bongusto.net/receta/70/pudin-de-pan-dominicano",
+  "_fetchedAt": "2026-10-12T16:27:30.395Z"
+}

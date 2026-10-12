@@ -1,0 +1,40 @@
+{
+  "id": 102,
+  "titulo": "Puré Tres Texturas",
+  "descripcion": "Guarnición de pure de tres texturas, elaborados con Zanahoria, Remolacha y Coliflor. De la cocina francesa.",
+  "historia": "El pure es conocido y consumido en todo el mundo, una historia u origen como tal no se le conoce, pero es la guarnición ideal en muchos platos",
+  "ingredientes": "2 porciones de cada uno:\n- 2 zanahorias medianas\t\t\t\t\n- 2 remolachas\n- ½ coliflor\n- sal\t- vinagre",
+  "preparacion": "Lavar pelar cortar cada uno y sancochar hasta ablandar cada ingrediente por separado, para evitar la contaminación de los colores, en el agua de cocción agregar un toque de vinagre condimentar con sal. Una vez blandos los vegetales pasar por un pasa puré hasta obtener un puré con buena textura rectificar la sazón. Cada puré por separado, mantener en baño de maría tibio para conservar la temperatura. A la hora de servir presentar en el plato los tres puré por separados en forma de queneles.",
+  "publico": true,
+  "created_at": "2019-11-12T22:58:12.124Z",
+  "updated_at": "2019-11-12T22:58:12.124Z",
+  "photo": {
+    "id": 109,
+    "name": "Pures tres t.png",
+    "hash": "0cc6068f9c5c473e83528db900edcbe8",
+    "sha256": "PrSgJrYF7eCKEVygqm3P4PX50s6xXVlAHRWMsxw0ftY",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "244.37",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1573599492/eliawp6thwfafglmcsx0.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "eliawp6thwfafglmcsx0",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-12T22:58:12.503Z",
+    "updated_at": "2019-11-12T22:58:12.503Z"
+  },
+  "categorias": [
+    {
+      "id": 7,
+      "nombre": "Guarnición",
+      "created_at": "2019-11-07T21:25:47.915Z",
+      "updated_at": "2019-11-07T21:25:47.915Z"
+    }
+  ],
+  "url": "/receta/102/pure-tres-texturas",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/eliawp6thwfafglmcsx0",
+  "_sourceUrl": "https://bongusto.net/receta/102/pure-tres-texturas",
+  "_fetchedAt": "2026-10-12T16:27:04.825Z"
+}

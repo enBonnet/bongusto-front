@@ -1,0 +1,40 @@
+{
+  "id": 168,
+  "titulo": "Ensalada Coleslaw",
+  "descripcion": "Coleslaw o cole slaw (traducido al español como Ensalada de col) es una ensalada que consiste en col blanca cruda picada de forma fina, y acompañada de zanahoria igualmente troceada. ",
+  "historia": "Esta ensalada tiene su origen probablemente en los periodos del imperio romano. No obstante el moderno coleslaw nace en el siglo XVIII tomando como origen una palabra en holandés «koolsla», una abreviación de la frase «kool salade» que viene a significar «ensalada de col».\nEn inglaterra durante los años 1860 se usaba la denominación cold slaw cuando se hablaba de este plato.\nEl plato se introdujo en EEUU y hoy en día se denomina en el sur «coleslaw» abreviadamente como «slaw» y de esta forma existen otras ensaladas que se denominan igual con la terminación «slaw». De esta forma existen también el broccoli slaw (brócoli) o carrot slaw (zanahoria).",
+  "ingredientes": "- 1 col o repollo pequeño (o ½ si es grande)\t\t\n- Pimienta al gusto\n- 2 zanahorias\t\t\t\t\t\t\n- Sal al gusto\n- 3 cucharadas de mayonesa\t\t\t\t\n- 2-3 cucharadas de azúcar\n- 1 cucharada de vinagre de vino blanco\t\t\n- 1 cucharadita de mostaza\n- ¼ de repollo morado pequeño (No va en la original)",
+  "preparacion": "1. Tenemos que cortar el col muy fino-- mucha gente usan una mandolina. Si no tienes, simplemente intenta que quede muy fino.\n2. Colocamos la col en un bol grande y cortamos la zanahoria también muy fina, estilo Julienne.\n3. Para el aliño combinamos 3 cucharadas de mayonesa con 1 cucharada de vinagre, la cucharadita de mostaza, el azúcar, y una pizca de sal y pimienta.\n4. Añadimos el aliño al bol y removemos todo muy bien para que quede mezclado. La probamos para sal y pimienta y ajustamos si es necesario.\n5. Se puede comer inmediatamente para una ensalada de col más crujiente, o esperar unas ",
+  "publico": true,
+  "created_at": "2019-11-24T00:04:52.498Z",
+  "updated_at": "2019-11-24T00:04:52.498Z",
+  "photo": {
+    "id": 200,
+    "name": "Ensalada Coleslaw.png",
+    "hash": "e406ed3eedfe45a5817d7ca18b842eda",
+    "sha256": "u6aNBsF8mejnqcZNvWvKoaoL4UCaxIS8lQhVwPyGbi4",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "132.84",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1574553892/ipq8tt1vhoyvwst7epcw.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "ipq8tt1vhoyvwst7epcw",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-24T00:04:52.924Z",
+    "updated_at": "2019-11-24T00:04:52.924Z"
+  },
+  "categorias": [
+    {
+      "id": 7,
+      "nombre": "Guarnición",
+      "created_at": "2019-11-07T21:25:47.915Z",
+      "updated_at": "2019-11-07T21:25:47.915Z"
+    }
+  ],
+  "url": "/receta/168/ensalada-coleslaw",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/ipq8tt1vhoyvwst7epcw",
+  "_sourceUrl": "https://bongusto.net/receta/168/ensalada-coleslaw",
+  "_fetchedAt": "2026-10-12T16:26:11.573Z"
+}

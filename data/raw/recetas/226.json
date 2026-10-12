@@ -1,0 +1,40 @@
+{
+  "id": 226,
+  "titulo": "Crema de Aguacate",
+  "descripcion": "En esta receta se aprovecha la pulpa suave y aceitosa del aguacate para obtener una crema tersa y fresca. Se sirve fría como el gazpacho andaluz.",
+  "historia": "En esta receta se aprovecha la pulpa suave y aceitosa del aguacate para obtener una crema tersa y fresca. Se sirve fría como el gazpacho andaluz.",
+  "ingredientes": "### Ingredientes (para 6 personas) \n- 5 cucharadas de mantequilla \n- 2 tazas de cebolla en brunoise\n- 2 ramitas de perejil \n- 1 ramita de tomillo \n- 2 cucharadas de curry \n- 5 tazas de consomé de pollo o de carne \n- 2 kg de aguacate (unas 6 u 8 tazas de pulpa cortada en cuadritos) \n- 2 cucharaditas de sal \n- ½ cucharadita de pimienta blanca recién molida \n- ½ cucharadita de salsa picante \n- 2 tazas de crema de leche",
+  "preparacion": "1. En una olla, se sofríen en mantequilla y a fuego alto la cebolla, el perejil, el tomillo y el curry (unos 6 minutos).\n2. Se vierte el consomé, se deja hervir y se cocina por unos 2 minutos. Se retiran las ramas de perejil y tomillo y se desechan. \n3. Se procesa o tritura el aguacate con el caldo, la sal, la pimienta, la salsa picante y la crema de leche, hasta obtener una mezcla espesa. \n4. Se refrigera la crema y se sirve fría. \n### Sugerencia \n- Se puede adornar dibujando un círculo con 1 cucharada de crema de leche, con el plato ya servido.\n",
+  "publico": true,
+  "created_at": "2019-12-07T22:19:50.500Z",
+  "updated_at": "2019-12-07T22:19:50.500Z",
+  "photo": {
+    "id": 260,
+    "name": "Crema de Aguacate.png",
+    "hash": "d75375a0ec514561a078aff5269a612d",
+    "sha256": "OOtkqMPokBo5gn2ZnI0dKNsODTsg5le4aTBfqgOQoZo",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "261.51",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1575757190/nso1s2ifokrl6xhgy5ms.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "nso1s2ifokrl6xhgy5ms",
+      "resource_type": "image"
+    },
+    "created_at": "2019-12-07T22:19:51.096Z",
+    "updated_at": "2019-12-07T22:19:51.096Z"
+  },
+  "categorias": [
+    {
+      "id": 6,
+      "nombre": "Entrada",
+      "created_at": "2019-11-07T21:23:25.610Z",
+      "updated_at": "2019-11-07T21:23:25.610Z"
+    }
+  ],
+  "url": "/receta/226/crema-de-aguacate",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/nso1s2ifokrl6xhgy5ms",
+  "_sourceUrl": "https://bongusto.net/receta/226/crema-de-aguacate",
+  "_fetchedAt": "2026-10-12T16:25:24.550Z"
+}

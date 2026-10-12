@@ -1,0 +1,40 @@
+{
+  "id": 252,
+  "titulo": "Brownie de Chocolate ",
+  "descripcion": "El brownie es un bizcocho de chocolate, fruto de un accidente culinario",
+  "historia": "El brownie es un bizcocho de chocolate, fruto de un accidente culinario, un error de un cocinero que olvidó poner levadura al bizcocho de chocolate que estaba elaborando. El origen de esta delicia se ubica en Estados Unidos en el año 1897. Se conoce también como brownie de chocolate o brownie de Boston.",
+  "ingredientes": "### Para 8 porciones \n- 650 gramos de harina de trigo \n- 250 gramos de cacao en polvo \n- 1 barra de chocolate derretida a baño de maría \n- 20C) gramos de mantequilla derretida \n- 400 gramos de azúcar \n- 250 mililitros de leche \n- Anís estrellado \n- 2 huevos \n- Una pizca de canela en polvo \n- Helado de mantecado \n- Mantequilla para engrasar \n- Harina de trigo para enharinar \n### PARA EL HILO DE CARAMELO \n- 300 gramos de azúcar \n- 300 mililitros de agua \n- Papel encerado",
+  "preparacion": "- A) Precalentar el horno a 250°C. \n- B) Unir la harina, el cacao y la canela, luego agregar los huevos. \n- C) Para hacer la infusión, colocar la leche en una olla, agregar el anís estrellado y dejar hervir por unos minutos. \n- D) Mezclar la mantequilla con el chocolate, la leche y el azúcar hasta que se disuelva. Luego, incorporar la mezcla de harina hasta lograr una masa homogénea. \n- E) Colocar la mezcla en un molde previamente engrasado y enharinado. Llevar al horno por 25 minutos. \n- F) Para servir, disponer el brownie en el plato, encima colocar una bola de helado, y decorar con los hilos de caramelo. \n### PREPARACIÓN DEL HILO DE CARAMELO \n- G) En una olla pequeña cocinar el agua y el azúcar, removiendo constantemente hasta obtener un caramelo. \n- H) Derramar el caramelo muy lentamente sobre papel encerado enmantequillado para formar hilos. \n- Dejar enfriar y despegar. ",
+  "publico": true,
+  "created_at": "2019-12-17T20:55:39.865Z",
+  "updated_at": "2021-10-22T20:51:42.548Z",
+  "photo": {
+    "id": 286,
+    "name": "Brownie de Chocolate1.jpg",
+    "hash": "3be9238252444957a931ad2b4edf1e6c",
+    "sha256": "M-31Kun2MZA9aMHzkPugqOwG7IAbcEoWN1BbrE1ANEU",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "size": "64.81",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1576616140/sodstnkbdelifkkl4y9u.jpg",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "sodstnkbdelifkkl4y9u",
+      "resource_type": "image"
+    },
+    "created_at": "2019-12-17T20:55:40.293Z",
+    "updated_at": "2019-12-17T20:55:40.293Z"
+  },
+  "categorias": [
+    {
+      "id": 9,
+      "nombre": "Postre",
+      "created_at": "2019-11-07T22:49:20.381Z",
+      "updated_at": "2019-11-07T22:49:20.381Z"
+    }
+  ],
+  "url": "/receta/252/brownie-de-chocolate-",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/sodstnkbdelifkkl4y9u",
+  "_sourceUrl": "https://bongusto.net/receta/252/brownie-de-chocolate-",
+  "_fetchedAt": "2026-10-12T16:25:03.252Z"
+}

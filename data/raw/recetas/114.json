@@ -1,0 +1,40 @@
+{
+  "id": 114,
+  "titulo": "Lomo de cerdo al horno relleno de miel",
+  "descripcion": "Esta es una de las 1000 mil formas en la que podemos preparar el cerdo, a un estilo refinado con la elegancia de la cocina francesa",
+  "historia": "A pesar de su época estimada de origen, las delicias del cerdo calaron en las sociedades a través de los siglos. Hoy, el cerdo es una receta infaltable en las mesas familiares españolas, venezolanas, colombianas, entre otras.\n\nCreación/popularización: se dice que los primeros cerdos domésticos fueron incorporados dentro de las civilizaciones gracias a los fenicios. Sin embargo, los primeros registros del jamón de pierna o pernil datan del Imperio Romano.\n",
+  "ingredientes": "### 8 Raciones:\n- 250 ml de vino tinto\t\n- 45 grs de miel\t\n- 2 hojas de laurel\n- ¼ de cdta de pimienta cayena\t\t\n- 100 grs de pan rallado\n- 2 kgs de lomo de cerdo\t\t\t\n- Sal y pimienta c/n\n",
+  "preparacion": "Hacer una reducción con el vino la miel y hojas de laurel, al tener consistencia de jarabe retirar las hojas de laurel e incorporar el pan rallado y mezclar bien. Aparte preparar el lomo de cerdo hacer una hendidura y rellenar con la mezcla de vino bridar y envolver en papel de aluminio y cocinar al horno por 1 ½ hora a 180 °C, los últimos 20 minutos cocinar descubierto.",
+  "publico": true,
+  "created_at": "2019-11-20T14:07:20.525Z",
+  "updated_at": "2019-11-20T14:07:20.525Z",
+  "photo": {
+    "id": 121,
+    "name": "Lomo de cerdo.png",
+    "hash": "75b894e670214e5ea232aec169afb890",
+    "sha256": "6O-MeK4G6CPGH_rE-rDnT-wWy0+2uaDSGRrDv+c0Hok",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "243.93",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1574258840/rdteft4hoskcw13pvkny.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "rdteft4hoskcw13pvkny",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-20T14:07:21.084Z",
+    "updated_at": "2019-11-20T14:07:21.084Z"
+  },
+  "categorias": [
+    {
+      "id": 47,
+      "nombre": "Principal",
+      "created_at": "2019-11-20T14:11:58.958Z",
+      "updated_at": "2019-11-20T14:11:58.958Z"
+    }
+  ],
+  "url": "/receta/114/lomo-de-cerdo-al-horno-relleno-de-miel",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/rdteft4hoskcw13pvkny",
+  "_sourceUrl": "https://bongusto.net/receta/114/lomo-de-cerdo-al-horno-relleno-de-miel",
+  "_fetchedAt": "2026-10-12T16:26:54.920Z"
+}

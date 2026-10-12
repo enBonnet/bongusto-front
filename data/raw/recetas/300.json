@@ -1,0 +1,40 @@
+{
+  "id": 300,
+  "titulo": "Caipirisima",
+  "descripcion": "La Caipiríssima es una adaptación caribeña del tradicional cóctel brasileño caipiriña (caipirinha), elaborado con ron en lugar de cachaza.",
+  "historia": "La Caipirinha es una bebida tradicional de Brasil, que ha generado distintas versiones en el resto de América latina y otras regiones del mundo. A continuación te mostramos una de estas variantes para disfrutar con amigo: La Caipirissima. La Cachaza, que es una especie de aguardiente, se sustituye por ron. Es muy fácil de preparar y muy deliciosa.",
+  "ingredientes": "- Vaso: (vaso old fashion)\n- Hielo: (Hielo Picado)\n- Limón \n- Azucar\n- Ron Blanco\n**- Decoración:**\n- Removedor de bebidas\n- Pitillos\n- Limón ",
+  "preparacion": "- En el vaso agregar de 3 a 4. ¼ de limón (La Cantidad depende del tamaño del Limón)\n- Agregar 2 medidas de azucar\n- Majar (solo que hasta que el limón suelte algo de jugo y se mezcle con el azucar)\n- Agregar hielo picado\n- Agregar 1 ½ onza de ron blanco\n**- Decorar:**\n- Colocar removedor de bebidas\n- Colocar dos pitillos \n- Colocar rueda de limón a caballo\n",
+  "publico": true,
+  "created_at": "2021-10-31T14:49:25.180Z",
+  "updated_at": "2021-10-31T14:49:25.180Z",
+  "photo": {
+    "id": 344,
+    "name": "Caipiroska.png",
+    "hash": "9fcab89226dd49388d9c76f66223d248",
+    "sha256": "Mu4048IpO3Y0USBV6Br-_puFG89j5ZBCVG+7z+hhEtY",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "98.83",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1635691765/aczvojrkx4p7x6alnfbf.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "aczvojrkx4p7x6alnfbf",
+      "resource_type": "image"
+    },
+    "created_at": "2021-10-31T14:49:25.589Z",
+    "updated_at": "2021-10-31T14:49:25.589Z"
+  },
+  "categorias": [
+    {
+      "id": 43,
+      "nombre": "Maridaje ",
+      "created_at": "2019-11-09T20:57:22.945Z",
+      "updated_at": "2019-11-09T20:57:22.945Z"
+    }
+  ],
+  "url": "/receta/300/caipirisima",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/aczvojrkx4p7x6alnfbf",
+  "_sourceUrl": "https://bongusto.net/receta/300/caipirisima",
+  "_fetchedAt": "2026-10-12T16:24:23.043Z"
+}

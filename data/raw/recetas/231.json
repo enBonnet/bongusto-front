@@ -1,0 +1,40 @@
+{
+  "id": 231,
+  "titulo": "Bolitas de Carne",
+  "descripcion": "La popularización de los entremeses o pasapalos es relativamente reciente en nuestro país. ",
+  "historia": "La popularización de los entremeses o pasapalos es relativamente reciente en nuestro país. Algunos de ellos han sido parte de los platos fuertes, pero desde hace algunos años, se han ido adaptando a las nuevas costumbres sociales, para acompañar las bebidas en reuniones festivas, y servir como entradas o primeros platos. Las bolitas de carne, al igual que las de queso, se encuentran entre los platillos más solicitados en fiestas y brindis, son muy fáciles de preparar y pueden consumirse calientes o a temperatura ambiente.",
+  "ingredientes": "### Ingredientes - para 35 porciones \n- 1 kg de carne de res sin grasa \n- 250 gramos de carne magra de cochino \n- 1 cebolla mediana rallada \n- 2 dientes de ajo pelados y machacados \n- 1 pimentón rojo rallado sin piel \n- 2 ajíes dulces en cuadritos pequeños \n- 2 cucharadas de encurtidos de mostaza cortados en trocitos \n- 2 cucharadas de salsa inglesa \n- 2 cucharaditas de sal \n- ½ de cucharadita de pimienta negra recién molida \n- 2 huevos \n- 1 taza de pan rallado \n- 4 tazas de aceite de maíz \n- Papel absorbente",
+  "preparacion": "1. Se muele dos veces la carne de res y la de cochino por separado, y luego, una tercera vez las dos juntas.\n2. Se mezclan todos los aliños con la carne y los huevos y se amasa con las manos hasta que queden bien unidos. \n3. Se hacen bolitas de 2 h centímetros y se cubren con el pan rallado. \n4. En un caldero con el aceite caliente, se fríen a fuego medio hasta que doren (unos 4 minutos). \n5. Se retiran del aceite con una espumadera y se colocan sobre papel absorbente para eliminar el exceso de grasa. \n### Opcional \n1. La receta tradicional de bolitas de carne se puede variar añadiendo los siguientes ingredientes, al momento de amasar: \n2. ½ taza de perejil cortado finamente \n3. ½ taza de pistachos troceados \n4. ½ taza de ciruelas pasas remojadas en vino y cortadas menudito \n### Sugerencia \n- Como decoración se pueden pinchar las bolitas con un palillo de madera e insertar en un extremo (o en ambos) un tomate bebé cortado por la mitad.",
+  "publico": true,
+  "created_at": "2019-12-07T22:44:20.647Z",
+  "updated_at": "2019-12-07T22:44:20.647Z",
+  "photo": {
+    "id": 265,
+    "name": "Bolitas de Carne.png",
+    "hash": "8e4b6c14253546a1b3f2f287590811da",
+    "sha256": "x5vPTr8PqoqZEAvo1G4WF0doDgnqQRUmxeLp8dSIwVk",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "286.12",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1575758660/t2drlukswtiv627xggaj.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "t2drlukswtiv627xggaj",
+      "resource_type": "image"
+    },
+    "created_at": "2019-12-07T22:44:21.165Z",
+    "updated_at": "2019-12-07T22:44:21.165Z"
+  },
+  "categorias": [
+    {
+      "id": 49,
+      "nombre": "Pasa Palo",
+      "created_at": "2019-12-07T22:49:13.689Z",
+      "updated_at": "2019-12-07T22:49:13.689Z"
+    }
+  ],
+  "url": "/receta/231/bolitas-de-carne",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/t2drlukswtiv627xggaj",
+  "_sourceUrl": "https://bongusto.net/receta/231/bolitas-de-carne",
+  "_fetchedAt": "2026-10-12T16:25:20.268Z"
+}

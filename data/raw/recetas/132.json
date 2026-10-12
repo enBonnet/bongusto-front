@@ -1,0 +1,40 @@
+{
+  "id": 132,
+  "titulo": "Selva Negra",
+  "descripcion": "La pasta, tarta o torta Selva Negra (en alemán, Schwarzwälder Kirschtorte) es una tarta típica de la cocina de Baden y uno de los dulces más preciados en la cocina alemana.",
+  "historia": "El origen de esta torta se ubica en el siglo XVI cuando el chocolate ya se había asentado en Europa, y en la zona llamada Foresta Negra en alemán Der Schwarzwald situada en el estado de Baden-Württemberg. El nombre evoca la oscuridad y el misterio de una región conocida por sus cerezas algo agrias de las cuales se obtiene el Kirsch o Kirschwasser, un destilado doble, transparente, de la calidad Morello. La combinación de la cereza, el kirsch, la crema de leche y el chocolate hace de esta torta una tentación.",
+  "ingredientes": "De 4 a 6 porciones:\n- 150 Gr. de Azúcar\t\t\t\n- 1/2 Kilo de Fresas ó Cerezas\n- 180 Gr. de Harina\t\t\t\n- 30 Ml. de Gran Menier ó Brandy\n- 6 Huevos\t\t\t\t\n- Virutas de Chocolate\n- 2 Cucharada de Cacao en polvo\t\n- 1 Litro de Crema para batir",
+  "preparacion": "### Preparación del Bizcocho\n- En un bol colocar la harina y el cacao en polvo y mezclarlos bien.\n- Aparte en un bol libre de grasa batir los huevos enteros con el azúcar\n- Cuando la mezcla se torne espumosa, blancuzca y de aspecto gelatinoso, se deja de batir y con paleta de madera se le incorpora la harina con en cacao, con movimientos envolventes, teniendo cuidado de no sacarle mucho el aire para que el bizcocho no se ponga pesado. Colocar la preparación en un molde engrasado y enharinado y hornear a 350ºF (180ºC) por 30 minutos\n### Preparación de la Torta:\n- Tome el bizcocho de chocolate y hacerle dos cortes horizontales para obtener tres capas.\n- Disponer la primera capa de bizcocho en la bandeja donde se armará la torta y mojarla ligeramente con licor.\n- Colocar una capa de crema batida y las fresas picadas en mitades, colocar otra capa de crema batida sobre las fresas para que pegue la siguiente capa de bizcocho.\n- Una vez colocada la capa de bizcocho, volvemos a mojar con licor y repetimos el proceso anterior.\n- Decorar toda la torta con crema chantilly y cubrir los costados con la viruta de chocolate. Refrigerar. Y Listo!!",
+  "publico": true,
+  "created_at": "2019-11-20T22:18:41.194Z",
+  "updated_at": "2019-11-20T22:18:41.194Z",
+  "photo": {
+    "id": 139,
+    "name": "Selva Negra.png",
+    "hash": "2aabc8914efd4ea198830b648d8aaa41",
+    "sha256": "RoypB_imD2s9W6VAjiVB8wKUqyQ4P6+vG6htcE8BPqo",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "85.34",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1574288321/ex2m6ynmdozcbhdkwdiu.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "ex2m6ynmdozcbhdkwdiu",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-20T22:18:41.486Z",
+    "updated_at": "2019-11-20T22:18:41.486Z"
+  },
+  "categorias": [
+    {
+      "id": 9,
+      "nombre": "Postre",
+      "created_at": "2019-11-07T22:49:20.381Z",
+      "updated_at": "2019-11-07T22:49:20.381Z"
+    }
+  ],
+  "url": "/receta/132/selva-negra",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/ex2m6ynmdozcbhdkwdiu",
+  "_sourceUrl": "https://bongusto.net/receta/132/selva-negra",
+  "_fetchedAt": "2026-10-12T16:26:40.704Z"
+}

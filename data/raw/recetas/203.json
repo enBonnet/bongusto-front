@@ -1,0 +1,40 @@
+{
+  "id": 203,
+  "titulo": "Puangol o Quinchonchos Guisados",
+  "descripcion": "El guisado de quinchonchos es muy popular en el territorio venezolano, sobre todo en la época de cosecha cuando algunos los prefieren frescos.",
+  "historia": "El guisado de quinchonchos es muy popular en el territorio venezolano, sobre todo en la época de cosecha cuando algunos los prefieren frescos.",
+  "ingredientes": "### Ingredientes (para 8 personas) \n### Cocción \n- ½ kg de quinchonchos \n- 6 tazas de agua \n- ½ taza de papelón rallado \n- 5 granos de pimienta guayabita \n- 1 ramita de canela \n- 2 clavos de olor \n### Sofrito \n- 3 cucharadas de aceite \n- 4 cebollas en brunoise\n- 1 taza de ají dulce en brunoise \n- ½ pimentón en brunoise \n- Sal al gusto \n- Pimienta negra recién molida, al gusto",
+  "preparacion": "1. Se remojan los quinchonchos en agua suficiente para que los cubra, durante 12 horas. Se desecha el agua del remojo.\n2. Se cocinan a fuego medio en agua sin sal, con el papelón, por I hora. Se agrega la pimienta guayabita, la canela y los clavos de olor 10 minutos antes de finalizar la cocción. \n3. En una sartén a fuego alto, se vierte el aceite y se saltean los ingredientes del sofrito hasta que doren (unos 3 o 4 minutos). \n4. Cuando los granos estén blandos, se añade el sofrito y se deja cocinar unos 5 minutos más.",
+  "publico": true,
+  "created_at": "2019-12-07T13:53:11.497Z",
+  "updated_at": "2019-12-07T13:53:11.497Z",
+  "photo": {
+    "id": 237,
+    "name": "Puangol o Quinchonchos Guisados.png",
+    "hash": "29ce85a6789b4b179b55a0ff07d3d3b9",
+    "sha256": "FWH6SumOPZ6AzR5v1l78Ejjy_DYnVhQsVPe5BPXG5mI",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "228.48",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1575726792/uh0toprp4sehgeooalpx.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "uh0toprp4sehgeooalpx",
+      "resource_type": "image"
+    },
+    "created_at": "2019-12-07T13:53:13.128Z",
+    "updated_at": "2019-12-07T13:53:13.128Z"
+  },
+  "categorias": [
+    {
+      "id": 7,
+      "nombre": "Guarnición",
+      "created_at": "2019-11-07T21:25:47.915Z",
+      "updated_at": "2019-11-07T21:25:47.915Z"
+    }
+  ],
+  "url": "/receta/203/puangol-o-quinchonchos-guisados",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/uh0toprp4sehgeooalpx",
+  "_sourceUrl": "https://bongusto.net/receta/203/puangol-o-quinchonchos-guisados",
+  "_fetchedAt": "2026-10-12T16:25:42.434Z"
+}

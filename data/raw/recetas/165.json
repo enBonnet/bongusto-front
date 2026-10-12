@@ -1,0 +1,40 @@
+{
+  "id": 165,
+  "titulo": "Clud House",
+  "descripcion": "estupendo sándwich de tres pisos que se corta en cuartos y se presenta formando una cruz o alineando las porciones para mostrar un sándwich",
+  "historia": "Parece ser que el Sándwich Club, también conocido como Club Sandwich en su denominación en inglés, surgió a principios del siglo XX en los Estados Unidos. La teoría más extendida es que este sándwich se preparó por primera vez en 1894 en el famoso Saratoga Club-House, de donde le vino la denominación de Clubhouse Sándwich, y fue en la localidad de Saratoga Springs, en el estado de Nueva York.\nLa primera receta escrita, en la que ya se le denominaba como Club Sándwich está en el libro Good Housekeeping Everyday Cook Book, escrito por Isabel Gordon Curtis en 1903, en el que se incluía en lugar de mayonesa una salsa secreta que cada cocinero hacía para darle el toque especial. Esa salsa, además de mayonesa, podía tener elementos comunes con la salsa César o incorporar polvos de curry, mostaza u otros ingredientes.\nEl sándwich Club llegó a nuestro país de la mano de algunos viajeros que lo probaron en otros países pero su consumo no se generalizó hasta la aparición de las primeras cadenas de cafeterías que lo ofrecían como una novedad atractiva en los años 70 y 80. Establecimientos como la cadena VIPS, las cafeterías Nebraska o las cafeterías California lo vendían como alternativa al bikini o sándwich mixto con gran éxito.",
+  "ingredientes": "### ### (para dos Clud House)\t\t\t\t\n- 8 rebanadas de pan cuadrado\t (Grande y Firme)\t\n- 8 aceitunas negra\n- 8 lonjas de queso amarillo de su preferencia\t\t\n- 8 lonjas de jamón\n- Pollo deshuesado\t\t\t\t\t\t\n- Aceite \n- 8 hojas de lechuga\t\t\t\t\t\t\n- 4 cdtas de vinagre\n- 4 cdas de mayonesa\t\t\t\t\t\t\n- 4 cdtas de vinagre\n- 8 rebanadas de tomate\t\t\t\t\t\n- Sal al gusto\n- Mantequilla a gusto\t\t\t\t\t\t\n- 4 papas Grandes en bastones\n- 25 grs de harina de trigo\t\t\t\t\t\n- Salsa de tomate kétchup",
+  "preparacion": "1. El primer paso para realizar este sabroso sándwich en capas es tostar los panes untados con mantequilla, se lava la lechuga y se adereza con aceite, vinagre y sal.\n2. Sobre la primera rebanada se añade una lonja de jamón, un toque de mayonesa y luego se superpone una de queso seguido de otra rebanada de pan, sobre ésta nuevamente se agrega lechuga y unas rodajas de tomate previamente aderezado, seguido del pollo en trocitos mezclado con mayonesa.\n3. Luego se coloca la otra rebanada de pan y se agrega otro punto de mayonesa, con el resto del queso y el jamón seguido de un poco más de tomate y las aceitunas, para finalizar se añade el último trozo de pan.\n4. El club house puede comerse con el pan natural o tostado, de igual manera va muy bien acompañado con papitas fritas.\n5. Mezclar la harina y sal al gusto, pasar las papas por la harina y de inmediato llevar a la gran fritura hasta que estén doradas.",
+  "publico": true,
+  "created_at": "2019-11-23T23:38:44.763Z",
+  "updated_at": "2019-11-23T23:38:44.763Z",
+  "photo": {
+    "id": 197,
+    "name": "Clud House.png",
+    "hash": "91acb6b1059745b3bdd2b4d51708e4b0",
+    "sha256": "ede7pRD9rhxUTbiXsNm7d_UaCuNx7KMFO6HOGuA-iRM",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "227.96",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1574552324/g9a1kkvnpmhw5uhsafpx.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "g9a1kkvnpmhw5uhsafpx",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-23T23:38:45.196Z",
+    "updated_at": "2019-11-23T23:38:45.196Z"
+  },
+  "categorias": [
+    {
+      "id": 47,
+      "nombre": "Principal",
+      "created_at": "2019-11-20T14:11:58.958Z",
+      "updated_at": "2019-11-20T14:11:58.958Z"
+    }
+  ],
+  "url": "/receta/165/clud-house",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/g9a1kkvnpmhw5uhsafpx",
+  "_sourceUrl": "https://bongusto.net/receta/165/clud-house",
+  "_fetchedAt": "2026-10-12T16:26:14.127Z"
+}

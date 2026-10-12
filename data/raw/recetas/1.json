@@ -1,0 +1,40 @@
+{
+  "id": 1,
+  "titulo": "Ratatouille",
+  "descripcion": "Consiste en guisar tomate, ajo, pimiento morrón, cebolla, calabacín y berenjena en proporciones variables y cortados en trozos, en aceite de oliva. \n\n",
+  "historia": "La ratatouille es una especialidad regional francesa elaborada con diferentes hortalizas guisadas. Proviene de la región de Provenza y del antiguo condado de Niza (sureste de Francia), por lo que se la llama también ratatouille niçoise​.",
+  "ingredientes": "4 Porciones\n### Para La Salsa Del Ratatouille:\n- 5 tomates Concassé\n- 3 zanahorias en Brunoise\n- 2 cebollas en Brunoise\n- 1 cabeza de ajo majada\n- 2 pimentones en Brunoise\n- 2 ají dulce en Brunoise\n- 4 hojas de celeri en chifonada\n- ½ manojo de cebollín en Julianas (parte blanca)\n- Sal al gusto\n- Pimienta molida al gusto (molida al momento)\n- Hojas de Cilantro en haché al gusto\n- ¼ de taza de aceite de oliva\n- ½ litro de fondo de verduras\n### Ratatouille: Ingredientes e Insumos:\n- 3 zanahorias en Vichy (0.5 mm) \n- 2 papas en Vichy (Blanquear)\n- 2 cebollas blancas en Vichy \n- 1 cebolla morada en Vichy\n- 2 berenjenas en Vichy\n- 2 Pimentones en Macedonia \n- 2 Calabacines en Vichy\n- 1 rama de celeri en macedonia \n- Sal al gusto\n- Pimienta al gusto\n- Salsa de verduras (Preparación anterior)\n- Un toque de aceite de oliva.\n- Papel aluminio.\n- Perejil en haché al gusto.\n",
+  "preparacion": "### Procedimiento Para La Salsa:\n- a.\tEn un sartén o cacerola grande agregar el aceite y sofreír o rehogar; la cebolla, pimentón, el cebollín, ajo y el ají. \n- b.\tSal Pimentar al gusto.\n- c.\tUna vez que la cebolla se transparente, añadir la zanahoria y el tomate. Sofreír hasta que el tomate se disuelva.\n- d.\tAñadir el fondo de verduras.\n- e.\tUna vez que la zanahoria este blanda, agregar el cilantro y el celeri.\n- f.\tProcesar en licuadora o con un mixer.\n- g.\tLlevar a la olla de nuevo, rectificar la sazón y dejar reducir hasta obtener una salsa espesa de color naranja.\n### Procedimiento para el Ratatouille:\n- a.\tPrecalentar el horno 200°.\n- b.\tEn un envase refractario de acuerdo a la cantidad a preparar añadir una cama de salsa.\n- c.\tIr colocando las verduras en forma alterna y combinando los colores de manera que todo quede armonía.\n- d.\tBañar con aceite de oliva, salpimentar y el cilantro.\n- e.\tCubrir con papel aluminio.\n- f.\tLlevar al horno, bajar la temperatura a 180° por 30 minutos, chequear que la papa esta lista.\n- Dejar que se repose un poco y servir. Adquiere más gusto los días subsiguientes.\n",
+  "publico": true,
+  "created_at": "2019-11-06T23:03:46.783Z",
+  "updated_at": "2019-11-09T22:06:48.059Z",
+  "photo": {
+    "id": 12,
+    "name": "receta-ratatouille.jpg",
+    "hash": "36069d0386bd40368cedc81f1eaa8283",
+    "sha256": "RJqGwSThnkSbq3_GPJNoLBy-hmNUf5TQy47arcIvJso",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "size": "67.02",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1573170326/nzzlltblm8rfco38t1ao.jpg",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "nzzlltblm8rfco38t1ao",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-07T23:45:26.936Z",
+    "updated_at": "2019-11-07T23:45:26.936Z"
+  },
+  "categorias": [
+    {
+      "id": 6,
+      "nombre": "Entrada",
+      "created_at": "2019-11-07T21:23:25.610Z",
+      "updated_at": "2019-11-07T21:23:25.610Z"
+    }
+  ],
+  "url": "/receta/1/ratatouille",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/nzzlltblm8rfco38t1ao",
+  "_sourceUrl": "https://bongusto.net/receta/1/ratatouille",
+  "_fetchedAt": "2026-10-12T16:27:58.715Z"
+}

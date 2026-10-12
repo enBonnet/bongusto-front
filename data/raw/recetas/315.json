@@ -1,0 +1,40 @@
+{
+  "id": 315,
+  "titulo": "Crema de berenjena, Baba Ganuch",
+  "descripcion": "Es una pasta a base de puré de berenjena típica de la cocina árabe y mediterránea. Se suele comer con pan de pita.",
+  "historia": "Se considera que el baba ganoush representa el amor que existe entre una hija y su padre, pues según la leyenda la receta fue creada por una mujer que al ver que su progenitor, de una edad avanzada, ya no podía masticar los alimentos decidió prepararle un platillo con vegetales machacados.",
+  "ingredientes": "- 3 berenjenas medianas\n- 3 dientes de ajo pequeños\n- Aceite de oliva\n- Sal al gusto",
+  "preparacion": "- Cocina las berenjenas a fuego directo, es decir, en una cocina a gas pon las berenjenas directamente sobre las llamas y deja que se vaya quemando la piel por todas partes. Dale vuelta las veces que sea necesario para que se cocinen de manera uniforme.\n- Tus berenjenas deberían quedar suaves por dentro.\n- Nota: si tu cocina empieza a oler a quemado, no te preocupes, significa que tus berenjenas van por buen camino.\n- Una vez esté chamuscada toda la piel de la berenjena, debería estar negra toda, retírala del fuego y pélala bien, que no le quede nada de lo “quemado”.\n- A continuación, Trocéalas con un cuchillo y ponlas junto a los dientes de ajo previamente picados, una pizca de sal y un chorro generoso de aceite de oliva en un procesador de alimentos o un picador hasta que quede con una contextura cremosa.",
+  "publico": true,
+  "created_at": "2022-04-02T13:06:33.233Z",
+  "updated_at": "2022-04-02T13:06:33.233Z",
+  "photo": {
+    "id": 359,
+    "name": "Crema de Berenjenas.jpg",
+    "hash": "d46da070cd1b44459e7b9f3ba4626720",
+    "sha256": "LQ_jwLhbGTITMAlfE7v3879UbpMbLdRc-cEwa1Kx9lY",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "size": "53.90",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1648904793/m5aeritmamtmdpbgl8al.jpg",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "m5aeritmamtmdpbgl8al",
+      "resource_type": "image"
+    },
+    "created_at": "2022-04-02T13:06:33.519Z",
+    "updated_at": "2022-04-02T13:06:33.519Z"
+  },
+  "categorias": [
+    {
+      "id": 42,
+      "nombre": "Salsa",
+      "created_at": "2019-11-09T19:51:40.254Z",
+      "updated_at": "2019-11-09T19:51:40.254Z"
+    }
+  ],
+  "url": "/receta/315/crema-de-berenjena-baba-ganuch",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/m5aeritmamtmdpbgl8al",
+  "_sourceUrl": "https://bongusto.net/receta/315/crema-de-berenjena-baba-ganuch",
+  "_fetchedAt": "2026-10-12T16:24:10.814Z"
+}

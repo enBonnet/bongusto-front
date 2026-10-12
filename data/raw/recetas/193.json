@@ -1,0 +1,40 @@
+{
+  "id": 193,
+  "titulo": "Pebre de Pollo",
+  "descripcion": "Nada más tradicional que un pollo guisado. Entre las innumerables maneras de preparar aves en salsa, el pebre es una de las más populares en la región central del país.",
+  "historia": "Nada más tradicional que un pollo guisado. Entre las innumerables maneras de preparar aves en salsa, el pebre es una de las más populares en la región central del país. Sus ingredientes deben utilizarse siempre enteros o cortados en trozos, pero no licuados, para garantizar que tengan presencia individual en el guiso. Su secreto está en el contraste de sabores que de tal\nmodo aportan alcaparras, pimienta guayabita, aceitunas y pasas, que hacen de esta preparación una salsa muy condimentada y con un toque dulzón (de hecho, hay quienes prefieren utilizar melao de papelón en lugar del vino moscatel).",
+  "ingredientes": "### Ingredientes (para 8 personas) \n- 1 ½ pollos cortados en partes o presas \n- 2 cucharadas de aceite vegetal \n- ½ kg de cebollas cortadas en ruedas \n- ½ kg de pimentones rojos cortados en ruedas \n- 1 kg de tomates maduros cortados en ruedas \n- 1 taza de alcaparras \n- 1 taza de aceitunas verdes rellenas de pimentón. \n- 5 granos de pimienta guayabita \n- 1 taza de pasas remojadas en 1 taza de vino moscatel \n- Sal al gusto \n- mostaza ",
+  "preparacion": "1. En una olla o caldero a fuego medio, se sofríe el pollo en el aceite vegetal, hasta que dore. Se adoba con sal al gusto.\n2. Se añaden la cebolla, los pimentones y el tomate y se sofríen por unos 5 minutos. \n3. Se escurren las pasas, reservando el vino, y se agregan junto con las alcaparras, las aceitunas y la pimienta guayabita. Se tapa y se cocina todo por 10 minutos más. Luego se añade el vino y la mostaza. Se deja cocinar otros 5 minutos, o hasta que la salsa espese. \n4. Se recomienda rectificar la sal antes de finalizarla cocción. \n### Opcional \n- Se puede marinar el pollo con sal y ajo antes de sofreír. \n### Sugerencia \n- Acompañar con arroz blanco y tajadas.",
+  "publico": true,
+  "created_at": "2019-12-06T23:00:45.015Z",
+  "updated_at": "2019-12-06T23:00:45.015Z",
+  "photo": {
+    "id": 227,
+    "name": "Pebre de Pollo.png",
+    "hash": "357fd5849a8d491cb699a0c38446f23d",
+    "sha256": "-DoUDfe5Kn_LbgZczR2tuHogggZVJnG-xvSjxUgcrcE",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "204.38",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1575673245/qlvlpwzya042myysezlv.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "qlvlpwzya042myysezlv",
+      "resource_type": "image"
+    },
+    "created_at": "2019-12-06T23:00:45.349Z",
+    "updated_at": "2019-12-06T23:00:45.349Z"
+  },
+  "categorias": [
+    {
+      "id": 47,
+      "nombre": "Principal",
+      "created_at": "2019-11-20T14:11:58.958Z",
+      "updated_at": "2019-11-20T14:11:58.958Z"
+    }
+  ],
+  "url": "/receta/193/pebre-de-pollo",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/qlvlpwzya042myysezlv",
+  "_sourceUrl": "https://bongusto.net/receta/193/pebre-de-pollo",
+  "_fetchedAt": "2026-10-12T16:25:51.313Z"
+}

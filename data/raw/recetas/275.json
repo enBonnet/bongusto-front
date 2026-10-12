@@ -1,0 +1,40 @@
+{
+  "id": 275,
+  "titulo": "Hachís Parmentier",
+  "descripcion": "Es un plato tradicional de la gastronomía francesa. Se trata de un graten a base de puré de papas (patatas) y carne Cortada.",
+  "historia": "Este plato debe su nombre al nutricionista Antoine-Augustin Parmentier que promocionó el consumo de la papa en Francia, tubérculo importado desde hacia un tiempo de América pero que no gozaba de mucha aceptación. Convencido de su valor nutricional para combatir la escasez de alimento en una época de hambrunas, se lo daría a probar al propio rey Luis XVI.\n",
+  "ingredientes": "Para 4-6 personas\n- 5 papas grandes\n- 1 cebolla en brunoise \n- 1 zanahoria grande en brunoise\n- 1 diente de ajo majado\n- 500 g. de carne molida\n- Perejil cortado \n- Mantequilla \n- 2 cucharadas de leche\n- 50 g. de queso blanco rallado\n- Pan rallado\n- Aceite de Oliva\n- Sal\n- Pimienta\n- Nuez Moscada",
+  "preparacion": "- Pelamos las papas y las cortamos en dados y las cocemos en abundante agua con sal.\n- Vertemos un chorro de aceite en una sartén y pochamos las verduras a fuego bajo.\n- Mezclamos la carne y el perejil y añadimos la mezcla a la sartén. Removemos bien con una cuchara de madera para que la carne no se apelmace, salpimentamos y cocinamos 10 minutos aproximadamente o hasta que la carne este hecha.\n- Escurrimos las papas y reservamos algo del agua. Las hacemos pure, mezclándolas con dos cucharadas de mantequilla. Añadimos también unas cucharadas de leche para aligerar el puré y de ser necesario un poco del agua reservada, y el queso. Salpimentamos, añadimos media cucharadita de nuez moscada y mezclamos bien.\n- Engrasamos con mantequilla una fuente de horno. Colocamos en su base la carne y a continuación tapamos esta con una buena capa de puré de papa. Dibujamos unas rallas con el tenedor, espolvoreamos pan rallado encima, colocamos unos trocitos de mantequilla sobre el mismo y llevamos al horno.\n- Gratinamos 10 minutos a 200º en el horno previamente calentado. ",
+  "publico": true,
+  "created_at": "2021-05-05T14:37:09.191Z",
+  "updated_at": "2021-05-05T14:37:09.191Z",
+  "photo": {
+    "id": 309,
+    "name": "Hachís Parmentier.png",
+    "hash": "4689704ebd274b7186680ae652376b95",
+    "sha256": "da4hvB9dGHe28NGdx71kX2ulQN6aL3aWJAnzCUfXdmM",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "742.14",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1620225429/zvdcyaewet7xroj0akb9.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "zvdcyaewet7xroj0akb9",
+      "resource_type": "image"
+    },
+    "created_at": "2021-05-05T14:37:09.848Z",
+    "updated_at": "2021-05-05T14:37:09.848Z"
+  },
+  "categorias": [
+    {
+      "id": 47,
+      "nombre": "Principal",
+      "created_at": "2019-11-20T14:11:58.958Z",
+      "updated_at": "2019-11-20T14:11:58.958Z"
+    }
+  ],
+  "url": "/receta/275/hachis-parmentier",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/zvdcyaewet7xroj0akb9",
+  "_sourceUrl": "https://bongusto.net/receta/275/hachis-parmentier",
+  "_fetchedAt": "2026-10-12T16:24:43.851Z"
+}

@@ -1,0 +1,40 @@
+{
+  "id": 221,
+  "titulo": "Yoyo",
+  "descripcion": "Esta receta se presenta con el sabor de una pequeña torta de plátano.",
+  "historia": "Esta receta se presenta con el sabor de una pequeña torta de plátano. Hereda su nombre del juguete tradicional que cuenta con dos discos y un pabilo, tal vez por contar igualmente con dos partes (las tajadas de plátano) unidas por un centro más delgado y filamentoso (que forma el queso al derretirse con el calor de la fritura». Mientras más pequeñas sean las tajadas, más redondeada será su forma y más cercano su parecido al juguete. En algunas regiones se le conoce también como patacones rellenos.",
+  "ingredientes": "### Ingredientes- para 10 porciones \n- 400 gramos de queso blanco semiduro \n- 20 tajadas fritas de plátano maduro \n- 2 huevos \n- 2 cucharadas de leche \n- 1 cucharadita de azúcar \n- 4 cucharadas de harina de trigo \n- ½ litro de aceite de maíz \n- Papel absorbente ",
+  "preparacion": "1. Se corta el queso en rectángulos de 1 cm de espesor y tan largos y anchos como se hayan hecho las tajadas. \n2. Se hacen sándwiches de tajadas y queso: se coloca una rebanada de queso entre dos tajadas de plátano y se atraviesa todo con un palillo de madera para mantener las piezas unidas. \n3. En un recipiente, se baten los huevos con un tenedor y se añade leche. Gradualmente se le agrega el azúcar y la harina, hasta lograr una mezcla cremosa y uniforme. \n4. Se sumergen y recubren los \"sándwiches” con esta mezcla. \n5. Se ponen inmediatamente en aceite caliente y se fríen a fuego alto hasta que doren por todas partes. \n6. Se retiran del fuego, se escurren sobre papel absorbente y se les quitan los palillos antes de servir.",
+  "publico": true,
+  "created_at": "2019-12-07T20:36:07.165Z",
+  "updated_at": "2019-12-07T20:36:07.165Z",
+  "photo": {
+    "id": 255,
+    "name": "Yoyo.png",
+    "hash": "131a29b70e084a8c9a81575e5dc6aca3",
+    "sha256": "KNlZx4D4JPf2hUoCYnS9kwxRCo995gPmdKrwf45d8J8",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "224.31",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1575750967/qpspjjozshgkq8pfha80.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "qpspjjozshgkq8pfha80",
+      "resource_type": "image"
+    },
+    "created_at": "2019-12-07T20:36:07.508Z",
+    "updated_at": "2019-12-07T20:36:07.508Z"
+  },
+  "categorias": [
+    {
+      "id": 49,
+      "nombre": "Pasa Palo",
+      "created_at": "2019-12-07T22:49:13.689Z",
+      "updated_at": "2019-12-07T22:49:13.689Z"
+    }
+  ],
+  "url": "/receta/221/yoyo",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/qpspjjozshgkq8pfha80",
+  "_sourceUrl": "https://bongusto.net/receta/221/yoyo",
+  "_fetchedAt": "2026-10-12T16:25:28.276Z"
+}

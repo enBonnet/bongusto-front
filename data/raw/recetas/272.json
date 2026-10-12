@@ -1,0 +1,33 @@
+{
+  "id": 272,
+  "titulo": "Cordón Bleu de pollo en Salsa",
+  "descripcion": "El Cordon Bleu es una de las recetas importadas de Francia que se han hecho tremenda-mente populares",
+  "historia": "Durante la monarquía francesa el el cordón bleu (que traducido literalmente significa cinta azul) era la máxima condecoración de los Caballeros del Santo Espíritu, orden instituida en 1578 por Enrique III de Francia y la máxima distinción de la aristocracia francesa. De ahí que utilizar cordón blue significa hablar de algo excelente.\nOtras fuentes afirman que los Caballeros del Santo Espíritu, y portadores del \"lazo azul\" de la orden, tenían por costumbre reunirse en un club, tipo club de gourmet para mantener el arte del buen comer y del buen beber.",
+  "ingredientes": "- 1 pechuga (2 piezas) grande de pollo deshuesadas NO fileteadas\n- 200 grs o 6 fetas de queso mozzarella\n- 150 grs o 6 fetas de jamón\n- 4 o 5 tomates rojos bien maduros en brunoise\n- 2 cucharadas de pasta de tomate\n- 1 cebolla grande en brunoise\n- 1 pimentón rojo en brunoise\n- 3 dientes de ajo majados\n- 4 cucharadas de Aceite \n- Sal y pimienta\n- Palillos de madera o pabilo",
+  "preparacion": "- Cortar por el centro ambas pechugas y abrir en forma de libro\n- Aplanar las pechugas para o alargarlas y obtener el grosor deseado\n- Sal pimentar las pechugas por el lado de adentro.\n- Colocar en forma alternada las fetas de jamón y queso, en la pechuga y proceder a enrollar de forma que el relleno quede totalmente cubierto por el pollo.\n-  Bridar con palillos o pabilo de forma que queden firme. Y sal pimentar.\n- En un salten alto o caldero, agregar el aceite y llevarlo al fuego, una vez caliente el aceite procedemos a sellar las pechugas hasta que obtengan un color dorado por todos lados.\n- Retiramos las pechugas del caldero y reservamos. En el mismo caldero sin bajarlo del fuego, agregamos la cebolla, el pimentón y el ajo majado. Rehogamos (Sofreímos) hasta que la cebolla se transparente. Salpimentamos al gusto.\n- Agregamos el tomate y removemos hasta que se forme una salsa, agregamos la pasta de tomate y seguimos removiendo hasta que se integre bien. Rectificamos sazón.\n- Cuando la salsa este hirviendo, colocar dentro de la salsa las pechugas de pollo reservadas, dejándolas que hierban en la salsa, tapándola. Por lo menos de 12 a 15 minutos por lado, eso dependiendo de lo gruesa que queden. \n- Retirar las pechugas de la salsa, reservar.\n- Procesar la salsa con mixer o en su defecto en licuadora. Y devolver al caldero, dejar que hierva de nuevo, rectificar sazón. Agregar de nuevo las pechugas, tapar y apagar el fuego.\n- Para servir se cortan varios medallones y presentarlos sobre una cama de salsa, acompañados de pure de papas o papas al vapor o vegetales salteados, etc…\n**Nota:** no corte los medallones en caliente, tan pronto se termine la cocción, ya que se tienden desbaratar, preferiblemente dejamos que reposen fuera de la salsa antes de proceder a cortarlos.\n",
+  "publico": true,
+  "created_at": "2021-05-02T20:54:23.418Z",
+  "updated_at": "2021-05-02T20:54:23.418Z",
+  "photo": {
+    "id": 320,
+    "name": "Cordin Bleu de Pollo en salsa.png",
+    "hash": "1c96059f53ea49f19c5e4df98e448a38",
+    "sha256": "5Sv6oAYrMdRNf9KkrJoo65Otjl5oIHSkoXtUrB_+iFY",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "47.35",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1632578181/lk00dgehsuteub8aunlx.jpg",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "lk00dgehsuteub8aunlx",
+      "resource_type": "image"
+    },
+    "created_at": "2021-09-25T13:56:22.230Z",
+    "updated_at": "2021-09-25T13:56:22.230Z"
+  },
+  "categorias": [],
+  "url": "/receta/272/cordon-bleu-de-pollo-en-salsa",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/lk00dgehsuteub8aunlx",
+  "_sourceUrl": "https://bongusto.net/receta/272/cordon-bleu-de-pollo-en-salsa",
+  "_fetchedAt": "2026-10-12T16:24:46.273Z"
+}

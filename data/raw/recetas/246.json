@@ -1,0 +1,40 @@
+{
+  "id": 246,
+  "titulo": "Ajicero de Leche",
+  "descripcion": "Los ajiceros criollos son preparaciones picantes para aderezar otros platos, y pueden ser preservados en vinagre, leche, aceite o agua caliente",
+  "historia": "Los ajiceros criollos son preparaciones picantes para aderezar otros platos, y pueden ser preservados en vinagre, leche, aceite o agua caliente, elementos que permiten conservar por \nperíodo prolongado sus ingredientes. Originalmente se solía comer con pescado, atribuyéndosele poderes digestivos y sensuales, paro ahora se utiliza como aderezo para casi todo tipo de preparados, como sancochos, guisos, arepas, empanadas y carnes.",
+  "ingredientes": "### Ingredientes (para 2 litros) \n- 150 gramos de ají picante \n- 150 gramos de ají dulce \n- 1 ½ litros de leche \n- Sal al gusto \n- 6 dientes de ajo majados \n- 1 cebolla blanca pequeña cortada en ruedas \n- 1 cebolla morada pequeña cortada en ruedas \n- 1 ramita de cilantro entera \n- 5 granos de pimienta negra ",
+  "preparacion": "1. Con un cuchillo afilado, seco corta la base del tallo de todos los ajíes picantes y dulces, se abren por; la mitad y se quitan las venas y las semillas. Se separan en dos grupos: una parte se cortan en cuadros y él resto se deja por la mitad. \n2. En una olla, se Calienta la leche a fuego medio se deja hervir por los bordes durante 2 minutos, se retira fuego y se deja entibiar por 5 minutos.\n3. Se introducen en una licuadora los ajíes cortados por la mitad y se agrega una taza de leche hervida Se procesa todo por 1 minuto y se vierte mezcla en la olla donde reposa el resto de la leche. \n4. Se añaden los ajíes en cuadros y la sal, y a fuego medio se hierve durante 3 minutos. Se retira del fuego y se deja reposar por unos 10 minutos, o hasta que esté a temperatura ambiente. \n5. Ya enfriada la mezcla, se coloca en un envase de vidrio o de barro (no metálico) y se agregan el ajo, la cebolla, el cilantro y la pimienta. \n6. Se cierra el frasco y se refrigera.",
+  "publico": true,
+  "created_at": "2019-12-07T23:34:30.851Z",
+  "updated_at": "2019-12-07T23:34:30.851Z",
+  "photo": {
+    "id": 280,
+    "name": "Ajicero de Leche.png",
+    "hash": "6328f55d6c6b4a03b8f235196ef70ceb",
+    "sha256": "LZXpKEpY3VZdHWRhPKOfCnC4tvjZphvXsEhBk-IJvCs",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "52.37",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1575761670/mnm5fvb0cf0i1hfaewii.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "mnm5fvb0cf0i1hfaewii",
+      "resource_type": "image"
+    },
+    "created_at": "2019-12-07T23:34:31.188Z",
+    "updated_at": "2019-12-07T23:34:31.188Z"
+  },
+  "categorias": [
+    {
+      "id": 42,
+      "nombre": "Salsa",
+      "created_at": "2019-11-09T19:51:40.254Z",
+      "updated_at": "2019-11-09T19:51:40.254Z"
+    }
+  ],
+  "url": "/receta/246/ajicero-de-leche",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/mnm5fvb0cf0i1hfaewii",
+  "_sourceUrl": "https://bongusto.net/receta/246/ajicero-de-leche",
+  "_fetchedAt": "2026-10-12T16:25:08.387Z"
+}

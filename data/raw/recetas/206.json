@@ -1,0 +1,40 @@
+{
+  "id": 206,
+  "titulo": "Sopa de Lentejas",
+  "descripcion": "La sopa de lentejas es un plato universal, quizá porque este grano tiene, además de un alto valor nutritivo",
+  "historia": "La sopa de lentejas es un plato universal, quizá porque este grano tiene, además de un alto valor nutritivo, el privilegio de no requerir remojo previo a la cocción. Como tantas otras legumbres, las lentejas son muy populares en la región de los Andes, donde se acostumbra prepararlas con tocino o costillitas de cerdo y papas.",
+  "ingredientes": "### Ingredientes (para 8 personas) \n- 1 ½ kg de lentejas \n- 13 tazas de agua \n- 1 cebolla cortada en dos \n- 1/2 kg de costillitas de cerdo con poca grasa, en trozos medianos. \n- 1 limón \n- ½ de taza de agua \n- 2 h tazas de papas peladas y cortadas en cubos pequeños \n- 5 cucharaditas de sal \n- ½ de cucharadita de pimienta negra recién molida \n- 2 cucharadas de papelón rallado \n### Sofrito \n- 1/3 de taza de aceite \n- 1/3 de taza de cebolla picadita \n- 3 dientes de ajo machacados \n- ½ taza de tomate concasse \n- ¼ de taza de pimentón en brunoise",
+  "preparacion": "1. Se lavan las lentejas en un colador bajo un chorro de agua.\n2. En una olla grande, se calientan a fuego medio las 13 tazas de agua, los granos y la cebolla. Una vez que hierve, se deja cocinar hasta que ablanden un poco (unos 20 minutos). \n3. Se limpian las costillitas y se les quita con un cuchillo el exceso de grasa. Se frotan bien con limón y se lavan con agua. \n4. En un caldero pequeño con ¼ de taza de agua, se cocinan las cosquillitas a fuego fuerte, revolviendo hasta que sequen y comiencen a dorar (alrededor de 15 minutos). \n5. Se agregan las costillas a la olla de las lentejas. Se lleva a un hervor y se deja cocinar a fuego medio por unos 30 minutos más. \n6. En una sartén o caldero pequeño, se vierte el aceite y se sofríen la cebolla y el ajo unos 5 minutos. Se añaden el tomate y el pimentón y se cocina por 5 minutos más. \n7. Se agrega el sofrito a la olla de las lentejas, sin colarlo. Se agrega también la papa, la sal, la pimienta y el papelón. Una vez que hierva, se deja cocinar por 20 minutos más. \n8. Antes de servir, se elimina la cebolla cortada en mitades.",
+  "publico": true,
+  "created_at": "2019-12-07T14:08:13.268Z",
+  "updated_at": "2019-12-07T14:08:13.268Z",
+  "photo": {
+    "id": 240,
+    "name": "Sopa de Lentejas.png",
+    "hash": "c915c4f8b42b4a8c80c118e582b4afb2",
+    "sha256": "wfs6v2uEghsht1hG3NxFMeuEiRbRMwyvE7jvvnj_kz4",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "155.08",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1575727693/gkasurvnzvamoghltqze.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "gkasurvnzvamoghltqze",
+      "resource_type": "image"
+    },
+    "created_at": "2019-12-07T14:08:13.681Z",
+    "updated_at": "2019-12-07T14:08:13.681Z"
+  },
+  "categorias": [
+    {
+      "id": 6,
+      "nombre": "Entrada",
+      "created_at": "2019-11-07T21:23:25.610Z",
+      "updated_at": "2019-11-07T21:23:25.610Z"
+    }
+  ],
+  "url": "/receta/206/sopa-de-lentejas",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/gkasurvnzvamoghltqze",
+  "_sourceUrl": "https://bongusto.net/receta/206/sopa-de-lentejas",
+  "_fetchedAt": "2026-10-12T16:25:40.046Z"
+}

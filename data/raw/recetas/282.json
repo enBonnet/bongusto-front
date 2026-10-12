@@ -1,0 +1,40 @@
+{
+  "id": 282,
+  "titulo": "Pichanga",
+  "descripcion": "La pichanga es un plato típico de la cocina popular chilena, cuyos ingredientes son diferentes según sea fría o caliente.",
+  "historia": "La pichanga caliente es originaria del Sur de Chile. ... Ambos platos se consumen directamente \"picando\" (de ahí el nombre pichanga) de una fuente entre varios comensales, con tenedores o brochetas, para acompañar el consumo de bebidas, especialmente bebida alcohólicas.",
+  "ingredientes": "para 8 personas\n•\t200 gramos de jamón de cerdo, una rebanada de 1 cm. de grosor\n•\t200 gramos de mortadela o bologna, una rebanada de 1 cm. de grosor\n•\t200 gramos de queso, rebanado grueso, (amarillo o mozzarella o parmesano o pecorino) \n•\t200 gramos de aceitunas rellenas\n•\t200 gramos de encurtido: cebollitas, coliflor, zanahoria, pepinillos con su jugo\n•\t200 gramos surtidos de:  tomates cherry asados en aceite, zanahoria fresca en bastones y papas cocidas en cubos.\n•\tpan fresco rebanado y tostado con mantequilla y ajo, para servir\n",
+  "preparacion": "Mezclar todo en un bol. Dejar reposar refrigerado por una noche.\nServir frío con pan fresco, rebanado y tostado con mantequilla y ajo.\n",
+  "publico": true,
+  "created_at": "2021-09-12T14:03:23.209Z",
+  "updated_at": "2021-09-12T14:08:56.914Z",
+  "photo": {
+    "id": 316,
+    "name": "Pichanga.png",
+    "hash": "901da6715c9f40b7b3bb172ce347bf29",
+    "sha256": "JGYUVIO03asuggK24QFY5aaTW8zzzSH9hE0vW3ga-DE",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "135.42",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1631455403/wbx852kosi2me33uimdk.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "wbx852kosi2me33uimdk",
+      "resource_type": "image"
+    },
+    "created_at": "2021-09-12T14:03:23.748Z",
+    "updated_at": "2021-09-12T14:03:23.748Z"
+  },
+  "categorias": [
+    {
+      "id": 6,
+      "nombre": "Entrada",
+      "created_at": "2019-11-07T21:23:25.610Z",
+      "updated_at": "2019-11-07T21:23:25.610Z"
+    }
+  ],
+  "url": "/receta/282/pichanga",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/wbx852kosi2me33uimdk",
+  "_sourceUrl": "https://bongusto.net/receta/282/pichanga",
+  "_fetchedAt": "2026-10-12T16:24:38.155Z"
+}

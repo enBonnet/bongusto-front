@@ -1,0 +1,40 @@
+{
+  "id": 277,
+  "titulo": "Carimañolas ",
+  "descripcion": "Es uno de los platos típicos de la cocina panameña, hecho a base de un ingrediente tradicional, la yuca.",
+  "historia": "A pesar de que la yuca envuelve como «una chaqueta» al relleno y de que los franceses estuvieron presentes en la historia de América latina.\nLo cierto es que Panamá y Colombia comparten una tradición que seguramente procede de la época (año 1821) en la que ambos países fueron uno solo.\nColombia y Panamá se separaron con el tiempo, pero la tradición culinaria que compartieron persiste hasta nuestros días.\nHay quien llama a este plato «caribañola» y algunos asocian esta denominación con su fama en el Caribe y una posible procedencia española.\nO la unión de sus dos orígenes en una sola palabra.\nSin embargo, la popularidad de este plato en estos dos países que estuvieron unidos, hace pensar que procede del siglo XIX.\nAunque también podría tratarse de una tradición compartida por la vecindad geográfica de ambos (ya que solo están separados por el istmo de Panamá).\n",
+  "ingredientes": "(15 porciones)\n•\t1 lkg de yuca\n•\t½ kg de carne Molida\n•\t1 cucharadita de sal\n•\t½ taza de aceite\n•\t½ taza de cebolla en brunoise \n•\t2 dientes de ajo majados\n•\t½ taza pimentón o ají dulce en brunoise \n•\t½ cucharadita de ají chombo (picante)\n•\t2 cucharaditas de puré de tomate\n•\t¼ cucharadita de comino molido\n•\tSal y Pimienta al gusto\n",
+  "preparacion": "•\tPelar y cortar la yuca. Córtela en trozos y póngala a cocinar en una cacerola con agua hirviendo por 20 minutos. Luego pásela por un colador retirando el agua.\n•\tTriture la yuca, añada sal y 1 cucharada de aceite. Mezcle bien hasta obtener una masa suave.\n•\tEn una sartén caliente aceite y sofría la cebolla, ajos y pimentón. Luego incorpore el ají chombo, el comino y la carne molida. Remover bien para que se cocine la carne.\n•\tAñadir el puré de tomates, sal y pimienta. Dejar cocinar por unos 5 minutos y retirar del fuego.\n•\tTomar una parte de la masa de yuca y formar una tortilla a la que se le agrega el relleno preparado y se cierra con la misma masa. Debe darle forma ovalada que es la de caramiñola.\n•\tEn una sartén con suficiente aceite bien caliente, fría las caramiñolas hasta que se doren.\n•\tColóquelas sobre una hoja de papel para que retire el exceso de grasa. ¡Buen provecho!\nNota: El relleno también puede ser de pollo o queso \n",
+  "publico": true,
+  "created_at": "2021-09-11T12:30:35.549Z",
+  "updated_at": "2021-09-11T12:30:35.549Z",
+  "photo": {
+    "id": 317,
+    "name": "Carimañolas.png",
+    "hash": "e38b050c2b2a46348666ba120b7eba25",
+    "sha256": "DTbySMPeXTdORRfn0-cio0vor7brYnnV2tgoE8eV6J0",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "518.38",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1632577421/ivg3vwagv7xofd8py4yz.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "ivg3vwagv7xofd8py4yz",
+      "resource_type": "image"
+    },
+    "created_at": "2021-09-25T13:43:42.153Z",
+    "updated_at": "2021-09-25T13:43:42.153Z"
+  },
+  "categorias": [
+    {
+      "id": 6,
+      "nombre": "Entrada",
+      "created_at": "2019-11-07T21:23:25.610Z",
+      "updated_at": "2019-11-07T21:23:25.610Z"
+    }
+  ],
+  "url": "/receta/277/carimanolas-",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/ivg3vwagv7xofd8py4yz",
+  "_sourceUrl": "https://bongusto.net/receta/277/carimanolas-",
+  "_fetchedAt": "2026-10-12T16:24:42.419Z"
+}

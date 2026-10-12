@@ -1,0 +1,40 @@
+{
+  "id": 85,
+  "titulo": "Chupe de camarones Perú",
+  "descripcion": "El chupe de camarones representa la perfecta combinación de dos culturas, la indígena y la española.",
+  "historia": "La palabra chupe viene del vocablo quechua chuwa misa, que significa “plato hondo” y era una sopa de papas típica que se preparaba durante la fiesta de Huarachicuy o Warachikuy, cuando los jóvenes incas celebraban su paso hacia la adultez.\n\n",
+  "ingredientes": "### 6 Porciones:\n- ½ Taza de aceite, \n- Una cebolla grande finamente picada,  \n- Una cuchara de ajo molido, \n- dos cucharadas de pasta de tomate, \n- ají al gusto, \n- sal, \n- pimienta y orégano al gusto, \n- Ocho tazas de caldo de pescado (cabezas de pescado colado), \n- ½ Kg. de auyama, \n- Un Kg. de papas amarillas cortadas en trozos, \n- ½ Kg. de camarones frescos, \n- dos cucharadas de perejil picado, \n- ½ taza de queso fresco picado,\n- dos huevos, \n- 1 taza de leche evaporada (Pura).\n\n\n",
+  "preparacion": "En una olla al fuego, ponga el aceite y fría la cebolla con el ajo. Incorpore la pasta de tomate, el ají, el orégano y la pimienta. Deje unos minutos en el fuego y agregue el caldo de pescado, auyama, papas, arroz y hasta que el arroz esté cocido, luego, agregue los camarones, perejil, queso fresco y los huevos batidos. Deje en el fuego por unos minutos y finalmente, agregue la leche evaporada, mezclando bien y sirviendo enseguida.\nTiempo de preparación: 15 minutos. Tiempo de cocción: 30 minutos.\n",
+  "publico": true,
+  "created_at": "2019-11-11T21:38:42.134Z",
+  "updated_at": "2021-10-25T18:48:30.479Z",
+  "photo": {
+    "id": 92,
+    "name": "Chupe.png",
+    "hash": "ba5beb00d3064156a05fa4e46f92077e",
+    "sha256": "wtDbJ2JuPcS8Tf0hs5b4Ak6-kqYlilaCiwPh1roj5hE",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "256.46",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1573508322/kizbixxm3samz9udeakl.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "kizbixxm3samz9udeakl",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-11T21:38:42.566Z",
+    "updated_at": "2019-11-11T21:38:42.566Z"
+  },
+  "categorias": [
+    {
+      "id": 6,
+      "nombre": "Entrada",
+      "created_at": "2019-11-07T21:23:25.610Z",
+      "updated_at": "2019-11-07T21:23:25.610Z"
+    }
+  ],
+  "url": "/receta/85/chupe-de-camarones-peru",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/kizbixxm3samz9udeakl",
+  "_sourceUrl": "https://bongusto.net/receta/85/chupe-de-camarones-peru",
+  "_fetchedAt": "2026-10-12T16:27:18.829Z"
+}

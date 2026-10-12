@@ -1,0 +1,33 @@
+{
+  "id": 48,
+  "titulo": "Pastas Frescas al Huevo",
+  "descripcion": "Pasta fresca, una de las exquisiteces culinarias a nivel mundial. Acompañadas con una buena salsa no hay nadie que se pueda resistir a su encanto.",
+  "historia": "Son muchas las teorías que se han elaborado en torno al origen de la pasta. Algunos investigadores adjudican el descubrimiento a Marco Polo en el siglo XIII, el cual la introdujo en Italia de vuelta de uno de sus viajes a China, en 1271. En el capítulo CLXXI de “Libros de Maravillas del mundo”, Marco Polo hace referencia sobre la pasta en China. Para otros se remonta mucho más allá, a antiguas civilizaciones etruscas, que la elaboraban mediante el machaque o trituración de diversos cereales y granos mezclados con agua, que luego cocían y resultando un alimento sabroso y nutritivo.",
+  "ingredientes": "### Insumos para la pasta: (Para Una porción de pasta)\n- 100 grs de harina de trigo T/U.\t\t\t\t\t\t\n- 1 huevo,\n- Pizca de sal,\n- 1 cda de aceite\n- Agua C/N.\n",
+  "preparacion": "### Preparación:\n- a.\tEn un bol o sobre el mesón formar un volcán con la harina.\n- b.\tDentro de la cavidad del volcán incorporar el huevo y el aceite\n- c.\tSobre la harina esparcir la sal.\n- d.\tSe procede a incorporar desde el centro asía afuera, hasta incorporar toda la preparación.\n- e.\tAmasamos hasta conseguir una masa suave y moldeable. De ser necesario para suavizarla solo nos humedecemos las manos durante el amasado.\n- f.\tSe coloca en una bolsa plástica y se deja reposar por ½ hora. \t\n- Luego elaboramos la pasta de nuestra preferencia, y se agrega en una olla con suficiente agua hirbiendo y un toque de sal. Esta lista en tres minutos o cuando flote.",
+  "publico": true,
+  "created_at": "2019-11-09T16:49:39.813Z",
+  "updated_at": "2019-11-09T21:56:44.423Z",
+  "photo": {
+    "id": 55,
+    "name": "Pasta.png",
+    "hash": "114f4a1344504e3ca867d5d04071e1b9",
+    "sha256": "dKOR7JZZFt_SMNUUevCIsuWMv2G2jl3XwzwGQI1voNk",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "732.82",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1573318180/oih2hk74inghunnkoaye.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "oih2hk74inghunnkoaye",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-09T16:49:40.636Z",
+    "updated_at": "2019-11-09T16:49:40.636Z"
+  },
+  "categorias": [],
+  "url": "/receta/48/pastas-frescas-al-huevo",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/oih2hk74inghunnkoaye",
+  "_sourceUrl": "https://bongusto.net/receta/48/pastas-frescas-al-huevo",
+  "_fetchedAt": "2026-10-12T16:27:47.997Z"
+}

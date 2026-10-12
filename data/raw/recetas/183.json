@@ -1,0 +1,40 @@
+{
+  "id": 183,
+  "titulo": "Vuelve a la Vida",
+  "descripcion": "En todas las costas venezolanas es casi una religión que pase un vendedor ofreciendo el famoso “rompe colchón, Siete potencias, vuelve a la vida”",
+  "historia": "En todas las costas venezolanas es casi una religión que pase un vendedor ofreciendo el famoso “rompe colchón, Siete potencias, vuelve a la vida” con sus peculiares nombres que hacen sonrojar tanto a hombres como mujeres.\nEste conocido manjar afrodisíaco, suele seducir frecuentemente a los paladares por la diversidad de ingredientes: Camarones, mejillones, pulpo, pepitonas y calamares todos bañado en vinagre y limón, que le aporta ese toque ácido pero adictivo al paladar.",
+  "ingredientes": "•\t1 taza de jugo de limón recién exprimido\n•\t¼ de taza de vinagre blanco\n•\t1 taza de agua filtrada\n•\t¼ de taza de salsa de tomate\n•\t1 cucharada de salsa inglesa\n•\t1 cucharada de sal\n•\t½ cucharada de pimienta\n•\t1 cebolla grande morada o blanca en plumas\n•\t1 pimentón en julianas\n•\t5 ajíes dulces en julianas\n•\t½ taza de cilantro en hache\n•\t1 taza de camarones cocidos\n•\t1 taza de calamares cocidos\n•\t1 taza de pulpo cocido\n•\t½ taza de guacuco limpios\n•\t½ taza de mejillones\n•\t½ taza de pepitonas cocidas y blandas\n",
+  "preparacion": "Mezclar en un envase, preferiblemente de vidrio, jugo de limón, el vinagre blanco, el agua, la salsa de tomate, la salsa inglesa, la sal y la pimienta y reservar.\nLuego, colocar en un envase grande, también preferiblemente de vidrio, los camarones, los calamares, el pulpo, los guacucos, los mejillones y las pepitonas.\nMezclar con los vegetales.\nVerter la salsa hecha inicialmente y dejar reposar 5 minutos.\n Servir en vasos cortos o copas con una cuchara para poder comerlos con su jugo.\nAcompañar con tostones o chip de plátanos verdes\n",
+  "publico": true,
+  "created_at": "2019-12-06T22:16:12.072Z",
+  "updated_at": "2021-09-12T14:06:37.278Z",
+  "photo": {
+    "id": 217,
+    "name": "Vuelve a la Vida.png",
+    "hash": "9beff555ea7b4cf0803914151971fe9f",
+    "sha256": "uaVu-mkaUPtKgYit2ynTS4QASxlaGUeEam8NOp3e47o",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "236.45",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1575670572/wbjm7vbw5cls8vlbydux.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "wbjm7vbw5cls8vlbydux",
+      "resource_type": "image"
+    },
+    "created_at": "2019-12-06T22:16:12.481Z",
+    "updated_at": "2019-12-06T22:16:12.481Z"
+  },
+  "categorias": [
+    {
+      "id": 6,
+      "nombre": "Entrada",
+      "created_at": "2019-11-07T21:23:25.610Z",
+      "updated_at": "2019-11-07T21:23:25.610Z"
+    }
+  ],
+  "url": "/receta/183/vuelve-a-la-vida",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/wbjm7vbw5cls8vlbydux",
+  "_sourceUrl": "https://bongusto.net/receta/183/vuelve-a-la-vida",
+  "_fetchedAt": "2026-10-12T16:25:59.216Z"
+}

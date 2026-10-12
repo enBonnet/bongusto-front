@@ -1,0 +1,40 @@
+{
+  "id": 88,
+  "titulo": "Causa Limeña de Atún",
+  "descripcion": "Este plato y/o entrada típico del Perú es muy conocido a nivel internacional y muy solicitado por turistas nacionales y extranjeros",
+  "historia": "Todo sucedió allá por los tiempos de la guerra con Chile, en que las valerosas mujeres peruanas pensaban en alguna manera de ayudar a aquellos soldados que defendían nuestra patria. Se organizó entonces una recolección de lo que voluntariamente pudiera darse, logrando acopiar: maíz, alverjas, zanahorias, entre otros; infaltable por supuesto la papa. De todo ello surgió la idea de crear un nuevo plato que pueda ser vendido y que ayude a solventar el auxilio necesario. Se cocinó la papa, se prensó, se aderezó con ají, limón y aceite. Se logró una masa homogénea que pudo ser rellenada con ingredientes diversos. El resultado se comercializó a través de las vianderas limeñas que la ofrecían “Por la Causa”, por la causa limeña, naciendo así el delicioso plato que hoy asombra a muchos. Platillo que por su sencillez y variedad ha logrado sobrepasar las fronteras peruanas, haciéndose irresistible.",
+  "ingredientes": "### 4 porciones pequeñas o una grande:\n- ½ kilo de papas amarillas (de preferencia)\t\t\n- Sal al gusto\n- 1 cebolla mediana en brunoise\t\t\t\n- 1 ramita de cilantro\n- 1 lata de atún de 170 grs\t\t\t\t\n- 2 cucharadas de aceite vegetal\n- ½ taza de mayonesa\t\t\t\t\t\n- 2 ajíes mirasol fresco\n- ½ de taza de jugo de limón\t\t\t\t\n- Hojas de lechuga\n- 2 huevos cocidos.\t\t\t\t\t\n- Aceitunas negras",
+  "preparacion": "- 1. Se ponen a cocer las papas con piel; cuando estén cocidas se pelan y se pasan por un prensa papas se sazonar con sal, 1/8 de la taza de limón y el ají mirasol licuado reservar.\nPara el relleno:\n- 1. Cortar la cebolla en brunoise, mezclar con el atún, el restante de limón, sal y la ½  taza de mayonesa y el cilantro cortado en haché.\n- 2. Separar el puré de papas en dos partes, engrasar un molde con aceite y colocar una capa de aproximadamente un (01) centímetro más o menos, colocar el relleno y cubrir con el restante del puré.\n- 3. Cortar en la forma que prefiera, decorar con huevos cocidos y aceitunas.",
+  "publico": true,
+  "created_at": "2019-11-11T23:10:46.971Z",
+  "updated_at": "2019-11-11T23:10:46.971Z",
+  "photo": {
+    "id": 95,
+    "name": "Causa.png",
+    "hash": "66258c155b81432a94bc20bc43ac567c",
+    "sha256": "MC8CwRmkyrVpsMisiBU--C0Le8JtXOWfQ62DIPoUXdc",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "145.80",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1573513847/aps5msfpha0bl23nyuro.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "aps5msfpha0bl23nyuro",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-11T23:10:47.483Z",
+    "updated_at": "2019-11-11T23:10:47.483Z"
+  },
+  "categorias": [
+    {
+      "id": 6,
+      "nombre": "Entrada",
+      "created_at": "2019-11-07T21:23:25.610Z",
+      "updated_at": "2019-11-07T21:23:25.610Z"
+    }
+  ],
+  "url": "/receta/88/causa-limena-de-atun",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/aps5msfpha0bl23nyuro",
+  "_sourceUrl": "https://bongusto.net/receta/88/causa-limena-de-atun",
+  "_fetchedAt": "2026-10-12T16:27:16.385Z"
+}

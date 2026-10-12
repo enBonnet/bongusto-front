@@ -1,0 +1,40 @@
+{
+  "id": 238,
+  "titulo": "Bienmesabe",
+  "descripcion": "Con este nombre, se conoce en España un dulce hecho a base de almíbar, almendra y yemas de huevo.",
+  "historia": "Con este nombre, se conoce en España un dulce hecho a base de almíbar, almendra y yemas de huevo. En Venezuela, este postre se tropicalizó con ingredientes como el coco y el papelón, y sin almendras. Actualmente prepara casi siempre con azúcar, en lugar de papelón. El merengue con el que se cubre es una modificación bastante reciente.",
+  "ingredientes": "### Ingredientes (para 6 personas) \n### Bizcocho \n- 6 claras de huevo \n- 5 yemas de huevo \n- 6 cucharadas de azúcar \n- 6 cucharadas de harina de trigo \n- 1 cucharadita de polvo de hornear \n- ½ corteza de limón verde rallada \n- 1 cucharada de mantequilla para el molde \n### Crema \n- 2 tazas de leche de coco \n- ½ kg de azúcar \n- 1 ramita de canela \n- 12 yemas de huevo \n### Almíbar \n- 1 taza de agua \n- 3 ½ tazas de azúcar \n### Merengue \n- 3 claras de huevo \n- 6 cucharadas de azúcar \n- Canela molida al gusto \n- 4 cucharadas de coñac o vino moscatel \n- ¼ de corteza de limón verde rallada",
+  "preparacion": "### Preparación Bizcocho \n1. Se precalienta el horno a 180°C. \n2. Con una batidora, se llevan a punto de nieve las claras de huevo. En un recipiente aparte se vierten las yemas y el azúcar y se baten a mano hasta que estén cremosas. Sin dejar de batir, se vierte esta crema sobre las claras batidas, poco a poco. Luego se añade la harina, el polvo de hornear y la ralladura de limón y se mezclan hasta que quede una crema homogénea. \n3. Se en mantequilla un molde para tortas y se vierte la mezcla. \n4. Se hornea durante 20 minutos o hasta que dore. Se retira del horno y se deja reposar.\n5. Se corta el bizcocho en capas. \n### Crema \n1. Se cocina a fuego medio la leche de coco, el azúcar y la canela, por unos 10 minutos después que comience a hervir o hasta que tenga una consistencia cremosa. Se retira del fuego. Con 3 tazas de la crema se remojan las capas del bizcocho. \n2. Se baten las yemas y se le agregan ala crema que quedo en la olla. Se calienta nuevamente a fuego medio, y cuando apenas empiece a hervir, se retira del fuego. \n### Almíbar \n1. En una olla, se cocina a fuego alto el agua con el azúcar, revolviendo constantemente, hasta que al levantar la cuchara caiga un hilo delgado de caramelo. Se retira del fuego. \n2. Se añade a la crema y se mezcla con una cuchara de madera hasta que quede uniforme. \n### Merengue\n1. Se baten las claras de huevo apunto de nieve (hasta formar picos). Se le agrega el azúcar poco a poco, y luego la vainilla y la ralladura de limón (muy lentamente, para evitar que el merengue se baje). Se deja de batir cuando espese. \n### Ensamblaje del bienmesabe \n1. Se calienta de nuevo la mezcla de almíbar y crema, a fuego bajo, hasta que casi hierva. Se aparta del fuego y se deja reposar. \n2. En una dulcera profunda, se colocan por capas la crema y el bizcocho, rociando cada capa de bizcocho con el coñac o vino moscatel. La última capa debe ser de crema y sobre ésta se decora con el merengue (se puede utilizar una manga, para mejores resultados). Se espolvorea con canela y se refrigera antes de servir.",
+  "publico": true,
+  "created_at": "2019-12-07T23:06:29.120Z",
+  "updated_at": "2019-12-07T23:08:49.925Z",
+  "photo": {
+    "id": 272,
+    "name": "bienmesabe.jpg",
+    "hash": "4fa9a011c49f4086abc2cfc06c444843",
+    "sha256": "WzM-mJaTIWWfao466tG4LjPedWhpchwuqJTTVBFU2aA",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "size": "72.64",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1575759989/vuncmjlxxb0nxxdhtvik.jpg",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "vuncmjlxxb0nxxdhtvik",
+      "resource_type": "image"
+    },
+    "created_at": "2019-12-07T23:06:29.731Z",
+    "updated_at": "2019-12-07T23:06:29.731Z"
+  },
+  "categorias": [
+    {
+      "id": 9,
+      "nombre": "Postre",
+      "created_at": "2019-11-07T22:49:20.381Z",
+      "updated_at": "2019-11-07T22:49:20.381Z"
+    }
+  ],
+  "url": "/receta/238/bienmesabe",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/vuncmjlxxb0nxxdhtvik",
+  "_sourceUrl": "https://bongusto.net/receta/238/bienmesabe",
+  "_fetchedAt": "2026-10-12T16:25:15.149Z"
+}

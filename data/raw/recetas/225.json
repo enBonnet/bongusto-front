@@ -1,0 +1,40 @@
+{
+  "id": 225,
+  "titulo": "Hervido de Res",
+  "descripcion": "En Venezuela y Colombia la palabra hervido hace referencia al sancocho.",
+  "historia": "El hervido (bollit en valenciano) es un plato típico de la Comunidad Valenciana (España). Es un plato muy sencillo que se solía tomar como cena. Consiste en patatas con diferentes verduras (generalmente judías verdes, acelgas y cebollas aunque también puede incluir alcachofas) aliñadas con aceite de oliva y sal.\nEn Venezuela y Colombia la palabra hervido hace referencia al sancocho.\nEl sancocho es una sopa hecha con carnes, tubérculos, verduras y condimentos. Entre sus orígenes parecen estar el ajiaco taíno, el cocido español, la olla podrida española, y los estofados corso, irlandés, danés, alemán, italiano y francés.",
+  "ingredientes": "### Ingredientes para 8 personas \n- 1 kg de pecho de res \n- 1 de costillas de res cortadas en trozos de 5 centímetros \n- 1 cebolla grande cortada en cuatro \n- 1 ajoporro cortado en trozos medianos \n- 3 ramas de apio españa \n- 1 cucharadita de pimienta negra recién molida \n- 2 cucharadas de sal \n- 4 litros de agua \n- ½ kg de papas cortadas en cuadros pequeños \n- ½ kg de ñame cortado en trozos pequeños \n- ½ kg de apio cortado en trozos medianos \n- ½ repollo cortado en trozos pequeños \n- ½ kg de ocumo cortado en trozos medianos \n- ½ kg de auyama cortada en trozos medianos con su piel \n- ½ kg de yuca cortada en cuadros pequeños \n- 6 jojotos cortados en ruedas de 3 centímetros \n- 1 ramita de perejil \n- 3 ramas de cilantro",
+  "preparacion": "1. Con un cuchillo, se elimina la grasa del pecho de res y se corta en trozos. \n2. Se colocan las carnes en una olla grande junto con la cebolla, el ajoporro, el apio españa, la pimienta y la sal. Se cubre todo con el agua y se cocina a fuego bajo hasta que las carnes estén blandas y el líquido se haya reducido a la mitad (aproximadamente 40 minutos). \n3. Se retira la olla del fuego, se sacan las carnes y se dejan enfriar. Se apartan las costillas. \n4. Se cuela el caldo y se vierte en una olla. Se añaden las carnes, la papa, el ñame, el ocumo, los jojotos en ruedas y la yuca. Se calienta a fuego medio y cuando el líquido comience a hervir, se agregan la auyama, el repollo y el apio. Se cocina todo hasta que las verduras ablanden (unos 10 minutos). \n5. Se colocan las costillas sobre una bandeja y se hornean durante 15 minutos o hasta que doren, a 240° C. Se sirven aparte. \n6. Se agregan al caldo las ramas de perejil y cilantro 5 minutos antes de finalizar la cocción, y se retiran antes de servir.",
+  "publico": true,
+  "created_at": "2019-12-07T22:07:09.517Z",
+  "updated_at": "2019-12-07T22:07:09.517Z",
+  "photo": {
+    "id": 259,
+    "name": "Hervido de Res.png",
+    "hash": "597a0430bbe84cb19f4542dc646d4a20",
+    "sha256": "pz1ZV9GRsCh5hxxIURX65y6Pq5AEYwMZSpwLDAI60oY",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "162.27",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1575756429/sxvpaqsca4lui74phdke.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "sxvpaqsca4lui74phdke",
+      "resource_type": "image"
+    },
+    "created_at": "2019-12-07T22:07:10.013Z",
+    "updated_at": "2019-12-07T22:07:10.013Z"
+  },
+  "categorias": [
+    {
+      "id": 6,
+      "nombre": "Entrada",
+      "created_at": "2019-11-07T21:23:25.610Z",
+      "updated_at": "2019-11-07T21:23:25.610Z"
+    }
+  ],
+  "url": "/receta/225/hervido-de-res",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/sxvpaqsca4lui74phdke",
+  "_sourceUrl": "https://bongusto.net/receta/225/hervido-de-res",
+  "_fetchedAt": "2026-10-12T16:25:24.975Z"
+}

@@ -1,0 +1,40 @@
+{
+  "id": 127,
+  "titulo": "Paella Valenciana",
+  "descripcion": "La paella es sin duda uno de los platos emblemáticos de la gastronomía española, en especial de la valenciana.",
+  "historia": "La paella es una especie de sartén de gran superficie, con dos o más asas pequeñas y poca profundidad. Esta proporción permite que los ingredientes que en ella se preparan tengan una cocción adecuada. En ella se cocina el arroz a la paella, un platillo típico español con variaciones en las distintas regiones del país.\nHistoria de la paella\nSegún los expertos este platillo surgió en las zonas rurales de Valencia, entre los siglos XV y XVI, por la necesidad de los campesinos y pastores de una comida fácil de preparar y con los ingredientes que tenían a mano en el campo. Siempre la comían por la tarde.\nEn sus orígenes, los ingredientes eran las aves, el conejo de campo o liebre, las verduras frescas que se tuvieran al alcance, arroz, azafrán y aceite de oliva, que se mezclaban en la paella con agua y ramas de naranjos. Todo se cocinaba a fuego lento.",
+  "ingredientes": "### Ingredientes: (4-6 porciones)\n- 2 tazas de arroz\t\t\t\t\n- 4 tazas de caldo de ave\n- ½ kg de pollo cortado en trozos\t\t\n- ½ kg de conejo cortado en trozos\n- 1 tomate mediano\t\t\t\t\n- ½ pimiento rojo\n- 1 cucharadita de pimentón en polvo\t\t\n- 1 rama pequeña de romero\n- Aceite de oliva extra virgen\t\t\t\n- Sal y Pimienta\n- Algunas hebras de azafrán (puedes sustituir por colorante amarillo pero no es lo ideal)\n- 8 vainitas cortadas (verdes planas)\n- 1 lata de petit pois \t\t\t\t\n- Pan costra dura rebanado y tostado.",
+  "preparacion": "- Marinar el pollo y el conejo al gusto por ½ hora.\n- En una paella mediana agrega aceite de oliva y comienza a freír a fuego suave las piezas de pollo y de conejo hasta que estén ligeramente doradas por todos lados.\n- Agrega entonces las vainitas y remover unos minutos, debes estar atento a que no se quemen.\n- Ahora le toca el turno al tomate y el petit pois. El tomate previamente cortado en trozos pequeños o, si lo prefieres, rallado. Mezcla bien con los demás ingredientes. En este momento vas a agregar también el pimentón en polvo. Deja que se sofría todo por unos minutos.\n- Seguidamente agrega el caldo de pollo, unas hebras de azafrán, el romero y una pizca de sal y pimienta recién molida. Sube la temperatura de la hornilla.\n- Cuando comience a hervir el líquido, agrega el arroz de manera uniforme en la paella y revuelve un poco. \n- Revisa cómo está de sal y si es necesario agregarle más.\n- En este momento puedes agregar el pimiento rojo por encima, cortado en tiritas para adornar.\n- Cuando el agua se evapore casi del todo, siempre atento a que no se seque por completo, baja la temperatura de la paella y cubre con una tapa grande ó con papel aluminio.\n- Deja cocinar por unos 10 minutos.\n- Transcurrido este tiempo prueba el grano, y si está listo, apaga y ¡a comer paella valenciana!\n- ",
+  "publico": true,
+  "created_at": "2019-11-20T21:01:17.464Z",
+  "updated_at": "2019-11-20T21:01:17.464Z",
+  "photo": {
+    "id": 134,
+    "name": "Paella Valenciana.png",
+    "hash": "fbefa980c2a246fb98c82169d40f186e",
+    "sha256": "9Mq1-51Y2su8H3xmi2XWIB83M0dlj5XQSbaJHLaVYYQ",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "407.58",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1574283677/ocevhrndokozpzf17eot.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "ocevhrndokozpzf17eot",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-20T21:01:17.815Z",
+    "updated_at": "2019-11-20T21:01:17.815Z"
+  },
+  "categorias": [
+    {
+      "id": 47,
+      "nombre": "Principal",
+      "created_at": "2019-11-20T14:11:58.958Z",
+      "updated_at": "2019-11-20T14:11:58.958Z"
+    }
+  ],
+  "url": "/receta/127/paella-valenciana",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/ocevhrndokozpzf17eot",
+  "_sourceUrl": "https://bongusto.net/receta/127/paella-valenciana",
+  "_fetchedAt": "2026-10-12T16:26:44.546Z"
+}

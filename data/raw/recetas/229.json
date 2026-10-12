@@ -1,0 +1,40 @@
+{
+  "id": 229,
+  "titulo": "Empanadas",
+  "descripcion": "Tiene forma de media luna y su masa es firme, arenosa, dorada y crujiente. En algunas ocasiones, es endulzada con un poco de papelón.",
+  "historia": "Tiene forma de media luna y su masa es firme, arenosa, dorada y crujiente. En algunas ocasiones, es endulzada con un poco de papelón. Los rellenos varían de acuerdo a la zona: en Margarita las más comunes son las de cazón, en Los Roques se encuentran de langosta, en occidente, de mojito, y en el centro, de \"pabellón” (carne mechada, caraota y tajada). Las más típicas en todo el territorio son las de queso, pollo o carne. También el tamaño y el grosor pueden ser una sorpresa: desde empanadas pequeñas con masas muy delgadas y coloreadas con onoto, como las margariteñas, hasta otras más gruesas y grandes, como las centrales (variación que también puede depender de su uso: las pequeñas como pasa palos las grandes para el desayuno o la merienda).",
+  "ingredientes": "### Ingredientes (para 12 empanadas) \n- 2 tazas de harina de maíz precocida \n- 2 h tazas de agua \n- 1 ½ cucharaditas de sal \n- 1 cucharadita de azúcar \n- 200 gramos de queso blanco semiduro rallado \n- Abundante aceite de maíz \n- Papel absorbente",
+  "preparacion": "1. En un recipiente se mezclan el agua, la harina, la sal y el azúcar. \n2. Se amasa de modo similar que para las arepas hasta que la mezcla quede homogénea. Se hacen bolitas, no muy pequeñas. \n3. Sobre una superficie plana se extiende un plástico. Se coloca en el centro una de las bolitas y se presiona con los dedos hasta hacer un círculo delgado (con menos de ½ cm de grosor). \n4. En el centro, se colocan 1 o 2 cucharadas de queso. \n5. Se dobla el plástico junto con la masa, cubriendo el relleno (de manera que quede en forma de semicírculo). \n6. Con los dedos se presiona el borde externo sobre el plástico para cerrarlo debidamente. \n7. En un caldero con abundante aceite, se fríen las empanadas a fuego medio hasta que doren. \n8. Se retiran con una espumadera y se escurren sobre papel absorbente. \n### Opcional \n- Se puede agregar aceite onotado o papelón a la masa.",
+  "publico": true,
+  "created_at": "2019-12-07T22:38:47.973Z",
+  "updated_at": "2019-12-07T22:38:47.973Z",
+  "photo": {
+    "id": 263,
+    "name": "Empanadas.png",
+    "hash": "eca961d2049c4acf89df3ab95144862e",
+    "sha256": "-FD07NsDu8zMFSWkYUtFunkFxB1z9nz-7DeL-_jgFrQ",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "328.49",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1575758328/uhina7pum2msfdne9w7x.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "uhina7pum2msfdne9w7x",
+      "resource_type": "image"
+    },
+    "created_at": "2019-12-07T22:38:48.387Z",
+    "updated_at": "2019-12-07T22:38:48.387Z"
+  },
+  "categorias": [
+    {
+      "id": 6,
+      "nombre": "Entrada",
+      "created_at": "2019-11-07T21:23:25.610Z",
+      "updated_at": "2019-11-07T21:23:25.610Z"
+    }
+  ],
+  "url": "/receta/229/empanadas",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/uhina7pum2msfdne9w7x",
+  "_sourceUrl": "https://bongusto.net/receta/229/empanadas",
+  "_fetchedAt": "2026-10-12T16:25:21.903Z"
+}

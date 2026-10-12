@@ -1,0 +1,40 @@
+{
+  "id": 138,
+  "titulo": "Katayef",
+  "descripcion": "Es un postre árabe comúnmente servido durante el mes de Ramadán , una especie de bola de masa dulcerellena de crema o nueces. Se puede describir como panqueque doblado.",
+  "historia": "Se cree que Qatayef es de origen fatimí .  Algunos creen que Qatayef es la creación de la dinastía fatimí, sin embargo, su historia se remonta al califato abasí , 566-653 CE.  Qatayef fue mencionado en un libro de cocina árabe del siglo X que se remonta al califato abasí por Ibn Sayyar al-Warraq llamado Kitab al-Ṭabīḫ (en árabe : كتاب الطبيخ , El libro de los platos ).  El libro fue traducido más tarde por Nawal Nasrallah, y lo nombró (Anales de las cocinas de los califas). Qatayef fue tradicionalmente preparada por vendedores ambulantes, así como por hogares en el Levante y Egipto . Por lo general, se prepara con queso Akkawi como relleno.\n",
+  "ingredientes": "### De 6 a 10 porciones:\n### Ingredientes:\n### Masa-\n- 250 ml de leche.\t\t\t\t\n- Una pizca de sal.\n- 125 gr de harina.\t\t\t\t\n- Dos cucharadas de aceite. \n- Una cucharada sopera de azúcar.\t\t\n- Una cucharadita de bicarbonato.\n- Una cucharada de levadura en polvo.\n### Relleno-\n- 100 gr de queso mascarpone.\t\t\n- Una cucharadita agua azahar.\n- 100 gr de queso crema.\t\t\t\n- Dos cucharadas de azúcar.\n### Nota: de no conseguirse el queso mascarpone se dobla la cantidad de queso crema.\n### Almíbar-\n- Un vaso de agua.\t\t\t\t\n- Pistachos picados.\n- Un vaso de azúcar.\t\t\t\t\n- Una cucharada de agua de azahar.\n- Dos cucharadas de zumo de limón.",
+  "preparacion": "- Preparamos la masa, mezclando bien  todos los ingredientes y dejamos  reposar una hora.\n- Transcurrido este tiempo, ponemos al fuego una sartén antiadherente plana a fuego medio-bajo, vertemos un poco de masa, yo utilicé una cucharita medidora para que salgan todas del mismo tamaño.\n- Las tortitas tienen que quedar doradas por el lado de la sartén y dejar que se hagan bien ya que no se les da la vuelta.\n- Las vamos poniendo en un paño de cocina y las tapamos para que no se resequen y luego se pueda dar forma de cono, uniéndolas apretando un poco en la base de lo que será nuestro cono.\n- Las vamos preparando todas hasta terminar la masa.\n- Preparamos el relleno, mezclando los quesos, azúcar y el agua de azahar, hasta que esté cremoso.\n- Rellenamos los conos con la mezcla de queso, cerramos presionado desde abajo y hasta la mitad, espolvoreamos con pistachos triturados.\n- Los ponemos en una bandeja y servimos el almíbar en un bol al lado para que cada uno se sirva si quiere.",
+  "publico": true,
+  "created_at": "2019-11-21T16:25:07.253Z",
+  "updated_at": "2019-11-21T16:25:07.253Z",
+  "photo": {
+    "id": 145,
+    "name": "Katayef.png",
+    "hash": "95dbbbd025f5452cb119d56d3d508d14",
+    "sha256": "Qurgi5f9t6E8CYEAHvEVpsDYu8l5P3kdG1i0XQZMr-8",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "395.61",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1574353507/hkvu3qhkdwnjobliw8cn.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "hkvu3qhkdwnjobliw8cn",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-21T16:25:07.710Z",
+    "updated_at": "2019-11-21T16:25:07.710Z"
+  },
+  "categorias": [
+    {
+      "id": 9,
+      "nombre": "Postre",
+      "created_at": "2019-11-07T22:49:20.381Z",
+      "updated_at": "2019-11-07T22:49:20.381Z"
+    }
+  ],
+  "url": "/receta/138/katayef",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/hkvu3qhkdwnjobliw8cn",
+  "_sourceUrl": "https://bongusto.net/receta/138/katayef",
+  "_fetchedAt": "2026-10-12T16:26:35.615Z"
+}

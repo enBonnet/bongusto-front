@@ -1,0 +1,40 @@
+{
+  "id": 338,
+  "titulo": "Éclair",
+  "descripcion": "Un éclair, a veces también petisús, relámpago o palo de jacob, es un bollo fino o dona hecho con pasta choux",
+  "historia": "Un éclair, a veces también petisús, relámpago o palo de jacob, es un bollo fino o dona hecho con pasta choux, a la que se da forma alargada y se hornea hasta que queda crujiente y hueco,  y que habitualmente se rellena.\nEl éclair se originó durante el siglo XIX en Francia, donde fue llamado \"pain à la Duchesse\" o \"petite duchesse\" hasta 1850.  El primer testimonio escrito en francés fue en la década de 1860.  Algunos historiadores de la comida especulan que los éclairs fueron hechos por primera vez por el famoso chef francés Marie-Antoine Carême (1784–1833).",
+  "ingredientes": "**De 6 a 8 porciones:**\n**Masa choux:**\n- 150g de harina\n- 100 ml de agua\n- 125ml de leche\n- 3-4 huevos\n- 90g de margarina\n- 1 pizca de sal\n- 10g de azúcar (1 cucharada sopera rasa)\n**Crema Pastelera:**\n- 12 cucharadas fécula de Maíz.\n- 1 taza azúcar\n- 2 taza leche\n- 2 huevo\n- 1 cucharita de Vainilla\n**Para decorar:**\n- 200 g chocolate de cobertura",
+  "preparacion": "- Ponemos en una olla el agua, la leche, la sal, el azúcar y la mantequilla al fuego hasta que se derrita la mantequilla y rompa a hervir.\n- Cuando la leche empiece a hervir le agregamos toda la harina de golpe y removemos para que no haga grumos, la sacamos del fuego. Estará muy dura, pero hay que moverla enérgicamente hasta que se despegue de las paredes de la olla.\n- Dejamos enfriar 10 minutos, hasta que esté templada, y le vamos añadiendo los huevos 1 a 1, un poco batidos y mezclamos bien. No añadiremos el siguiente huevo hasta que el anterior esté bien integrado. La masa dará la impresión que se ha cortado, pero seguimos moviendo y se unificará.\n- Igual no hay que ponerle todos los huevos, después de 2º le iremos poniendo el siguiente poco a poco... la masa estará en su punto cuando la levantarla con una espátula se forma un \"pico de pato\"\n- La ponemos en una manga pastelera y hacemos los dulces que más nos gusten. En este caso en forma de bastones.\n- Se hornea con el horno precalentado a 180ºC durante 15 minutos aproximadamente. Pasado ese tiempo se apaga el horno y se dejan enfriar dentro otros 10 minutos para que se sequen, con la puerta entreabierta.\n- Dejamos enfriar y rellenamos con nata montada, crema chantillí o crema pastelera. Coronadas con caramelo casero, azúcar glas o chocolate.\n**- Pasos Para la Crema Pastelera:**\n- Batir el azúcar con el huevo hasta lograr que quede cremoso y lentamente sin dejar de batir agregamos la fécula para que no se formen grumos hacerlo despacio batiendo hasta integrarla.\n- Poner la leche al fuego y cuando este por romper en hervor agregamos la mezcla ya batida y revolvemos mientras la volcamos.\n- Revolvemos hasta formar la crema entre espesa y no tanto...retiramos dejamos reposar y lista.\n**- Para decorar:**\n- Fundimos el chocolate al baño de maría y una vez estén los ecler rellenos y reposados, los sumergimos hasta cubrir la mitad de cada uno, dejar enfriar a temperatura ambiente y están listos.\n",
+  "publico": true,
+  "created_at": "2022-06-11T19:45:51.372Z",
+  "updated_at": "2022-06-11T19:45:51.372Z",
+  "photo": {
+    "id": 382,
+    "name": "Ecler.png",
+    "hash": "8ecafa98383b4cff938dd21d1fd41b6b",
+    "sha256": "WA6vu99FyoapYeeNfsQ4UxWzf-tCZ9IgWlVmDcQaAA8",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "208.46",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1654976751/zutwwv91diig9jsbycgs.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "zutwwv91diig9jsbycgs",
+      "resource_type": "image"
+    },
+    "created_at": "2022-06-11T19:45:51.808Z",
+    "updated_at": "2022-06-11T19:45:51.808Z"
+  },
+  "categorias": [
+    {
+      "id": 9,
+      "nombre": "Postre",
+      "created_at": "2019-11-07T22:49:20.381Z",
+      "updated_at": "2019-11-07T22:49:20.381Z"
+    }
+  ],
+  "url": "/receta/338/eclair",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/zutwwv91diig9jsbycgs",
+  "_sourceUrl": "https://bongusto.net/receta/338/eclair",
+  "_fetchedAt": "2026-10-12T16:23:53.503Z"
+}

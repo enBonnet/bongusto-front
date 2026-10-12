@@ -1,0 +1,40 @@
+{
+  "id": 233,
+  "titulo": "Ciruelas con Tocineta",
+  "descripcion": "También se les conoce como ojo de buey, y son otro clásico entre los pasapalos venezolanos. ",
+  "historia": "También se les conoce como ojo de buey, y son otro clásico entre los pasapalos venezolanos. A pesar de su curioso aspecto, y de ser toda una amenaza para las dietas y la cultura light, es muy común en las fiestas y banquetes que los mesoneros traigan, entre sus bandejas repletas de bocadillos diversos, una oscura y dulce ciruela envuelta-en un manto de tocineta previamente dorada en aceite. También se prepara un pasapalo muy parecido con trozos de lomito envueltos en tiras de tocineta. El ojo de buey es una receta sencilla, que se ha convertido en parte obligada de los preparativos para esas reuniones sociales en donde lo práctico, rápido y gustoso es siempre la mejor opción.",
+  "ingredientes": "### Ingredientes (para 50 personas) \n- ½ kg de ciruelas pasas sin semilla \n- 400 gramos de tocineta rebanada en tiras \n- Papel absorbente",
+  "preparacion": "1. En un recipiente, se remojan las ciruelas pasas durante 2 horas en agua caliente. \n2. En una sartén, se saltean las tocineras (sin aceite) hasta que doren un poco, pero sin que lleguen a tostarse. Se retiran y se colocan sobre papel absorbente para eliminar el exceso de grasa.\n3. Se enrolla cada ciruela con una tira de tocineta. Se ajusta con un palillo. \n4. ### Sugerencia \n- Como se trata de un plato caliente, se recomienda prepararlo justo antes de servir para que no pierda sus propiedades de sabor y textura. \n### Opcional \n- Las ciruelas pueden sustituirse por dátiles o por queso mozzarella cortado en cuadritos.",
+  "publico": true,
+  "created_at": "2019-12-07T22:48:54.032Z",
+  "updated_at": "2019-12-07T22:51:17.141Z",
+  "photo": {
+    "id": 267,
+    "name": "Ciruelas con Tocineta.png",
+    "hash": "93d603956fd04f0aa322c2c969583a99",
+    "sha256": "eHc_aVi8bfquWfztPjDHd9hFkjS0sLWnyTUtvbLNZY0",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "271.64",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1575758934/zrt6wtbphy1dighbt7sy.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "zrt6wtbphy1dighbt7sy",
+      "resource_type": "image"
+    },
+    "created_at": "2019-12-07T22:48:54.526Z",
+    "updated_at": "2019-12-07T22:48:54.526Z"
+  },
+  "categorias": [
+    {
+      "id": 49,
+      "nombre": "Pasa Palo",
+      "created_at": "2019-12-07T22:49:13.689Z",
+      "updated_at": "2019-12-07T22:49:13.689Z"
+    }
+  ],
+  "url": "/receta/233/ciruelas-con-tocineta",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/zrt6wtbphy1dighbt7sy",
+  "_sourceUrl": "https://bongusto.net/receta/233/ciruelas-con-tocineta",
+  "_fetchedAt": "2026-10-12T16:25:18.865Z"
+}

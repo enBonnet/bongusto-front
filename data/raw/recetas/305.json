@@ -1,0 +1,40 @@
+{
+  "id": 305,
+  "titulo": "Coscorrón",
+  "descripcion": "Una forma de degustar tequila efervescente",
+  "historia": "No se tiene claro el origen de esta particular forma de degustar tequila",
+  "ingredientes": "- vaso shutter o caballito\n- Tequila\n- Soda o Agua Gasificada o Gaseosa de Limón",
+  "preparacion": "En un shuter colocar 1 de onza de tequila y rellenar con soda o chinoto, colocarle un paño para evitar el derrame, dar un golpe y tomarlo hasta que se le acabe la efervescencia.",
+  "publico": true,
+  "created_at": "2021-11-01T14:46:41.888Z",
+  "updated_at": "2021-11-01T14:46:41.888Z",
+  "photo": {
+    "id": 349,
+    "name": "Coscorrón.png",
+    "hash": "f89b0238b5dc4356a728921d80aaa245",
+    "sha256": "i0GYFNuU7VTNiT4LZPGLINRt3agPt4F_bL4UbMBlJao",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "58.31",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1635778002/xnodb2ikombjuhreyfdd.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "xnodb2ikombjuhreyfdd",
+      "resource_type": "image"
+    },
+    "created_at": "2021-11-01T14:46:42.348Z",
+    "updated_at": "2021-11-01T14:46:42.348Z"
+  },
+  "categorias": [
+    {
+      "id": 43,
+      "nombre": "Maridaje ",
+      "created_at": "2019-11-09T20:57:22.945Z",
+      "updated_at": "2019-11-09T20:57:22.945Z"
+    }
+  ],
+  "url": "/receta/305/coscorron",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/xnodb2ikombjuhreyfdd",
+  "_sourceUrl": "https://bongusto.net/receta/305/coscorron",
+  "_fetchedAt": "2026-10-12T16:24:19.318Z"
+}

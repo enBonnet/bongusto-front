@@ -1,0 +1,33 @@
+{
+  "id": 101,
+  "titulo": "Filete De Salmón Con Escamas De Papas",
+  "descripcion": "Especialidad de la nueva cocina francesa, presentando un filete de pescado con papas que presumen ser escamas.",
+  "historia": "No hay mucha información sobre la historia de este plato, se entiende que es de las nuevas tendecias de la cocina francesa ",
+  "ingredientes": "### 4 porciones:\n- 4 filetes de salmón con la piel o de merluza.\t\n- 2 yemas de huevos\t\t\t\t\t\n- Sal y pimienta al gusto\n- Mantequilla clarificada\n- 500 gramos papas blancas",
+  "preparacion": "- 1. Limpiar los filetes que no le queden espinas\n- 2. Salpimentar, reservar\n- 3. Pelar las papas, darle forma de tubo alargadas, cortar en ruedas finas\n- 4. Colocar las yemas en un recipiente\n- 5. Armar las escamas de papas en los filetes sobre la parte sin piel\n- 6. Incorporar la mantequilla clarificada sobre las escamas de papas\n- 7. Colocar los filetes armados, en el recipiente Con las yemas con las escamas de papas hacia arriba.\n- 8. Cocinar el pescado sobre el lado cubierto por las escamas de papas, en una sartén antiadherente, hasta que esté hecho.",
+  "publico": true,
+  "created_at": "2019-11-12T22:40:45.960Z",
+  "updated_at": "2019-11-12T22:40:45.960Z",
+  "photo": {
+    "id": 108,
+    "name": "Filet con escamas.png",
+    "hash": "fe854af9d97d4c2a8cd736df32d64581",
+    "sha256": "o4SqDoGJ758i2RaDOEd-94EsN3m4EsAL9Msay_yEHsI",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "214.16",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1573598446/blb9mkzjg00zxlir9cdf.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "blb9mkzjg00zxlir9cdf",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-12T22:40:46.473Z",
+    "updated_at": "2019-11-12T22:40:46.473Z"
+  },
+  "categorias": [],
+  "url": "/receta/101/filete-de-salmon-con-escamas-de-papas",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/blb9mkzjg00zxlir9cdf",
+  "_sourceUrl": "https://bongusto.net/receta/101/filete-de-salmon-con-escamas-de-papas",
+  "_fetchedAt": "2026-10-12T16:27:05.655Z"
+}

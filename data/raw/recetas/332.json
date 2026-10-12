@@ -1,0 +1,40 @@
+{
+  "id": 332,
+  "titulo": "Waterzooi",
+  "descripcion": "Es un estofado tradicional de la cocina belga",
+  "historia": "El nombre de este plato es de origen flamenco, concretamente de la ciudad de Gante, y significa \"hervido\". Es uno de los platos más conocidos de Bélgica preparado como un estofado. Suele servirse caliente y suele ser tanto de pescado como de pollo.\nEl waterzooi se remonta a la Edad Media, hacia finales del siglo XIII. La receta fue creada en la ciudad de Gante, y más precisamente en Quai de Brabant.",
+  "ingredientes": "- 500 gr. pollo troceado \n- 50 gr. Hojas de apio \n- 3 zanahorias \n- 50 gr. Puerro \n- 1 patata grande \n- 30 gr. Mantequilla \n- Sal marina\n- Pimienta molida \n- 2 yemas de huevo \n- 100 ml leche.\n- 1 tallo de cebollín cortado longitudinalmente para decorar al final.",
+  "preparacion": "- Primero se debe coloca el pollo en una cazuela. Cubre con agua, un litro más o menos. Añade una cucharadita de sal marina, un poco de pimienta molida, la mantequilla, las hojas de apio, las zanahorias y el puerro pelado y cortado en tiras finas. Lleva a ebullición y deja cocer a fuego medio, tapado, unos 15 minutos. Añade la patata pelada y cuartos y prosigue la cocción otros 20 minutos. Saca el pollo y las verduras, y reserva aparte. Si quieres puedes deshuesar el pollo. Deja reducir el caldo en la cazuela, a fuego vivo y destapada, hasta que reduzca a la mitad, algo menos de medio litro.\n- Bate las yemas y agrega la leche hasta que se integre bien. Agregar esta mezcla a el caldo caliente remover y mantener caliente.\n- Servir en un plato hondo o cazuela el pollo las verduras y luego agregar el caldo. Decorar con el cebollín y servir, caliente.",
+  "publico": true,
+  "created_at": "2022-06-11T19:23:56.921Z",
+  "updated_at": "2022-06-11T19:23:56.921Z",
+  "photo": {
+    "id": 376,
+    "name": "WATERZOOI.png",
+    "hash": "c60aa815fdf8488da1efe9e4f0264f01",
+    "sha256": "AXshyTbkkz_jqJ8jJmyf1iAavkr5qVLo0iYii6XKdKU",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "231.58",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1654975437/yp8ye8dinuddqdhbxhmm.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "yp8ye8dinuddqdhbxhmm",
+      "resource_type": "image"
+    },
+    "created_at": "2022-06-11T19:23:57.376Z",
+    "updated_at": "2022-06-11T19:23:57.376Z"
+  },
+  "categorias": [
+    {
+      "id": 6,
+      "nombre": "Entrada",
+      "created_at": "2019-11-07T21:23:25.610Z",
+      "updated_at": "2019-11-07T21:23:25.610Z"
+    }
+  ],
+  "url": "/receta/332/waterzooi",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/yp8ye8dinuddqdhbxhmm",
+  "_sourceUrl": "https://bongusto.net/receta/332/waterzooi",
+  "_fetchedAt": "2026-10-12T16:23:58.097Z"
+}

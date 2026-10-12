@@ -1,0 +1,40 @@
+{
+  "id": 302,
+  "titulo": "Mojito Cubano",
+  "descripcion": "De remedio para el escorbuto a uno de los cocteles más populares del mundo.",
+  "historia": "Cuenta la leyenda que la invención de este famoso cóctel denominado mojito, tuvo lugar en el siglo XVI de manos de uno de los piratas ingleses más famosos de su tiempo, Francis Drake.\nLa combinación inicial del mojito conocido entonces como “Draque”, mezclaba “tafia” (aguardiente de caña antecesor del ron), azúcar, lima y menta siendo remedio habitual para dolencias estomacales, combatir el cólera y el escorbuto, mal  que azotaba a las tripulaciones que pasaban largas temporadas en alta mar.",
+  "ingredientes": "- Vaso: vaso old fashion o jaibol\n- Hielo: Frape \n- Hierba Buena\n- Azúcar\t\n- Jugo de limón\n- Ron Blanco\n- Soda o Agua gasificada\n**- Decoración:**\n- Hierba Buena\n- Removedor de bebidas\n- Removedor \n- Pitillos\n",
+  "preparacion": "- Agregar al vaso 3 o 4 hojas de hierba buena\n- Agregar 1 medida de azúcar\n- Agregar jugo de ½ limón\n- Agregar hielo frape hasta el borde del vaso\n- Agregar 1 ½ onza de ron blanco\n- Remover\n- Completar con agua gassificada o soda\n**- Decorar:**\n- Rodaja de limón, hierba buena, removedor y pitillos",
+  "publico": true,
+  "created_at": "2021-10-31T14:56:46.628Z",
+  "updated_at": "2021-10-31T14:56:46.628Z",
+  "photo": {
+    "id": 346,
+    "name": "Mojito cubano.png",
+    "hash": "0a6009e4e1a94307ba5f37cbcb13df80",
+    "sha256": "cwn8oDP6doS6U9Yrx3Kh146mZ_r7MiPPv90iZdEQ3fo",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "28.14",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1635692206/cqizfxwokx1pojppdtsf.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "cqizfxwokx1pojppdtsf",
+      "resource_type": "image"
+    },
+    "created_at": "2021-10-31T14:56:46.930Z",
+    "updated_at": "2021-10-31T14:56:46.930Z"
+  },
+  "categorias": [
+    {
+      "id": 43,
+      "nombre": "Maridaje ",
+      "created_at": "2019-11-09T20:57:22.945Z",
+      "updated_at": "2019-11-09T20:57:22.945Z"
+    }
+  ],
+  "url": "/receta/302/mojito-cubano",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/cqizfxwokx1pojppdtsf",
+  "_sourceUrl": "https://bongusto.net/receta/302/mojito-cubano",
+  "_fetchedAt": "2026-10-12T16:24:21.588Z"
+}

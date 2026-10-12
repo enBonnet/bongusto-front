@@ -1,0 +1,40 @@
+{
+  "id": 263,
+  "titulo": "Galletitas Con Especias",
+  "descripcion": "Hoy en día este es un dulce que se puede ver en todos los países del mundo, atendiendo a diferentes sabores y formas. ¿Sabes cuándo se preparó por primera vez?",
+  "historia": "Todos los indicios indican que fueron elaboradas hace 10.000 años por los nómadas, los que necesitaban un alimento fácil de transportar y con un alto aporte de energía. Su preparación fue en cierto modo una coincidencia, al someter por error una pasta de cereales a altas temperaturas. Esta no tenía levadura y tomaba la misma consistencia que el pan.",
+  "ingredientes": "### Para 25 unidades \n- ½ taza de azúcar \n- 1 el huevo \n- ½ taza de margarina \n- 2 tazas de harina de trigo \n- ½ cucharada de canela molida \n- 1 cucharadita de jengibre molido \n- 1 cucharadita de clavo de olor molido \n- 1 cucharadita de esencia de vainilla \n- Harina para enharinar \n- Mantequilla para engrasar \n### Para El Glaseado \n- 1 taza de azúcar glas \n- 1 clara de huevo \n- 1 cucharadita de jugo de limón \n- ½ cucharadita de agua",
+  "preparacion": "### Preparación De Las Galletas \n- A) Batir la margarina con el azúcar hasta que tenga una consistencia cremosa y luego incorporar el huevo y la esencia de vainilla. \n- B) Cernir la harina con la canela molida, el jengibre molido y el clavo de olor molido agregar a la preparación anterior y remover con una paleta de madera hasta que la masa quede con una consistencia homogénea. Dejar reposar en la nevera durante 1 hora. \n- C) Precalentar el horno a 170°C. \n- D) Dividir la masa por la mitad y extender cada porción sobre una superficie enharinada con la ayuda \n- de un rodillo. La masa debe quedar con un grosor de 0,5 centímetros. \n- E) Cortar la masa con moldes decorativos y colocar las galletas en una bandeja previamente engrasada y enharinada. \n- F) Hornear por 30 minutos o hasta que las galletas estén doradas. \n- G) Apenas salgan del horno, con ayuda de un pincel pintar una capa de glaseado sobre las galletas. Dejar secar un poco y pintar otras dos capas más. \n### Preparación Del Glaseado \n- H) Batir la clara de huevo hasta que haga espuma. \n- l) Agregar poco a poco el azúcar glas sin dejar de remover. \n- J) Agregue el jugo de limón y el agua para que el glaseado no quede muy espeso.",
+  "publico": true,
+  "created_at": "2019-12-21T14:36:05.925Z",
+  "updated_at": "2019-12-21T14:36:05.925Z",
+  "photo": {
+    "id": 297,
+    "name": "Galletitas Con Especias1.png",
+    "hash": "7050460f410749c28dbcc7799cd6e4f5",
+    "sha256": "ANXkjk3nkLNT-btLZ3SwJi8q8hHlNr31NVETZssNJM0",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "363.43",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1576938966/bx5pwywxnbkocif7lv9t.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "bx5pwywxnbkocif7lv9t",
+      "resource_type": "image"
+    },
+    "created_at": "2019-12-21T14:36:06.318Z",
+    "updated_at": "2019-12-21T14:36:06.318Z"
+  },
+  "categorias": [
+    {
+      "id": 9,
+      "nombre": "Postre",
+      "created_at": "2019-11-07T22:49:20.381Z",
+      "updated_at": "2019-11-07T22:49:20.381Z"
+    }
+  ],
+  "url": "/receta/263/galletitas-con-especias",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/bx5pwywxnbkocif7lv9t",
+  "_sourceUrl": "https://bongusto.net/receta/263/galletitas-con-especias",
+  "_fetchedAt": "2026-10-12T16:24:53.899Z"
+}

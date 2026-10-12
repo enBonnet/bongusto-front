@@ -1,0 +1,40 @@
+{
+  "id": 8,
+  "titulo": "Tostón o patacón",
+  "descripcion": "Comida a base de trozos aplanados y fritos de plátano verde. ",
+  "historia": "El patacón, tostón, tachino, frito o tajada es una comida a base de trozos aplanados fritos de plátano verde, tradicional en la culinaria de varios países de América y el Caribe como Colombia, Cuba, Ecuador, Haití, Honduras, Nicaragua, Costa Rica, Panamá, Puerto Rico, República Dominicana y Venezuela.",
+  "ingredientes": "### 4 porciones:\n- 2 plátanos verdes grandes \n- Aceite C/N\n- Sal C/N",
+  "preparacion": "- a.\ten un caldero pequeño ponemos a calentar aceite (C/N) para freír\n- b.\tse pelan los plátanos y se cortan en ruedas de 3 a 4 centímetros de ancho.\n- c.\tSe llevan a freír hasta que doren levemente\n- d.\tSe retiran del aceite y se comprimen a un grosor aproximado a 1 centímetro o menos.\n- e.\tSe llevan de nuevo a la gran fritura, hasta dorar a gusto.\n- f.\tSe retiran del aceite se reposan sobre papel absorbente y se sazonan con sal.\nNOTA: Se pueden sazonar con ajo majado y sal al momento de comprimirlos.\n",
+  "publico": true,
+  "created_at": "2019-11-07T23:56:02.979Z",
+  "updated_at": "2019-11-09T22:16:17.860Z",
+  "photo": {
+    "id": 13,
+    "name": "Tostones.jpg",
+    "hash": "22629aa3dd5e4ed0a1a575739e80a71f",
+    "sha256": "rnczeqHaqbkGUAv3k1TauYLVvNHAZWwFwm70jFflBHc",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "size": "201.92",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1573170963/cj2m24rfaiubqmoqof5s.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "cj2m24rfaiubqmoqof5s",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-07T23:56:03.268Z",
+    "updated_at": "2019-11-07T23:56:03.268Z"
+  },
+  "categorias": [
+    {
+      "id": 7,
+      "nombre": "Guarnición",
+      "created_at": "2019-11-07T21:25:47.915Z",
+      "updated_at": "2019-11-07T21:25:47.915Z"
+    }
+  ],
+  "url": "/receta/8/toston-o-patacon",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/cj2m24rfaiubqmoqof5s",
+  "_sourceUrl": "https://bongusto.net/receta/8/toston-o-patacon",
+  "_fetchedAt": "2026-10-12T16:27:53.920Z"
+}

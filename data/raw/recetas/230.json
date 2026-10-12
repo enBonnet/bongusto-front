@@ -1,0 +1,40 @@
+{
+  "id": 230,
+  "titulo": "Pastelitos",
+  "descripcion": "Su masa es suave, crujiente y firme, porque se elabora delicadamente con harina de trigo.",
+  "historia": "Su masa es suave, crujiente y firme, porque se elabora delicadamente con harina de trigo. Como su nombre lo indica, se trata de un pequeño pastel, que consiste en un relleno cubierto con dos capas de masa finamente extendida. Se prepara en casi todo el Caribe. Cualquier guiso o ingrediente puede funcionar como relleno; sin embargo, los más comunes son los de carne, queso o pollo. Los pastelitos se comen en el desayuno, en la merienda o como pasapalo en las fiestas. Se encuentran fácilmente en ventas de comida rápida criolla.",
+  "ingredientes": "### Ingredientes (para 50 pastelitos) \n- 4 tazas de harina de trigo \n- 1 ½ cucharaditas de sal \n- 3 cucharadas de mantequilla a temperatura ambiente \n- 1 huevo \n- 2 yemas de huevo \n- 1 cucharada de azúcar \n- ¾ de taza de agua \n- Aceite de maíz \n- Papel absorbente \n- Sugerencias de relleno: carne molida con alcaparras, queso blanco o pollo desmechado.",
+  "preparacion": "1. Se colocan la harina y la sal en forma de corona sobre una mesa o en un envase grande. En el centro, la mantequilla, los huevos y el azúcar. \n2. Con la punta de los dedos, se unen los ingredientes mientras se agrega poco a poco el agua. Se amasa hasta que la mezcla quede bien uniforme, suave y húmeda, y no se pegue a la mesa ni a los dedos.\n3. Se envuelve con un plástico y se deja reposar durante 1 hora. \n4. Se enharina una superficie plana y con un rodillo se extiende la masa hasta que quede muy delgada, pero sin romperse (menos de ½ cm de grosor). \n5. Con un cuchillo se divide la masa en dos: una mitad se utilizará para colocar el relleno y la otra para cubrirlo. \n6. Se humedece con agua la superficie de la masa donde se va a colocar el relleno y se colocan pequeñas porciones de éste (con unos 5 cm de separación entre una y otra). \n7. Se cubre todo con la otra porción de masa. \n8. Con un molde redondo o con una taza (de unos 8 -10 cm de diámetro), se corta en círculos alrededor de cada relleno. \n9. Con un tenedor, se pincha el centro para que pueda salir el aire y se presionan los bordes para terminar de sellar y decorar. \n10. En un caldero con abundante aceite, se fríen los pastelitos a fuego medio hasta que doren. \n11. Se retiran con una espumadera y se colocan sobre papel absorbente para eliminar el exceso de grasa.",
+  "publico": true,
+  "created_at": "2019-12-07T22:41:22.651Z",
+  "updated_at": "2019-12-07T22:41:22.651Z",
+  "photo": {
+    "id": 264,
+    "name": "Pastelitos.png",
+    "hash": "7f1e7feaa91d45c38548706d5615b1db",
+    "sha256": "93qZn2UlFzqZjc_9fKIMdBjVwC5dhT6xfmR8AfNTcto",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "170.19",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1575758482/le0kalp6zcgjxoulb5ux.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "le0kalp6zcgjxoulb5ux",
+      "resource_type": "image"
+    },
+    "created_at": "2019-12-07T22:41:23.176Z",
+    "updated_at": "2019-12-07T22:41:23.176Z"
+  },
+  "categorias": [
+    {
+      "id": 6,
+      "nombre": "Entrada",
+      "created_at": "2019-11-07T21:23:25.610Z",
+      "updated_at": "2019-11-07T21:23:25.610Z"
+    }
+  ],
+  "url": "/receta/230/pastelitos",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/le0kalp6zcgjxoulb5ux",
+  "_sourceUrl": "https://bongusto.net/receta/230/pastelitos",
+  "_fetchedAt": "2026-10-12T16:25:21.067Z"
+}

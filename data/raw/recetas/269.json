@@ -1,0 +1,40 @@
+{
+  "id": 269,
+  "titulo": "Mermelada de Batata y Piña",
+  "descripcion": "Las mermeladas son unas de las formas más prácticas de incluir frutas en el menú diario.",
+  "historia": "Las mermeladas son unas de las formas más prácticas de incluir frutas en el menú diario. Con tan sólo variar la fruta, ya le estará dando un nuevo sabor, además de que podrá almacenarla y tenerla lista para cuando la necesite. En esta ocasión se ofrece la receta de una deliciosa mermelada de piña y batata, para que unte en el pan tostado o en las panquecas del desayuno.",
+  "ingredientes": "Rinde aproximadamente 1 litro de mermelada\n- 2-Batatas rosadas, medianas, \n- 1 piña madura grande, no muy y en buen estado. \n- 1 taza 250 mg de azúcar blanca. \n- Jugo de ½ limón grande. \n- 1 cucharadita de vainilla\n- Pizca de Sal\n- para aromatizar: 4-clavos dulces,3 pepitas de guayabitas, 2 palito de canela",
+  "preparacion": "1. Lavar y pelar las batatas, luego cortar en cubos 1x1 centímetro aproximadamente (Nota mientras realizan el corte mantener el resto en agua, porque se oxida).\n2. Llevar a una olla (preferiblemente de acero) cubrir con agua, agregar las especias (Clavos, Guayabita y Canela) montar a fuego alto, hasta que ablande. (textura de papa para pure).\n3. Mientras se ablanda la batata, pelamos la piña y la rallamos por el lado grueso del rallador.\n4. Una vez que se ablande la batata, colamos y reservamos el líquido. Procedemos a triturar para formar un pure sin grumos. (triturar la batata en caliente)\n5. Procedemos a pesar la piña rallada y el peso de esta será lo que usaremos de pure de batata, Ejemplo: en mi caso la piña peso 750 grs, luego pese 750 de pure de batata.\n6. En ½ taza del líquido que reservamos de la cocción de la batata procedemos a elaborar el almíbar, agregándole ½ taza de azúcar. (Reservamos el resto del azúcar)\n7. Cuando el almíbar este en su punto (burbujeando en toda la superficie) incorporamos poco a poco el pure de batata removiendo constantemente con cuchara de madera hasta que se incorpore en una mezcla homogénea, de ser necesario, porque este muy seco, se le agrega más del líquido reservado o agua. Esto tiene que quedar con una consistencia de pure suave.\n8. Incorporamos poco a poco y sin dejar de remover, la piña rallada. Hasta que se incorpore en una mezcla homogénea, de ser necesario, porque este muy seco, se le agrega más del líquido reservado o agua. Removemos hasta que comience a hervir o burbujear.\n9. En lo que hierva se le incorpora la vainilla, el jugo de limón y la pizca de Sal. Seguimos removiendo y probamos, de ser necesario se le incorpora más azúcar de la que tenemos reservada.\n10. Removemos y cuando tenga textura de mermelada suave esta lista, ya que una vez refrigerada se endurece un poco más.\n11. Bajamos del fuego y lista. Dejamos reposar hasta que tenga temperatura ambiente y refrigeramos. \n",
+  "publico": true,
+  "created_at": "2021-04-28T21:09:01.065Z",
+  "updated_at": "2021-04-30T19:04:56.128Z",
+  "photo": {
+    "id": 303,
+    "name": "mermelada de Batata y Piña.png",
+    "hash": "1c4ab5adf2c340ccbbfb526433c22bef",
+    "sha256": "7V43g5S5fivGQxEuqKyDjIAL68I7RPqLCGDN1fjiDEQ",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "428.74",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1619644141/djvvvb57czqqdlnlxljo.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "djvvvb57czqqdlnlxljo",
+      "resource_type": "image"
+    },
+    "created_at": "2021-04-28T21:09:01.926Z",
+    "updated_at": "2021-04-28T21:09:01.926Z"
+  },
+  "categorias": [
+    {
+      "id": 9,
+      "nombre": "Postre",
+      "created_at": "2019-11-07T22:49:20.381Z",
+      "updated_at": "2019-11-07T22:49:20.381Z"
+    }
+  ],
+  "url": "/receta/269/mermelada-de-batata-y-pina",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/djvvvb57czqqdlnlxljo",
+  "_sourceUrl": "https://bongusto.net/receta/269/mermelada-de-batata-y-pina",
+  "_fetchedAt": "2026-10-12T16:24:49.035Z"
+}

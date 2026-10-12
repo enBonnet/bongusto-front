@@ -1,0 +1,40 @@
+{
+  "id": 205,
+  "titulo": "Caraotas Negras",
+  "descripcion": "Las caraotas negras han sido tan populares en todas las clases sociales que han llegado a despertar odios y afectos.",
+  "historia": "Las caraotas negras han sido tan populares en todas las clases sociales que han llegado a despertar odios y afectos. Tiempo atrás las llamaban carolinas (o caviar criollo, en momentos de escasez), y se asociaban sus cualidades alas de las mujeres de color.\n",
+  "ingredientes": "### Ingredientes (para 8 personas) \n- 10 tazas de agua \n- 2 tazas de caraotas negras seleccionadas y lavadas \n- 1 pimentón cortado en juliana \n- 1 cucharadita de sal \n- 3 cucharadas de aceite \n- 1 cebolla grande cortadas en cuadritos \n- 3 ajíes dulces (sin venas ni semillas) cortados en cuadritos \n- 1 cabeza de ajo triturado \n- 1 cucharada de comino\n## Refritas \n- 2 o 3 cucharadas de aceite de maíz \n- Lo que haya sobrado de las caraotas negras cocinadas \n- 2 taza de queso rallado ",
+  "preparacion": "1. En una olla grande, se vierte el agua sobre las caraotas y se dejan remojar por un máximo de \n2. 12 horas y un mínimo de 5 horas. \n3. En la misma olla, se agrega el pimentón y se cocina a fuego medio por hora y media o hasta \n4. que ablanden. Se añade sal. \n5. En una sartén a fuego alto, se sofríen en el aceite la cebolla, los ajíes y el ajo hasta que doren (unos 5 minutos). Se añade el comino y se retira del fuego.\n6. Se añade el sofrito a la olla de caraotas y se baja el fuego. Se deja cocinar otros 10 minutos o hasta que sequen tanto como se desee (según sea sopa o acompañante). Siempre se recomienda dejar un poco de caldo para que queden más gustosas.\n### Refritas Preparación \n1. En una sartén, se vierte el aceite, se agrega la cantidad de caraotas que se desee y se saltean a fuego alto, Se remueven hasta que estén secas y brillantes. \n### Sugerencia \n- Si se prefieren las caraotas un poco dulces, se agrega un poquito de papelón rallado mientras se fríen. Al momento de servir, se puede añadir encima un poco de queso blanco duro rallado.\n",
+  "publico": true,
+  "created_at": "2019-12-07T14:00:53.826Z",
+  "updated_at": "2019-12-07T14:00:53.826Z",
+  "photo": {
+    "id": 239,
+    "name": "Caraotas Negras.png",
+    "hash": "6e12909e92414241bfa6bd8fc1af8165",
+    "sha256": "8CCoPGTCCO9ga1LA9n_vIb1gtDdB9rOIIh2SoHcstho",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "260.72",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1575727253/vieg7hqo2t02rij7qg3p.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "vieg7hqo2t02rij7qg3p",
+      "resource_type": "image"
+    },
+    "created_at": "2019-12-07T14:00:54.263Z",
+    "updated_at": "2019-12-07T14:00:54.263Z"
+  },
+  "categorias": [
+    {
+      "id": 47,
+      "nombre": "Principal",
+      "created_at": "2019-11-20T14:11:58.958Z",
+      "updated_at": "2019-11-20T14:11:58.958Z"
+    }
+  ],
+  "url": "/receta/205/caraotas-negras",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/vieg7hqo2t02rij7qg3p",
+  "_sourceUrl": "https://bongusto.net/receta/205/caraotas-negras",
+  "_fetchedAt": "2026-10-12T16:25:40.870Z"
+}

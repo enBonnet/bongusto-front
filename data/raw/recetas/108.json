@@ -1,0 +1,40 @@
+{
+  "id": 108,
+  "titulo": "Les Babas al Ron",
+  "descripcion": "Es uno de los postres más antiguos des recetas francesas de repostería",
+  "historia": "Es uno de los postres más antiguos des recetas francesas de repostería: A mediados del 1700, el rey de Placo Stanislas Leszczynski, exilado en francia en Nancy en Lorraine, baño en ron un pastel regional y el resultado fue tan bueno que lo llamó como su personaje favorito de las mil y una noches, Ali Baba.",
+  "ingredientes": "### 8 porciones:\nPara la masa: \n- 250 gramos de harina tamizada.\t\n- 1 cucharadita de sal fina.\n- 1 cucharadita de azúcar.\t\t\t\t\n- 12 gramos de levadura fresca.\n- 1 cucharadita de agua.\t\t\t\t\n- 3 huevos grandes.\n- 90 gramos de manteca o mantequilla.\n### Para el almíbar: \n- 250 gramos de azúcar.\t\t\t\n- 50 cl de agua.\n-6 cl de ron.\n### Para la crema Chantilly: \n- 25 cl de crema de leche bien fresca,\n- 30/40 gramos de azúcar impalpable.\t\t\n-1/2 cucharadita de vainilla.\n### Para la presentación: \n- 50 gramos de almendras fileteadas y tostadas.\n- Los moldes de babas clásicos tienen forma de anillo, entre 6/8 cm de diámetro y de 1,5/2 cm de altura. Pueden ser reemplazados por moldes de flancitos o de madalenas, pero deben llenarse con no más una cucharada de masa cada uno, dejando levar.\n",
+  "preparacion": "### La masa: \n- Sobre la mesa, o en un recipiente ancho, mezclar la harina, la sal, el azúcar, y la levadura previamente desmenuzada en una cucharada de agua.\n- Aparte: batir ligeramente los huevos e incorporar a la preparación anterior.\n- Luego, trabajar la masa con las manos hasta que comience a alcanzar elasticidad, pero sin que adquiera temperatura.\n- Se debe obtener una masa de consistencia pegajosa.\n- Incorporar la mantequilla o la manteca ablandada y continuar trabajando la masa enérgicamente con las manos hasta que integren todos los ingredientes y resulte lisa y elástica. \n- Enmantequillar o untar con manteca los moldes de baba. Con la ayuda de dos cucharas, colocar una cucharada de masa en cada uno y dejar que leve durante un mínimo de una hora en un lugar caliente, por ejemplo cerca del horno. \n- Luego, cocinar las babas en el horno precalentado a temperatura fuerte 200 ° durante 15/20 minutos, hasta que estén dorados. Dejarlos enfriar completamente antes de desmolar.\n### El almíbar: \n- En una cacerola, disolver el azúcar en el agua, a fuego suave.\n- Una vez disuelto subir el fuego.\n- Hervir durante 6/8 minutos antes de agregar el ron.\n- Luego, hervir solo unos segundos más retirar del fuego. Sumergir los babas frías en el almíbar caliente, de a dos o tres por vez.\n- Dejarlos allí entre 5 y 8 minutos, para que impregnen bien.\n- Con una espumadera, retíralos con mucho cuidado, ya que estarán más grande y blandas y Colocarlos en una fuente honda.\n- Cuando termine, habrá usado casi la totalidad del almíbar.\n### La crema Chantilly: \n- Colocar la crema fresca previamente refrigerada, el azúcar y la vainilla en un recipiente hondo apto para batir, el de la batidora eléctrica, o uno de acero inoxidable, preferentemente, cuidando que esté bien limpio y seco.\n- Batir hasta que la crema esté firme, es decir hasta que se marquen huellas en la superficie y, al levantar la batidora, se formen puntas. \n- No batir de más, ya que se puede separar o cortar.\n- Luego, rellenar una manga o dulla y decorar las babas a gusto. Se puede terminar con almendras fileteadas y tostadas o bien con frutas rojas.",
+  "publico": true,
+  "created_at": "2019-11-12T23:49:43.319Z",
+  "updated_at": "2019-11-12T23:49:43.319Z",
+  "photo": {
+    "id": 115,
+    "name": "Les Babas al Ron.png",
+    "hash": "c0e75ddfe8ca4abea44fe385c7769bfe",
+    "sha256": "9xnMY0uh4ENADI97NTuqrP3WpshYurJSFDpgXvYr22Y",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "294.79",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1573602583/nhfobv3jtbhwoosaqykp.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "nhfobv3jtbhwoosaqykp",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-12T23:49:43.751Z",
+    "updated_at": "2019-11-12T23:49:43.751Z"
+  },
+  "categorias": [
+    {
+      "id": 9,
+      "nombre": "Postre",
+      "created_at": "2019-11-07T22:49:20.381Z",
+      "updated_at": "2019-11-07T22:49:20.381Z"
+    }
+  ],
+  "url": "/receta/108/les-babas-al-ron",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/nhfobv3jtbhwoosaqykp",
+  "_sourceUrl": "https://bongusto.net/receta/108/les-babas-al-ron",
+  "_fetchedAt": "2026-10-12T16:26:59.925Z"
+}

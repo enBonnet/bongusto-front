@@ -1,0 +1,40 @@
+{
+  "id": 119,
+  "titulo": "Paris –Brest Relleno De Crema Pastelera",
+  "descripcion": "El Paris-Brest es una corona de masa igual a la confeccionada para hacer los profiteroles, está rellena de crema de manteca y café o praliné. ",
+  "historia": "En 1981 se realizó una carrera de ciclismo entre las ciudades de Paris y Brest (ciudad ubicada en una punta de la Bretaña Francesa) y constaba de 1.200km. Cuando tuvo lugar la competición, un pastelero aficionado a las bicicletas y el ciclismo elaboró en honor a la carrera un pastel para la ocasión. Hay quien dice que la forma redonda es un homenaje a la rueda de bicicleta (por eso el pastel es en forma de circulo con el centro vacío) otros dicen que expresa el “ir y volver” de las dos ciudades francesas.",
+  "ingredientes": "### De 6 a 8 porciones:\n### Masa choux:\n### Ingredientes:\n- 150g de harina\t\n- 100 ml de agua\t\n- 125ml de leche\t\n- 3-4 huevos\n- 90g de margarina\t\n- 1 pizca de sal\t\n- 10g de azúcar (1 cucharada sopera rasa)\n### Crema Pastelera:\n### Ingredientes\t\n- 12 cucharadas fécula de Maíz.\t\t\n- 1 taza azúcar\n- 2 taza leche\n- 2 huevo\t\t\t\t\n- 1 cucharita de Vainilla",
+  "preparacion": "### PreparaciónMasa choux :\n- 1º)  Ponemos en una olla el agua, la leche, la sal, el azúcar y la mantequilla al fuego hasta que se derrita la mantequilla y rompa a hervir.\n- 2º) Cuando la leche empiece a hervir le agregamos toda la harina de golpe y removemos para que no haga grumos, la sacamos del fuego. Estará muy dura pero hay que moverla enérgicamente hasta que se despegue de las paredes de la olla.\n- 3º) Dejamos enfriar 10 minutos, hasta que esté templada, y le vamos añadiendo los huevos 1 a 1, un poco batidos y mezclamos bien. No añadiremos el siguiente huevo hasta que el anterior esté bien integrado. La masa dará la impresión que se ha cortado, pero seguimos moviendo y se unificará.\n- Igual no hay que ponerle todos los huevos, después de 2º le iremos poniendo el siguiente poco a poco... la masa estará en su punto cuando la levantarla con una espátula se forma un \"pico de pato\"\n- La ponemos en una manga pastelera y hacemos los dulces que más nos gusten.\n- Se hornea con el horno precalentado a 180ºC durante 15 minutos aproximadamente. Pasado ese tiempo se apaga el horno y se dejan enfriar dentro otros 10 minutos para que se sequen, con la puerta entreabierta.\n- Dejamos enfriar y rellenamos con nata montada, crema chantillí o crema pastelera. Coronadas con caramelo casero, azúcar glas o chocolate.\n### Pasos Para la Crema Pastelera:\t\n- Batir el azúcar con el huevo hasta lograr que quede cremoso y lentamente sin dejar de batir agregamos la fécula para que no se formen grumos hacerlo despacio batiendo hasta integrarla.\n- Poner la leche al fuego y cuando este por romper en hervor agregamos la mezcla ya batida y revolvemos mientras la volcamos.\n- Revolvemos hasta formar la crema entre espesa y no tanto...retiramos dejamos reposar y lista.\n### Decoración:\n- caramelo casero\t\t\n- azúcar glas\t\t\n- almendra laminada o en trocitos\n- chocolate negro",
+  "publico": true,
+  "created_at": "2019-11-20T15:38:22.583Z",
+  "updated_at": "2019-11-20T15:38:22.583Z",
+  "photo": {
+    "id": 126,
+    "name": "Paris –Brest.png",
+    "hash": "740955a10be545fa987e53fdb0c7de40",
+    "sha256": "dLJYmMGbiTOmJFdav8YI0VvO19Mn9LoeKySWGEzTYs8",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "210.55",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1574264302/urwbnnbgeyzpstoeolwx.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "urwbnnbgeyzpstoeolwx",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-20T15:38:22.987Z",
+    "updated_at": "2019-11-20T15:38:22.987Z"
+  },
+  "categorias": [
+    {
+      "id": 9,
+      "nombre": "Postre",
+      "created_at": "2019-11-07T22:49:20.381Z",
+      "updated_at": "2019-11-07T22:49:20.381Z"
+    }
+  ],
+  "url": "/receta/119/paris-brest-relleno-de-crema-pastelera",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/urwbnnbgeyzpstoeolwx",
+  "_sourceUrl": "https://bongusto.net/receta/119/paris-brest-relleno-de-crema-pastelera",
+  "_fetchedAt": "2026-10-12T16:26:50.939Z"
+}

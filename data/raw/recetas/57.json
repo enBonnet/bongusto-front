@@ -1,0 +1,40 @@
+{
+  "id": 57,
+  "titulo": "Tortilla de Maiz",
+  "descripcion": "Una tortilla de maíz es un alimento hecho con maíz nixtamalizado de forma circular y aplanado. Es una preparación de origen precolombino.",
+  "historia": "El origen de la tortilla en Mesoamérica se remonta antes del año 500 a. C. Por ejemplo, en la región de Oaxaca se tienen evidencias de que la tortilla empezó a utilizarse al final de la Etapa de Villas (1500 a 500 a. C.), se sabe esto porque las planchas de arcilla utilizadas para su cocimiento aparecieron en ese entonces.\nLas civilizaciones precolombinas de Mesoamérica usaban el maíz como su alimento base al igual que la sociedad moderna de esta misma región.\nLas primeras crónicas de Indias, describen a la tortilla mesoamericana como pan de maíz, incluso la primera traducción al español en la crónica de Francisco López de Gómara del nombre de la ciudad de \"Tlaxcala\" fue usada como: ..\"Tlaxcallan, quiere decir pan cocido o casa de pan; pues se coge allí más centli que por los alrededores\".",
+  "ingredientes": "### 8 Tortillas:\n- 2 tazas de harina de maíz (Maseca o PAN)\t\t\t\n- ½ cucharadita de sal\n- 3 cucharadas de maicena\t\t\t\t\n- 1 taza de agua más o menos\n",
+  "preparacion": "- Mezcle todos los ingredientes hasta formar una masa que debe quedar un poco seca. \n- Forme bolitas y adelgácelas con rodillo entre dos plásticos hasta que queden bien finas y redondeadas. \n- Cocínelas en un budare bien caliente, 30 segundos por cada lado. \n",
+  "publico": true,
+  "created_at": "2019-11-09T23:27:47.652Z",
+  "updated_at": "2021-09-12T13:34:19.991Z",
+  "photo": {
+    "id": 170,
+    "name": "Tortilla de Maiz.png",
+    "hash": "b02bbe78276a49e8a13276e4f3ff7d8e",
+    "sha256": "zxTZMPFVGqzhQP0he5NXt5GBO0fpKcwdYFMpmo_L9sU",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "63.10",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1574524230/qt39b7qmungjaqpudshp.jpg",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "qt39b7qmungjaqpudshp",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-23T15:50:31.060Z",
+    "updated_at": "2019-11-23T15:50:31.060Z"
+  },
+  "categorias": [
+    {
+      "id": 7,
+      "nombre": "Guarnición",
+      "created_at": "2019-11-07T21:25:47.915Z",
+      "updated_at": "2019-11-07T21:25:47.915Z"
+    }
+  ],
+  "url": "/receta/57/tortilla-de-maiz",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/qt39b7qmungjaqpudshp",
+  "_sourceUrl": "https://bongusto.net/receta/57/tortilla-de-maiz",
+  "_fetchedAt": "2026-10-12T16:27:40.817Z"
+}

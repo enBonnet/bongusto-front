@@ -1,0 +1,40 @@
+{
+  "id": 75,
+  "titulo": "Bandeja Paisa Colombiana",
+  "descripcion": "Característica fundamental de este plato es su enorme abundancia, tanto en cantidad como en variedad de alimentos.\n\n",
+  "historia": "La bandeja paisa es un plato herbolario conocido también como bandeja de arriero o bandeja montañera, típico de la Cocina antioqueña, correspondiente a los actuales departamentos de Antioquia, el Viejo Caldas o Eje Cafetero (Caldas, Quindío y Risaralda), parte del norte del Valle del Cauca y el norte del Tolima en Colombia.\n\nCaracterística fundamental de este plato es su enorme abundancia, tanto en cantidad como en variedad de alimentos, de tal modo que, la bandeja paisa completa solo cabe servirla en platos grandes llamados bandejas.\n\n\nEn su forma y composición actual, es un plato de desarrollo reciente: no aparecen referencias en los libros de cocina anteriores a 1950 ni en otros documentos anteriores a esa fecha. Es probablemente una evolución comercial, desarrollada en los restaurantes antioqueños de Medellín, Bogotá y otros sitios de Colombia, del tradicional \"seco\" antioqueño, compuesto por arroz, frijol, carne, algo de frito y plátano, y acompañado por arepa. También puede haber evolucionado a partir de otro plato de común usanza en la región, inclusive hoy, conocido ampliamente como \"Típico Montañero\" o simplemente \"Típico\".",
+  "ingredientes": "### 6 porciones:\n- * 3 tazas de frijoles cargamanto\t\t\t\n- * Sal, pimienta y cominos al gusto\n- * ½ kilo de pezuña cerdo cortada\t\t\t\n- * 1 kilo de carne molida\n- * 2 plátanos verdes en pedacitos\t\t\t\n- * 1 cucharada de cilantro picado\n- * 1 litro de fondo de ave o carne\t\t\t\n- * 4 dientes de ajo picado\n- * 1 zanahoria picada\t\t\t\t\t\n- * 8 cucharadas de aceite\n- * 2 kilos de tomate rojo picado\t\t\t\n- * 6 tallos de cebollín\n- * ½ kilo de cebolla rallada\t\t\t\t\n- * Aguacate maduro.\n- ",
+  "preparacion": "### Preparaciones previas:\n- Arroz blanco preparado (3 tazas) \t\t\t\n- ½ kilo de chicarrón (con carne)\n- Tajadas (3 plátanos maduros) \t\t\t\n- ½ kilo de chorizo asados\n- Huevos fritos\tnecesarias\t\t\t\t\n- 1 Aguacate en tajadas\n- Arepas necesarias\n### Preparación:\n- 1. La víspera, remoje los frijoles en agua que los cubra.\n- 2 En la misma agua ponerlos a cocinar en la olla de presión a fuego medio con la pezuña, la zanahoria, ½ litro de fondo, los plátanos picados. Cuando pite la olla reduzca el fuego 30 minutos.\n- 3. Pasados los 30 minutos, añada un guiso preparado con la mitad de los tomates y la cebolla larga picada y sazone al gusto. Dejar conservar destapado hasta lograr la consistencia deseada.\n### Preparación de la carne:\n- 1. Sofreír en aceite el tomate, la cebolla y los dientes de ajo machacados.\n- 2. Añadir la carne y un poquito de agua. Revolver bien hasta que la carne dore. Salpimentar\n### Observaciones:\n- Servir los frijoles y la carne con arroz blanco, chicharrón, chorizo, tajadas de plátano maduro, huevo frito, aguacate y arepa.\n",
+  "publico": true,
+  "created_at": "2019-11-10T23:06:26.427Z",
+  "updated_at": "2019-11-10T23:06:26.427Z",
+  "photo": {
+    "id": 182,
+    "name": "Bandeja Paisa.png",
+    "hash": "5026c4c72cc04e10bd502689d819f297",
+    "sha256": "IsQPaQtF1FjLZDHsE1br8VdAmwEv7YGRRlWTw8CiYkc",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "240.40",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1574539985/atp7ravu7c0mk5unc7mc.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "atp7ravu7c0mk5unc7mc",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-23T20:13:05.427Z",
+    "updated_at": "2019-11-23T20:13:05.427Z"
+  },
+  "categorias": [
+    {
+      "id": 47,
+      "nombre": "Principal",
+      "created_at": "2019-11-20T14:11:58.958Z",
+      "updated_at": "2019-11-20T14:11:58.958Z"
+    }
+  ],
+  "url": "/receta/75/bandeja-paisa-colombiana",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/atp7ravu7c0mk5unc7mc",
+  "_sourceUrl": "https://bongusto.net/receta/75/bandeja-paisa-colombiana",
+  "_fetchedAt": "2026-10-12T16:27:26.595Z"
+}

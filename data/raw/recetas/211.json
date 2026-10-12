@@ -1,0 +1,40 @@
+{
+  "id": 211,
+  "titulo": "Arroz Blanco",
+  "descripcion": "Suave, firme y suelto, el arroz blanco es contorno más popular en el país.",
+  "historia": "Suave, firme y suelto, el arroz blanco es contorno más popular en el país. Gracias a su sabor neutro y su fácil combinación con salsas, resulta siempre un buen acompañante para todo tipo de carnes y vegetales.",
+  "ingredientes": "### Ingredientes (para 6 porciones) \n- 4 tazas de agua \n- 1 cucharadita de sal \n- 2 cucharaditas de aceite de maíz \n- 2 dientes de ajo picaditos \n- 1 cebolla mediana cortada en dos \n- ¼ de pimentón rojo en julianas \n- ¼ de pimentón verde en julianas \n- 2 tazas de arroz ",
+  "preparacion": "1. En una olla se colocan el agua, la sal, el aceite, el ajo, la cebolla y las tiras de pimentón. Se calienta a fuego alto y sin tapar hasta que hierva. Se introduce el arroz, se revuelve y se deja cocinar por unos 5 0 7 minutos, hasta que casi se evapore el agua.\n2. Se baja el fuego y se tapa la olla. Se cocina durante 15 minutos, hasta que el arroz esté blando, seco y suelto. \n3. Se retira del fuego y se le sacan los aliños. \n### Opcional \n- Otra forma de preparación es la siguiente: se sofríe el arroz con los aliños a fuego alto y se añade el agua. Se calienta hasta que el líquido empiece a burbujear en la superficie. Se baja el fuego y se deja cocinar hasta que se complete la evaporación del agua. \n### Confidencias de la preparación \n- Para que el arroz quede perfecto, suelto y blanco, es recomendable, aparte de lograr el punto de cocción exacto, agregarle un chorrito de jugo de limón o de vinagre blanco. \n- Al igual que la pasta, un arroz bien cocido debe estar tierno por fuera, pero por dentro, debe ofrecer cierta resistencia al diente. \n- El arroz siempre debe cocerse sin tapar la olla hasta último momento, y de revolverse, debe hacerse con un tenedor (nunca con una cuchara por qué se aglomera).",
+  "publico": true,
+  "created_at": "2019-12-07T14:22:50.443Z",
+  "updated_at": "2019-12-07T14:22:50.443Z",
+  "photo": {
+    "id": 245,
+    "name": "Arroz Blanco.png",
+    "hash": "c84ae6958fb04ffb84258dc698916e01",
+    "sha256": "ntOtQBtv6i0PN819Dp3qXes0-_9n6C8szplXsJ4r7A8",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "216.08",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1575728570/qg9xovd0jwwnzea1r869.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "qg9xovd0jwwnzea1r869",
+      "resource_type": "image"
+    },
+    "created_at": "2019-12-07T14:22:51.491Z",
+    "updated_at": "2019-12-07T14:22:51.491Z"
+  },
+  "categorias": [
+    {
+      "id": 7,
+      "nombre": "Guarnición",
+      "created_at": "2019-11-07T21:25:47.915Z",
+      "updated_at": "2019-11-07T21:25:47.915Z"
+    }
+  ],
+  "url": "/receta/211/arroz-blanco",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/qg9xovd0jwwnzea1r869",
+  "_sourceUrl": "https://bongusto.net/receta/211/arroz-blanco",
+  "_fetchedAt": "2026-10-12T16:25:35.943Z"
+}

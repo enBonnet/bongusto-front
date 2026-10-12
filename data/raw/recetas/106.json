@@ -1,0 +1,40 @@
+{
+  "id": 106,
+  "titulo": "Huevos en Aspicc",
+  "descripcion": "El Áspic se podría definir como una gelatina moldeada hecha a partir de un caldo que guarda en su interior distintos alimentos",
+  "historia": "Se cree que los primeros áspic se prepararon en tierras inglesas en épocas medievales, cuando se producía un tipo de jaleas a base de productos cárnicos y pescados. El proceso comenzaba con un consomé al cual, si era de carne, se le agregaba una pezuña de ternera para poder darle la textura gelatinosa, mientras que al de pescado al ser más delicado se le agregaban los huesos del animal.",
+  "ingredientes": "### Insumos: (6 personas)\n- 3 huevos \t\t\t\t \t\t \n- 100 gramos de gelatina sin sabor\t\n- 1 (Shop) de jerez o brandy\n- Lechuga romana\n- Perejil\n- 150 g de jamón en cubos\n",
+  "preparacion": "- Cocer los huevos, enfriar y partirlos en dos. Reservar. \n- Disolver  la gelatina en 2 ½ tazas de agua hirviendo, cuando este bien disuelta agregar 2 ½ tazas de agua fría y  el jerez o brandy, mezclar bien. \n- Rellenar 6 moldes con la gelatina hasta un tercio de su capacidad y dejar enfriar hasta que cuaje. Colocar en cada molde una ramita de perejil, medio huevo y unos cubos de jamón. Cubrir con la gelatina sobrante y dejar enfriar en la nevera durante 4 horas.\n- Servir sobre una cama de lechuga romana en chifonada.\n- Nota: Es importante que la brigada lleve los huevos en áspic, elaborados, por cuanto necesita frio la receta y en clase explicamos con los insumos las técnicas, cortes y preparación.\n",
+  "publico": true,
+  "created_at": "2019-11-12T23:28:00.908Z",
+  "updated_at": "2019-11-12T23:28:00.908Z",
+  "photo": {
+    "id": 113,
+    "name": "Huevos en A.png",
+    "hash": "106ebaf74b5c49d6a719431892a51f0f",
+    "sha256": "8PHfNzBSMBrMrPZftWBh9U8FBQxwKsnyNnQm_lf766g",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "286.87",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1573601281/fcho8swvaklnq0xsz7tt.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "fcho8swvaklnq0xsz7tt",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-12T23:28:01.489Z",
+    "updated_at": "2019-11-12T23:28:01.489Z"
+  },
+  "categorias": [
+    {
+      "id": 6,
+      "nombre": "Entrada",
+      "created_at": "2019-11-07T21:23:25.610Z",
+      "updated_at": "2019-11-07T21:23:25.610Z"
+    }
+  ],
+  "url": "/receta/106/huevos-en-aspicc",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/fcho8swvaklnq0xsz7tt",
+  "_sourceUrl": "https://bongusto.net/receta/106/huevos-en-aspicc",
+  "_fetchedAt": "2026-10-12T16:27:01.449Z"
+}

@@ -1,0 +1,40 @@
+{
+  "id": 201,
+  "titulo": "Caldo de Pichón de Paloma",
+  "descripcion": "La sopa pichón de paloma no sólo es nutritivo, y hay algunos beneficios para la salud, puede prevenir una variedad de enfermedades.",
+  "historia": "La sopa pichón de paloma no sólo es nutritivo, y hay algunos beneficios para la salud, puede prevenir una variedad de enfermedades .El valor nutritivo de la paloma es relativamente alta, tiene beneficios para tratar la gripe, aumentar la inmunidad, aumentar la lactancia materna.",
+  "ingredientes": "### Ingredientes (para 2 tazas) \n- 2 pichones machos que todavía no tengan plumas \n- Sal C/N \n- El jugo de 1 limón \n- 1 litro de agua \n- 1 rama de cilantro \n- 1 rama de apio españa \n- 1 ramita de cebollín",
+  "preparacion": "1. Se abren y se limpian bien los pichones con sal y limón, luego se enjuagan. \n2. Se hierven en una olla grande con el 1 litro de agua y un poco de sal, durante 15 minutos.  \n3. Se agrega el cilantro, el apio españa y la cebolla y se hierve otros 10 minutos. \n4. Se retira del fuego y secuela. \nNOTA: Si se quiere servir como sopa (en lugar de utilizarlo como base), se pueden agregar 2 huevos de paloma al caldo, e incluso una tortilla de huevos en trocitos.\n",
+  "publico": true,
+  "created_at": "2019-12-07T13:40:27.743Z",
+  "updated_at": "2019-12-07T13:40:27.743Z",
+  "photo": {
+    "id": 235,
+    "name": "Caldo de Pichon de Paloma.png",
+    "hash": "b7f98bc990004f62bcfff1c56a97159f",
+    "sha256": "EcNbVMPJ6bEMFdXGQ3ivXwHctR7egDApbRpc4Wh1W18",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "267.73",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1575726027/qcy6wm9atltsjlvx1qsq.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "qcy6wm9atltsjlvx1qsq",
+      "resource_type": "image"
+    },
+    "created_at": "2019-12-07T13:40:29.168Z",
+    "updated_at": "2019-12-07T13:40:29.168Z"
+  },
+  "categorias": [
+    {
+      "id": 6,
+      "nombre": "Entrada",
+      "created_at": "2019-11-07T21:23:25.610Z",
+      "updated_at": "2019-11-07T21:23:25.610Z"
+    }
+  ],
+  "url": "/receta/201/caldo-de-pichon-de-paloma",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/qcy6wm9atltsjlvx1qsq",
+  "_sourceUrl": "https://bongusto.net/receta/201/caldo-de-pichon-de-paloma",
+  "_fetchedAt": "2026-10-12T16:25:44.096Z"
+}

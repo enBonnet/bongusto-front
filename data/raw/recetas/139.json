@@ -1,0 +1,40 @@
+{
+  "id": 139,
+  "titulo": "Batido de Yogur y Piña",
+  "descripcion": "Exquisita bebida refrescante ideal en épocas calurosas y muy nutritiva y digestiva ",
+  "historia": "No hay un origen específico para esta bebida lo que si se tiene certeza es que se consume en todo el medio oriente",
+  "ingredientes": "### 2 Porciones:\n- 2\tyogures naturales dulces, \t\t\n- Menta o Yerba Buena al Gusto\n- ½ piña en Cubos.",
+  "preparacion": "1. Poner el yogur en una batidora, luego agregarle la piña y hojas de menta al gusto.\n2. Procesar varios minutos hasta lograr una consistencia casi cremosa.\n3. Servir frio decorado con hojas de menta.",
+  "publico": true,
+  "created_at": "2019-11-21T16:34:36.432Z",
+  "updated_at": "2019-11-21T16:34:36.432Z",
+  "photo": {
+    "id": 146,
+    "name": "Batido de Yogur con piña.png",
+    "hash": "e6322ae3fa4845f1bae267d953e0efb4",
+    "sha256": "ZZtnjB4kmvMJqM0FNZPfifIIjmTxSCtmPE8prEq9hLE",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "140.41",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1574354076/r2cvzhbg576pnxyc1svs.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "r2cvzhbg576pnxyc1svs",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-21T16:34:36.837Z",
+    "updated_at": "2019-11-21T16:34:36.837Z"
+  },
+  "categorias": [
+    {
+      "id": 43,
+      "nombre": "Maridaje ",
+      "created_at": "2019-11-09T20:57:22.945Z",
+      "updated_at": "2019-11-09T20:57:22.945Z"
+    }
+  ],
+  "url": "/receta/139/batido-de-yogur-y-pina",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/r2cvzhbg576pnxyc1svs",
+  "_sourceUrl": "https://bongusto.net/receta/139/batido-de-yogur-y-pina",
+  "_fetchedAt": "2026-10-12T16:26:35.021Z"
+}

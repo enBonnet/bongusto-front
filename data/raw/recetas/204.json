@@ -1,0 +1,40 @@
+{
+  "id": 204,
+  "titulo": "Aceite Onotado",
+  "descripcion": "El aceite teñido con las rojizas semillas del onoto resulta un colorante natural\n",
+  "historia": "El aceite teñido con las rojizas semillas del onoto resulta un colorante natural perfecto para \ntodas las preparaciones en las que se desee un tinte que puede ir desde amarillo claro o \nanaranjado, hasta rojo intenso.\n",
+  "ingredientes": "### Ingredientes (para 1 taza) \n- 1 taza de aceite de maíz \n- 1 ½ cucharadas de semillas de onoto",
+  "preparacion": "1. En una olla o caldero se calienta a fuego alto el aceite de maíz con el onoto. \n2. Se deja cocinar sin que hierva, unos 5 minutos, removiendo de vez en cuando con una cuchara. Se apaga en el momento en que el aceite empieza a burbujear (se reconoce porque se tiñe rápidamente). Es muy importante no dejarlo quemar, para que no se ponga amargo. \n3. Se pasa el aceite por un colador de alambre para separarlo de las semillas.",
+  "publico": true,
+  "created_at": "2019-12-07T13:55:28.568Z",
+  "updated_at": "2019-12-07T13:55:28.568Z",
+  "photo": {
+    "id": 238,
+    "name": "Aceite Onotado.png",
+    "hash": "3eb5ea32b15646609fdde7a881b91855",
+    "sha256": "vGlmmfE6j5Pdqy_9ln-cBFAZhrt4XlsbI4dF2EwMJBA",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "173.05",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1575726928/siqh1m8ovnfkihremikc.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "siqh1m8ovnfkihremikc",
+      "resource_type": "image"
+    },
+    "created_at": "2019-12-07T13:55:29.038Z",
+    "updated_at": "2019-12-07T13:55:29.038Z"
+  },
+  "categorias": [
+    {
+      "id": 42,
+      "nombre": "Salsa",
+      "created_at": "2019-11-09T19:51:40.254Z",
+      "updated_at": "2019-11-09T19:51:40.254Z"
+    }
+  ],
+  "url": "/receta/204/aceite-onotado",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/siqh1m8ovnfkihremikc",
+  "_sourceUrl": "https://bongusto.net/receta/204/aceite-onotado",
+  "_fetchedAt": "2026-10-12T16:25:41.646Z"
+}

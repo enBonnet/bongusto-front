@@ -1,0 +1,40 @@
+{
+  "id": 311,
+  "titulo": "Daiquiri Frozzen Limón",
+  "descripcion": "Otro clásico Cubano por excelencia",
+  "historia": "Cuenta la historia más extendida sobre la creación del Daiquiri que el cóctel fue creación de un ingeniero estadounidense, de nombre Jennings Cox, que trabajaba en una mina próxima a la playa de Daiquiri, junto a Santiago de Cuba.\nCorría el año 1896 cuando Cox recibió la visita de unos amigos y, al ver que se había quedado sin ginebra, que es lo que solía beber, recurrió a una botella de ron local y mezcló la bebida con zumo de las limas de un árbol que tenía en el jardín.",
+  "ingredientes": "- Copa Margarita\n- ron blanco\n- jugo de limón\n- jarabe de goma\n- Hielo Picado\n- **Decoración: **\n- Rueda de limón",
+  "preparacion": "- En el vaso de la licuadora, agregar:\n- 1 ½ onza de ron blanco\n- 2 onzas de jugo de limón\n- 1 ½ onza de jarabe de goma\n- La cantidad de hielo a ser usado, es la misma capacidad de la copa a ser usada. \n- Agregar el hielo lentamente, mientras se estan procesando los ingredientes y cuando ya tenga la consistencia de frozzen dejar de agregar hielo.\n- Servir y decorar con rueda de limón.",
+  "publico": true,
+  "created_at": "2021-11-05T14:12:36.681Z",
+  "updated_at": "2021-11-05T14:12:36.681Z",
+  "photo": {
+    "id": 355,
+    "name": "Daiquiri Frozzen.png",
+    "hash": "b356dad1b502458db5ae3df57ba1a48b",
+    "sha256": "yYZCwdGC17sOWQvIjh2QOUt04Me10swVIAIw_QBh69M",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "93.80",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1636121556/ubevm7w4nvwlrcqrdebw.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "ubevm7w4nvwlrcqrdebw",
+      "resource_type": "image"
+    },
+    "created_at": "2021-11-05T14:12:37.240Z",
+    "updated_at": "2021-11-05T14:12:37.240Z"
+  },
+  "categorias": [
+    {
+      "id": 43,
+      "nombre": "Maridaje ",
+      "created_at": "2019-11-09T20:57:22.945Z",
+      "updated_at": "2019-11-09T20:57:22.945Z"
+    }
+  ],
+  "url": "/receta/311/daiquiri-frozzen-limon",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/ubevm7w4nvwlrcqrdebw",
+  "_sourceUrl": "https://bongusto.net/receta/311/daiquiri-frozzen-limon",
+  "_fetchedAt": "2026-10-12T16:24:14.222Z"
+}

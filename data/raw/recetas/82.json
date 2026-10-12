@@ -1,0 +1,40 @@
+{
+  "id": 82,
+  "titulo": "Matambre a la Criolla Argentina",
+  "descripcion": "El matambre proviene de las palabras matar y hambre, es un plato popular en argentina y se prepara con carne de entre el cuero y las costillas",
+  "historia": "La palabra matambre, es una composición que viene de la unión de dos términos matar y hambre. Su origen remonta al 1800 cuando Argentina abastecía a Europa de carne vacuna y se solía pagar los faenadores con este tipo de cortes que saciaban su apetito, o mataban el hambre luego de la ardua faena.",
+  "ingredientes": "### 8 Raciones:\n- 2 kgs de falda preparada por un carnicero (rectángulo) \t\n- 2 hojas de laurel\n- 2 limones\t\t\t\t\t\t\t\n- 2 lts de fondo\n- Sal y pimienta c/n\t\t\t\t\t\t\n- 1 cdta de nuez moscada\n- 300 grs. Lomo de cerdo\t\t\t\t\t\n- 6 huevos (dos cocidos)\n- 300 grs de carne \t\t\t\t\t\t\n- 1 taza de queso rallado\n- 2 manojos de espinaca\t\t\t\t\t\n- 200 grs de jamón entero\n- 50 grs de margarina\t\t\t\t\t\t\n- 2 cebollas\n- ½ taza de pan remojado en leche y exprimido",
+  "preparacion": "Limpiar bien el matahambre quitándole la grasa extender y rociar con jugo de limón, salpimentar y reservar en nevera, aparte cortar las carnes de cerdo y res y pasar por el pica todo, luego lavar las espinacas y cocinar con sal, cuando ablanden cortar la cocción con agua fría y exprimir y cortar, aparte cortar la cebolla en pluma y rehogar en margarina, cortar el jamón en cubos, mezclar la espinaca la cebolla rehogada, las carnes, el jamón y la miga de pan y queso rallado, agregue los huevos y sazone al gusto con sal pimienta y nuez moscada. Luego doble la falda y cosa hasta hacer una bolsa, introduzca el relleno y los huevos duros cosa y envuelva en una tela de algodón la pieza y cocine por dos horas, al estar listo prensar para sacar los líquidos refrigerar y cortar.",
+  "publico": true,
+  "created_at": "2019-11-11T21:05:43.794Z",
+  "updated_at": "2019-11-11T21:05:43.794Z",
+  "photo": {
+    "id": 159,
+    "name": "Matahambre.png",
+    "hash": "2d5eaca06db64a528b087a341a92824b",
+    "sha256": "oYHgQknFqVbdwefal2eJHSyn94u5onVvSJH9JpxWY0Y",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "74.41",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1574513108/khsjyrd9xvs2ic68wbwz.jpg",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "khsjyrd9xvs2ic68wbwz",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-23T12:45:09.187Z",
+    "updated_at": "2019-11-23T12:45:09.187Z"
+  },
+  "categorias": [
+    {
+      "id": 6,
+      "nombre": "Entrada",
+      "created_at": "2019-11-07T21:23:25.610Z",
+      "updated_at": "2019-11-07T21:23:25.610Z"
+    }
+  ],
+  "url": "/receta/82/matambre-a-la-criolla-argentina",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/khsjyrd9xvs2ic68wbwz",
+  "_sourceUrl": "https://bongusto.net/receta/82/matambre-a-la-criolla-argentina",
+  "_fetchedAt": "2026-10-12T16:27:20.964Z"
+}

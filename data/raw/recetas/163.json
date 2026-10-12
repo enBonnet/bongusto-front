@@ -1,0 +1,40 @@
+{
+  "id": 163,
+  "titulo": "Alitas de Pollo Barbecueve",
+  "descripcion": "Las buffalo wings se denominan así a causa de su ciudad de origen: Buffalo, Nueva York.",
+  "historia": "La teoría más aceptada es que las alitas Búfalo, fueron creadas por Teressa Bellissimo, dueña del restaurante Anchor Bar, en la ciudad de Búfalo. Para preparar su salsa de spaghetti, el restaurante utilizaba cuellos de pollo, pero un día, en 1964, recibieron un pedido erróneo donde en lugar de cuellos les entregaron alitas. Para no desperdiciar, los dueños decidieron inventar un aperitivo.\nTeressa cortó cada alita en dos partes, para que los clientes lo pudieran comer con las manos. Después las frió, sin empanizar, y las cubrió con una salsa picante. Decidió servirlas acompañadas de apio y de aderezo de queso azul. Y así fue como nacieron las alitas que conocemos en la actualidad.",
+  "ingredientes": "### 4 raciones\n- 16 alitas\t\t\t\t\t\n- 1 cerveza pequeña\n- 1 cda paprika\t\t\t\t\t\n- Salsa BBQ\n- 1 cda sal de ajo\t\t\t\t\n- 1 cda pimienta negra\n",
+  "preparacion": "1. Mezclamos todas las especies con la cerveza.\n2. Marinamos las alitas con la mezcla y metemos al refrigerador por 1 hora.\n3. Ponemos las alitas sobre papel aluminio y metemos al horno por 20 minutos a 180°.    Sacamos las alitas y las bañamos en salsa BBQ y las volvemos a introducir al horno por 15 minutos más.\n4. Las sacamos y les agregamos un poco más de salsa BBQ.     Listo!!!",
+  "publico": true,
+  "created_at": "2019-11-23T23:15:12.836Z",
+  "updated_at": "2019-11-23T23:15:12.836Z",
+  "photo": {
+    "id": 195,
+    "name": "Alitas de Pollo Barbecueve.png",
+    "hash": "19567177a8404dde8bbcb958094f0e90",
+    "sha256": "p3sfFEZrzVY51Nle3wUJ1LWx-z6t3QNU092024_s-l8",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "127.26",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1574550913/gm03ckkcqnnopupqunl4.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "gm03ckkcqnnopupqunl4",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-23T23:15:13.287Z",
+    "updated_at": "2019-11-23T23:15:13.287Z"
+  },
+  "categorias": [
+    {
+      "id": 49,
+      "nombre": "Pasa Palo",
+      "created_at": "2019-12-07T22:49:13.689Z",
+      "updated_at": "2019-12-07T22:49:13.689Z"
+    }
+  ],
+  "url": "/receta/163/alitas-de-pollo-barbecueve",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/gm03ckkcqnnopupqunl4",
+  "_sourceUrl": "https://bongusto.net/receta/163/alitas-de-pollo-barbecueve",
+  "_fetchedAt": "2026-10-12T16:26:15.573Z"
+}

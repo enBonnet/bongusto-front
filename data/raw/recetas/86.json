@@ -1,0 +1,33 @@
+{
+  "id": 86,
+  "titulo": "Sudado De Ternera Peruano",
+  "descripcion": "Nada más fácil y exquisito que un buen Sudado de Carne.",
+  "historia": "Este Sudado de Carne Res es un plato muy popular en Perú, es muy fácil de hacer y delicioso cuando se sirve sobre arroz blanco con aguacate. Creo que en todos los hogares de Perú hacen un plato sudado por lo menos una vez a la semana. Los Sudados también se pueden hacer con carne de cerdo, pescado, mariscos o pollo.",
+  "ingredientes": "### (6 porciones)\n- 1 kilo de filete de ternera\t\t\t\n- Sal y pimienta al gusto.\n- 3 tomates rojos\t\t\t\t\n- 2 cucharadas de aceite\n- 1 cebolla tierna\t\t\t\t\n- 2 cucharadas de mantequilla (opcional)\n- 4 dientes de ajo\t\t\t\t\n- 1 taza de guisantes hervidos\n- 2 cucharadas de paste de ají amarillo\t\t\n- 2 o 3 tazas de fonde oscuro\t\t\t\n- 1 cucharada de cilantro picado\n- 1 copa de vino blanco\n",
+  "preparacion": "- 1.- Escalde los tomates en agua hirviendo unos segundos.\n- 2.- Refrésquelos y córtelos en cuartos.\n- 3.- Retire las semillas y reserve.\n- 4.- Pique la cebolla y los dientes de ajo finamente y dórelos ligeramente en una olla con un poco de aceite.\n- 5.- Añada la pasta de ají amarillo y revuelva.\n- 6.- Pasado 1 minuto añada el vino y deje reducir unos instantes.\n- 7.- Incorpore el caldo y lleve a ebullición.\n- 8.- Cuando el caldo haya hervido unos 5 minutos añada la carne cortada en filetes y salpimentada y la mitad de los tomates reservados.\n- 9.- Tape la olla y cocine unos 5 minutos, volteando los filetes una vez a media cocción.\n- 10.- Pasado este tiempo añada el resto del tomate, el cilantro picado y los guisantes hervidos previamente.\n- 11.- Termine la cocción 3 o 4 minutos más tarde y retire del fuego.\n- 12.- Añada la mantequilla y mueva la olla de un lado al otro hasta que esta quede bien incorporada.\n-  La mantequilla, que se añade al final, aunque no es imprescindible, suaviza el sabor de la receta y, además, liga ligeramente la salsa.\n- Es importante añadirla fuera del fuego.",
+  "publico": true,
+  "created_at": "2019-11-11T22:54:45.968Z",
+  "updated_at": "2019-11-11T22:54:45.968Z",
+  "photo": {
+    "id": 93,
+    "name": "Sudado.png",
+    "hash": "f4f2b046eaac4266b0ea22932ca8d6e6",
+    "sha256": "S4vU6jQeIN-vfkKgElB7rLwWZcTnXYlsXV928du28yw",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "471.95",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1573512886/zxvsc8ci4bpuhkmbexmb.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "zxvsc8ci4bpuhkmbexmb",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-11T22:54:46.465Z",
+    "updated_at": "2019-11-11T22:54:46.465Z"
+  },
+  "categorias": [],
+  "url": "/receta/86/sudado-de-ternera-peruano",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/zxvsc8ci4bpuhkmbexmb",
+  "_sourceUrl": "https://bongusto.net/receta/86/sudado-de-ternera-peruano",
+  "_fetchedAt": "2026-10-12T16:27:18.007Z"
+}

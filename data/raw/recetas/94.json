@@ -1,0 +1,40 @@
+{
+  "id": 94,
+  "titulo": "Plateada Chilena",
+  "descripcion": "Esta preparación chilena es la vedette de la mayoría de los restaurantes de cocina nacional.",
+  "historia": "Plateada al jugo a la cacerola es una receta tradicional en Chile que también se puede hacer al horno. No tiene un origen definido ya que tiene mucha similitud con otras recetas latinoamericanas.",
+  "ingredientes": "4 Porciones:\n- 1 kg solomo de cuerito con su grasa\t\t\n- 1 cerveza para hidratar la carne.\n- 2 dientes ajos majados\t\t\t\n- Harina de trigo tostada para dar textura\n- Sal, pimienta, vinagre de vino\t\t\n- 1 pimentón rojo cortado en tiras anchas\n- 2 cebollas cortadas en cuartos, \t\t\n- 1 ajo porro cortado en aros\n- 2 zanahorias cortadas en ruedas gruesas, \t\n- 1 kg papas blancas pequeñas,",
+  "preparacion": "En un bol colocar el solomo de cuerito con vinagre de vino, aceite, sal, pimienta, dejar marinar Retirar la carne, Llevar a la fritura en un sartén grande, sellar por ambos lados, retirar, cortar escarpines gruesos, reservar, En el mismo sartén, colocar las cebollas, el ajo, las verduras blanqueadas, luego el ajo porro, el pimentón, luego la carne reservada, incorporar el adobo sobrante de la marinada. Llevar al horno precalentado a 250 °C por una media hora, rociando cerveza de vez en cuando para hidratar la cocción. Retirar la carne de la cocción, realizar un desglasado, licuar, colar, llevar a cocción, rociar un poco de harina de trigo tostada, para espesar la salsa, rectificar sazón.. Servir la plateada, napada con la salsa, utilizar un plato semi hondo colocar la carne en un extremo y las verduras al otro extremo para dar presentación a la plateada.",
+  "publico": true,
+  "created_at": "2019-11-12T14:12:28.379Z",
+  "updated_at": "2019-11-12T14:12:28.379Z",
+  "photo": {
+    "id": 167,
+    "name": "Plateada.png",
+    "hash": "96724c14eeed45ccafa02523fa69db2e",
+    "sha256": "5vB2Vncxh6eLmE5Katj4xHZLr7jpJVKzLKs4ViuSm2M",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "65.88",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1574523212/rhtodekalkptzkwsiip6.jpg",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "rhtodekalkptzkwsiip6",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-23T15:33:32.350Z",
+    "updated_at": "2019-11-23T15:33:32.350Z"
+  },
+  "categorias": [
+    {
+      "id": 47,
+      "nombre": "Principal",
+      "created_at": "2019-11-20T14:11:58.958Z",
+      "updated_at": "2019-11-20T14:11:58.958Z"
+    }
+  ],
+  "url": "/receta/94/plateada-chilena",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/rhtodekalkptzkwsiip6",
+  "_sourceUrl": "https://bongusto.net/receta/94/plateada-chilena",
+  "_fetchedAt": "2026-10-12T16:27:11.291Z"
+}

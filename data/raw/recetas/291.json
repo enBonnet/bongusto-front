@@ -1,0 +1,40 @@
+{
+  "id": 291,
+  "titulo": "Vodka Tonic",
+  "descripcion": "Remedio eficaz contra la Malaria",
+  "historia": "El Gin Tonic y/o Vodka Tonic. surge por la proposición de un alto oficial británico de añadir ginebra a la tónica, para tener una bebida con la que celebrar las victorias de las tropas británicas en la India. Esta proposición fue motivada por el hecho de que la tónica contiene quinina que resulta un eficaz remedio contra la malaria. ",
+  "ingredientes": "- Vaso: Vaso alto, preferiblemente Collins\n- Hielo picado (H.P) \n- Vodka\n- Jugo de Limón\n- Aguakina\n**Decoración: **\n- Rodaja de Limón y Guinda \n- Removedor de Bebidas\n- Pitillos o Pajillas",
+  "preparacion": "- Agregar al vaso alto hielo \n- Agregar sobre el hielo 1 ½ onza de Vodka\n- Agregar el jugo de ¼ de limón \n- Completar con Aguakina\n**Decorar:**\n- Rodaja de limón con cereza \n- Colocar removedor de bebidas y pitillo\n",
+  "publico": true,
+  "created_at": "2021-10-25T20:53:12.751Z",
+  "updated_at": "2021-10-25T20:53:12.751Z",
+  "photo": {
+    "id": 340,
+    "name": "Gin o Vodka Toni.png",
+    "hash": "2af9a2fde86c483d94b959900a748199",
+    "sha256": "W1dRq-R3nG5gEasbe3M4lMp9egIadBmZAIVyTy1B3LU",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "39.49",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1635605965/hgjajekkqxt4vrag0rjx.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "hgjajekkqxt4vrag0rjx",
+      "resource_type": "image"
+    },
+    "created_at": "2021-10-30T14:59:26.209Z",
+    "updated_at": "2021-10-30T14:59:26.209Z"
+  },
+  "categorias": [
+    {
+      "id": 43,
+      "nombre": "Maridaje ",
+      "created_at": "2019-11-09T20:57:22.945Z",
+      "updated_at": "2019-11-09T20:57:22.945Z"
+    }
+  ],
+  "url": "/receta/291/vodka-tonic",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/hgjajekkqxt4vrag0rjx",
+  "_sourceUrl": "https://bongusto.net/receta/291/vodka-tonic",
+  "_fetchedAt": "2026-10-12T16:24:30.302Z"
+}

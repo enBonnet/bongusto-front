@@ -1,0 +1,40 @@
+{
+  "id": 274,
+  "titulo": "Papas Douphine",
+  "descripcion": "Las papas dauphines son una especie de bombitas o profiteroles de papa, que se hacen \ncon una base de puré de papas mezclado con pasta choux, la misma masa bomba que \nse usa para hacer profiteroles.",
+  "historia": "Mucho se discute acerca del origen y la forma de preparar las \"papas a la Dauphine\" o \"papas dauphines\". Algunos dicen que esta receta se le sirvió por primera vez a la esposa del Delfin de Francia (el heredero al trono), aunque esto no está documentado. \nLo más probable es que lleve el nombre de la región montañosa de Dauphiné, próxima a la frontera entre Francia e Italia, en donde las preparan desde hace más de un siglo.\n\n",
+  "ingredientes": "4 raciones\n\n- 500 gr puré de papa\n- 250 cc agua\n- 1 cdita sal\n- 100 gr manteca Vegetal o mantequilla o margarina\n- 150 gr harina todo uso\n- 3 huevos\n- Aceite para freír",
+  "preparacion": "- Poner el agua, la sal y la manteca en una ollita. Una vez que llega hervor agregar de golpe la harina y con un batidor, espátula o cuchara de madera revolver sin parar hasta que la masa despega por completo de las paredes de la ollita. Bajar la temperatura y agregar de a uno los huevos. Al principio se corta, pero es batir con energía hasta lograr unir.\n- Debe quedar lisita. Se puede hacer con batidora, pero debe ser con buena potencia para no quemarla. Agregar al puré de papas unir. El mío al estar frío costó un poco.\n- Poner en una manga. Cortar la punta como para que tenga el tamaño de un ñoqui. Con mucho cuidado y desde no muy alto ir haciendo presión con la manga e ir tirando en al aceite caliente pequeñas porciones que vamos cortando con un cuchillo. Como tiende a pegarse cada tanto moja el cuchillo para facilitar.\n- Freír hasta dorar. Escurrir y servir con un poco de sal por encima.",
+  "publico": true,
+  "created_at": "2021-05-03T20:47:34.444Z",
+  "updated_at": "2021-05-03T20:47:34.444Z",
+  "photo": {
+    "id": 308,
+    "name": "Papas Douphine.png",
+    "hash": "02732072e16241669819e0680cd948ac",
+    "sha256": "sjadj99nM3Tv3dxH7QxFgY7u4VcHJ7PPucQOKN5CFws",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "1832.63",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1620074854/gegrgu54xtwdcwzbvrrf.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "gegrgu54xtwdcwzbvrrf",
+      "resource_type": "image"
+    },
+    "created_at": "2021-05-03T20:47:35.078Z",
+    "updated_at": "2021-05-03T20:47:35.078Z"
+  },
+  "categorias": [
+    {
+      "id": 7,
+      "nombre": "Guarnición",
+      "created_at": "2019-11-07T21:25:47.915Z",
+      "updated_at": "2019-11-07T21:25:47.915Z"
+    }
+  ],
+  "url": "/receta/274/papas-douphine",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/gegrgu54xtwdcwzbvrrf",
+  "_sourceUrl": "https://bongusto.net/receta/274/papas-douphine",
+  "_fetchedAt": "2026-10-12T16:24:44.692Z"
+}

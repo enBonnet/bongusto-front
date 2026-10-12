@@ -1,0 +1,40 @@
+{
+  "id": 146,
+  "titulo": "Pollo Tandoori",
+  "descripcion": "Pollo tandoori. Es un plato indio cuya base es el pollo asado y es considerado muy sabroso. El pollo es marinado en yogurt y sazonado con tandoori masala (especias).",
+  "historia": "La historia del origen de este plato se encuentra en un hombre llamado Kundan Lal Gujral, que regentaba un restaurante en Peshawar antes de la partición de la India británica. Intentado crear nuevas recetas para mantener el interés de sus patrones, Gujral intentó cocinar el pollo en un tandoor, el cual era usado por la gente local únicamente para cocinar naans (panes). En el tandoor se alcanzan altas temperaturas y Gujral fue capaz de cocinar los pollos en ese horno de barro consiguiente cocinarlos de forma suculenta por dentro y crujiente por fuera. Después de la partición en 1947, Punjab fue dividida con una parte oriental dentro de la india y una parte occidental dentro de Pakistán. Peshawar se convirtió en parte de Pakistán y Gujral trató con muchos refugiados hindúes que huían de los disturbios y se trasladaban a la India. Finalmente Gujral trasladó su restaurante a Nueva Delhi en un lugar llamado Daryaganj. La fama del pollo tandoori ha derivado en otros platos conocidos como el pollo tikka (el cual se popularizó mucho en Gran Bretaña como Chicken Tikka Masala). El pollo tandoori puede encontrarse en la mayoría de los restaurantes indios de todo el mundo.",
+  "ingredientes": "- Pollo (8-10 piezas medianas)\t\t\n- 1 limón cortado en rodajas\n- 1 cucharada sopera de garam masala \t\n- 1 cebolla\n- 2 yogurs natural",
+  "preparacion": "1. Mezclamos el yogur natural con una cucharada sopera de garam massala hasta formar una mezcla homogénea de color ladrillo (si te pasas con la cantidad de garam massala lo único que ocurrirá es que picará mucho).\n2. Añadimos la salsa a los trozos de pollo (se puede hacer tanto con muslitos, alitas, pollo en cuartos o filetes de pollo), mezclamos bien y dejamos marinar durante unas horas en la nevera (un par de horas es suficiente para que coja sabor).\n3. Calentamos el horno a 200º C e introducimos el pollo marinado con la cebolla cortada en láminas y unas rodajas de limón.\n4. Observaremos que el pollo se va dorando y tendremos que ir dándole la vuelta hasta que el pollo esté tostadito.\n5. Como acompañante, te recomiendo servir el pollo con un arroz aromático.",
+  "publico": true,
+  "created_at": "2019-11-22T20:51:35.969Z",
+  "updated_at": "2019-11-22T20:51:35.969Z",
+  "photo": {
+    "id": 153,
+    "name": "Pollo Tandoori.png",
+    "hash": "dd8cff3d0b2c40658685b1d9b0763c15",
+    "sha256": "ThhlhyptXInCsf7k8Cw8o0lDVj4vN60pVBCQNQSVLlc",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "101.67",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1574455896/riavbfsg9nkikzibs2mt.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "riavbfsg9nkikzibs2mt",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-22T20:51:36.295Z",
+    "updated_at": "2019-11-22T20:51:36.295Z"
+  },
+  "categorias": [
+    {
+      "id": 47,
+      "nombre": "Principal",
+      "created_at": "2019-11-20T14:11:58.958Z",
+      "updated_at": "2019-11-20T14:11:58.958Z"
+    }
+  ],
+  "url": "/receta/146/pollo-tandoori",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/riavbfsg9nkikzibs2mt",
+  "_sourceUrl": "https://bongusto.net/receta/146/pollo-tandoori",
+  "_fetchedAt": "2026-10-12T16:26:29.220Z"
+}

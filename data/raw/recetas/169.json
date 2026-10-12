@@ -1,0 +1,40 @@
+{
+  "id": 169,
+  "titulo": "Asado Negro",
+  "descripcion": "Asado negro, un plato con alma y corazón caraqueño. Su preparación se realiza con la pieza llamada redondo de res o muchacho.",
+  "historia": "Asado negro, un plato con alma y corazón caraqueño. Su preparación se realiza con la pieza llamada redondo de res o muchacho.\nEl asado negro tiene origen colonial, y se supone que accidentalmente una cocinera dejó quemar la carne y luego remediando el daño incluyó salsas y condimentos, uniendo el dulzor del papelón con especias foráneas y ajíes dulces.\nEn su color caramelizado se pueden esconder pequeñas sorpresas de aceitunas y alcaparras, cuando se hace puyao, que quiere decir que se le abren pequeños orificios a la carne y se llenan con esos ingredientes. Una preparación perfecta para compartir en la cena o un fin de semana en compañía de la familia.\nTres características son fundamentales en un asado negro: su color oscuro, el sabor dulzón de su salsa y la presentación en rodajas. Su color y sabor provienen del uso de papelón o azúcar y de la técnica del sellado, en laque se somete la pieza de carne a un foco de calor intenso para que se dore por fuera y se caramelice con el papelón. El corte de carne utilizado para este plato es el muchacho redondo, pieza de carne compacta, fibrosa y de poca tensión muscular dentro de la res. Posee una cobertura de grasa que tradicionalmente Se deja para la \ncocción, aunque algunos prefieren eliminarla para obtener una salsa menos grasosa. \nLa salsa también tiene sus variaciones: aunque las verduras suelen pasarse por un colador, hay quienes prefieren incluirlas en el plato.\n",
+  "ingredientes": "### Ingredientes (para 12 personas) \n### Para marinar la carne \n- 1 muchacho redondo de 3 kg \n- 5 cebollas cortadas en cuadros medianos \n- 2 zanahorias cortadas en ruedas de no más de 1 cm \n- 1 pimentón rojo cortado en cuadros medianos \n- 1pimentón verde cortado en cuadros medianos \n- 8 ajíes dulces cortado en cuadros medianos \n- 4 tallos de cebollín cortado en trozos medianos \n- 1 ajoporro cortado en trozos medianos \n- 2 hojas de laurel \n- 1 cucharada de comino \n- 1 cabeza de ajo majado\n- ½ de taza de salsa inglesa \n- 6 cucharadas de aceite vegetal \n### Cocción \n- 4 cucharadas de aceite vegetal \n- ½ de panela de papelón rallado \n- 1 litro de vino blanco seco \n- 1 litro de agua \n- Sal y pimienta negra recién molida, al gusto.",
+  "preparacion": "1. Dentro de un envase se colocan el muchacho redondo, las cebollas, las zanahorias, los pimentones, los ajíes, el cebollín, el ajoporro, el laurel, el comino y el ajo. Se baña la carne con la salsa inglesa y las 6 cucharadas de aceite. Se deja marinar todo por 12 horas. \n2. Se saca el muchacho del envase y se deja escurrir. \n3. En una olla con el aceite y el papelón, se sella la carne a fuego alto. La pieza debe quedar de color dorado oscuro, casi negra. \n4. Una vez que la carne tenga esa tonalidad, se añade el líquido que se utilizó para marinar y los vegetales, el vino blanco, el agua, la sal y la pimienta. Se cocina todo a fuego bajo, sin tapar la olla, por unas 4 horas. \n5. Se pasa la salsa con los vegetales por un chino o colador para que quede aterciopelada (hay quienes prefieren conservarlos trozos completos). \n6. Se corta la carne en rodajas de 1 cm de grosor, se sumergen en la salsa y se cocinan a fuego medio por 2 minutos, Al servir, se baña con más salsa. \n### Sugerencia \n- Acompañar con arroz blanco y bolitas de plátano",
+  "publico": true,
+  "created_at": "2019-12-05T19:46:26.559Z",
+  "updated_at": "2019-12-05T19:46:26.559Z",
+  "photo": {
+    "id": 201,
+    "name": "Asado Negro.png",
+    "hash": "59f80b94dfb342a39d60b3c71077431a",
+    "sha256": "MY-tVl70Ek7ZBRLJMl3g7mb_32ZWRQw2FDgecVV3OR4",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "136.16",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1575575186/o7aygslzysuopywvfqoq.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "o7aygslzysuopywvfqoq",
+      "resource_type": "image"
+    },
+    "created_at": "2019-12-05T19:46:27.025Z",
+    "updated_at": "2019-12-05T19:46:27.025Z"
+  },
+  "categorias": [
+    {
+      "id": 47,
+      "nombre": "Principal",
+      "created_at": "2019-11-20T14:11:58.958Z",
+      "updated_at": "2019-11-20T14:11:58.958Z"
+    }
+  ],
+  "url": "/receta/169/asado-negro",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/o7aygslzysuopywvfqoq",
+  "_sourceUrl": "https://bongusto.net/receta/169/asado-negro",
+  "_fetchedAt": "2026-10-12T16:26:10.808Z"
+}

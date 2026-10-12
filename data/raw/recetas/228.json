@@ -1,0 +1,40 @@
+{
+  "id": 228,
+  "titulo": "Tequeños",
+  "descripcion": "Su nombre proviene de Los Teques, donde se supone que fue creado en las primeras décadas del siglo xx.",
+  "historia": "Su nombre proviene de Los Teques, donde se supone que fue creado en las primeras décadas del siglo xx. La calidad de la preparación recae casi por completo en la correcta selección del queso: blanco, no muy salado y que derrita fácilmente sin llegar a quedar completamente líquido. En Barlovento, en lugar de masa, se recubre el queso con una larga tajada. También se conoce una versión rápida en la que se prescinde de la elaboración de la masa: antes de freírse, el queso se pasa primero por la harina, para ser bañado luego en cerveza.",
+  "ingredientes": "### Ingredientes (para 50 tequeños) \n- 2 tazas de harina de trigo \n- 5 cucharadas de mantequilla \n- 1 huevo \n- ½ cucharadita de sal \n- 2 cucharadas de azúcar \n- 4 - 5 cucharadas de agua fría \n- ½ kg de queso blanco -semiduro, cortado en tiras de 5x1xlcm \n- Abundante aceite de maíz \n- Papel absorbente",
+  "preparacion": "1. Se dispone la harina en forma de corona sobre una mesa, tabla o base limpia y seca. Se colocan en el centro la mantequilla y el huevo. \n2. Se mezclan la sal y el azúcar con el agua.\n3. Se amasa, agregando progresivamente el agua, hasta que se forme una mezcla suave, uniforme, que no se pegue a los dedos ni a la mesa, Se une toda en una bola. \n4. Se aplana la masa con un rodillo, hasta que quedé como una tela de ½ cm de grosor. \n5. Se corta la masa en tiritas del 1cm de ancho y 15cm de largo. \n6. Con las cintas de masa se enrollan los trocitos de queso, de extremo a extremo, asegurándose de que el queso quede bien cubierto. \n7. En un caldero con abundante aceite, se fríen los tequeños a fuego medio hasta que doren. \n8. Se retiran con una espumadera y se colocan sobre papel absorbente para eliminar el exceso de grasa. \n### Opcional \n- En lugar de tiras de masa, se pueden cortar cuadrados de 7 cm para envolver el queso (que se coloca en forma diagonal).",
+  "publico": true,
+  "created_at": "2019-12-07T22:35:01.147Z",
+  "updated_at": "2019-12-07T22:35:01.147Z",
+  "photo": {
+    "id": 262,
+    "name": "Tequeños.png",
+    "hash": "d3ac758c46a7455fb267931e150c4ea0",
+    "sha256": "akir4mBRPlfJnPr3yRNVgqsyitryIEEOM_RV6+pgAiU",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "126.22",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1575758101/rf2z0jt54mdtdc2rs2jh.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "rf2z0jt54mdtdc2rs2jh",
+      "resource_type": "image"
+    },
+    "created_at": "2019-12-07T22:35:01.489Z",
+    "updated_at": "2019-12-07T22:35:01.489Z"
+  },
+  "categorias": [
+    {
+      "id": 6,
+      "nombre": "Entrada",
+      "created_at": "2019-11-07T21:23:25.610Z",
+      "updated_at": "2019-11-07T21:23:25.610Z"
+    }
+  ],
+  "url": "/receta/228/tequenos",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/rf2z0jt54mdtdc2rs2jh",
+  "_sourceUrl": "https://bongusto.net/receta/228/tequenos",
+  "_fetchedAt": "2026-10-12T16:25:22.780Z"
+}

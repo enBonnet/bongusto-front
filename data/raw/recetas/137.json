@@ -1,0 +1,40 @@
+{
+  "id": 137,
+  "titulo": "Pan Pita",
+  "descripcion": "El pan pita es un tipo de pan plano blando, levemente fermentado, de harina de trigo, de consumo en el área del Mediterráneo",
+  "historia": "El pan pita es uno de los alimentos más antiguos cuyo origen se lo atribuye a medio oriente, especialmente a Egipto, siglos atrás La pita, más conocida por ser de esa especie de panes planos, también tiene sus raíces en ciertas regiones de Grecia, de la India y de África y al ser uno de los alimentos milenarios de esa región del mundo refleja muchas de las costumbres y tradiciones de algunos de estos países. En algunas culturas de África, por ejemplo, es utilizado como una especie de tenedor el cual sirve para que la comida sea llevada a la boca, en regiones más cercanas al Mediterráneo en cambio se usa como una especie de platillo que sostiene y soporta el resto de los alimentos. ",
+  "ingredientes": "### De 6 a 10 porciones:\n- 500 g de harina de trigo todo uso\t\t\t\n- 30 cl de agua templada\n- 1 sobrecito de levadura seca de panadería (11g)\t\n- 1 cucharita rasa de sal\n- 1 cucharita rasa de azúcar",
+  "preparacion": "1. A mano: en un bol, mezcla la harina, la sal y el azúcar. Haz un hueco en el centro y añade la levadura y la mitad del agua. Amasa y añade un poco de agua de vez en cuando. Añade la masa a un gran cuenco. La masa debe quedar lisa y no debe pegarse a las paredes del cuenco. Deja que la masa doble su volumen en el cuenco cubierto con un paño en un lugar preferiblemente caliente.\n2. CORTA LA MASA: Una vez tengamos nuestra masa lista, córtala en 8 pedazos.\n3. ESTIRA LA MASA: Estira cada pedazo en un círculo de unos 15 cm de diámetro. Coloca el primero sobre un paño limpio, cúbrelo con papel parafinado y ve apilando el resto según los vayas estirando. Cubre todo con otro paño y deja reposar 15 minutos.\n4. COCCIÓN: Calienta una sartén a fuego fuerte o alto y sin materia grasa. Coloca un primer círculo de masa. (Poco a poco irá hinchándose).\n5. DALE LA VUELTA: Dale la vuelta al cabo de 2 minutos, deberá quedarnos dorado por ambas partes.\n6. FIN DE LA COCCIÓN: Ve poniendo los panes ya hechos en una rejilla y cúbrelos con un paño limpio.",
+  "publico": true,
+  "created_at": "2019-11-21T16:13:41.018Z",
+  "updated_at": "2019-11-21T16:13:41.018Z",
+  "photo": {
+    "id": 144,
+    "name": "Pan Pita.png",
+    "hash": "1114b97a680243dc9a74c2ef53491199",
+    "sha256": "vTP8uECEVNpS6y_ihFBNTFaS9EuO9y7uDkiY0mWWOQw",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "227.97",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1574352821/o5ysauts9oabxhh1l5yg.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "o5ysauts9oabxhh1l5yg",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-21T16:13:41.997Z",
+    "updated_at": "2019-11-21T16:13:41.997Z"
+  },
+  "categorias": [
+    {
+      "id": 7,
+      "nombre": "Guarnición",
+      "created_at": "2019-11-07T21:25:47.915Z",
+      "updated_at": "2019-11-07T21:25:47.915Z"
+    }
+  ],
+  "url": "/receta/137/pan-pita",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/o5ysauts9oabxhh1l5yg",
+  "_sourceUrl": "https://bongusto.net/receta/137/pan-pita",
+  "_fetchedAt": "2026-10-12T16:26:36.449Z"
+}

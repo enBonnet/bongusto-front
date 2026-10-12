@@ -1,0 +1,40 @@
+{
+  "id": 51,
+  "titulo": "Cascos de Guayaba",
+  "descripcion": "Exquisito postre a base de guayabas en almíbar, puede acompañarse con crema de leche, queso crema o helado de vainilla.   ",
+  "historia": "Aunque se considera que es parte de la dulceria criolla Venezolana, este postre se prepara tanto en cuba, Panama y Colombia. Por lo tanto no se define con esactitud cual es su origen.",
+  "ingredientes": "### Entre 10 o 12 porciones:\n### Insumos:\n- 2 kg de guayaba madura,\t\n- ½ kg de azúcar blanca,\t\n- 1 ramita de canela\tagua C/N,\n- 250 grs de queso crema,\t\t\n- Hojas de Hierba Buena Fresca.\n",
+  "preparacion": "Preparación:\n- a.\tPele las guayabas procurando que al retirar la cáscara conserve sin dañar la masa del fruto (casco). Corte cada guayaba a la mitad y retire las semillas y pulpa interior con una cucharita. \n- b.\tLa pulpa de guayaba resérvela, puede elaborar con ella un delicioso jugo.\n- c.\tLimpie bien cada casco y colóquelos en una olla. \n- d.\tCúbralos con agua y coloque a fuego medio hasta que comiencen a hervir. \n- e.\tAdicione el azúcar y la canela, continúe la cocción a fuego medio. Remueva con cuchara de madera a intervalos para evitar que se pegue a la olla. \n- f.\tCuando los cascos estén blandos y el almíbar en el punto deseado, retírelos del fuego.\n- g.\tLleve a refrigeración y a la hora de servir puede acompañarlo con una cucharadita de queso crema dentro de cada casco coronado con una hoja de hierba buena fresca.\n",
+  "publico": true,
+  "created_at": "2019-11-09T20:04:48.641Z",
+  "updated_at": "2019-11-09T21:39:37.371Z",
+  "photo": {
+    "id": 58,
+    "name": "Cascos de Guayaba.png",
+    "hash": "ace6dc54382a457ebb4c96effdea973a",
+    "sha256": "TjmjNRbGCyEykAtEf0mhnPiTRGgSCA6NFE2hs1qw3QU",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "306.70",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1573329888/ju7vwzr0cy9zb94rv1ef.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "ju7vwzr0cy9zb94rv1ef",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-09T20:04:48.948Z",
+    "updated_at": "2019-11-09T20:04:48.948Z"
+  },
+  "categorias": [
+    {
+      "id": 9,
+      "nombre": "Postre",
+      "created_at": "2019-11-07T22:49:20.381Z",
+      "updated_at": "2019-11-07T22:49:20.381Z"
+    }
+  ],
+  "url": "/receta/51/cascos-de-guayaba",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/ju7vwzr0cy9zb94rv1ef",
+  "_sourceUrl": "https://bongusto.net/receta/51/cascos-de-guayaba",
+  "_fetchedAt": "2026-10-12T16:27:45.630Z"
+}

@@ -1,0 +1,40 @@
+{
+  "id": 129,
+  "titulo": "Granizado",
+  "descripcion": "Granizado: bebida dulce, que se toma helada. Se prepara con café y jugo de naranja o limón, con hielo machacado.",
+  "historia": "Aunque fueron los chinos los primeros en popularizar eso de mezclar la fruta con nieve y leche, no son los inventores del granizado. Ya en la Biblia existen referencias anteriores con unos versículos sobre el Rey Salomón donde se cita a  “el refresco de la nieve en los días de las cosechas”.",
+  "ingredientes": "### Ingredientes:\t(4- 6 porciones)\n- ¼ de litro de café negro tinto\t\t\n- ¼ de litro de jugo de naranja\n- Jugo de 3 limones\t\t\t\t\n- 3 onzas de aguardiente \n- 100 gramos de azúcar\t\t\t\n- Hielo triturado Cantidad necesaria\n- 6 hojas de hierba buena o menta",
+  "preparacion": "- En una licuadora incorporar el café, jugo de naranja, jugo de limón, el aguardiente y el azúcar. Y procesar a velocidad alta hasta se integren todos.\n- Servir en un vaso alto con hielo triturado\n- Decorar con hojas de hierba buena o menta y colocar pitillo ",
+  "publico": true,
+  "created_at": "2019-11-20T21:33:25.734Z",
+  "updated_at": "2019-11-20T21:33:25.734Z",
+  "photo": {
+    "id": 136,
+    "name": "Granizado de Cafe.png",
+    "hash": "1bf3c90a804d486988d5b8fd05f4ae6c",
+    "sha256": "Dsws2nrwrfE8KX7MHknq0g50GgGvNfinhD5LuiWR-dc",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "121.16",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1574285605/fvwsn7zcya1osncr2dxp.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "fvwsn7zcya1osncr2dxp",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-20T21:33:26.113Z",
+    "updated_at": "2019-11-20T21:33:26.113Z"
+  },
+  "categorias": [
+    {
+      "id": 43,
+      "nombre": "Maridaje ",
+      "created_at": "2019-11-09T20:57:22.945Z",
+      "updated_at": "2019-11-09T20:57:22.945Z"
+    }
+  ],
+  "url": "/receta/129/granizado",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/fvwsn7zcya1osncr2dxp",
+  "_sourceUrl": "https://bongusto.net/receta/129/granizado",
+  "_fetchedAt": "2026-10-12T16:26:43.172Z"
+}

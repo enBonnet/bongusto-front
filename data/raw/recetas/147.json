@@ -1,0 +1,40 @@
+{
+  "id": 147,
+  "titulo": "Arroz Aromatizado",
+  "descripcion": "Esta receta os puede servir como base para elaborar diferentes platos, se trata de un arroz que sirve para acompañar diferentes carnes y pescados.",
+  "historia": "Exótico y sabroso arroz estilo hindú, con todo el sabor de las especias y el contraste de texturas de los frutos secos.\nEste tipo de arroz se elabora en toda asía, especialmente en la India, no tiene un origen definido.",
+  "ingredientes": "### 4 a 8 Raciones:\n- 200 gr arroz\t\t\t\t\t\n- 1 palo de canela en rama\n- 1/4 cucharada de comino en polvo\t\n- 1 clavos aromáticos\n- 1 anís estrellado\t\t\t\t\n- Sal a gusto",
+  "preparacion": "1. Pondremos a hervir el agua necesaria para cocer el arroz, normalmente entre dos y tres veces la cantidad de arroz. \n2. Añadimos las especias y la sal y cuando rompa a hervir añadimos el arroz, removemos y no lo tocamos más hasta que se haga, primero a fuego fuerte y pasados unos tres o cuatro minutos a fuego medio, o vamos probando hasta que nos guste el punto del arroz, normalmente al evaporarse el agua el arroz ya está listo. \n3. Retiramos el palo de canela, el anís estrellado y los clavos y listo para comer. Buen provecho.",
+  "publico": true,
+  "created_at": "2019-11-22T21:13:17.320Z",
+  "updated_at": "2019-11-22T21:13:17.320Z",
+  "photo": {
+    "id": 154,
+    "name": "Arroz Aromatizado.png",
+    "hash": "03a0d982b006439d89fdddc2af01d1bd",
+    "sha256": "jpy0CO6C1roeshqDQKQV7NVCy-CwHuqv3ny6tsSjUi0",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "395.54",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1574457197/l6qs7nepwryxgiwkj52e.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "l6qs7nepwryxgiwkj52e",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-22T21:13:17.899Z",
+    "updated_at": "2019-11-22T21:13:17.899Z"
+  },
+  "categorias": [
+    {
+      "id": 7,
+      "nombre": "Guarnición",
+      "created_at": "2019-11-07T21:25:47.915Z",
+      "updated_at": "2019-11-07T21:25:47.915Z"
+    }
+  ],
+  "url": "/receta/147/arroz-aromatizado",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/l6qs7nepwryxgiwkj52e",
+  "_sourceUrl": "https://bongusto.net/receta/147/arroz-aromatizado",
+  "_fetchedAt": "2026-10-12T16:26:28.354Z"
+}

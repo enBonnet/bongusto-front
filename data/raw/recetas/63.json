@@ -1,0 +1,33 @@
+{
+  "id": 63,
+  "titulo": "Costillas de Cordero al Horno",
+  "descripcion": "Este plato suele prepararse con costillas de cerdo, aunque cualquier carne grasa acepta este tipo de preparación. El grado de picante se deja para que cada cual lo prepare a sus gusto.",
+  "historia": "Este tipo de preparación es muy común en toda latino america, no hay definición de cual es su origen o quien fue el primero en elaborarlo, ya que actualmente en todo el mundo se consume este tipo de proteina, la diferencia esta en la sazón y la guarnición, con la que se sirve. \nEn mexico este tipo de preparación de proteinas al horno esta muy arraigado desde tiempos ancestrales y tienen muchas y variadas recetas, que pasan de generación en generación.",
+  "ingredientes": "### 4 Porciones:\n- 1 ½ kg. De costilla de cordero\t\t\n- 1 cda de concentrado de tomate.\n- 175 grs. De miel\t\t\t\n-  2 cdas de cilantro fresco\n- 6 dientes de ajo\t\t\t\n- 3 cdas de margarina\n- 3 cdtas de jengibre rallado\t\t\n- 3 mazorcas de maíz tierno\n- Chile en polvo al gusto\t\t\n- 1/2 vaso de jugo de naranja\n- 3 cdas de aceite\t\t\t\n- Sal al gusto\n",
+  "preparacion": "Cortar las costillas en trozos dejando dos o tres costillas, luego mezclar los ajos la miel, jengibre, chile, sal, aceite y jugo de naranja y marinar las costillas por ocho horas, aparte llevar al fuego la marinada de las costillas y hacer una reducción del 50%, con esa mezcla barnizar las costillas y llevarlas al horno a 200°C, hasta ablandar mojar varias veces con su mismo jugo al momento de la cocción. Aparte salcochar los jojotos y mezclar la margarina con el cilantro fresco, el concentrado de tomate, el chile en polvo y una pizca de sal, con esa mezcla bañar las mazorcas al momento de servir las costillas.",
+  "publico": true,
+  "created_at": "2019-11-10T15:44:09.096Z",
+  "updated_at": "2019-11-10T15:44:09.096Z",
+  "photo": {
+    "id": 70,
+    "name": "Cordero.png",
+    "hash": "d56b313c73ea4293a42c5c5b9a010baa",
+    "sha256": "KjTScaEVfOCxFykBxvZBUOEEfgX50k2rPC55nIx-uCY",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "244.84",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1573400649/tptd53myqdub5vuvpyzr.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "tptd53myqdub5vuvpyzr",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-10T15:44:09.482Z",
+    "updated_at": "2019-11-10T15:44:09.482Z"
+  },
+  "categorias": [],
+  "url": "/receta/63/costillas-de-cordero-al-horno",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/tptd53myqdub5vuvpyzr",
+  "_sourceUrl": "https://bongusto.net/receta/63/costillas-de-cordero-al-horno",
+  "_fetchedAt": "2026-10-12T16:27:36.009Z"
+}

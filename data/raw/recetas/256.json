@@ -1,0 +1,40 @@
+{
+  "id": 256,
+  "titulo": "Chuletas De Cerdo Con Cambur",
+  "descripcion": "La carne de cerdo siempre resulta deliciosa y es más magra de los que imaginamos muchas veces",
+  "historia": "La carne de cerdo siempre resulta deliciosa y es más magra de los que imaginamos muchas veces, las chuletas de cochino necesitan una buena cocción para exaltar su sabor y por medidas de higiene y salubridad, combina de forma excelente con muchas frutas pero con cambures toman un sabor dulzón y muy tropical. En esta ocasión les enseño una receta que termina con un espectáculo de flameado fuerte pues el trópico toma vida en esta receta que lleva chuletas de cochino, cambur y ron añejo.",
+  "ingredientes": "### Para 4 porciones \n- 04 chuletas de cerdo de 2 centímetros de grosor \n- 2 cambures cortados en tajadas \n- 20 gramos de mantequilla \n- 1 copita de licor fuerte (brandy o ron) \n- 1 cucharadita de azúcar \n- ½ cucharadita de orégano \n- ½ cucharadita de comino \n- Una pizca de pimienta gourmet \n- Sal y pimienta negra molida al gusto",
+  "preparacion": "- A) Sazonar las chuletas con la sal, la pimienta negra molida, el comino y el orégano; macerar con un poco de licor fuerte (brandy) por 10 minutos. \n- B) En un sartén derretir la mantequilla, dorar las chuletas por cada lado y agregar la pimienta gourmet. \n- C) Reservar en una fuente y mantener las chuletas calientes. \n- D) Luego dorar el cambur en la mantequilla de la chuleta, agregar el azúcar y cocinar hasta que adquiera un color dorado acaramelado. Cubrir las chuletas con esta preparación. \n- E) En el mismo sartén, añadir el licor restante, encender con un fósforo para flambear y esparcir sobre las chuletas.",
+  "publico": true,
+  "created_at": "2019-12-18T20:59:29.964Z",
+  "updated_at": "2019-12-18T20:59:29.964Z",
+  "photo": {
+    "id": 290,
+    "name": "Chuletas de Cerdo con Cambur1.jpg",
+    "hash": "9ae3d0399d1e4069a7d219aa8028c4a9",
+    "sha256": "xB10NZeSkRNQgcNkVIOaxB73nZwlKoKq4-0Pi6uts-s",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "size": "70.84",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1576702770/rcczcwtjwrbkir4nptjb.jpg",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "rcczcwtjwrbkir4nptjb",
+      "resource_type": "image"
+    },
+    "created_at": "2019-12-18T20:59:30.483Z",
+    "updated_at": "2019-12-18T20:59:30.483Z"
+  },
+  "categorias": [
+    {
+      "id": 47,
+      "nombre": "Principal",
+      "created_at": "2019-11-20T14:11:58.958Z",
+      "updated_at": "2019-11-20T14:11:58.958Z"
+    }
+  ],
+  "url": "/receta/256/chuletas-de-cerdo-con-cambur",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/rcczcwtjwrbkir4nptjb",
+  "_sourceUrl": "https://bongusto.net/receta/256/chuletas-de-cerdo-con-cambur",
+  "_fetchedAt": "2026-10-12T16:25:00.040Z"
+}

@@ -1,0 +1,33 @@
+{
+  "id": 111,
+  "titulo": "Tostada Francesa",
+  "descripcion": "Las tostadas francesas es un plato muy sencillo de preparar y probablemente debido a ello su origen no está claro",
+  "historia": "En el Imperio Romano ya existían\nDe hecho, las pruebas de la existencia de las tostadas francesas se remontan hasta nada más y nada menos que hasta una colección de Recetas de Apicius que datan del siglo V en pleno Imperio Romano.\nEn esa época el plato era conocido como “aliter dulcia” que se puede traducir como: otro plato dulce. Entonces no se utilizaba huevo en la receta únicamente leche.\nUna de las leyendas más curiosas de el origen del plato es que el origen de la receta se sitúa en Albany (Nueva York), en torno al año 1724, y que el nombre del creador era un colono llamado Joseph French, y que cuando nombró su creación en inglés, las llamó French Toast.",
+  "ingredientes": "#### 4 Porciones:\n- 4 rebanadas de pan de molde blanco.\t\n- 2 huevos pequeños\n- ½ taza de leche\n- 1 cucharadita de azúcar\t\t\t\n- 1/2 cucharadita de canela\n- 1/2 cucharadita de vainilla    \t\t\t\n- Aceite\n- Miel, mermelada u otro alimento para untar\n- Frutas para decorar (fresas / uvas / melocotón / moras, etc…)",
+  "preparacion": "Batir los huevos hasta que clara y yema se mezclen, agregar el azúcar, canela y vainilla y leche. Verter en un plato hondo.\nCalentar el aceite en un sartén. Mientras tanto, mojar los panes en el huevo batido hasta que absorban un poco de la mezcla (repetir por ambos lados del pan). Freír por lado y lado hasta que doren.\nSacar del aceite y colocar sobre papel absorbente para eliminar el exceso de grasa. Servir calientes, decoradas con frutas al gusto.\n",
+  "publico": true,
+  "created_at": "2019-11-13T23:03:08.304Z",
+  "updated_at": "2019-11-13T23:03:08.304Z",
+  "photo": {
+    "id": 118,
+    "name": "Tostadas Francesas.png",
+    "hash": "bfa0b62445e740c68b982b68de693ed0",
+    "sha256": "CkOYZAp_th+dFRRAVkdMv1qq4UtKQwBL3TkLivMm2z8",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "555.97",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1573686188/whqdplgplxy8ucljfmy0.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "whqdplgplxy8ucljfmy0",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-13T23:03:09.696Z",
+    "updated_at": "2019-11-13T23:03:09.696Z"
+  },
+  "categorias": [],
+  "url": "/receta/111/tostada-francesa",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/whqdplgplxy8ucljfmy0",
+  "_sourceUrl": "https://bongusto.net/receta/111/tostada-francesa",
+  "_fetchedAt": "2026-10-12T16:26:57.314Z"
+}

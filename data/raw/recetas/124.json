@@ -1,0 +1,40 @@
+{
+  "id": 124,
+  "titulo": "Bifes de lomo a la provenzal ",
+  "descripcion": "Exquisito corte de lomo aderezado con hiervas y mostaza. Napado en su salsa.",
+  "historia": "Aunque todo indica que es de Francia, específicamente de la parte mediterránea, también existe esta receta tanto en Chile como Perú.\nSe denominan hierbas provenzales o de la Provenza a una mezcla de plantas culinarias secadas y originarias de la cuenca del Mediterráneo. Tradicionalmente se usan en todos los pueblos mediterráneos sin llamarlas así\n",
+  "ingredientes": "### 6 Porciones:\n- 6 bifes de 150 grs c/u\t\t\n- Sal y pimienta c/n\t\n- 100 ml de aceite\n- 3 cdas de mostaza Dijon\t\n### Para la salsa:\n- 200 ml de vino de madeira\t\n- 300 ml de fondo de res\t \n- 1 rama de tomillo\n- 20 grs de mantequilla",
+  "preparacion": null,
+  "publico": true,
+  "created_at": "2019-11-20T20:33:25.161Z",
+  "updated_at": "2019-11-20T20:33:25.161Z",
+  "photo": {
+    "id": 131,
+    "name": "Bifes de lomo a la provenzal.png",
+    "hash": "b8931f3e64e94dd28b80b9135fd232a9",
+    "sha256": "xt2M5z0_4SYjF7p8EqIXHWJbhLXMZywyR-NdsqPkook",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "125.89",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1574282005/kq2suwo8glslhy8dw9hy.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "kq2suwo8glslhy8dw9hy",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-20T20:33:25.723Z",
+    "updated_at": "2019-11-20T20:33:25.723Z"
+  },
+  "categorias": [
+    {
+      "id": 47,
+      "nombre": "Principal",
+      "created_at": "2019-11-20T14:11:58.958Z",
+      "updated_at": "2019-11-20T14:11:58.958Z"
+    }
+  ],
+  "url": "/receta/124/bifes-de-lomo-a-la-provenzal-",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/kq2suwo8glslhy8dw9hy",
+  "_sourceUrl": "https://bongusto.net/receta/124/bifes-de-lomo-a-la-provenzal-",
+  "_fetchedAt": "2026-10-12T16:26:46.798Z"
+}

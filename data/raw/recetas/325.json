@@ -1,0 +1,40 @@
+{
+  "id": 325,
+  "titulo": "Far Breton Aux Pruneaux",
+  "descripcion": "Far Breton es un pastel bastante denso de Bretaña, un primo lejano del flan de hojaldre o clafoutis según la variante.",
+  "historia": "Far Breton es un pastel bastante denso de Bretaña, un primo lejano del flan de hojaldre o clafoutis según la variante. Se llama en bretón farz forn ( farz fourn en Léonard country ) que significa: lejos en el horno. La receta más conocida es la de ciruelas pasas, aunque tradicionalmente el fardo no incluye ninguna.\nFar en latín significa “trigo, maíz, papilla”. Originalmente era una papilla de trigo, luego se prefirió hornear y eventualmente se le agregaron frutos secos como ciruelas pasas o uvas. Por lo tanto, era un postre económico, que hoy se ha convertido en un plato tradicional de Bretaña.",
+  "ingredientes": "- ½ litro de leche\n- 75 gr de harina\n- 75 gr de azúcar\n- 3 huevos\n- 20 gr de mantequilla con sal\n- 500 gr de ciruelas pasas\n- 100 ml de ron\n- Pizca de sal",
+  "preparacion": "- Ponga las ciruelas en remojo en el ron (para ablandarlas). \n- Mezcle la harina tamizada con el azúcar y la sal. \n- Coloque los huevos y mezcle hasta obtener una pasta lista. \n- Añada leche tibia, poco a poco y mantequilla derretida, mezclar hasta se integre\n- unte el molde con abundante mantequilla derretida. \n- Distribuya las ciruelas en el fondo e incorpore la mezcla, que no debe estar tan liquida. \n- Hornee durante 10 minutos a 220° y luego reduzca a 170° para que monte. Al dorar verificar con un palillo si el centro esta cocido y listo. \n- El interior debe ser blando.",
+  "publico": true,
+  "created_at": "2022-06-11T15:56:03.472Z",
+  "updated_at": "2022-06-11T15:56:03.472Z",
+  "photo": {
+    "id": 369,
+    "name": "FAR BRETON AUX PRUNEAUX.png",
+    "hash": "5c28a99b9df24aaca5e100ef88ec1e67",
+    "sha256": "1k7IM9Dxy6XYPJNmxqrlEYa9cbtsOalV5UjbP7Kq94s",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "221.97",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1654962963/mi1idwr9woikmrxr44tw.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "mi1idwr9woikmrxr44tw",
+      "resource_type": "image"
+    },
+    "created_at": "2022-06-11T15:56:03.864Z",
+    "updated_at": "2022-06-11T15:56:03.864Z"
+  },
+  "categorias": [
+    {
+      "id": 9,
+      "nombre": "Postre",
+      "created_at": "2019-11-07T22:49:20.381Z",
+      "updated_at": "2019-11-07T22:49:20.381Z"
+    }
+  ],
+  "url": "/receta/325/far-breton-aux-pruneaux",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/mi1idwr9woikmrxr44tw",
+  "_sourceUrl": "https://bongusto.net/receta/325/far-breton-aux-pruneaux",
+  "_fetchedAt": "2026-10-12T16:24:03.221Z"
+}

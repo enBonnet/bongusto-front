@@ -1,0 +1,40 @@
+{
+  "id": 324,
+  "titulo": "Merluza Blurre Blanc",
+  "descripcion": "Beurre blanc (en francés significa: mantequilla blanca) es una salsa francesa creada en la región de Bretaña",
+  "historia": "Beurre blanc (en francés significa: mantequilla blanca) es una salsa francesa creada en la región de Bretaña por lo que se conoce también como beurre nantais (mantequilla de Nantes). Se trata de una salsa elaborada con mantequilla añadida a una reducción de vino blanco.\nLa cocinera francesa Clémence Lefeuvre (Clémence Prau, de soltera; 1860-1932) inventó la salsa beurre blanc. Se menciona que fue por error al elaborar una salsa en su restaurante \"La Buvette de la Marine\" situado en el pueblo de Saint-Julien-de-Concelles, a orillas del río Loira, cerca de Nantes. La leyenda dice que quería hacer una salsa bearnesa a la que se le olvidó agregar huevo.\n",
+  "ingredientes": "- 2 lomos de merluzas frescas, \n- 1 cebollas en brunoise, \n- 1 cucharada de mantequilla, \n- 50 mililitros de vinagre blanco, \n- 50 mililitros de vino blanco,\n- 125 mililitros de cremas de leche, \n- 6 papas medianas, \n- sal, \n- pimienta.\n- Aceite de oliva",
+  "preparacion": "- Coloca un sartén a fuego medio y derrite la mantequilla, luego incorpora la cebolla para pocharla junto con el vinagre y el vino blanco. \n- Remueve de vez en cuando hasta que el líquido se evapore y en ese punto, añade la crema de leche, mueve la mezcla hasta que reduzca y tenga una textura de salsa.\n- \n- Para la merluza, primero salpimiéntalas; posteriormente coloca un sartén con aceite de oliva a fuego lento, y cocínalas volteándolas repetidamente, hasta que estén en su punto.\n- \n- Lava las papas y ponlas enteras y sin pelar en una olla con abundante agua; móntalas al fuego y déjalas hervir durante 20 minutos. Es conveniente ir pinchándolas con un tenedor para comprobar si están blandas o no. Cuando estén cocidas, déjalas enfriar y córtalas por la mitad.\n- \n- Finalmente, añade sal y aceite de la oliva al gusto, encima de cada mitad y sírvela junto a la merluza y la salsa beurre blanc.",
+  "publico": true,
+  "created_at": "2022-06-11T15:51:42.859Z",
+  "updated_at": "2022-06-11T15:51:42.859Z",
+  "photo": {
+    "id": 368,
+    "name": "MERLUZA BLURRE BLANC.png",
+    "hash": "e101beb7b46346a985def635c76b9597",
+    "sha256": "BhWWZEJ49EjrfvQy6ETpwyCkdEOT1XsKjqGBg6CrCQo",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "243.82",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1654962702/dxy3kgksjwzqowqzoxg6.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "dxy3kgksjwzqowqzoxg6",
+      "resource_type": "image"
+    },
+    "created_at": "2022-06-11T15:51:43.341Z",
+    "updated_at": "2022-06-11T15:51:43.341Z"
+  },
+  "categorias": [
+    {
+      "id": 47,
+      "nombre": "Principal",
+      "created_at": "2019-11-20T14:11:58.958Z",
+      "updated_at": "2019-11-20T14:11:58.958Z"
+    }
+  ],
+  "url": "/receta/324/merluza-blurre-blanc",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/dxy3kgksjwzqowqzoxg6",
+  "_sourceUrl": "https://bongusto.net/receta/324/merluza-blurre-blanc",
+  "_fetchedAt": "2026-10-12T16:24:04.026Z"
+}

@@ -1,0 +1,40 @@
+{
+  "id": 317,
+  "titulo": "Magdalena",
+  "descripcion": "La magdalena o madalena​ es un pequeño bollo tradicional de Francia y España,",
+  "historia": "Según la leyenda culinaria, este popular dulce conocido en todo el mundo debe su nombre a la cocinera y pastelera francesa Madeleine Palmier, que vivió en el pueblo de Commercy, en la región de Lorena, durante el siglo XIX.",
+  "ingredientes": "- 3 huevos\n- 100 gr de azúcar\n- ½ cucharadita vainilla\n- 6 cucharadita leche liquida\n- 140 gr harina de trigo leudante\n- 1 cucharada ralladura de limón\n- 1 cucharadita 125 gr mantequilla\n- 1 cucharadita de polvo de hornear\n- 1 docena de capacillos medianos",
+  "preparacion": "- Batir los huevos con el azúcar y la vainilla. \n- Ir añadiendo la leche alternada con la harina, ralladura de limón y polvo de hornear.\n- Incorporar la mantequilla en trozos seguir batiendo hasta incorporar\n- Refrigerar 15 minutos.\n- Engrasar y enharinar los moldes de hornear. \n- Rellene tres cuartas partes del molde y hornear por 10 minutos a 180 °C.",
+  "publico": true,
+  "created_at": "2022-06-11T15:23:07.128Z",
+  "updated_at": "2022-06-11T15:23:07.128Z",
+  "photo": {
+    "id": 361,
+    "name": "Magdalena.png",
+    "hash": "f14da30de9664eca90c99dc043f4f0db",
+    "sha256": "9YDji9Xgz_Hk6Xie4LzsRzBKSodoCQT66IaSdyxeiNU",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "87.74",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1654960987/dx69kyergaidkjvipmxt.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "dx69kyergaidkjvipmxt",
+      "resource_type": "image"
+    },
+    "created_at": "2022-06-11T15:23:07.535Z",
+    "updated_at": "2022-06-11T15:23:07.535Z"
+  },
+  "categorias": [
+    {
+      "id": 9,
+      "nombre": "Postre",
+      "created_at": "2019-11-07T22:49:20.381Z",
+      "updated_at": "2019-11-07T22:49:20.381Z"
+    }
+  ],
+  "url": "/receta/317/magdalena",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/dx69kyergaidkjvipmxt",
+  "_sourceUrl": "https://bongusto.net/receta/317/magdalena",
+  "_fetchedAt": "2026-10-12T16:24:09.418Z"
+}

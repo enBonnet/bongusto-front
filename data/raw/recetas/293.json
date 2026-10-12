@@ -1,0 +1,40 @@
+{
+  "id": 293,
+  "titulo": "Ruso Blanco",
+  "descripcion": "El Ruso Blanco o White Russian es una variante del coctel Black Russian, un aperitivo after-dinner que nace en la época de la guerra fría.",
+  "historia": "Se debe a una idea del barman del hotel Metropole de Bruselas Gustave Tops a fines de los años cuarenta, como cóctel para el embajador estadounidense en Luxemburgo, Pearl Mesta. Esta bebida no es de tradición rusa, sino que se le denomina así debido a la utilización de vodka como ingrediente principal.",
+  "ingredientes": "- Vaso: (vaso old fashion)\n- Hielo: (Hielo Picado)\n- vodka\n- licor de café\n- Crema Batida o Ponche Crema\n**Decoración:**\n- Removedor de bebidas\n- Hoja de hierba buena \n- Guinda",
+  "preparacion": "- Agregar hielo al vaso (Lleno que sobresalga algo)\n- Servir 1 onza de Vodka\n- Servir 1 onza de licor de café\n- Remover\n- Completar con crema de leche o ponche crema\n**Decorar:**\n- Removedor de bebidas\n- Hoja de Hierba Buena (Nalgueada)\n- Guinda",
+  "publico": true,
+  "created_at": "2021-10-30T14:27:37.807Z",
+  "updated_at": "2021-10-30T14:27:37.807Z",
+  "photo": {
+    "id": 331,
+    "name": "Ruso Blanco.png",
+    "hash": "5bc61fd4ed744f638b03786e616a74a2",
+    "sha256": "lUYlYJKuiiPIy8bHStGm8_Ty-JAwoe4E5LtbnjUIl1A",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "36.96",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1635604057/glcfifentnpkresuyjgo.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "glcfifentnpkresuyjgo",
+      "resource_type": "image"
+    },
+    "created_at": "2021-10-30T14:27:38.197Z",
+    "updated_at": "2021-10-30T14:27:38.197Z"
+  },
+  "categorias": [
+    {
+      "id": 43,
+      "nombre": "Maridaje ",
+      "created_at": "2019-11-09T20:57:22.945Z",
+      "updated_at": "2019-11-09T20:57:22.945Z"
+    }
+  ],
+  "url": "/receta/293/ruso-blanco",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/glcfifentnpkresuyjgo",
+  "_sourceUrl": "https://bongusto.net/receta/293/ruso-blanco",
+  "_fetchedAt": "2026-10-12T16:24:28.446Z"
+}

@@ -1,0 +1,40 @@
+{
+  "id": 288,
+  "titulo": "Tom Collins",
+  "descripcion": "Se piensa que el origen del nombre de este cóctel es una combinación entre el nombre del barman y la marca de esta Ginebra Inglesa. ",
+  "historia": "La historia cuenta que todo fue una broma que circulaba en el año 1874 en Nueva York. Esta consistía en llegar a un bar y preguntar a alguien si conocía a un hombre llamado Tom Collins. Evidentemente este respondería negativamente ya que era totalmente ficticio. Una vez iniciada la broma únicamente quedaría decir que este tal Collins estaba hablando en otros bares mal de él, contando cosas feas y desagradables para que éste se enfadara. Todos aquellos que ‘cayeron’ en la broma de Tom Collins fueron, personalmente, precursores de la propagación de la broma en otros lugares llegando hasta tal punto que incluso los medios nacionales de comunicación de la época se hicieron eco de la broma.\nLa broma llegó a ser conocida como “El Gran Engaño de Tom Collins de 1874“. Dos años más tarde, el barman Jerry Thomas incluye una nueva bebida llamada Tom Collins en su libro “The Bartender’s Guide” \nNo queda claro quién fue su inventor, pero al menos sabemos el dónde y el porqué.\n",
+  "ingredientes": "- Vaso: Collins o cualquier otro vaso alto\n- Hielo picado (H.P)\n- Azúcar o jarabe de goma\n- Jugo de ½ limón\n- Ginebra\n- Soda o agua gasificada\n**Decoración:** \n- Rodaja de limón\n- Guinda o cereza\n- Removedor de Bebidas\n- Pitillos o Pajillas \n",
+  "preparacion": "- Agregar al vaso alto hielo picado\n- Agregar sobre el hielo una medida de azucar o ½ onza de jarabe de Goma\n- Agregar jugo de ½ limón\n- Agregar 1 ½ onza de ginebra\n- Remober  \n**Decorar:**\n- Colocar removedor de bebidas y pitillo\n- Colocar rodaja de limón y cereza\n",
+  "publico": true,
+  "created_at": "2021-10-25T20:17:08.487Z",
+  "updated_at": "2021-10-25T20:17:08.487Z",
+  "photo": {
+    "id": 339,
+    "name": "Tom Collisn.png",
+    "hash": "472300fa7fb046ecafac0c04ea98f62c",
+    "sha256": "XCcae-lePJzfu3f2KrH3IgGfT8yslzRJ_leBdan3NYs",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "56.55",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1635605913/drymtx07nxmmmqh2a7ej.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "drymtx07nxmmmqh2a7ej",
+      "resource_type": "image"
+    },
+    "created_at": "2021-10-30T14:58:33.958Z",
+    "updated_at": "2021-10-30T14:58:33.958Z"
+  },
+  "categorias": [
+    {
+      "id": 43,
+      "nombre": "Maridaje ",
+      "created_at": "2019-11-09T20:57:22.945Z",
+      "updated_at": "2019-11-09T20:57:22.945Z"
+    }
+  ],
+  "url": "/receta/288/tom-collins",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/drymtx07nxmmmqh2a7ej",
+  "_sourceUrl": "https://bongusto.net/receta/288/tom-collins",
+  "_fetchedAt": "2026-10-12T16:24:32.867Z"
+}

@@ -1,0 +1,40 @@
+{
+  "id": 257,
+  "titulo": "Chupe De Camarones",
+  "descripcion": "Una buena receta de chupe de camarones puede funcionar como primer y segundo plato.",
+  "historia": "Una buena receta de chupe de camarones puede funcionar como primer y segundo plato. Es \nuna comida abundante que rinde para muchas porciones; así que, si tienes muchos comensales, \npuedes dejarlos a todos contentos con esta preparación. \nEl chupe de camarones es uno de los platos más emblemáticos de la cocina peruana Es además uno de los que más han sido asimilados en otros países hasta convertirse prácticamente en propios.\n",
+  "ingredientes": "### De 6 a 8 porciones \n- 1 kilo de camarones \n- ½ kilo de papas peladas y cortadas en cubos \n- 8 tazas de agua \n- 1 taza de cilantro \n- ½ taza de aceite de maíz \n- ½ taza de crema de leche \n- ½ taza de arroz \n- ½ taza de arvejas \n- ½ taza de maíz en granos \n- 100 gramos de queso blanco cortado en cubos \n- 2 cebollas medianas cortadas en cuadritos \n- 5 cucharadas de salsa de ají dulce \n- 2 cucharadas de salsa de ajo \n- 2 cucharadas de jalapeño natural cortado \n- 1 cucharada de chile en polvo \n- 1 cucharada de orégano \n- Sal y pimienta negra al gusto",
+  "preparacion": "- A) Lavar los camarones y limpiar. Retirar el coral (caparazón) de los camarones y reservar las colitas. B) Hervir los corales (caparazón) de los camarones en 4 tazas de agua de 6 a 8 minutos, procesar y colar conjuntamente con el jalapeño natural finamente cortado. \n- C) Freír en aceite caliente la cebolla, la salsa de ajo y de ají dulce. Agregar los camarones y saltearlos conjuntamente con este sofrito. \n- D) En una olla añadir la preparación de camarones y jalapeños anterior, los camarones salteados, las 4 tazas de agua restantes, el orégano, el chile en polvo, el arroz, el maíz, las papas y las arvejas, salpimentar y cocinar hasta que todo esté en su punto. \n- E) Procesar la crema de leche junto con el cilantro e incorporar a la mezcla anterior. Hervir por 3 minutos más y añadir el queso. Servir de inmediato. \n- F) Incorporar las colitas de camarones como decoración.",
+  "publico": true,
+  "created_at": "2019-12-18T21:15:01.520Z",
+  "updated_at": "2019-12-18T21:15:01.520Z",
+  "photo": {
+    "id": 291,
+    "name": "Chupe de Camarones1.jpg",
+    "hash": "2e725c2dc6f44943bc44a3ef12131226",
+    "sha256": "ZdZpmQVQQXIJ3diHNU4qt9YTrX0loTd-j0lGH-ids7w",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "size": "81.29",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1576703701/xxztgdiftyxjjvrzrerz.jpg",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "xxztgdiftyxjjvrzrerz",
+      "resource_type": "image"
+    },
+    "created_at": "2019-12-18T21:15:01.874Z",
+    "updated_at": "2019-12-18T21:15:01.874Z"
+  },
+  "categorias": [
+    {
+      "id": 6,
+      "nombre": "Entrada",
+      "created_at": "2019-11-07T21:23:25.610Z",
+      "updated_at": "2019-11-07T21:23:25.610Z"
+    }
+  ],
+  "url": "/receta/257/chupe-de-camarones",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/xxztgdiftyxjjvrzrerz",
+  "_sourceUrl": "https://bongusto.net/receta/257/chupe-de-camarones",
+  "_fetchedAt": "2026-10-12T16:24:59.228Z"
+}

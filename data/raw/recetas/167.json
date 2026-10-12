@@ -1,0 +1,40 @@
+{
+  "id": 167,
+  "titulo": "Hot Dog",
+  "descripcion": "El perrito caliente es un alimento en forma de bocadillo que se genera con la combinación de una salchicha del tipo salchicha de Frankfurt o vienesa (wiener) hervida o frita servida en un pan.",
+  "historia": "Los perritos calientes se elaboraban en diversas partes de Europa antes de que los inmigrantes europeos (en especial de origen alemán) los llevaran a los Estados Unidos y se convirtiera en una comida callejera muy popular entre la clase media. En Nueva York se abrió paso en la primera década del siglo XIX gracias a la contribución de varios carniceros europeos que se dedicaron a «replicar» la salchicha en el nuevo continente. Al parecer, el carnicero alemán Charles Feltman fue el primero en vender perritos calientes en unos carritos en las playas de Coney Island (cerca de Nueva York), en 1867.​ El éxito de ventas que tuvo hizo que su carrito cobrara un mayor tamaño y que finalmente se incorporaran diversos camareros en él.",
+  "ingredientes": "- 8 salchichas Winer\t\t\t\t\n- 8 panes de perro caliente\n- 500 grs de repollo agrio\t\t\t\n- Cebolla acaramelada\n- Mostaza al gusto\t\t\t\t\n- Salsa de tomate (Si gusta)\n- Mayonesa (Si gusta)\t\t\t\t\n- Pepinillos (Si gusta)",
+  "preparacion": "1. Colocar una olla con agua a fuego medio, cuando rompa el hervor agregar un toque de sal y las salchichas, si gusta colocar también una ramas de cilantro, o pimentón, o ají dulce, o cebolla, todo depende del gusto de cada quien o de la disponibilidad de las cosas.\n2. Abrimos los panes de forma acanalada y los colocamos a que se calienten al vapor.\n3. Luego que los panes estén calientes se le coloca una salchicha en cada pan y se adereza al gusto del cliente.\n### NOTA: La versión de los americanos (USA) es solo la salchicha con mostaza, el repollo y la cebolla, serían sus otros extras. El resto de los agregados han sido incluidos luego.\n\n",
+  "publico": true,
+  "created_at": "2019-11-23T23:55:28.839Z",
+  "updated_at": "2019-11-23T23:55:28.839Z",
+  "photo": {
+    "id": 199,
+    "name": "Perro Caliente.png",
+    "hash": "cf61aa96ce0348b4be3c812f7af25624",
+    "sha256": "iA44O8lBf5aNUpV7xrhn7ez8ieKFDkxxX6CmKj0sDGk",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "223.54",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1574553328/sw57jyrlwi2xcooedd6m.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "sw57jyrlwi2xcooedd6m",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-23T23:55:29.177Z",
+    "updated_at": "2019-11-23T23:55:29.177Z"
+  },
+  "categorias": [
+    {
+      "id": 47,
+      "nombre": "Principal",
+      "created_at": "2019-11-20T14:11:58.958Z",
+      "updated_at": "2019-11-20T14:11:58.958Z"
+    }
+  ],
+  "url": "/receta/167/hot-dog",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/sw57jyrlwi2xcooedd6m",
+  "_sourceUrl": "https://bongusto.net/receta/167/hot-dog",
+  "_fetchedAt": "2026-10-12T16:26:12.474Z"
+}

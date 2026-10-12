@@ -1,0 +1,40 @@
+{
+  "id": 120,
+  "titulo": "Ensalada de Niçoise",
+  "descripcion": "La ensalada de Niçoise, a veces también denominada Salade Niçoise o insalata nizzarda, es un tipo de ensalada famosa en todo el mundo que proviene de la región Cote D'Azur de Francia.",
+  "historia": "La Ensalada Niçoise (también llamada Nizzarda) es una ensalada típica de la Gastronomía de Francia, concretamente de la región de la Costa Azul (Cote D’Azur) y cuyo origen como su propio nombre indica está en la ciudad de Niza. Tradicionalmente se sirve sobre un plato llano y se presenta sobre un lecho o cama de lechuga.",
+  "ingredientes": "### De 4 a 6 Porciones:\n- 4 tomates\t\n- 4 huevos\t\n- 2 pequeñas cebollas\t\t\n- 1 pimiento verde\n- 200 g de atún natural\t\t\n- 4 anchoas\t\t\n- algunas aceitunas negras\n- hojas de albahaca\t\t\n- 8 a 10 rábanos\t\n- vinagre de vino tinto\n- aceite de oliva\t\t\t\n- sal y pimienta\t\n- 4 rabanos",
+  "preparacion": "Cocer los huevos en agua caliente durante 6 a 8 minutos y dejarlos enfriar en agua fría. Cortar las cebollas y disponer al fondo del plato. Añadir el pimiento verde cortado en trozos muy finos, así como los rábanos cortados en rodajas y el atún escurrido y desmigado. Mezclar todos los ingredientes con sal y pimienta. Cortar los tomates en rodajas y ponerles arriba de la preparación. Añadir las anchoas, aceitunas negras y la albahaca cortada. Añadir aceite de oliva y vinagre de vino. Poner una hora en la nevera.\n",
+  "publico": true,
+  "created_at": "2019-11-20T15:52:40.088Z",
+  "updated_at": "2019-11-20T15:52:40.088Z",
+  "photo": {
+    "id": 181,
+    "name": "Ensalada Nicoise.png",
+    "hash": "3c583edd471a4eee8beee5b329a79931",
+    "sha256": "G22ZOK8gmqhB7jZ6R0TogFhJD9sABq-1Bd2acQWq5QE",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "358.57",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1574528863/kbdoz75wrcsvwd1rlfzt.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "kbdoz75wrcsvwd1rlfzt",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-23T17:07:43.564Z",
+    "updated_at": "2019-11-23T17:07:43.564Z"
+  },
+  "categorias": [
+    {
+      "id": 6,
+      "nombre": "Entrada",
+      "created_at": "2019-11-07T21:23:25.610Z",
+      "updated_at": "2019-11-07T21:23:25.610Z"
+    }
+  ],
+  "url": "/receta/120/ensalada-de-nicoise",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/kbdoz75wrcsvwd1rlfzt",
+  "_sourceUrl": "https://bongusto.net/receta/120/ensalada-de-nicoise",
+  "_fetchedAt": "2026-10-12T16:26:50.161Z"
+}

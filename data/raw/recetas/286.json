@@ -1,0 +1,40 @@
+{
+  "id": 286,
+  "titulo": "Cuba Libre Preparada",
+  "descripcion": "Es increíble la cantidad de Ron con Cola que se beben los clientes que visitan los bares. Si se pudiera poner un contador para este cóctel, las cifras serian millonarias.",
+  "historia": "La historia del Cuba Libre se remonta al año 1898, cuando las tropas norteamericanas liberaron la isla cubana del dominio español y ésta pasó a ser colonia norteamericana. Se cuenta que los soldados estadounidenses introdujeron la Coca-Cola en Cuba donde la combinaron con el Ron.",
+  "ingredientes": "- Vaso: High ball (H.B)\n- Hielo en cubos (H.C)\n- Amargo de Angostura\n- jugo de ½ limón\n- Ginebra\n- vermouth rojo\n- Ron Añejo (Ron Rubio)\n- Coca-Cola \n**Decoración: **\n- Rebanada de Limóm\n- Removedor de Bebidas\n\n",
+  "preparacion": "- Agregar al vaso alto hielo en cubos \n- Agregar sobre el hielo un Dash de Amargo de Angostura\n- Agregar el jugo de ½ limóm\n- Agregar ½ onza de ginebra\n- Agregar ½ onza de vermouth\n- Agregar 1 ½ onza de Ron Añejo\n**Decorar:**\n- Colocar rebanada de limón a Caballo\n- Colocar removedor de Bebidas \nSe presenta al cliente, colocando la botella de Coca-Cola a un lado, para que el cliente sea quien se sirva a su gusto.\n",
+  "publico": true,
+  "created_at": "2021-10-25T19:37:24.709Z",
+  "updated_at": "2021-10-25T19:37:24.709Z",
+  "photo": {
+    "id": 342,
+    "name": "Cuba Libre.png",
+    "hash": "c48e6fe9c6fd4c23beedc0bc85eff284",
+    "sha256": "CCfGh2SddfhL9RCGCcNWxd6QNXGqrwSA2_2zZRC3LC0",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "65.59",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1635606129/cjjj4rcnawh4urf0afnd.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "cjjj4rcnawh4urf0afnd",
+      "resource_type": "image"
+    },
+    "created_at": "2021-10-30T15:02:10.309Z",
+    "updated_at": "2021-10-30T15:02:10.309Z"
+  },
+  "categorias": [
+    {
+      "id": 43,
+      "nombre": "Maridaje ",
+      "created_at": "2019-11-09T20:57:22.945Z",
+      "updated_at": "2019-11-09T20:57:22.945Z"
+    }
+  ],
+  "url": "/receta/286/cuba-libre-preparada",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/cjjj4rcnawh4urf0afnd",
+  "_sourceUrl": "https://bongusto.net/receta/286/cuba-libre-preparada",
+  "_fetchedAt": "2026-10-12T16:24:34.519Z"
+}

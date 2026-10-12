@@ -1,0 +1,40 @@
+{
+  "id": 47,
+  "titulo": "Negro en Camisa",
+  "descripcion": "Degustar este postre venezolano es dejarse llevar por su magia, por la pasión que desborda el majestuoso bizcocho de chocolate, bañado en su delicadamente crema inglesa, fina y sutil.",
+  "historia": "Los postres tradicionales venezolanos son un deleite, tanto por su sabor como por la historia que los acompaña. La mayoría, como la gastronomía criolla en general, tiene influencias de culturas extranjeras debido a la gran cantidad de inmigrantes que llegaron a Venezuela en el siglo XX, además de los colonizadores españoles.\n\nUno de los postres sobre el que existen dudas en cuanto a su procedencia es el popular negro en camisa, especie de bizcocho de chocolate bañado con una crema inglesa. Según la mayoría de los recetarios, es de origen venezolano, específicamente de la cocina mantuana. Sin embargo, otra sería la historia.\n\nExplica Miro Popic, reconocido investigador de la cultura culinaria criolla, que este dulce no fue inventado en la pequeña Venecia, sino, más bien, en Francia o Italia. Según el autor, esta última opción suena más factible, en vista de que en la Grande Enciclopedia Illustrata della Gastronomía, recetario de 2007, hay un postre con orígenes austríacos que lleva el nombre de “negro in camicia”, lo que en su traducción al castellano arroja el mismo título conocido.",
+  "ingredientes": "### 8 Porciones:\n### Insumos:\n- 300 grs. de chocolate en polvo (semi amargo),\t\n- 300 grs. de mantequilla,\t\t\t\t\n- 300 grs. de azúcar,\t\t\t\t\t\n - ½ taza de Leche / agua,\n- ¾ de taza de harina leudante,\n- 6 huevos.\n#### Crema Inglesa Ingredientes:\n- 1 Lt de leche,\t\t\t\t\n- Azúcar,\n- 6 yemas de huevo,\t\t\t\n- 1 ramita de vainilla o esencia de vainilla.\n\n",
+  "preparacion": "### Preparación de Biscocho:\n- a.\tEn un envase de cobre o acero inoxidable colocar ½ taza de leche en baño maría, disolver el chocolate, y agregar la mantequilla derretida, moviendo constantemente, agregar la azúcar sin dejar de remover. Es importante no dejar hervir el chocolate para que se mantenga su aroma, debe darse tiempo, déjese hechizar por el chocolate, agregue las yemas de los huevos y continué removiendo enérgicamente.\n- b.\tAgregue la harina cernida. Levante las claras a punto de nieve e incorpore batiendo con cuidado en forma envolvente. Hornee a 350º en un molde alto hasta que introduzca un palillo en el medio y salga limpio.\n\n### Preparación Crema Inglesa:\n- a.\tCaliente la leche y agregue el azúcar y la vainilla, debe abrir la vaina cuidadosamente y sacar solo las semillitas. Aparte bata enérgicamente las yemas de huevo y agregue  la leche, debe remover hasta que suelte el hervor, bajar el fuego y dejar espesar ligeramente, luego apague y deje reposar.\n- b.\tAparte desmolde el bizcocho, que debe quedar negrísimo y esponjoso, vierta la crema inglesa sobre él y déjelo que la absorba. Es importante que el envase donde lo desmolde sea convenientemente alto. Este postre puede comerlo tibio o frío, siempre será un halago a su paladar.\n\n",
+  "publico": true,
+  "created_at": "2019-11-09T15:32:38.757Z",
+  "updated_at": "2019-11-09T21:51:08.117Z",
+  "photo": {
+    "id": 54,
+    "name": "Negro en Camisa.png",
+    "hash": "6d11bdc6667b469ea492af344b37c9fc",
+    "sha256": "oZ3AXp-L9kpEX9eiAA7LWR7MY82jBMqCxuIHOweTjp4",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "139.66",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1573313558/bbzdlbst39snxj0jw2yo.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "bbzdlbst39snxj0jw2yo",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-09T15:32:39.270Z",
+    "updated_at": "2019-11-09T15:32:39.270Z"
+  },
+  "categorias": [
+    {
+      "id": 9,
+      "nombre": "Postre",
+      "created_at": "2019-11-07T22:49:20.381Z",
+      "updated_at": "2019-11-07T22:49:20.381Z"
+    }
+  ],
+  "url": "/receta/47/negro-en-camisa",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/bbzdlbst39snxj0jw2yo",
+  "_sourceUrl": "https://bongusto.net/receta/47/negro-en-camisa",
+  "_fetchedAt": "2026-10-12T16:27:48.800Z"
+}

@@ -1,0 +1,40 @@
+{
+  "id": 212,
+  "titulo": "Ensalada de Gallina",
+  "descripcion": "Junto con la hallaca, el pernil y el pan de jamón, la ensalada de gallina es parte indispensable de la mesa navideña.",
+  "historia": "Junto con la hallaca, el pernil y el pan de jamón, la ensalada de gallina es parte indispensable de la mesa navideña. De igual modo, es uno de los platos más comunes en las celebraciones venezolanas, aunque también suele comerse sola o como relleno de arepas.\nAlgunos ingredientes varían de una región a otra, pero su base se mantiene siempre: gallina o pollo desmechado, papas, guisantes y zanahorias, aderezado todo con mayonesa y un toque dulzón provisto generalmente por cuadritos de manzana verde o amarilla.",
+  "ingredientes": "### Ingredientes (para 15 personas) \n### Limpieza y cocción de la gallina \n- 1 gallina de unos 3 kg, cortada en partes o presas \n- El jugo de 4 limones \n- 2 litros de agua \n- 1 cebolla cortada por la mitad \n- 1 compuesto (2 ramas de cilantro, 2 de cebollín, 2 de apio españa y 2 de yerbabuena). \n- 2 dientes de ajo machacados \n- 2 ajíes dulces cortados por la mitad (sin venas ni semillas) \n- Sal al gusto \n### Salsa \n- 500 gramos de mayonesa casera fría \n- 2 cucharadas de mostaza \n- 4 tallos de cebollín cortados en aros delgados \n- ½ taza de vinagre blanco \n- Pimienta negra recién molida, al gusto \n- Azúcar al gusto \n- Sal al gusto \n### Ensalada \n- 2 kg de papas sin piel y cortadas en cuadritos \n- Sal al gusto \n- 2 kg de zanahoria sin piel y cortadas en cuadritos \n- 4 manzanas verdes sin piel y cortadas en cuadritos \n- 1 ½ tazas de guisantes \n- ### Adorno \n- 1 docena de espárragos verdes o blanco, enteros \n- ¼ de taza de guisantes",
+  "preparacion": "1. Sin quitarle la piel, se limpia la gallina Con el jugo de los limones y se lava con agua corriente. \n2. Se sancocha a fuego medio junto con la cebolla, el compuesto, el ajo, el ají y la sal, por 3 o 4 horas o hasta que ablande. Se retira del agua y se deja reposar hasta que enfríe (el caldo se puede reservar como base para otros preparados). \n3. Se le quitan la piel, los cartílagos y los huesos. Se desmecha en hebras no muy delgadas (de 1 cm de ancho). \n4. En otra olla, se cocinan las zanahorias en agua hirviente con sal por 20 minutos o hasta que ablanden. Se escurren, se dejan reposar y se refrigeran. \n5. Se sancochan igualmente las papas en agua hirviente con sal, unos 10 minutos o hasta que ablanden (no demasiado, para que no se deshagan). Se escurren, se dejan reposar y se refrigeran. (Las papas también se pueden cocinar junto con las zanahorias, siempre que se agreguen unos 10 minutos después). \n6. Se mezclan todos los ingredientes de la salsa y también se refrigera. \n7. En una ensaladera grande, se unen las papas, las zanahorias, la gallina, las manzanas y los guisantes. \n8. Para decorar, se cubre todo con una capa muy delgada de la salsa y se colocan delicadamente los espárragos y los guisantes. Se refrigera hasta el momento de servir.",
+  "publico": true,
+  "created_at": "2019-12-07T14:26:25.796Z",
+  "updated_at": "2019-12-07T14:26:25.796Z",
+  "photo": {
+    "id": 246,
+    "name": "Ensalada de Gallina.png",
+    "hash": "faae745a294f4e64a2b0ca5f198ce474",
+    "sha256": "clVH6C-i7Wkl9jG620u7m2vlXc_CRrc4gwCavw+1KiY",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "298.76",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1575728786/rd76sbxvwi4h2w1ozhbw.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "rd76sbxvwi4h2w1ozhbw",
+      "resource_type": "image"
+    },
+    "created_at": "2019-12-07T14:26:26.840Z",
+    "updated_at": "2019-12-07T14:26:26.840Z"
+  },
+  "categorias": [
+    {
+      "id": 7,
+      "nombre": "Guarnición",
+      "created_at": "2019-11-07T21:25:47.915Z",
+      "updated_at": "2019-11-07T21:25:47.915Z"
+    }
+  ],
+  "url": "/receta/212/ensalada-de-gallina",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/rd76sbxvwi4h2w1ozhbw",
+  "_sourceUrl": "https://bongusto.net/receta/212/ensalada-de-gallina",
+  "_fetchedAt": "2026-10-12T16:25:35.120Z"
+}

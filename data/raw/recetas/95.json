@@ -1,0 +1,40 @@
+{
+  "id": 95,
+  "titulo": "Pebre Chileno",
+  "descripcion": "El pebre es una salsa del tipo adobo típica de Chile, parecida al chancho en piedra chileno",
+  "historia": "El pebre es una salsa del tipo adobo típica de Chile, parecida al chancho en piedra chileno, a la llajua boliviana, a las salsas criollas peruanas y rioplatentenses, al pico de gallo mexicano y al ajicero venezolano. Se usa para aderezar caldos, porotos granados, carnes o choripanes en un asado. También se sirve con tortilla de rescoldo, sopaipillas o simplemente con pan (churrascas, hallulla o marraqueta).\nNo tiene un origen definido",
+  "ingredientes": "- 2 tomates pelados\t\t\t\t\n- 1 cucharada de aceite\n- 1 mediana cebolla\t\t\t\t\n- 2 cucharadas de jugo de limón\n- 4 cucharadas de cilantro picado\t\t\n- 1/2 cucharada de sal\n- 1 ají¬ verde, cortado fino",
+  "preparacion": "Pelar los tomates, en una olla con agua hirviendo, retírelos y luego póngalos en agua fría. Retire la piel. \nCorte los tomates en cuadritos pequeños. \nCorte la cebolla también en cuadritos, pero no muy finos. Ponga la cebolla en un bol de mediano tamaño y cubrir la cebolla con agua hirviendo. Deje en remojo por un minuto. Escurra, y enjuague bien con agua fría. Ahora... \nMezcle los tomates, cebolla, cilantro, ají, sal, jugo de limón, y aceite.\n",
+  "publico": true,
+  "created_at": "2019-11-12T14:23:36.635Z",
+  "updated_at": "2019-11-12T14:23:36.635Z",
+  "photo": {
+    "id": 102,
+    "name": "Pebre.png",
+    "hash": "f87ab25dec9443ca918eb75ddff1070d",
+    "sha256": "M9OM3b5u0ESWCeOCm12VzVEPOOw44VaTHPK1uhQ9jgI",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "268.88",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1573568616/jx6ux71lcnhebxp8mhri.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "jx6ux71lcnhebxp8mhri",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-12T14:23:37.116Z",
+    "updated_at": "2019-11-12T14:23:37.116Z"
+  },
+  "categorias": [
+    {
+      "id": 7,
+      "nombre": "Guarnición",
+      "created_at": "2019-11-07T21:25:47.915Z",
+      "updated_at": "2019-11-07T21:25:47.915Z"
+    }
+  ],
+  "url": "/receta/95/pebre-chileno",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/jx6ux71lcnhebxp8mhri",
+  "_sourceUrl": "https://bongusto.net/receta/95/pebre-chileno",
+  "_fetchedAt": "2026-10-12T16:27:10.667Z"
+}

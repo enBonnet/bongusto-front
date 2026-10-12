@@ -1,0 +1,40 @@
+{
+  "id": 198,
+  "titulo": "Codornices al Horno con Champiñones",
+  "descripcion": "En esta receta se presentan las codornices cocidas con ingredientes que permiten obtener un plato de sabores intensos.",
+  "historia": "Existen dos maneras de obtener una pieza horneada, dorada y bien cocida, Una de ellas exige sólo el manejo de la temperatura (técnica presentada en el pollo al horno); la otra, que se vale de una fritura o salteado previo, es la que se explica en esta receta. En esta receta se presentan las codornices cocidas con ingredientes que permiten obtener un plato de sabores intensos y jugos caramelizados (como los que proporcionan la cebolla y la tocineta), junto a texturas más suaves y esponjosas (como las que ofrecen las papas y los champiñones).",
+  "ingredientes": "### Ingredientes (para 4 personas) \n- 8 codornices con piel y sin vísceras \n- El jugo de 4 limones \n- Sal al gusto \n- Pimienta negra recién molida, al gusto \n- 200 gramos de harina de trigo \n- Aceite de maíz \n- 150 gramos de tocineta cortadas en cuadritos \n- 2 cebollas grandes cortadas en juliana \n- 1 ajoporro cortado en ruedas finas \n- 1 cebollín picado en trozos pequeños \n- 3 dientes de ajo machacados \n- 250 gramos de champiñones cortados por la mitad \n- 4 papas medianas peladas y cortadas en cuatro partes \n- 2 tazas de vino blanco ",
+  "preparacion": "1. Se limpian las codornices con el jugo de los limones y se lavan luego con agua. \n2. Se aliña cada codorniz con sal y pimienta, por dentro y por fuera, y se pasa por la harina. \n3. Se precalienta el horno a 180° C.\n4. En un caldero con abundante aceite caliente, se fríen brevemente las codornices a fuego alto, hasta que doren. Se retiran y se escurren sobre papel absorbente. \n5. Aparte, se saltean las tocinetas a fuego medio, por 5 minutos o hasta dorar. Se sacan. y se reservan.\n6. En la misma sartén se sofríen, siempre a fuego medio, la cebolla, el ajoporro, el cebollín y el ajo por unos 5 minutos. Se añade sal y pimienta negra al gusto. \n7. Bajo un chorro suave de agua fría, se lavan rápidamente los champiñones para eliminar impurezas. \n8. En una bandeja se colocan todos los ingredientes salteados (las codornices, las tocinetas y el sofrito), junto con los champiñones y las papas. Se bañan con el se tapa y se hornea por 30 minutos o hasta que las papas comiencen a dorar y el vino evapore un poco. \n### Sugerencia \n- Acompañar con puré de apio y ensalada de lechuga.",
+  "publico": true,
+  "created_at": "2019-12-07T13:27:42.952Z",
+  "updated_at": "2019-12-07T13:27:42.952Z",
+  "photo": {
+    "id": 232,
+    "name": "Codorniz al Horno.png",
+    "hash": "e01eefaa1c3a4f75989fcb0601f27141",
+    "sha256": "vBDrCrYjS8nrZCLnmQG5fFD41Ab77VRgupCPWriAjvc",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "217.29",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1575725263/eewnqwbyet9ge9o0ny03.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "eewnqwbyet9ge9o0ny03",
+      "resource_type": "image"
+    },
+    "created_at": "2019-12-07T13:27:43.638Z",
+    "updated_at": "2019-12-07T13:27:43.638Z"
+  },
+  "categorias": [
+    {
+      "id": 47,
+      "nombre": "Principal",
+      "created_at": "2019-11-20T14:11:58.958Z",
+      "updated_at": "2019-11-20T14:11:58.958Z"
+    }
+  ],
+  "url": "/receta/198/codornices-al-horno-con-champinones",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/eewnqwbyet9ge9o0ny03",
+  "_sourceUrl": "https://bongusto.net/receta/198/codornices-al-horno-con-champinones",
+  "_fetchedAt": "2026-10-12T16:25:46.833Z"
+}

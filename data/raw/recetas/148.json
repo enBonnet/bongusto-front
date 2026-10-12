@@ -1,0 +1,40 @@
+{
+  "id": 148,
+  "titulo": "Pan Naan",
+  "descripcion": "El naan es un suave y terso pan tradicionalmente horneado en un horno de barro llamado tandur.",
+  "historia": "Naan es una palabra que significa “pan” en persa. En cuanto a su origen, se dice que es resultado de un experimento después de la llegada de la levadura a Egipto, pero otra teoría dice que fue inventado por los mogoles y los persas alrededor de 1520.\nLos panes en la India eran principalmente chapatis y rotis, alimentos que se crearon durante la cultura de Harappan, cuando también se cultivaba el trigo, pero a la civilización le tomó otros 100 años obtener una variación de pan fermentado utilizando el famoso horno tandur.\n",
+  "ingredientes": "### De 8 a 10 Porciones:\n- 180 ml de agua caliente\t\t\t\n- Sal marina\n- 125 ml de yogur desnatado\t\t\t\n- Mantequilla fundida\n- 2 cucharadas de aceite vegetal\t\t\n- ½ cucharadita de sal\n- 8 g de levadura instantánea\t\t\t\n- 375 g de harina todo uso",
+  "preparacion": "1. Para comenzar, en un bol, agregamos el agua, el yogur, la levadura, 2 tazas de harina, la sal y el aceite.\n2. Formamos una bola de masa y la trabajamos. Vamos integrando en ella la harina restante. Estiramos, giramos y doblamos la masa durante 3 minutos. Dejamos reposar la masa durante 1 hora para que suba.\n3. Pasado el tiempo, dividimos la masa en 6 porciones y las estiramos, dejando unos 20-22 cm de diámetro y unos 6 mm de grosor.\n4. Cocinamos los panes en una sartén sin aceite ni mantequilla durante 90 segundos por cada lado.\n5. Pintamos con mantequilla los naan y espolvoreamos sal marina.\n6. Servimos.",
+  "publico": true,
+  "created_at": "2019-11-22T21:31:03.609Z",
+  "updated_at": "2019-11-22T21:31:03.609Z",
+  "photo": {
+    "id": 155,
+    "name": "Pan Nan.png",
+    "hash": "9ba037c5a58744809712817cedacd690",
+    "sha256": "aYbRaNb1Y0arlS_xYaiPUqQRSgJ1LJ+8vgMqtTQp9Ww",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "115.02",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1574458264/ikva1wuxcgnqexf6zl8h.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "ikva1wuxcgnqexf6zl8h",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-22T21:31:04.231Z",
+    "updated_at": "2019-11-22T21:31:04.231Z"
+  },
+  "categorias": [
+    {
+      "id": 7,
+      "nombre": "Guarnición",
+      "created_at": "2019-11-07T21:25:47.915Z",
+      "updated_at": "2019-11-07T21:25:47.915Z"
+    }
+  ],
+  "url": "/receta/148/pan-naan",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/ikva1wuxcgnqexf6zl8h",
+  "_sourceUrl": "https://bongusto.net/receta/148/pan-naan",
+  "_fetchedAt": "2026-10-12T16:26:27.728Z"
+}

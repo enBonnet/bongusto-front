@@ -1,0 +1,40 @@
+{
+  "id": 196,
+  "titulo": "Gallina Rellena",
+  "descripcion": "Esta receta tiene dos referencias directas en la cocina venezolana: la gallina rellena, propia del estado Táchira, y la galantina de gallina.",
+  "historia": "Esta receta tiene dos referencias directas en la cocina venezolana: la gallina rellena, propia del estado Táchira, y la galantina de gallina, muy popular en los banquetes de la Casa Amarilla de finales del siglo XIX. Ambas coinciden en el uso del relleno y en el método de cocción: el ave es envuelta en una tela (que tiempo atrás solía ser el lienzo de los costales de harina), hervida en un caldo y servida en rodajas. Se diferencian en que la galantina es una entrada fría, que suele llevar huevo en su relleno y estar recubierta por una gelatina hecha del caldo clarificado de la cocción.",
+  "ingredientes": "### Ingredientes (para 4 personas) \n### Gallina \n- 1 gallina deshuesada, con piel y sin vísceras \n- 1 limón cortado en dos \n### Relleno \n- 4 pechugas de pollo cortados en cuadros pequeños \n- 3 cucharaditas de sal \n- ¼ de taza de cilantro en hache \n- ¼ de taza de cebollín cortado \n- 1 huevo \n- ½ taza de crema de leche \n- 1 taza de apio España finamente cortado \n- 1/3 de taza de zanahoria en brunoise \n- 1/3 de taza de ají dulce en brunoise\n### Envoltorio \n- 1 tela de 70 cm de largo x 50 cm de ancho (preferiblemente liencillo) \n- 1 metro de pabilo \n### Cocción \n- 2 litros de caldo de aves (puede hacerse con los huesos dé la gallina) \n- ¼ de taza de aceite vegetal",
+  "preparacion": "1. Se limpia la gallina frotándola con limón. \n2. procesador de alimentos (\"pica todo\"), se colocan las pechugas de pollo y la sal y se muelen hasta obtener un puré homogéneo. Se agregan el cilantro, el cebollín y el huevo y se muele todo nuevamente. \n3. Una vez que se ha obtenido una pasta, se agrega la crema de leche y se vuelve a triturar, pero no más de 30 segundos. Ya sin batir, se añaden los vegetales cortados (zanahoria, apio españa y ají dulce). \n4. Se rellena la gallina por su parte inferior con la mezcla de pollo. Se coloca sobre la tela, se envuelve en forma cilíndrica, bien prensada (a modo de caramelo), y se amarran los extremos con pabilo. \n5. En una bandeja alta se sumerge la gallina en el caldo y se cocina a fuego bajo por 3 horas, cuidando de bañarla con el consomé de vez en cuando y de agregar más en caso de que se evapore, Una vez lista, se retira y se deja enfriar. \n6. Se abre la tela y se saca cuidadosamente la gallina. Se dora en una sartén con el aceite a fuego alto, Se corta en ruedas de 1 cm de espesor para servir. \n### Sugerencia \n- Acompañar con puré de batata y un salteado de vegetales con hierbas.",
+  "publico": true,
+  "created_at": "2019-12-06T23:11:17.987Z",
+  "updated_at": "2019-12-06T23:11:17.987Z",
+  "photo": {
+    "id": 230,
+    "name": "Gallina Rellena.png",
+    "hash": "e1f753e843714f3aa7514714241aeea3",
+    "sha256": "1JGSdu4Hl_mZywtGsBx1dDt91r20alv0CwQpGN9E4hg",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "181.75",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1575673878/h3ulsbazhapmylo5zcxg.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "h3ulsbazhapmylo5zcxg",
+      "resource_type": "image"
+    },
+    "created_at": "2019-12-06T23:11:18.478Z",
+    "updated_at": "2019-12-06T23:11:18.478Z"
+  },
+  "categorias": [
+    {
+      "id": 47,
+      "nombre": "Principal",
+      "created_at": "2019-11-20T14:11:58.958Z",
+      "updated_at": "2019-11-20T14:11:58.958Z"
+    }
+  ],
+  "url": "/receta/196/gallina-rellena",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/h3ulsbazhapmylo5zcxg",
+  "_sourceUrl": "https://bongusto.net/receta/196/gallina-rellena",
+  "_fetchedAt": "2026-10-12T16:25:48.620Z"
+}

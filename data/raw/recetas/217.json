@@ -1,0 +1,40 @@
+{
+  "id": 217,
+  "titulo": "Plátano al Horno",
+  "descripcion": "Para esta receta se utiliza el plátano maduro o pasado. Apenas necesita el calor constante del horno para resultar un acompañante ideal de otros preparados.",
+  "historia": "Para esta receta se utiliza el plátano maduro o pasado. Apenas necesita el calor constante del horno para resultar un acompañante ideal de otros preparados. Con este método, el plátano evapora parte de su humedad, quedando muy dulce, suave y con una cubierta dorada y un poco crujiente. En el Zulia se sine entero, abierto a lo largo y relleno con queso blanco rallado.",
+  "ingredientes": "### Ingredientes- para 3 0 4 personas \n- 3 plátanos maduros o pasados \n- 3 cucharadas de mantequilla (opcional)",
+  "preparacion": "1. Se precalienta el horno a 200° C. \n2. Se pelan los plátanos y, si se quiere, se untan con mantequilla. \n3. Se hornean sobre una bandeja o directamente sobre las rejillas del horno, unos 30 minutos, dándoles 2 0 3 vueltas para que se doren uniformemente. \n### Opcional \n- Hay quienes envuelven cada plátano por separado en papel encerado (y engrasado con mantequilla) antes de meterlos al horno. \n- También puede asarse con su piel.",
+  "publico": true,
+  "created_at": "2019-12-07T20:24:23.998Z",
+  "updated_at": "2019-12-07T20:24:23.998Z",
+  "photo": {
+    "id": 251,
+    "name": "Plátano ala horno.png",
+    "hash": "f20441328c544df798c28cbd72b3a896",
+    "sha256": "b822PwsQ77NQkHsb3lVZhYbBFD6_bKRuX-sdWwTTt1k",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "212.36",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1575750264/rkkge5l9p7cvu9jkhqf3.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "rkkge5l9p7cvu9jkhqf3",
+      "resource_type": "image"
+    },
+    "created_at": "2019-12-07T20:24:24.387Z",
+    "updated_at": "2019-12-07T20:24:24.387Z"
+  },
+  "categorias": [
+    {
+      "id": 7,
+      "nombre": "Guarnición",
+      "created_at": "2019-11-07T21:25:47.915Z",
+      "updated_at": "2019-11-07T21:25:47.915Z"
+    }
+  ],
+  "url": "/receta/217/platano-al-horno",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/rkkge5l9p7cvu9jkhqf3",
+  "_sourceUrl": "https://bongusto.net/receta/217/platano-al-horno",
+  "_fetchedAt": "2026-10-12T16:25:30.922Z"
+}

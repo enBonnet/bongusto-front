@@ -1,0 +1,40 @@
+{
+  "id": 123,
+  "titulo": "Compota de Verduras",
+  "descripcion": "Este plato es una mezcla de verduras reducidas casi a salsa.",
+  "historia": "Este plato es una mezcla de verduras reducidas casi a salsa, y es oriundo de la región de la Provenza en Francia.\nEl siglo XVII presentó también cambios en los que se refiere al consumo de frutas y verduras. Los tubérculos, como la patata, el nabo o la zanahoria, anteriormente menospreciados por las clases más altas, se pusieron de moda.\nSe servían ensaladas y diferentes platos donde se mezclaban verduras, frutas y otros productos frescos. El aumento del consumo de fruta, trajo consigo otras novedades: aparecieron las primeras mermeladas, jaleas y compotas.",
+  "ingredientes": "### 4 Porciones:\n- 2 cebollas cortadas a dados\n- Un poco de aceite de oliva c/n.\n- 1 pimentón rojo cortadas a dados pequeños\n- 1 pimentón verde cortadas a dados pequeños\n- 3 calabacines o zapallitos (así le llaman por la Provenza) dados pequeños\n- Sal y pimienta molida en el momento\n- 3 tomates concassés \n- 3 dientes de ajo bien majados",
+  "preparacion": "- Cocinar la cebolla en un poco de aceite de oliva hasta que estén tiernas y suaves. Mientras tanto, quitar el centro y las semillas a los pimientos y cortarlos en dados pequeños. \n- Cortar los calabacines dados pequeños.\n- Agregar los dados de pimiento y calabacines a la cebolla, mezclar con un poco más de aceite de oliva, cocinar hasta que los pimientos estén apenas tiernos.\n- Condimentar y agregar los tomates concassés y el ajo.\n- Dejar cocinar todos los ingredientes de la compota a fuego lento durante 10 minutos, o hasta que todas las verduras estén tiernas.\n- ESto tiene que quedar como un asopado donde las verduras esten bien blandas ya para desvaratarse.",
+  "publico": true,
+  "created_at": "2019-11-20T20:16:59.525Z",
+  "updated_at": "2019-11-20T20:16:59.525Z",
+  "photo": {
+    "id": 130,
+    "name": "Compota de Verduras.png",
+    "hash": "48d0a721e74c4950aef988ed41c3f639",
+    "sha256": "ST-EvfZ9aUSsqgwgBcuG492KqZ8r7gJEAEkz9AK5rpc",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "215.15",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1574281019/bfgtgjkvdcqqofxjaihm.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "bfgtgjkvdcqqofxjaihm",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-20T20:16:59.854Z",
+    "updated_at": "2019-11-20T20:16:59.854Z"
+  },
+  "categorias": [
+    {
+      "id": 6,
+      "nombre": "Entrada",
+      "created_at": "2019-11-07T21:23:25.610Z",
+      "updated_at": "2019-11-07T21:23:25.610Z"
+    }
+  ],
+  "url": "/receta/123/compota-de-verduras",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/bfgtgjkvdcqqofxjaihm",
+  "_sourceUrl": "https://bongusto.net/receta/123/compota-de-verduras",
+  "_fetchedAt": "2026-10-12T16:26:47.658Z"
+}

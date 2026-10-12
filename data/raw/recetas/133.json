@@ -1,0 +1,40 @@
+{
+  "id": 133,
+  "titulo": "Falafel",
+  "descripcion": " El Falafel es una de las recetas más populares del Medio Oriente.",
+  "historia": "A pesar de que su origen es incierto, se cree que es original de la India, donde se cocinó en un pan con especias amargas. La palabra \"falafel\" viene de la palabra árabe فلفل (filfil), que significa pimiento, y probablemente del sánscrito pippalī.",
+  "ingredientes": "### De 6 a 10 porciones:\n- Medio kilo de garbanzos\t\t\t\n- Cilantro fresco (Opcional)\n- 4-5 dientes de ajo\t\t\t\t\n- 1 litro de Aceite \n- Dos cebollas medianas\t\t\t\n- Sal\n- Una cucharada de levadura en polvo\t\n- Perejil\n- Pimienta molida\t\t\t\t\n- Dos cucharaditas de comino",
+  "preparacion": "La preparación de esta receta de falafel requiere que metamos los garbanzos en remojo al menos 24 horas antes de preparar la masa de los mismos, así que es una receta que a la hora de hacerla tienes que prever este tiempo que se necesita antes de prepararla. De hecho si podemos dejar los garbanzos alguna hora más en remojo, mejor aún. Hay que controlar que no se queden sin agua los garbanzos, ya que en las primeras horas absorben bastante agua, así que controlad que estén siempre bien cubiertos. Debemos emplear unos buenos garbanzos lechosos secos, jamás garbanzos de bote que estén previamente cocidos, ya que el falafel no quedaría igual.\nPasado el tiempo indicado, escurrimos los garbanzos y los colocamos sobre papel absorbente o sobre algún paño de cocina, ya que hay que conseguir que pierdan toda el agua sobrante, cuanto más secos queden los garbanzos, más sencillo será trabajar la masa una vez la tengamos lista para hacer los falafel. Una vez los tengamos bien secos, vamos a cortarlos bien, de forma que nos queden convertidos en trozos muy pequeños, sin llegar a triturarlos del todo. Para ello les recomiendo usar una picadora, que resulta muy cómoda para conseguir un buen resultado.\nA medida que vayamos cortando los garbanzos, los iremos agregando en un recipiente que sea bastante amplio. A continuación pelamos la cebolla quitándole la capa exterior, la cortamos en varios trozos y la incorporamos en la picadora. Los ajos los pelamos y los agregamos junto a la cebolla. Lavamos una buena cantidad de perejil, lo escurrimos y lo añadimos también a la picadora, junto con un poco de cilantro fresco, de forma opcional. Cortamos todos los ingredientes hasta que queden muy cortados, y los agregamos al recipiente donde teníamos los garbanzos triturados, desechando el líquido que se haya formado al picar la cebolla.\nAgregamos sal y pimienta recién molida al gusto, un par de cucharaditas de comino molido y una cucharada de levadura en polvo, y vamos a remover lo mejor posible para mezclar todos los ingredientes. La mejor forma de mezclar bien los ingredientes y conseguir una buena masa para los falafel es emplear las manos directamente, ya que así conseguiremos repartir bien los mismos y que la masa quede bien homogénea. Una vez hayamos amasado lo mejor posible, vamos a tapar la masa y la dejamos reposar entre 45 minutos y una hora.\nUna vez que la masa ha reposado y la levadura ha hecho su efecto, vamos a proceder a formar los falafel, lo que haremos con las manos, que es la mejor forma de hacerlo. Hay que hacer unas bolas que no sean demasiado grandes, de unos 4-5 centímetros, que luego aplastaremos un poco para darles la forma característica a los falafel, aunque si lo prefieres puedes dejarlos en forma de bola. Si la masa está demasiado húmeda y no te quedan consistentes las bolas, agrega harina poco a poco, a ser posible de garbanzos, a la masa y vuelve a mezclar, hasta que te quede con el punto justo para que se mantengan bien los falafel.\nPonemos una sartén bien profunda con abundante a aceite a calentar, y una vez esté bien caliente iremos friendo los falafel, de forma que nos queden bien cubiertos con el aceite. Los freímos durante unos 5 minutos, de modo que queden más bien oscuros por fuera, y los vamos colocando sobre papel absorbente o de servilleta, para que el aceite sobrante se escurra, y al acabar los servimos para comer en caliente. Este plato se puede acompañar de alguna salsa, como puede ser salsa de yogur, salsa tzatziki, tahini, hummus o bien dentro de un pan de pita acompañado con tomate, lechuga y alguna salsita.\n",
+  "publico": true,
+  "created_at": "2019-11-21T15:16:43.051Z",
+  "updated_at": "2019-11-21T15:16:43.051Z",
+  "photo": {
+    "id": 140,
+    "name": "Falafe.png",
+    "hash": "3562c17911c346518af8e30ed5f4c5a3",
+    "sha256": "gl8P_6th0xD6VSCj53memg6ns6ymXhPa2t2aeKTtHT4",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "108.01",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1574349403/cmdbbqmbyq357br6avvo.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "cmdbbqmbyq357br6avvo",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-21T15:16:43.472Z",
+    "updated_at": "2019-11-21T15:16:43.472Z"
+  },
+  "categorias": [
+    {
+      "id": 7,
+      "nombre": "Guarnición",
+      "created_at": "2019-11-07T21:25:47.915Z",
+      "updated_at": "2019-11-07T21:25:47.915Z"
+    }
+  ],
+  "url": "/receta/133/falafel",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/cmdbbqmbyq357br6avvo",
+  "_sourceUrl": "https://bongusto.net/receta/133/falafel",
+  "_fetchedAt": "2026-10-12T16:26:40.096Z"
+}

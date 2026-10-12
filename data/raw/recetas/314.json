@@ -1,0 +1,40 @@
+{
+  "id": 314,
+  "titulo": "Pimentón Asado o Peperonata",
+  "descripcion": "Esta es una receta de origen italiano y su nombre se lo debe a su principal ingrediente “il peperoni” (pimiento).",
+  "historia": "No se tiene una fecha exacta de su origen. Y en cada hogar de Italia o Europa, le dan sus toques personales.",
+  "ingredientes": "- 4 pimentones grandes (seria ideal que fuesen de diferentes colores)\n- Aceite. C/N\n- 5 dientes de ajo\n- Sal. C/N\n- Pimienta. C/N\n- Orégano seco (Oreganito)\n- Una bolsa plástica\n- Un frasco de vidrio de 200 grs, preferiblemente tapa de metal",
+  "preparacion": "- Higienizar los pimentones y secar\n- Barnizar o impregnar cada pimentón con aceite\n- Colocar los pimentones sobre las hornillas directo al fuego o sobre una rejilla.\n- Ir rotando sobre el fuego los pimentones, hasta que la piel este literalmente quemada.\n- Retirar del fuego y resguardar en la bolsa plástica, y dejar reposar de 15 a 20 minutos.\n- Retirar de la bolsa uno a uno, y con un cuchillo, raspar toda la parte quemada de la piel, abrirlos y retirar las semillas, luego cortar en julianas. Reservar.\n- Majar el ajo\n- Poner a calentar un sartén, con 2 cucharadas de aceite\n- Sofreír el ajo, sin dejarlo dorar, agregamos el pimentón que tenemos en julianas y saltear, condimentando con sal, pimienta y orégano. Al gusto\n- Resguardar en un envase (frasco) y degustar a discreción. Se puede consumir frio o caliente.",
+  "publico": true,
+  "created_at": "2022-04-02T13:03:29.837Z",
+  "updated_at": "2022-04-02T13:03:29.837Z",
+  "photo": {
+    "id": 358,
+    "name": "Peperonata.jpg",
+    "hash": "2054d1ef2864495da8dd01ae5b05680e",
+    "sha256": "B7PDHWHsf3075RKGkpTEJrrJAQkPjwKfHMAVDd0Nszw",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "size": "69.30",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1648904609/mnmsvbewwjclqzb4fadg.jpg",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "mnmsvbewwjclqzb4fadg",
+      "resource_type": "image"
+    },
+    "created_at": "2022-04-02T13:03:30.384Z",
+    "updated_at": "2022-04-02T13:03:30.384Z"
+  },
+  "categorias": [
+    {
+      "id": 49,
+      "nombre": "Pasa Palo",
+      "created_at": "2019-12-07T22:49:13.689Z",
+      "updated_at": "2019-12-07T22:49:13.689Z"
+    }
+  ],
+  "url": "/receta/314/pimenton-asado-o-peperonata",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/mnmsvbewwjclqzb4fadg",
+  "_sourceUrl": "https://bongusto.net/receta/314/pimenton-asado-o-peperonata",
+  "_fetchedAt": "2026-10-12T16:24:11.476Z"
+}

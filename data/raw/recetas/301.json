@@ -1,0 +1,40 @@
+{
+  "id": 301,
+  "titulo": "Maraquita",
+  "descripcion": "Acá en Venezuela le llamamos así al tradicional Anís con hielo, limón y un toque de soda... como digestivo es muy bueno y a orilla de playa mejor.",
+  "historia": "Cóctel criollito, Venezolano, que tiene como nombre \"Maraquita\" el cual consiste en mezclar anís, zumo de limón y soda...",
+  "ingredientes": "- Vaso: (vaso old fashion)\n- Hielo: (Hielo Picado)\n- Jugo de Limón \n- Anís \n- Soda\n**- Decoración:**\n- Removedor de bebidas\n- Pitillos\n- Limón\n- Guinda\n",
+  "preparacion": "- Agregar Hielo picado al vaso\n- Agregar el sumo de ½ limón\n- Agregar 1 ½ onza de anís\n- Completar con soda \n**- Decorar:**\n- Colocar removedor de bebidas\n- Colocar dos pitillos \n- Colocar rueda de limón a caballo y guinda",
+  "publico": true,
+  "created_at": "2021-10-31T14:52:22.617Z",
+  "updated_at": "2021-10-31T14:52:22.617Z",
+  "photo": {
+    "id": 345,
+    "name": "Maraquita.png",
+    "hash": "3ba12c45a4824009811a9b6b8841cb89",
+    "sha256": "0iGcSaxhLsoJabz8_PRrZP7WFCqjkiygSYwHt6+2PHE",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "80.83",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1635691942/al6lh5ta2qbdjll8tq1i.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "al6lh5ta2qbdjll8tq1i",
+      "resource_type": "image"
+    },
+    "created_at": "2021-10-31T14:52:23.139Z",
+    "updated_at": "2021-10-31T14:52:23.139Z"
+  },
+  "categorias": [
+    {
+      "id": 43,
+      "nombre": "Maridaje ",
+      "created_at": "2019-11-09T20:57:22.945Z",
+      "updated_at": "2019-11-09T20:57:22.945Z"
+    }
+  ],
+  "url": "/receta/301/maraquita",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/al6lh5ta2qbdjll8tq1i",
+  "_sourceUrl": "https://bongusto.net/receta/301/maraquita",
+  "_fetchedAt": "2026-10-12T16:24:22.193Z"
+}

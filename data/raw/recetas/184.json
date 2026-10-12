@@ -1,0 +1,40 @@
+{
+  "id": 184,
+  "titulo": "Ensalada de Muchacho Redondo",
+  "descripcion": "La ensalada de muchacho redondo es una propuesta contemporánea en el aprovechamiento inteligente de sobras de -el asado negro.",
+  "historia": "La ensalada de muchacho redondo es una propuesta contemporánea en el aprovechamiento inteligente de sobras de -el asado negro. Sólo será necesario cortar en cuadritos la carne restante y combinarla con verduras y hierbas frescas. Es un buen ejemplo para mostrar los componentes fundamentales de la habitual sazón venezolana: el sofrito y el compuesto. Se trata de un plato principal, frío que puede llevar o no contornos.",
+  "ingredientes": "### Ingredientes (para 4 personas) \n### Cocción de la carne \n- 3 cucharadas de aceite \n- l cebolla cortada en trozos medianos \n- 1 cebollín cortado en trozos medianos \n- 1 cabeza de ajo \n- 2 zanahorias cortadas en trozos medianos. \n- 1 ajoporro cortado en trozos medianos \n- 3 ajíes dulces cortados en cuatro (sin venas ni semillas) \n- 1 Kg. de muchacho redondo \n- Sal al gusto \n### Ensalada \n- 1 compuesto cortado finamente (formado por 2 ramas de cilantro, 2 de yerbabuena, 2 de perejil y 2 de apio españa) \n- l cebolla cortada en cuadritos \n- l cebollín cortado en cuadritos \n- 3 ajíes dulces cortados en cuadritos (sin venas ni semillas) \n- 4 tomates cortados en cuadritos (sin semillas) \n### Vinagreta \n- 2 cucharadas de vinagre de vino \n- 6 cucharadas de aceite de oliva \n- Sal, pimienta y picante al gusto",
+  "preparacion": "1. En una olla mediana se sofríen a fuego alto, en tres cucharadas de aceite, los aliños de la carne: cebolla, cebollín, ajo, zanahorias, ajoporro y ajíes dulces, por unos 3 minutos. \n2. Se introduce el muchacho y se vierte agua hasta cubrirlo. Se cocina durante 3 horas a fuego lento, o hasta que ablande. \n3. Se retira la carne de la olla, se deja enfriar y.se corta en cuadros pequeños. \n4. En una ensaladera grande se mezcla la carne ya cortada con el compuesto, la cebolla, el cebollín y los ajíes dulces en cuadritos. Se agregan de último los tomates, para que se mantengan firmes y no expulsen su jugo antes de llegar a la mesa. \n5. Se adereza con la vinagreta. \n### Sugerencias \n- Esta ensalada se puede servir sola o acompañada con arroz o papas hervidas. \n- Las variaciones con cuadritos de pimentón, pepino o lechuga son siempre refrescantes.",
+  "publico": true,
+  "created_at": "2019-12-06T22:19:00.431Z",
+  "updated_at": "2019-12-06T22:20:28.686Z",
+  "photo": {
+    "id": 218,
+    "name": "Ensalada de Muchacho.png",
+    "hash": "c52a1d98fc4a4d39b644c2ef48f9a1f3",
+    "sha256": "uY4fcWeK5Vby785ByY0rKKlKMQnKbhQg_e-iwlXGOpg",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "165.32",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1575670740/buqkrge1jvkimhs5xgzn.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "buqkrge1jvkimhs5xgzn",
+      "resource_type": "image"
+    },
+    "created_at": "2019-12-06T22:19:00.855Z",
+    "updated_at": "2019-12-06T22:19:00.855Z"
+  },
+  "categorias": [
+    {
+      "id": 6,
+      "nombre": "Entrada",
+      "created_at": "2019-11-07T21:23:25.610Z",
+      "updated_at": "2019-11-07T21:23:25.610Z"
+    }
+  ],
+  "url": "/receta/184/ensalada-de-muchacho-redondo",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/buqkrge1jvkimhs5xgzn",
+  "_sourceUrl": "https://bongusto.net/receta/184/ensalada-de-muchacho-redondo",
+  "_fetchedAt": "2026-10-12T16:25:58.376Z"
+}

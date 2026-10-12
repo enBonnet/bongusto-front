@@ -1,0 +1,40 @@
+{
+  "id": 223,
+  "titulo": "Sancocho de Pescado",
+  "descripcion": "Los Sancochos: Se hace con base de res (en algunos sitios, como Barcelona, también se le \nañade carne de cerdo), de pescado (muy popular en los pueblos de la costa)",
+  "historia": "Los Sancochos: Se hace con base de res (en algunos sitios, como Barcelona, también se le \nañade carne de cerdo), de pescado (muy popular en los pueblos de la costa), o de gallina (aunque el dicho afirma que \"la gallina vieja da el mejor caldo\", los que saben de sancocho, las prefieren no muy viejas), y cuando tienen dos o más tipos de carne, reciben el nombre de cruzado. En cualquiera de los casos, la carne se cocina en agua junto con diferentes tubérculos y vegetales.\n",
+  "ingredientes": "### Ingredientes (para 8 personas) \n- 1 pargo o mero de 2 kgs \n- 1 limón cortado en dos \n- 2 ½ cucharadas de sal \n- 5 litros de agua \n- 1 ajoporro cortado en trozos grandes \n- 1 cebolla grande cortada en cuatro \n- 1 pimentón verde cortado en trozos grandes (sin venas ni semillas) \n- 10 dientes de ajo enteros \n- 3 ajíes dulces cortados en cuatro \n- ½ kg de ñame pelado y cortado en trozos grandes \n- ½ kg de ocumo pelado y cortado en trozos grandes \n- ½ kg de yuca pelada y cortada en trozos grandes \n- ½ kg de mapuey (ñame) pelado y cortado en trozos grandes \n- ½ kg de papas peladas y cortadas en cuatro \n- 4 cambures topochos verdes partidos en dos con las manos \n- ½ cucharadita de pimienta negra recién molida \n- 1 rama de cilantro",
+  "preparacion": "1. Se lava bien el pescado con agua, se frota con el limón y se corta en ruedas. Se reservan la cabeza y la cola.\n2. Se colocan las ruedas en una bandeja y se frotan con sal (aproximadamente ½ cucharada). \n3. En una olla grande se vierte el agua y se colocan la cabeza y la cola del pescado, el ajoporro, la cebolla, el pimentón, el ajo y el ají dulce. Se lleva a un hervor suave (el líquido apenas empieza a hacer burbujas) y se deja cocinar a fuego medio por 20 minutos. \n4. Se retira el caldo del fuego, se cuela y se desechan la cabeza y la cola. Se regresa a la olla. Se añaden el ocumo, el ñame, la yuca, el mapuey, la sal y la pimienta. En el momento en que empiece a hervir, se añaden las papas y los cambures topochos. Se deja cocinar por 30 minutos. \n5. Se agregan las ruedas de pescado y luego de 3 minutos, el cilantro. Cuando el pescado esté cocido pero firme (unos 5 minutos después), se retira el hervido del fuego y se saca la rama de cilantro. \n6. Para servir, se colocan todos los ingredientes en el plato o se apartan en una bandeja las ruedas de pescado y las verduras, y se sirve el caldo colado aparte en una sopera. \n### Sugerencia \n- Acompañar con casabe, arepitas y picante.",
+  "publico": true,
+  "created_at": "2019-12-07T21:59:18.678Z",
+  "updated_at": "2019-12-07T21:59:18.678Z",
+  "photo": {
+    "id": 257,
+    "name": "Sancocho de Pescado.png",
+    "hash": "9855e6dae01946b18934f8b51222e1ed",
+    "sha256": "0qszTPV4FBYTqqXvt94atSytwGZxM4yfaP-Goms-08A",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "153.01",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1575755958/eprsvp1bp2hkp63srqea.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "eprsvp1bp2hkp63srqea",
+      "resource_type": "image"
+    },
+    "created_at": "2019-12-07T21:59:19.133Z",
+    "updated_at": "2019-12-07T21:59:19.133Z"
+  },
+  "categorias": [
+    {
+      "id": 6,
+      "nombre": "Entrada",
+      "created_at": "2019-11-07T21:23:25.610Z",
+      "updated_at": "2019-11-07T21:23:25.610Z"
+    }
+  ],
+  "url": "/receta/223/sancocho-de-pescado",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/eprsvp1bp2hkp63srqea",
+  "_sourceUrl": "https://bongusto.net/receta/223/sancocho-de-pescado",
+  "_fetchedAt": "2026-10-12T16:25:26.679Z"
+}

@@ -1,0 +1,40 @@
+{
+  "id": 334,
+  "titulo": "Gofres O Wafles",
+  "descripcion": "Waffles o “gofres”, como también se les conoce en otras partes del mundo, son de origen belga.",
+  "historia": "Haciendo un poco de historia, pareciera ser que esta deliciosa preparación no es tan moderna como se cree, y es que los waffles o “gofres”, como también se les conoce en otras partes del mundo, son de origen belga, pero fue la cultura norteamericana la que los popularizó a nivel mundial, gracias a los colonos que ahí llegaron proveniente de Países Bajos.\nEl término 'waffle' y 'wafers' -esta última que significa oblea-, provienen del alemán antiguo 'Wafel', la cual está relacionada con las palabras tejido o panal de abeja, mismo que podría ser uno de los precursores del waflle como lo conocemos ahora en su versión cuadriculada. Durante la época medieval, el wafel alemán se convirtió en lo que se conocería como el gaufre francés, que con el paso del tiempo fue adquiriendo popularidad en Europa donde también se le conoce como gofre.\n",
+  "ingredientes": "**PARA 4 PERSONAS** \n- 2 tazas Harina \n- 1/4 taza Azúcar \n- 1 cucharadita Polvo para hornear \n- 1 cucharadita Sal \n- 1 ½ tazas Leche \n- 1 cucharada Esencia de vainilla \n- 2 yemas \n- 2 claras de huevo batidas a punto de turrón \n- 8 cucharadas Mantequilla fundida",
+  "preparacion": "- Coloca en un tazón la harina, el azúcar, el polvo para hornear y la sal. Reserva.\n- Mezcla en otro tazón las yemas, la vainilla y la leche, incorporar a los ingredientes secos, hasta que se integre todo bien, sin batir o mezclar de más.\n- Añade la preparación anterior la mantequilla y mezclar hasta incorporar.\n- Añade de forma envolvente las claras a punto de nieve.\n- Dejar reposar en la nevera por lo menos una hora.\n- Disponemos en una waflera ya caliente y aceitada, una medida de la mezcla y tapamos, dependiendo de la waflera, la cocción podría durar de 7 a 10 minutos, cuando estén doradas están listas.\n- Acompañar con fresas, duraznos y miel. ",
+  "publico": true,
+  "created_at": "2022-06-11T19:32:22.836Z",
+  "updated_at": "2022-06-11T19:32:22.836Z",
+  "photo": {
+    "id": 378,
+    "name": "Wafles.png",
+    "hash": "0ef7b1ef1a6b4ee2a01c5e4d4bf76bea",
+    "sha256": "QLsOp9JmtjvOgQ52cI5vAxiJ6KbuWXUXHpMZPyv5MFs",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "139.78",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1654975942/hj49gmzjez4i2efqp74s.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "hj49gmzjez4i2efqp74s",
+      "resource_type": "image"
+    },
+    "created_at": "2022-06-11T19:32:23.233Z",
+    "updated_at": "2022-06-11T19:32:23.233Z"
+  },
+  "categorias": [
+    {
+      "id": 9,
+      "nombre": "Postre",
+      "created_at": "2019-11-07T22:49:20.381Z",
+      "updated_at": "2019-11-07T22:49:20.381Z"
+    }
+  ],
+  "url": "/receta/334/gofres-o-wafles",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/hj49gmzjez4i2efqp74s",
+  "_sourceUrl": "https://bongusto.net/receta/334/gofres-o-wafles",
+  "_fetchedAt": "2026-10-12T16:23:56.667Z"
+}

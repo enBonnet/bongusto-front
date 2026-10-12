@@ -1,0 +1,40 @@
+{
+  "id": 278,
+  "titulo": "Nachos o Totopos",
+  "descripcion": "Totopos es el nombre que se le da en México a los trozos de tortilla fritos o tostados hasta adquirir una textura crujiente.",
+  "historia": "Estos totopos crujientes en forma circular y en triángulo fueron creados en 1943 por Ignacio Anaya García, un mexicano que trabajaba en un restaurante de Piedras Negras, Coahuila al norte de México.",
+  "ingredientes": "(para dos personas)\n•\t2 tazas de harina de maíz Maseca\n•\t½ cucharadita de sal\n•\t3 cucharadas de maicena\n•\t1 taza de agua más o menos\n•\t¼ de cucharadita de onoto en polvo o cúrcuma (Si los quiere colorados)\n•\tAceite para freír\n",
+  "preparacion": "•\tMezcle todos los ingredientes hasta formar una masa que debe quedar un poco seca.\n•\tForme bolitas y adelgácelas con rodillo entre dos plásticos hasta que queden bien finas y redondeadas.\n•\tCocínelas en un budare bien caliente, 30 segundos por cada lado.\n•\tDejar reposar y cortar en forma de triángulos\n•\tLlevar a la gran fritura hasta dorar (Aproximadamente 1 ½ minuto)\n•\tEscurrir para eliminar el exceso de aceite \n•\tY listos para degustar con la salsa de su preferencia o con un rico guacamole\nNota: Los puede espolvorear con polvo de queso chédar si es de su gusto.\n",
+  "publico": true,
+  "created_at": "2021-09-12T13:26:50.812Z",
+  "updated_at": "2021-09-12T13:26:50.812Z",
+  "photo": {
+    "id": 312,
+    "name": "Nachos.png",
+    "hash": "db48b67f5a5e4719ba47115d927ec0a2",
+    "sha256": "PqcssFDeCv0Hxq3y7p11A33GJqDwR3VZ36eNqWDejTA",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "612.74",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1631453211/izo0oomlzfkxvjnkt5dy.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "izo0oomlzfkxvjnkt5dy",
+      "resource_type": "image"
+    },
+    "created_at": "2021-09-12T13:26:51.419Z",
+    "updated_at": "2021-09-12T13:26:51.419Z"
+  },
+  "categorias": [
+    {
+      "id": 7,
+      "nombre": "Guarnición",
+      "created_at": "2019-11-07T21:25:47.915Z",
+      "updated_at": "2019-11-07T21:25:47.915Z"
+    }
+  ],
+  "url": "/receta/278/nachos-o-totopos",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/izo0oomlzfkxvjnkt5dy",
+  "_sourceUrl": "https://bongusto.net/receta/278/nachos-o-totopos",
+  "_fetchedAt": "2026-10-12T16:24:41.813Z"
+}

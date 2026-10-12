@@ -1,0 +1,40 @@
+{
+  "id": 321,
+  "titulo": "Peras Beaufulais (al vino)",
+  "descripcion": "Las peras al vino tinto constituyen un postre clásico.",
+  "historia": "Las peras al vino tinto constituyen un postre clásico. Se consideran de origen francés. “La pera a la Beaujolaise”, o peras al vino, se originó en los territorios vitivinícolas de Borgoña y Lyon. Es un postre que se prepara al menos desde el siglo XVI. Se come además de en Francia y en España, en muchos otros países como Italia, Inglaterra, Alemania y Estados Unidos.",
+  "ingredientes": "- 4 peras grandes\n- 1/2 lt. vino tinto.\n- 150 g. azúcar\n- 1 rama de canela\n- Cáscara naranja\n- Cáscara limón\n- 4 hijas de hierba buena\n- Helado de mantecado ",
+  "preparacion": "- Pelamos las peras, dejándoles el rabito de la parte superior para poder luego manipularlas con facilidad. \n- Si disponemos de un utensilio para extraerles el corazón lo hacemos, en caso contrario ya lo quitaremos en el momento de degustarlas. \n- Realizamos un corte horizontal en la base de las peras para que se asienten bien en la cazuela.\n- Elegimos una olla/cazuela de base ancha para que nos entren perfectamente las 4 peras.\n- Debe sobrar espacio, lo suficiente entre ellas para luego regarlas con el vino.\n- Vertemos el vino y ponemos a calentar a fuego medio, cuando coja temperatura añadimos el azúcar y removemos para que se vaya integrando. Añadimos ahora la canela en rama, la cáscara de naranja y la de limón. Recordad que debemos quitarles la parte blanca para que no nos aporten amargor.\n- Colocamos las peras en la cazuela, tapamos y cocinamos 25-30 minutos a fuego medio. Es importante de vez en cuando, por lo menos cada 5 minutos, ir regando las peras varias veces con el almíbar de vino que se va cocinando. Según vayamos bañando la fruta, comprobaremos como va adquiriendo el color del vino tinto.\n- Pasado el tiempo de cocción comprobamos con una brocheta o pincho el punto óptimo. Debe introducirse fácilmente hasta el corazón de la pera, cuya carne debe de estar tierna.\n- Retiramos las peras a un plato cogiéndolas por el rabito. Seguimos reduciendo el líquido de la cazuela, esta vez a fuego alto durante unos 10-15 min. Debemos buscar que nos quede un almíbar de vino, pero sin que llegue a caramelizar.\n- Pueden consumirse templadas o frías según gustos. Aunque la manera más típica es consumirlas una vez haya enfriando en el frigorífico. Podemos calentar ligeramente el almíbar para que haga contraste con la fruta. Acompañando con una bola de helado y decorando con hojas de hierba buena.",
+  "publico": true,
+  "created_at": "2022-06-11T15:38:34.656Z",
+  "updated_at": "2022-06-11T15:38:34.656Z",
+  "photo": {
+    "id": 365,
+    "name": "Peras al Vino.png",
+    "hash": "25afc6fdfd5d4d04beb537ded9d0e003",
+    "sha256": "I2on-xKrAXDY5JbNPt9GlsD02frlZ4-tMLBMuaeOC8Q",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "84.98",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1654961914/rjr5ricllftwmudouodg.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "rjr5ricllftwmudouodg",
+      "resource_type": "image"
+    },
+    "created_at": "2022-06-11T15:38:35.040Z",
+    "updated_at": "2022-06-11T15:38:35.040Z"
+  },
+  "categorias": [
+    {
+      "id": 9,
+      "nombre": "Postre",
+      "created_at": "2019-11-07T22:49:20.381Z",
+      "updated_at": "2019-11-07T22:49:20.381Z"
+    }
+  ],
+  "url": "/receta/321/peras-beaufulais-al-vino",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/rjr5ricllftwmudouodg",
+  "_sourceUrl": "https://bongusto.net/receta/321/peras-beaufulais-al-vino",
+  "_fetchedAt": "2026-10-12T16:24:06.436Z"
+}

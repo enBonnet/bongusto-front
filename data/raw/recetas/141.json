@@ -1,0 +1,40 @@
+{
+  "id": 141,
+  "titulo": "Tourtière",
+  "descripcion": "Tourtière conocido también como pastel de carne",
+  "historia": "El Tourtière es una especie de pastel de carne originario de Quebec, Canadá. Generalmente se elabora con carne de cerdo o venado, o vaca. Es un plato tradicional en Navidad y Año Nuevo en la provincia de Quebec, aunque se puede encontrar en las tiendas durante todo el año.",
+  "ingredientes": "### De 4 a 6 porciones:\n### Ingredientes Para el Relleno:\n- 1 papa\t\t\t\t\n- ¾ kg de carne molida de cerdo\n- ¾ kg de carne molida de vaca\t\n- 1 cebolla picada\n- 1 diente de ajo picado\t\t\n- Sal\n- ½ cucharadita de salvia\t\t\n- ½ cucharadita de mostaza seca\n- ½ taza de agua hervida de la papa.\n### Ingredientes para la masa:\n- Sal\t\t\t\t\t\n- 1 paquete de manteca\n- 600 gramos de harina\t\t\n- Agua fría (media taza)\n- 1 huevo batido\t\t\t\n- 3 cucharadas de azúcar\n- 3 cucharadas de vinagre blanco.",
+  "preparacion": "### Preparación del relleno:\n- Hervir la papa en una cacerola con agua y una vez lista, hacerla puré. Guardar el agua sobrante.\n- Mezclar todos los ingredientes indicados (menos el puré) y llevar a fuego lento durante unos 20 minutos. Incorporar finalmente el puré de papa. Dejar que enfríe.\n- Llenar 33 centímetros de relleno y cubrirlo con la tapa de masa. Sellar los bordes y hacer hoyos con un tenedor, para ventilar la tapa. Hornear a 220ºC durante media hora.\n### Preparación de la masa:\nTomar un bol y mezclar la harina y la sal. Cortar la manteca en pedacitos y mezclar con el agua, el huevo, el azúcar y el vinagre blanco hasta que quede todo bien unido. Añadir más harina si es necesario y mantenerla cubierta hasta que esté lista para utilizar.\n",
+  "publico": true,
+  "created_at": "2019-11-22T15:03:56.824Z",
+  "updated_at": "2019-11-22T15:03:56.824Z",
+  "photo": {
+    "id": 148,
+    "name": "Tourtière.png",
+    "hash": "ebe35b32107b4e7bba84fa24696742fa",
+    "sha256": "O6HV9CAQKCIF5q3iQd8izr77_APgylSi4hvjdULzEvs",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "432.80",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1574435037/suc144qadks6ot8feumq.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "suc144qadks6ot8feumq",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-22T15:03:57.406Z",
+    "updated_at": "2019-11-22T15:03:57.406Z"
+  },
+  "categorias": [
+    {
+      "id": 47,
+      "nombre": "Principal",
+      "created_at": "2019-11-20T14:11:58.958Z",
+      "updated_at": "2019-11-20T14:11:58.958Z"
+    }
+  ],
+  "url": "/receta/141/tourtiere",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/suc144qadks6ot8feumq",
+  "_sourceUrl": "https://bongusto.net/receta/141/tourtiere",
+  "_fetchedAt": "2026-10-12T16:26:33.419Z"
+}

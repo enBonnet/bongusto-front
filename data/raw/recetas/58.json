@@ -1,0 +1,40 @@
+{
+  "id": 58,
+  "titulo": "Guacamole",
+  "descripcion": " Es una preparación clásica de la cocina mexicana; es una salsa cuya base principal es el aguacate y se consume de forma masiva en casi toda América como acompañante de diversas comidas.",
+  "historia": "La historia del guacamole en México se remonta a la época de los aztecas, quienes recolectaban aguacates para preparar un mole, de ahí su nombre en náhuatl “ahuacamolli” que viene de ahuacatl (aguacate) y molli (mole), sin embargo, con la conquista y la llegada de los españoles a América, el aguacate se volvió un alimento escaso, exclusivo y muy buscado pues se decía que su textura y sabor eran muy exóticos. Con el tiempo, el guacamole se convirtió en una preparación típica de todo México que ha trascendido fronteras, pues su elaboración es muy sencilla, ya que sólo debes mezclar el aguacate con chiles verdes, sal y ajo, aunque hay que tener cuidado para que no se oxide y pierda su sabor.",
+  "ingredientes": "### 8 porciones:\n- ½ taza de ají dulce\t\t\t\t\n- Sal y aceite al gusto\n- 1 ají picante\t\t\t\t\t\n- ½ aguacate cortado\n- ¼ taza de cebolla en brunoise\t\t\n- 1 cucharadita de jugo de limón\n- 1 cucharada de cilantro en hache\n",
+  "preparacion": "- Mezcle todos los ingredientes y mantenga en la nevera hasta el momento de utilizarlo.\n",
+  "publico": true,
+  "created_at": "2019-11-09T23:36:57.571Z",
+  "updated_at": "2019-11-09T23:36:57.571Z",
+  "photo": {
+    "id": 65,
+    "name": "Guacamole.png",
+    "hash": "baa03386776041b8959dd697f340b1dc",
+    "sha256": "s5B8tgjPtUH8eqTbLdonzGz70bfMDm6C7oV1pn0TIls",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "322.82",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1573342617/hbi6oaspzehaawk6p6fu.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "hbi6oaspzehaawk6p6fu",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-09T23:36:58.214Z",
+    "updated_at": "2019-11-09T23:36:58.214Z"
+  },
+  "categorias": [
+    {
+      "id": 7,
+      "nombre": "Guarnición",
+      "created_at": "2019-11-07T21:25:47.915Z",
+      "updated_at": "2019-11-07T21:25:47.915Z"
+    }
+  ],
+  "url": "/receta/58/guacamole",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/hbi6oaspzehaawk6p6fu",
+  "_sourceUrl": "https://bongusto.net/receta/58/guacamole",
+  "_fetchedAt": "2026-10-12T16:27:39.947Z"
+}

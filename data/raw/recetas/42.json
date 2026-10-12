@@ -1,0 +1,33 @@
+{
+  "id": 42,
+  "titulo": "Filet Mignon en salsa de Vino tinto",
+  "descripcion": "El fillet mignon responde a los filetes que se cortan de la punta estrecha del solomillo. Está considerado por muchos como el filete más elegante de todos.",
+  "historia": "El Filete Mignon tiene su origen en la cocina francesa su significado puede ser: “Filete pequeño”, “filete fino” o “filete exquisito” si lo llevamos al terreno gastronómico.\nPor otro lado, hay que mencionar que generalmente tiene entre tres y cinco centímetros de grosor y un diámetro reducido, y se suele decir (todo depende de la calidad) que no es necesario el cuchillo para cortarlo, basta utilizar el tenedor para tomar un bocado.",
+  "ingredientes": "### Para Tres porciones:\n- 3 Medallones lomo de res (200 Gr. cada uno),\t\n- sal y pimienta,\n- ¼ de kilo de tocino,\t\t\t\t\t\n- 3 cdas Fondo de carne,\n- Pabilo,\t\t\t\t\t\t\t\n- 3 cdas azúcar,\n- Salsa de vino tinto,\t\t\t\t\t\n- 1/2 taza vino tinto.\n\n\n\n",
+  "preparacion": "### Preparación:\n- a.\tPrecalentar el Horno 200°\n- b.\tSalpimentar los medallones de lomo, envolver cada lomo con una lonja de tocino, como si fuera un cinturón y sujetar con pabilo.\n- c.\tSellar uno a uno en una sartén a fuego fuerte, solo que quede dorado por fuera, pero por dentro seguirá crudo, esto es para que el jugo se conserve y nos quede una carne jugosa. (NO LAVAR EL SARTÉN YA QUE AQUÍ MISMO PREPARAMOS LA SALSA DE VINO TINTO)\n- d.\tUna vez sellados todos los medallones poner en una placa y llevar al horno de 15 a 25 minutos a 170°. O Dependiendo el punto de cocción en el que desee comerlo.\n- \n###     Salsa de Vino Tinto:\n- a.\tEn la misma sartén donde se sellaron los medallones añadir media taza de vino tinto y raspar lo que quedo en el sartén, este término se llama Desglasar.\n- b.\tPor separado en una cacerola limpia agregar las tres cucharas de azúcar con las 3 cucharadas de fondo de carne y llevar a fuego sin remover hasta que forme como un caramelo clarito, añadir el vino de la sartén y batir lentamente hasta que todo se integre bien.\n- c.\t¡Esperar a que tome consistencia la salsa, añadir sal y pimienta, probamos que este bien de sabor y listo!\n- d.\t¡Sacamos los medallones del horno, retiramos cuidadosamente el pabilo, bañamos o napamos con salsa de vino tinto y servimos!\n",
+  "publico": true,
+  "created_at": "2019-11-09T00:32:18.215Z",
+  "updated_at": "2019-11-09T21:47:04.626Z",
+  "photo": {
+    "id": 49,
+    "name": "Filete Mignon.jpg",
+    "hash": "cffa7bb0416c4cf0a4fc5b67bb8eb063",
+    "sha256": "Z4PFaSss2o8r9gXfxWyqFvVFvCGErJ6n4Rzd7rpYI9k",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "size": "9.94",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1573259538/cczufccbyqbuo8fi64ms.jpg",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "cczufccbyqbuo8fi64ms",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-09T00:32:18.662Z",
+    "updated_at": "2019-11-09T00:32:18.662Z"
+  },
+  "categorias": [],
+  "url": "/receta/42/filet-mignon-en-salsa-de-vino-tinto",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/cczufccbyqbuo8fi64ms",
+  "_sourceUrl": "https://bongusto.net/receta/42/filet-mignon-en-salsa-de-vino-tinto",
+  "_fetchedAt": "2026-10-12T16:27:52.506Z"
+}

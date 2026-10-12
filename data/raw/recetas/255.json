@@ -1,0 +1,40 @@
+{
+  "id": 255,
+  "titulo": "Chesesecake de Mora y Fresa",
+  "descripcion": "Pocos son los golosos a los que no les gusta un buen cheesecake o tarta de queso como se diría por estas tierras.",
+  "historia": "El pastel de queso tal y como lo conocemos ahora es el resultado de muchas modificaciones a lo largo de miles de años, se cree que su nacimiento se remonta 4000 años antes de la era actual, allá por la Antigua Grecia, en concreto en la isla de Samos.\n\nEn la Antigua Grecia este pastel de queso se consideraba una auténtica fuente de energía y no en vano era alimento de los primeros atletas de los juegos olímpicos cuando estos comenzaron en el año 776 a.C, aunque no fue hasta el año 230 d.C cuando al escritor Ateneo se le atribuyó la autoría de la primera receta escrita del pastel de queso, en aquellos tiempos simplemente se calentaba el queso triturado en una cacerola de cobre con miel y harina para posteriormente dejarlo enfriar y servir.\n\nCuando Grecia fue conquistada por los romanos, la tarta de queso se convirtió en un motín de guerra. Ellos modificaron la receta incluyendo huevo y horneándola entre ladrillos calientes, la rebautizaron con el nombre de libuma y era un pastel que solo se servía en ocasiones muy especiales.",
+  "ingredientes": "### Para 4 porciones \n- 400 gramos de fresas \n- 250 gramos de queso crema \n- '200 gramos de moras \n- 6 huevos \n- paquete de galletas de coco \n- 1 lata de leche condensada \n- 1 cucharadita de esencia de vainilla \n- 20 gramos de mantequilla derretida \n- 2 cucharadas de azúcar \n- 200 gramos de crema vegetal para batir (Chantilly)",
+  "preparacion": "- A) Precalentar el horno a 200°C.\n- B) Procesar las galletas, mezclar con la mantequilla derretida y con esta preparación forrar un molde para pie. \n- C) Procesar los huevos, la leche condensada, el queso y la vainilla \n- D) Verter en el molde y hornear por 25 minutos o hasta que cuaje. \n- E) Para preparar la salsa, procesar las moras con el azúcar, cocinar hasta que espese ligeramente y dejar enfriar. \n- F) Por último, colocar las fresas cortadas sobre el cheescake y bañar todo con la salsa fría de mora. G) Batir por 5 minutos la crema vegetal hasta formar picos. \n- Con la ayuda de una manga o paleta de pastelería, decorar los bordes del pie.\n",
+  "publico": true,
+  "created_at": "2019-12-17T21:26:40.671Z",
+  "updated_at": "2021-10-22T20:53:36.774Z",
+  "photo": {
+    "id": 289,
+    "name": "Cheesecake de Moras y Fresas1.jpg",
+    "hash": "ac46b99868ae451096cf4addde00ef13",
+    "sha256": "eLmFeiRqaC_DD3L+yRm8MGPAcvbEApn69fd21zOwEwQ",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "size": "45.04",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1576618000/gmswbxhsbuwe4jbzcpl6.jpg",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "gmswbxhsbuwe4jbzcpl6",
+      "resource_type": "image"
+    },
+    "created_at": "2019-12-17T21:26:41.045Z",
+    "updated_at": "2019-12-17T21:26:41.045Z"
+  },
+  "categorias": [
+    {
+      "id": 9,
+      "nombre": "Postre",
+      "created_at": "2019-11-07T22:49:20.381Z",
+      "updated_at": "2019-11-07T22:49:20.381Z"
+    }
+  ],
+  "url": "/receta/255/chesesecake-de-mora-y-fresa",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/gmswbxhsbuwe4jbzcpl6",
+  "_sourceUrl": "https://bongusto.net/receta/255/chesesecake-de-mora-y-fresa",
+  "_fetchedAt": "2026-10-12T16:25:00.649Z"
+}

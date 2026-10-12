@@ -1,0 +1,40 @@
+{
+  "id": 60,
+  "titulo": "Frijoles Refritos",
+  "descripcion": "Los frijoles refritos, molidos, colados, volteados o licuados son una guarnición típica en México y Centroamérica.​",
+  "historia": "Los frijoles refritos, molidos, colados, volteados o licuados son una guarnición típica en México y Centroamérica.​ Su variante mexicana se caracteriza porque los frijoles se muelen mientras se fríen en aceite o manteca, después de haberse cocido hervidos, y sirven como guarnición de platillos populares acompañados con totopos o tortillas; o como un ingrediente esencial de tacos, tostadas, tlacoyos, molletes, bocoles, sopes y huaraches.",
+  "ingredientes": "### 8 porciones:\n- 3 tazas de frijoles sancochados\t\t\n- ½ cucharada de comino molido\n- ¼ taza de aceite\t\t\t\t\n- 3 cucharadas de tomate licuado\n- ½ taza de cebolla cortada en brunoise\t\n- 2 cucharadas de pimentón en brunoise\n\n",
+  "preparacion": "- 1. Sofría en el aceite la cebolla, pimentón y tomate. \n- 2. Añada los demás ingredientes, incluyendo los frijoles. Deje cocinar lentamente hasta que estén secos. \n- 3. Para refreírlos añada ¼ taza de aceite y mantenga fuego fuerte por 3 minutos más.\n- 4. Luego triture hasta formar una pastapara untar.\n",
+  "publico": true,
+  "created_at": "2019-11-10T00:00:04.316Z",
+  "updated_at": "2019-11-10T00:00:04.316Z",
+  "photo": {
+    "id": 67,
+    "name": "Frijoles Refritos.png",
+    "hash": "d17b02288a8f4273b72842b3690eb803",
+    "sha256": "7azBXuBS126B2ILSN1TRX17UIJqC2XkfwIpBYCgebog",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "204.69",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1573344004/syudqwbk8rhoog6cow1w.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "syudqwbk8rhoog6cow1w",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-10T00:00:05.326Z",
+    "updated_at": "2019-11-10T00:00:05.326Z"
+  },
+  "categorias": [
+    {
+      "id": 7,
+      "nombre": "Guarnición",
+      "created_at": "2019-11-07T21:25:47.915Z",
+      "updated_at": "2019-11-07T21:25:47.915Z"
+    }
+  ],
+  "url": "/receta/60/frijoles-refritos",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/syudqwbk8rhoog6cow1w",
+  "_sourceUrl": "https://bongusto.net/receta/60/frijoles-refritos",
+  "_fetchedAt": "2026-10-12T16:27:38.181Z"
+}

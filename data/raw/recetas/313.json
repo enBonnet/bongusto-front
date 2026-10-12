@@ -1,0 +1,40 @@
+{
+  "id": 313,
+  "titulo": "Pasión Frozzen",
+  "descripcion": "Toda la pasión del fruto de la pasionaria en un cóctel de exquisito aroma y sabor",
+  "historia": "No hay una reseña de la historia de este coctel.",
+  "ingredientes": "- Copa Margarita\n- Jarabe de goma o azúcar\n- jugo de parchita\n- Vodka\n- Hielo Picado\n- **Decoración: **\n- Semillas de Parchita",
+  "preparacion": "- En el vaso de la licuadora, agregar:\n- 1 ½ onza de Jarabe de goma o 3 medidas de azúcar\n- 2 onzas de jugo de parchita\n- 2 onza de Vodka\n- La cantidad de hielo a ser usado, es la misma capacidad de la copa a ser usada. \n- Agregar el hielo lentamente, mientras se estan procesando los ingredientes y cuando ya tenga la consistencia de frozzen dejar de agregar hielo.\n- Antes de servir decorar la copa con una crusta de jarabe de goma y azucar, servir y decorar con semillas de parchita.",
+  "publico": true,
+  "created_at": "2021-11-05T14:18:56.905Z",
+  "updated_at": "2021-11-05T14:18:56.905Z",
+  "photo": {
+    "id": 357,
+    "name": "Pasión Frozzen.png",
+    "hash": "9377d7457dd24bb3bfc1c1f03d9dfa7e",
+    "sha256": "nfAqc3fjD_rtAtJfXd+livvUAiJi6o+8Z4-WrnLgNOU",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "52.17",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1636121937/ldnsu6gbmvh7jiexhkwo.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "ldnsu6gbmvh7jiexhkwo",
+      "resource_type": "image"
+    },
+    "created_at": "2021-11-05T14:18:57.541Z",
+    "updated_at": "2021-11-05T14:18:57.541Z"
+  },
+  "categorias": [
+    {
+      "id": 43,
+      "nombre": "Maridaje ",
+      "created_at": "2019-11-09T20:57:22.945Z",
+      "updated_at": "2019-11-09T20:57:22.945Z"
+    }
+  ],
+  "url": "/receta/313/pasion-frozzen",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/ldnsu6gbmvh7jiexhkwo",
+  "_sourceUrl": "https://bongusto.net/receta/313/pasion-frozzen",
+  "_fetchedAt": "2026-10-12T16:24:12.287Z"
+}

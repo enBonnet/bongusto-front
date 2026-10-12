@@ -1,0 +1,40 @@
+{
+  "id": 173,
+  "titulo": "Melao de Papelón",
+  "descripcion": "El melao de papelón es una salsa almibarada producto de mezclar agua con papelón también conocido como piloncillo panela, raspadura, rapadura, atado dulce, chancaca, empanizado o panocha.",
+  "historia": "El melao de papelón es una salsa almibarada producto de mezclar agua con papelón también conocido como piloncillo panela, raspadura, rapadura, atado dulce, chancaca, empanizado o panocha. Esta preparación sirve para acompañar jugos, dulces, carnes, ensaladas y pasapalos, lo que permite ver la versatilidad de esta preparación. Su consumo se extiende por todo el territorio nacional y en muchas preparaciones forma parte para equilibrar sabores.",
+  "ingredientes": "### Ingredientes (para 1 litro aproximadamente) \n- 1 panela de papelón \n- Agua para cubrirla panela \n- 3 clavos de olor ",
+  "preparacion": "1. En una olla o sartén profunda se introducen la panela y los clavos de olor y se vierte agua hasta cubrirlos. Se calienta a fuego mediano hasta que la panela se derrita.\n2. Mientras el agua se evapora, la mezcla debe ir adquiriendo una apariencia de caramelo derretido o \"syrop\" liviano, no muy espeso. \n3. Se deja hervir durante 20 minutos, se retira del fuego, se cuela y se deja enfriar temperatura ambiente. Si se quiere, puede refrigerarse en la nevera.",
+  "publico": true,
+  "created_at": "2019-12-05T23:27:30.375Z",
+  "updated_at": "2019-12-05T23:27:30.375Z",
+  "photo": {
+    "id": 207,
+    "name": "Melao de Papelón.png",
+    "hash": "ef1f0c6e50044bdaa8894ef0b3ce1c29",
+    "sha256": "IQ2M0me65bA4TSSlgT5S4LRwYrXnFzV7k0nazrV7QlQ",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "184.78",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1575588450/tm4xem2dyxhwgl61cdfi.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "tm4xem2dyxhwgl61cdfi",
+      "resource_type": "image"
+    },
+    "created_at": "2019-12-05T23:27:31.086Z",
+    "updated_at": "2019-12-05T23:27:31.086Z"
+  },
+  "categorias": [
+    {
+      "id": 42,
+      "nombre": "Salsa",
+      "created_at": "2019-11-09T19:51:40.254Z",
+      "updated_at": "2019-11-09T19:51:40.254Z"
+    }
+  ],
+  "url": "/receta/173/melao-de-papelon",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/tm4xem2dyxhwgl61cdfi",
+  "_sourceUrl": "https://bongusto.net/receta/173/melao-de-papelon",
+  "_fetchedAt": "2026-10-12T16:26:07.408Z"
+}

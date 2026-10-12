@@ -1,0 +1,40 @@
+{
+  "id": 264,
+  "titulo": "Fetuccine Rostizado",
+  "descripcion": "Es un tipo de pasta, una de sus características más importantes es que es un fideo plano elaborado con huevo, agua y harina.",
+  "historia": "El origen de los espaguetis. En Italia saltaron a la fama y su lugar de nacimiento sigue envuelto en un mar de dudas: de Siria a China sin olvidar la novelesca historia que los relaciona con los viajes de Marco Polo.",
+  "ingredientes": "### Para 4 porciones \n- 400 gramos de fetuccine \n- 1 pimentón rojo \n- 250 gramos de salmón ahumado \n- 8 gramos de ramitas de hinojo \n- 120 gramos de queso parmesano rallado \n- 250 gramos de crema de leche \n- 50 mililitros de vermut blanco \n- ½ cebolla cortada en cuadritos \n- 2 cucharaditas de mantequilla \n- Sal y pimienta al gusto \n- ¼ de taza de aceite de maíz",
+  "preparacion": "A) Cocinar los fetuccine en abundante agua y sal, hasta que estén al dente (25 minutos aprox).\nB) Barnizar los pimentones con aceite de maíz y llevarlos a fuego directo, hasta que se queme completamente la piel. Reservar en una bolsa por 1 0 minutos, luego colocarle agua a temperatura ambiente y retirar la piel. \nC) Colocar en una olla el vermut a fuego lento hasta evaporar el alcohol. \nD) En un sartén saltear la cebolla en la mantequilla y agregar los pimentones rostizados cortados en tiritas, agregar el vermut y la crema de leche. Salpimentar al gusto. \nE) Corno decoración realizar una cesta de parmesano. En un sartén de teflón con poco aceite, colocar el queso parmesano de manera que cubra el sartén, cocinar hasta que se dore y darle vuelta. Colocar una taza boca abajo y tender la crocante de parmesano para lograr la forma de cesta. \nF) Colocar dentro de la cesta la pasta servida y acompañar con láminas de salmón ahumado. \nG) Decorar con las ramitas de hinojo.",
+  "publico": true,
+  "created_at": "2019-12-21T15:09:48.981Z",
+  "updated_at": "2019-12-21T15:09:48.981Z",
+  "photo": {
+    "id": 298,
+    "name": "Fetuccine Rostizado1.jpg",
+    "hash": "866579119da1438386cf22c7a1564dfd",
+    "sha256": "Zl2uuHfslv5R4L4KOy28_7QKc7a2XB8IvQxUT6hALkI",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "size": "77.53",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1576940989/lok6gzm7zhkdg3lz3ur4.jpg",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "lok6gzm7zhkdg3lz3ur4",
+      "resource_type": "image"
+    },
+    "created_at": "2019-12-21T15:09:49.384Z",
+    "updated_at": "2019-12-21T15:09:49.384Z"
+  },
+  "categorias": [
+    {
+      "id": 47,
+      "nombre": "Principal",
+      "created_at": "2019-11-20T14:11:58.958Z",
+      "updated_at": "2019-11-20T14:11:58.958Z"
+    }
+  ],
+  "url": "/receta/264/fetuccine-rostizado",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/lok6gzm7zhkdg3lz3ur4",
+  "_sourceUrl": "https://bongusto.net/receta/264/fetuccine-rostizado",
+  "_fetchedAt": "2026-10-12T16:24:53.096Z"
+}

@@ -1,0 +1,33 @@
+{
+  "id": 49,
+  "titulo": " Ravioles de Espinaca con Requesón",
+  "descripcion": "Ravioli es el nombre común de los llamados raviolis, la pasta doblegada que suele rellenarse con diferentes rellenos que resultan ser una delicia para el paladar.",
+  "historia": "La más difundida sugiere que fueron llevados a Italia desde China por Marco Polo, quien habría conocido los ravioles chinos llamados jiaozi o las preparaciones llamadas wontón. Otras opiniones consideran que los ravioles son autóctonos de Italia, más precisamente de la Liguria medieval.",
+  "ingredientes": "### 4 Porciones:\n### Insumos:\n- Masa para pasta fresca\t\t\n- un paquete de espinaca\t\t\n- 250 grs. De requesón\n- 1 cebolla pequeña en brunoise\t\n- dos dientes de ajo majados\t\n- Sal al gusto\n- Pimienta al gusto\t\t\n- Aceite C/N\t\t\t\n",
+  "preparacion": "Preparación:\n- a.\tSe blanquean las hojas de espinaca.\n- b.\tEn un sartén calentar aceite y rehogar la cebolla junto al ajo.\n- c.\tAgregar las hojas de espinaca blanqueadas lo más secas posible. Saltear.\n- d.\tSal-pimentar al gusto mientras seguimos salteando.\n- e.\tRetirar del sartén y reservar hasta que enfrié.\n- f.\tAgregar el requesón desmenuzado he integrar con la espinaca.\n- g.\tEstirar la masa, y preparar los raviolis. Se reservan\n- h.\t Llevar a hervir suficiente agua para cocinar los raviolis, cuando reviente el hervor agregar sal y un poco de aceite.\n- i.\tEn tres minutos o cuando floten están listos. Retirar y servir con la salsa de su preferencia. Y queso parmesano o pecorino a su gusto.\n",
+  "publico": true,
+  "created_at": "2019-11-09T19:38:59.220Z",
+  "updated_at": "2019-11-09T22:08:12.677Z",
+  "photo": {
+    "id": 56,
+    "name": "Raviolis.png",
+    "hash": "145611ee57cf43aca6dc17370ca7a31f",
+    "sha256": "xPt1MLA5rS84gL_9LURdJ62XXRxmglgb9NSwH3o3qxc",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "270.12",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1573328339/ylmtqpilw0qarxnia16e.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "ylmtqpilw0qarxnia16e",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-09T19:38:59.692Z",
+    "updated_at": "2019-11-09T19:38:59.692Z"
+  },
+  "categorias": [],
+  "url": "/receta/49/ravioles-de-espinaca-con-requeson",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/ylmtqpilw0qarxnia16e",
+  "_sourceUrl": "https://bongusto.net/receta/49/ravioles-de-espinaca-con-requeson",
+  "_fetchedAt": "2026-10-12T16:27:47.193Z"
+}

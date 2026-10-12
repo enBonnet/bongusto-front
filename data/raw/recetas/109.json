@@ -1,0 +1,40 @@
+{
+  "id": 109,
+  "titulo": "Quiche Lorraine",
+  "descripcion": "Una quiche es una tarta salada procedente de la cocina francesa.",
+  "historia": "La receta original nació en la región de Lorena, en el noroeste de Francia. De ahí su nombre: 'Quiche Lorraine'. Su preparación es a base de huevos batidos y crema de leche, mezclada con verduras cortadas y añadiéndole jamón o bacon.",
+  "ingredientes": "### 200 grs. De tocineta entera.\t\t\n- 250 grs. De harina T/U.. \n- 125 grs. De margarina. \n- 5 huevos.\t\t\t\t\n- 300 CC de crema de leche\n- 3 cdas de agua helada\n- 1 pizca de nuez moscada.\tPimienta\t\t\t\n- Sal",
+  "preparacion": "Elaborar una masa quebrada, forrar un molde circular llevar al horno y  cocinar por 15 minutos, seguidamente cortar la tocineta en cubos y desalar mediante un escaldado de 5 minutos, saltear en  margarina escurrir y mezclar con 4 huevos batidos y la crema de leche espesa dar un toque de pimienta recién molida sal y un toque de nuez moscada, vaciar en la base y hornear por 30 minutos a 200 ºC.",
+  "publico": true,
+  "created_at": "2019-11-13T22:38:12.697Z",
+  "updated_at": "2019-11-13T22:38:12.697Z",
+  "photo": {
+    "id": 116,
+    "name": "Quiche Lorraine.png",
+    "hash": "feb6040dfa794dc1952b94c43da0db02",
+    "sha256": "-2WJKpJBuRi2KE3wF1JZeyZDTquu6qsneawz7fdAF_I",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "479.13",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1573684692/w9dxb0dc15jiprlukg6a.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "w9dxb0dc15jiprlukg6a",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-13T22:38:13.227Z",
+    "updated_at": "2019-11-13T22:38:13.227Z"
+  },
+  "categorias": [
+    {
+      "id": 6,
+      "nombre": "Entrada",
+      "created_at": "2019-11-07T21:23:25.610Z",
+      "updated_at": "2019-11-07T21:23:25.610Z"
+    }
+  ],
+  "url": "/receta/109/quiche-lorraine",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/w9dxb0dc15jiprlukg6a",
+  "_sourceUrl": "https://bongusto.net/receta/109/quiche-lorraine",
+  "_fetchedAt": "2026-10-12T16:26:59.052Z"
+}

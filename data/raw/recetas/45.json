@@ -1,0 +1,40 @@
+{
+  "id": 45,
+  "titulo": "Arroz a la Marinera o Paella Marinera",
+  "descripcion": "Se trata de un plato de origen humilde, descrito por primera vez en España en el área de la Albufera de Valencia.",
+  "historia": "La paella (del catalán (Valencia) sartén) es una receta que tiene como  base el arroz, con origen en la Comunidad Valenciana y hoy en día muy popular en toda España y también en otros países; en esta receta el arroz se cocina junto a otros alimentos en una sartén, generalmente ancha y con asas.",
+  "ingredientes": "6 Porciones\n### Insumos:\n- 3 langostinos.\t\n- 6 camarones.\t\n- 3 mejillones.\t\n- 3 almejas.\t\n- 3 calamares.\t\n- 1 pulpo (peq).\n- 4 cucharadas de aceite.\t \t\n- 2 Tomates maduros concassé.\t\t\t\t\n- 2 tazas de fumé.\t\t\t\t\t\n- 2 dientes de ajo majados.\n- 2 cebollas peq. Brunoise.\n- 3 tazas de arroz.\n- 1 taza de vino blanco.\n- ¼ cdta. De cúrcuma.\n- Moluscos y Mariscos.\n",
+  "preparacion": "### Preparación:\n- a.\tEn una sartén grande o paellera calentar el aceite y sofreír la cebolla y el ajo.\n- b.\tAgregar los tomates y dejar que se haga una salsa suave.\n- c.\tSazonar con sal y pimienta\n- d.\tAgregar el arroz y remover por 1 minuto\n- e.\tVerter \tel fumé y el vino.\n- f.\tRemover y tapar con papel aluminio o tapa.\n- g.\tLlevar lentamente a ebullición, removiendo una vez\n- h.\tReducir el calor y dejar cocinar tapado a fuego bajo 10 min. O hasta que el líquido este \tcasi totalmente evaporado y el arroz esté blando.\n- i.\tAñadir la cúrcuma y los mariscos y moluscos.\n- j.\tRectificar sazón.\n- k.\tCocinar removiendo ocasionalmente, hasta que se seque por completo el liquido\n- l.\tTapar y dejar reposar por 5 min. Y servir a gusto.\n- **NOTA:** se puede acompañar con tastadas de pan, aderesadas con oregano y perejil o al gusto.\n",
+  "publico": true,
+  "created_at": "2019-11-09T13:32:42.809Z",
+  "updated_at": "2019-11-09T21:29:47.929Z",
+  "photo": {
+    "id": 164,
+    "name": "Arroz a La Marinera.png",
+    "hash": "99b5eeb5ec934ae6bf6d6c03c09d7b61",
+    "sha256": "tVsWbdWjfWN6MAwZcPPCY1Id7quJCpr7TpnnfeM_Z+Q",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "70.70",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1574521802/bp3ydcfy43lk3wp43d3k.jpg",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "bp3ydcfy43lk3wp43d3k",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-23T15:10:03.010Z",
+    "updated_at": "2019-11-23T15:10:03.010Z"
+  },
+  "categorias": [
+    {
+      "id": 47,
+      "nombre": "Principal",
+      "created_at": "2019-11-20T14:11:58.958Z",
+      "updated_at": "2019-11-20T14:11:58.958Z"
+    }
+  ],
+  "url": "/receta/45/arroz-a-la-marinera-o-paella-marinera",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/bp3ydcfy43lk3wp43d3k",
+  "_sourceUrl": "https://bongusto.net/receta/45/arroz-a-la-marinera-o-paella-marinera",
+  "_fetchedAt": "2026-10-12T16:27:49.998Z"
+}

@@ -1,0 +1,40 @@
+{
+  "id": 175,
+  "titulo": "Calamares Rebosados",
+  "descripcion": "No es ningún secreto que esta receta no es particularmente venezolana, pero sin duda se trata de la manera más popular en el país de preparar los calamares.",
+  "historia": "No es ningún secreto que esta receta no es particularmente venezolana, pero sin duda se trata de la manera más popular en el país de preparar los calamares. Como puede consumirse a temperatura ambiente, resulta un plato perfecto para comidas al aire libre en días cálidos. El rebozado más común es el elaborado con una mezcla de harina y huevo. Aquí se presenta una opción distinta, más crujiente y liviana: la tempura (que se diferencia principalmente porque lleva agua, y del huevo sólo se utilizan las claras). Para obtener un rebozado aún más llamativo, basta agregar una o varias especias a la harina.",
+  "ingredientes": "### Ingredientes (para 4 personas) \n8 calamares grandes \n- Agua hirviente \n- Agua fría con hielo \n- Papel secante o absorbente \n### Mezcla de tempura \n- ½ taza de harina de trigo \n- ½ cucharadita tasa de sal \n- ½ de taza de agua, aproximadamente \n- 1 clara de huevo a temperatura ambiente \n### Cocción \n- Abundante aceite vegetal ",
+  "preparacion": "1. Se corta cada calamar en ruedas de 1 ½ centímetros de espesor y se pasan por agua hirviente por 15 segundos (ni uno más). Luego se enfrían bien en agua con hielo. Se secan sobre papel absorbente. \n2. En un recipiente se colocan la harina de trigo y la sal y se añade poco a poco la taza de agua, revolviendo hasta que posea la misma textura de una mezcla pava hacer panquecas.\n3. En un recipiente aparte, se vierte la clara del huevo y se bate a \"punto de nieve\", es decir, hasta lograr una apariencia firme, blanca y esponjosa. \n4. Se añade la clara batida a la mezcla de harina y agua y se une con movimientos envolventes de la cuchara (sin batir). \n5. En una olla o caldero, preferiblemente pequeño, se calienta a fuego medio suficiente aceite como para cubrir los calamares. \n6. Justo antes de freír, se pasan los aros de calamar secos por la mezcla de harina y clara de huevo. Se colocan en el aceite caliente uno por uno, para evitar que se peguen. \n7. Cuando estén dorados, se sacan del aceite y se colocan sobre un plato con papel absorbente para eliminar el exceso de grasa. \n### Sugerencia \n- Acompañar con limón cortado y ensalada fresca, de tomate y lechuga o de repollo con zanahoria.",
+  "publico": true,
+  "created_at": "2019-12-05T23:34:29.849Z",
+  "updated_at": "2019-12-05T23:34:29.849Z",
+  "photo": {
+    "id": 209,
+    "name": "Calamares Rebosados.png",
+    "hash": "5de181b1e7bd4404b0761049002d4150",
+    "sha256": "C-hJM2aAv69QdYa_g4LhucEzX18I+NLqC0QoOm2JtFk",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "158.31",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1575588870/afrizij6dl6yjwkmgb86.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "afrizij6dl6yjwkmgb86",
+      "resource_type": "image"
+    },
+    "created_at": "2019-12-05T23:34:30.341Z",
+    "updated_at": "2019-12-05T23:34:30.341Z"
+  },
+  "categorias": [
+    {
+      "id": 6,
+      "nombre": "Entrada",
+      "created_at": "2019-11-07T21:23:25.610Z",
+      "updated_at": "2019-11-07T21:23:25.610Z"
+    }
+  ],
+  "url": "/receta/175/calamares-rebosados",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/afrizij6dl6yjwkmgb86",
+  "_sourceUrl": "https://bongusto.net/receta/175/calamares-rebosados",
+  "_fetchedAt": "2026-10-12T16:26:05.866Z"
+}

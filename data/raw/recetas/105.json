@@ -1,0 +1,40 @@
+{
+  "id": 105,
+  "titulo": "Fresas en Coulis de Fresa",
+  "descripcion": "Los coulis son salsas ligeras obtenidas a partir de frutas y verduras. Su forma de preparación es muy variada.",
+  "historia": "Un coulis es un tipo de salsa procedente de la cocina francesa. Su terminología ha avanzado tanto como ha avanzado la cocina, lo que en un principio era una elaboración de carne espesada que daba cuerpo y sabor a las salsas, ha pasado a ser también una salsa o puré dulce o salado, de frutas y de vegetales, elaborado por cocción, por maceración, etc.",
+  "ingredientes": "- 500 gramos de fresas\t\t\n- 1/2 limón (opcional)\n- 300 gramos de azúcar\t \n- 250 ml de agua",
+  "preparacion": "- Lava las fresas y quítales el rabillo verde. Pon a escurrir. Y reservar las mejores. \n- Ahora vamos a hacer el almíbar. Es muy sencillo, solo tienes que poner en una olla a fuego lento el agua y el azúcar y remover durante 10 a 15 minutos hasta que todo el azúcar esté bien diluido.\n- Corta las fresas a la mitad, ponlas en el vaso de la batidora.\n- Exprime el medio limón y agrégalo en el vaso con las fresas (si prefieres puedes pasar del limón, también sale muy rico).\n- Cuando el almíbar esté listo viértelo sobre las fresas, espera cinco minutos para que las fresas suelten todo su jugo y después tritúralo todo con la batidora.\n- Después pasa el coulis por un colador (si quieres quitarle las pepitas de las fresas y los restos que puedan quedar) y deja que se temple un poco antes de meterlo en la nevera.\n- Servir la cantidad necesaria de coulis en una fuente para postre y agregar 1 o 3 fresas frescas. Se puede servir así o decorado con crema chantilly o hojas de hierbabuena.",
+  "publico": true,
+  "created_at": "2019-11-12T23:20:27.389Z",
+  "updated_at": "2019-11-12T23:20:27.389Z",
+  "photo": {
+    "id": 112,
+    "name": "Fresas en C.png",
+    "hash": "4b63586eaeda4814b6c512d7c29b2054",
+    "sha256": "GFpGg5_-TE-gpYilTonnhJkq2ro218WCkOZiCS85LxY",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "227.82",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1573600827/ro8jgmfeutzvtagvc2yz.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "ro8jgmfeutzvtagvc2yz",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-12T23:20:27.790Z",
+    "updated_at": "2019-11-12T23:20:27.790Z"
+  },
+  "categorias": [
+    {
+      "id": 9,
+      "nombre": "Postre",
+      "created_at": "2019-11-07T22:49:20.381Z",
+      "updated_at": "2019-11-07T22:49:20.381Z"
+    }
+  ],
+  "url": "/receta/105/fresas-en-coulis-de-fresa",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/ro8jgmfeutzvtagvc2yz",
+  "_sourceUrl": "https://bongusto.net/receta/105/fresas-en-coulis-de-fresa",
+  "_fetchedAt": "2026-10-12T16:27:02.329Z"
+}

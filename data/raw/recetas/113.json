@@ -1,0 +1,40 @@
+{
+  "id": 113,
+  "titulo": "Ensalada de Pollo con semillas de Sésamo",
+  "descripcion": "Excelente ensalada primaveral con proteína de pollo aderezada con semillas de sésamo, muy sana y estupenda entrada",
+  "historia": "El pollo al sésamo es un plato chino-estadounidense frecuente en los restaurantes bufé y de take-out chinos de Estados Unidos y Canadá. Es muy parecido al pollo General Tso (careciendo habitualmente de la cebolla blanca y los pimientos surtidos, y añadiendo las semillas de sésamo) y, como éste, procede probablemente de la gastronomía de Hunan, que es china.\nActualmente es parte de la nueva cocina francesa donde se le incorpora vegetales y verduras frescas de la estación.",
+  "ingredientes": "### 2 porciones:\n- 2 pechugas de Pollo \t\t\t\t\n- 3 ½ cdas de aceite de sésamo\n- 2 cdas de vinagre de manzana\t\t\n- 4 cdas de salsa de soya\n- 50 grs de jengibre\t\t\t\t\n- 4 dientes de ajos majados\n- 50 grs de harina de trigo\t\t\t\n- Sal y pimienta c/n\n- 1 huevo ligeramente batido\t\t\t\n- 50 grs de semillas de sésamo blanco\n- Aceite vegetal.\n### Para la salsa:\n- 2 dientes de ajo en brunoise\t\t\t\n- 30 grs de jengibre\n- 3 ½ cdas de salsa de soya\t\t\t\n- 2 cdas de aceite de sésamo\n- Una pizca de azúcar.\n### Para la guarnición:\n- 2 zanahorias en batonete\t\t\t\n- 1 cda de miel\n- 1 lechuga criolla\t\t\t\t\n- 2 cdas de semillas de sésamo blanco tostadas\n- Cilantro fresco\t\t\t\t\n- Jengibre en juliana.",
+  "preparacion": "Una de las pechugas cortarla en cubos y marinar con aceite de sésamo vinagre salsa de soya y dientes de ajo, mantener tapado, aparte procesar en licuadora todos los ingredientes de la salsa y reservar. Con la otra pechuga sacar goujonette, para la guarnición: colocar las zanahorias en una olla con agua y miel y cocinar las zanahorias hasta que estén tiernas y blandas y ligeramente acarameladas. Retirar la carne de la marinada y saltear con el aceite de la marinada, luego pasar por harina y huevo los goujonette, y cubrir con semillas de  ésamo llevar a la gran fritura, para la presentación colocar una cama de lechuga sazonada con la salsa encima colocar los cubos de pollo y decorar con los goujonette, cilantro, julianas de jengibre y zanahorias acarameladas.",
+  "publico": true,
+  "created_at": "2019-11-20T13:41:25.223Z",
+  "updated_at": "2019-11-20T13:41:25.223Z",
+  "photo": {
+    "id": 120,
+    "name": "Pollo al Sesamo.png",
+    "hash": "82cc3f18779040dbad3b028ea853ab6b",
+    "sha256": "AT1zUB3Qvn52W8B7L5AUgdBqVdz_J-NgaktQAgk-fvs",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "369.88",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1574257285/y8b1mmudbrvlidhjftxv.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "y8b1mmudbrvlidhjftxv",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-20T13:41:25.906Z",
+    "updated_at": "2019-11-20T13:41:25.906Z"
+  },
+  "categorias": [
+    {
+      "id": 6,
+      "nombre": "Entrada",
+      "created_at": "2019-11-07T21:23:25.610Z",
+      "updated_at": "2019-11-07T21:23:25.610Z"
+    }
+  ],
+  "url": "/receta/113/ensalada-de-pollo-con-semillas-de-sesamo",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/y8b1mmudbrvlidhjftxv",
+  "_sourceUrl": "https://bongusto.net/receta/113/ensalada-de-pollo-con-semillas-de-sesamo",
+  "_fetchedAt": "2026-10-12T16:26:55.708Z"
+}

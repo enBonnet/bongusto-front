@@ -1,0 +1,46 @@
+{
+  "id": 152,
+  "titulo": "Francesiña",
+  "descripcion": "Francesiña o francesinha es un tipo de sándwich típico de la cocina lusa moderna. La variedad más conocida es la de la ciudad de Oporto; su ciudad de origen.",
+  "historia": "Este sándwich ha sido creado por Daniel David Silva, un cocinero emigrante que retornó de Francia durante la década de los años 60. Existe cierta controversia acerca de su origen. Es un plato contundente, y que alguna gente acostumbra a tomar al almuerzo o como cena (de amigos principalmente)",
+  "ingredientes": "### Para la salsa o molho de francesinha:\n- Cerveza rubia, 350 ml\t\t\n- Leche entera, 100 ml\n- Tomate triturado, 350 ml\t\t\n- Mantequilla, 2 cucharadas\n- Cayena molida, 1 cucharadita (*)\t\n- Salsa Worcestershire (Inglesa), 1 cucharada\n- Caldo de carne, 1 taza\t\n### Para la francesinha:\n- Rebanadas de pan de molde, 2 por porción\t\t\n- Fetas de Jamón, 1 por porción\n- Hamburguesa de Carne, 1 por porción\t\t\n- 5 Salchichas tipo Viena rebanadas\n- 1/2 kilo de queso gouda o mozarela rebanado\t\n- Patatas fritas para acompañar C/N",
+  "preparacion": "### Preparación de la salsa de la Francesinha\n1. En una olla amplia ponemos a calentar la cerveza a fuego (al calentarse hará mucha espuma y subirá por lo que tiene que ser una olla amplia si no queremos que desborde).\n2. Cuando rompa a hervir añadimos el caldo de carne concentrado, la leche, el tomate triturado y la cayena. Esperamos a que hierva el conjunto y añadimos la salsa Worcestershire y la mantequilla. \n3. Bajamos el fuego y dejamos que se cocine en la cacerola destapada durante unos 20 o 25 min, hasta que haya reducido su volumen más o menos a la mitad.\n### Preparación de la Francesinha\n1. Precalentamos el grill del horno.\n2. En una plancha cocinamos la hamburguesa y las salchichas.\n3. Tostamos el pan.\n### Montamos la francesinha:\n1. Rebanada de pan tostado\n2. Feta de queso\n3. Feta de jamón\n4. Hamburguesa\n5. Feta de queso\n6. Salchichas Viena\n7. Feta de queso\n8. Rebanada de pan tostado\n9. Feta de jamón\n10. Lo envolvemos todo con fetas de queso\n11. Metemos en el horno un minuto o dos solo para que se funda el queso, no hay que dejar que se gratine.\n12. Servimos la francesinha rodeada de patatas fritas en bastones y con uno o dos cucharones de la salsa caliente por encima.",
+  "publico": true,
+  "created_at": "2019-11-23T20:33:41.325Z",
+  "updated_at": "2019-11-23T20:33:41.325Z",
+  "photo": {
+    "id": 184,
+    "name": "Francesiña.jpg",
+    "hash": "06ee794f87af432ba70c7b2b5d1f080d",
+    "sha256": "tGxfGNvKGQL_l2jozccXv6HnUq6wgHeTw269AGCpCDA",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "size": "45.86",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1574541221/vujmimmkygt9d2f2v6gl.jpg",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "vujmimmkygt9d2f2v6gl",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-23T20:33:41.678Z",
+    "updated_at": "2019-11-23T20:33:41.678Z"
+  },
+  "categorias": [
+    {
+      "id": 6,
+      "nombre": "Entrada",
+      "created_at": "2019-11-07T21:23:25.610Z",
+      "updated_at": "2019-11-07T21:23:25.610Z"
+    },
+    {
+      "id": 47,
+      "nombre": "Principal",
+      "created_at": "2019-11-20T14:11:58.958Z",
+      "updated_at": "2019-11-20T14:11:58.958Z"
+    }
+  ],
+  "url": "/receta/152/francesina",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/vujmimmkygt9d2f2v6gl",
+  "_sourceUrl": "https://bongusto.net/receta/152/francesina",
+  "_fetchedAt": "2026-10-12T16:26:24.109Z"
+}

@@ -1,0 +1,40 @@
+{
+  "id": 151,
+  "titulo": "Caldo Verde",
+  "descripcion": "El caldo verde es uno de los platos nacionales de Portugal, y muy apreciado en la cocina portuguesa (sobre todo en la antigua provincia del Minho).",
+  "historia": "En realidad se trata de una sopa elaborada de un puré de patatas acompañado de unas tiras de couve-galega - las berzas que se pueden ver en Galicia) y que le proporcionan el color verde característico, algo de ajo, aceite de oliva y todo ello ligeramente sazonado, pero su combinación proporciona el aroma típico de algunas calles de Lisboa, Oporto, etc. Se menciona que es originaria de la región del Miño (en la antigua frontera con Galicia). Esta sopa es conocida también en Brasil.",
+  "ingredientes": "### De 2 a 3 Porciones:\n- 1 Chorizo portugués u otro chorizo ahumado\t\n- 5 hojas de col gallega o grelos\n- 2 papas grandes\t\t\t\t\n- 1,5 litro de caldo de carne\n- 2 dientes de ajo\t\t\t\t\n- 1 cebolla\n- Sal\t\t\t\t\t\t\n- Aceite de oliva",
+  "preparacion": "1. Lo primero, lavar las hojas y cortarlas en tiras muy finas. Reservar.\n2. Cortar el chorizo en rodajas. Reservar.\n3. Cortar los dientes de ajo. Reservar.\n4. Cortar la cebolla en brunoise. Reservar.\n5. Pelar las papas y luego cortarlas en cubitos\n6. Llevar una cacerola grande al fuego medio con el aceite. Introduzca la cebolla cortada para rehogar.\n7. Cuando esté trasparente la cebolla, añadir el ajo cortado y rehogar.\n8. Enseguida, añadir los trozos de papa, el caldo de carne y cocer a fuego alto hasta que hierva y que las papas estén hechas.\n9. Cuando las papas estén cocidas, apagar el fuego.\n10. Cuando se enfríe, batir todo con la batidora hasta que se consigue una crema suave.\n11. Vuelva a llevar la cacerola al fuego medio y cuando empiece a hervir otra vez, añadir el chorizo y las hojas cortadas y dejar que se cocine por unos 5 minutos.\n12. Salpimentar al gusto. Servir caliente.",
+  "publico": true,
+  "created_at": "2019-11-23T20:22:20.591Z",
+  "updated_at": "2019-11-23T20:22:20.591Z",
+  "photo": {
+    "id": 183,
+    "name": "Caldo Verde.jpg",
+    "hash": "cbb91d36cd8542e3a506bedc57761c12",
+    "sha256": "gtRdE8JV3jRjqzinfm92eRp_JOBm4uvzQUjiH9Bj++g",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "size": "53.45",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1574540540/hxa3xuasmvxdyn21eubt.jpg",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "hxa3xuasmvxdyn21eubt",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-23T20:22:21.582Z",
+    "updated_at": "2019-11-23T20:22:21.582Z"
+  },
+  "categorias": [
+    {
+      "id": 6,
+      "nombre": "Entrada",
+      "created_at": "2019-11-07T21:23:25.610Z",
+      "updated_at": "2019-11-07T21:23:25.610Z"
+    }
+  ],
+  "url": "/receta/151/caldo-verde",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/hxa3xuasmvxdyn21eubt",
+  "_sourceUrl": "https://bongusto.net/receta/151/caldo-verde",
+  "_fetchedAt": "2026-10-12T16:26:25.000Z"
+}

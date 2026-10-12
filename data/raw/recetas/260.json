@@ -1,0 +1,40 @@
+{
+  "id": 260,
+  "titulo": "Crema De Ajo Porro Desglasada Con Vino Tinto",
+  "descripcion": "Ligera y rápida de preparar, la crema de ajoporro se puede servir tibia como entrada en un almuerzo, o caliente y acompañada de tostadas a la hora de la cena.\n\n",
+  "historia": "El puerro, ajo porro o ajoporro, es una planta que pertenece a las liliáceas una familia muy extensa que tiene unas 3500 especies que la aproximadamente. Dentro de esta, se destaca el género Allium, al cual pertenecen hortalizas muy conocidas y apreciadas como la cebolla, el ajo, el cebollino o cebollín, y por supuesto, el puerro.\n\nSu origen es incierto, pero se cree que procede de regiones de Europa y Asia oriental. Era empleada por hebreos, babilonios, y egipcios, hace unos 5.000 años. Posteriormente los romanos extendieron su uso, y su cultivo se popularizo mucho.",
+  "ingredientes": "### Para 4 porciones \n- 6 tallos de ajo porro limpios \n- 200 mililitros de aceite de oliva \n- 5 tazas de caldo de carne \n- 2 tazas de vino tinto \n- ½ taza de crema de leche \n- 1 cebolla morada \n- 2 tallitos pequeños de jengibre \n- 6 dientes de ajo \n- 50 gramos de mantequilla \n- 2 cucharaditas de azúcar \n- Sal y pimienta gourmet ",
+  "preparacion": "A) Cortar los ajos porros en ruedas y la cebolla, el ajo y el jengibre en cubos. \nB) En una olla calentar el aceite de oliva y la mantequilla a fuego alto, agregar los ingredientes ya cortados y saltear. \nC) Sazonar con la sal, la pimienta gourmet y el azúcar, bajar la llama a fuego medio y cocinar por 10 minutos. \nD) Una vez transcurrido este tiempo, agregar el vino tinto y dejar reducir a la mitad, incorporar el caldo y dejar cocinar de 12 a 1 5 minutos. Retirar del fuego, licuar y colar. \nE) Llevar nuevamente al fuego, incorporar la crema de leche y dejar cocinar por 5 minutos. Retirar del fuego y servir.",
+  "publico": true,
+  "created_at": "2019-12-21T13:51:56.879Z",
+  "updated_at": "2019-12-21T13:51:56.879Z",
+  "photo": {
+    "id": 294,
+    "name": "Crema de Ajo Porro al vino tinto1.jpg",
+    "hash": "2a443b436c154faaac969211a7034d82",
+    "sha256": "MPCNW2WH_LNDFcFbWrz-YKSWzWrfZAWN2jhsNLNEBfs",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "size": "51.62",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1576936317/ngdpah68tswwmbliobzh.jpg",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "ngdpah68tswwmbliobzh",
+      "resource_type": "image"
+    },
+    "created_at": "2019-12-21T13:51:57.297Z",
+    "updated_at": "2019-12-21T13:51:57.297Z"
+  },
+  "categorias": [
+    {
+      "id": 6,
+      "nombre": "Entrada",
+      "created_at": "2019-11-07T21:23:25.610Z",
+      "updated_at": "2019-11-07T21:23:25.610Z"
+    }
+  ],
+  "url": "/receta/260/crema-de-ajo-porro-desglasada-con-vino-tinto",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/ngdpah68tswwmbliobzh",
+  "_sourceUrl": "https://bongusto.net/receta/260/crema-de-ajo-porro-desglasada-con-vino-tinto",
+  "_fetchedAt": "2026-10-12T16:24:56.490Z"
+}

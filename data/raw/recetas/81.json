@@ -1,0 +1,40 @@
+{
+  "id": 81,
+  "titulo": "Locro de Trigo Argentino",
+  "descripcion": "Este plato tradicional de la gastronomía del país más austral, se ha transformado en uno de los más ricos y esperados de las fechas patrias Argentinas.",
+  "historia": "Como cada 25 de mayo, hoy el pueblo argentino compartirá una receta tan particular como especial: el locro. Se trata de una suerte de guiso de origen prehispánico y preincaico, típico de varios pueblos andinos que basaban gran parte de su dieta en el maiz o los porotos y la papa. Se lo prepara según multitud de recetas, siendo lo único invariable su base vegetal y el procedimiento de cocción, a fuego lento durante varias horas.",
+  "ingredientes": "### 8 Porciones:\n- ¼ kg de judías secas\t\t\t\t\n- Sal c/n\n- ½ kg de tocino salado\t\t\t\t\n- ½ kg de papa\n- ½ kg de huesos de cerdo salados\t\t\n- ½ kg de auyama\n- ½ kg de trigo pelado\t\t\t\t\n- 2 chorizos rojos\n- ½ kg de carne de falda\t\t\t\n- 2 chorizos blancos\n- ### Para la salsa picante:\n¼ kg de ajos\t\t\t\t\t\n- Sal c/n\n- 1 pimentón rojo\t\t\t\t\n- 1 cda de chile molido\n- ¼ de lt. De aceite\t\t\t\t\n- ½ taza de fondo\n- 1 hoja de laurel\t\t\t\t\n- 1 cda. De pimentón dulce\n",
+  "preparacion": "Lavar y remojar de un día para otro las judías secas, aparte hierva agua y blanquee el tocino y los huesos de cerdo por tres minutos quite el exceso de grasa y corte en bastones y reserve, parta los huesos salados en trozos pequeños y reserve. Coloque el trigo en una olla grande y cúbralo con agua hirviendo, llévelo al fuego por dos minutos cuando empiece a hervir agregar dos tazas de agua fría y apagar, cuando el trigo se haya abierto agregue la carne de falda cortada en trozos y lleve al fuego hasta que empiece a hervir, baje el fuego y agregue el tocino y los huesos salados y deje hervir por espacio de  ½ hora, cuando tenga aspecto de guiso agregar los chorizos cortados en rodajas, las judías la auyama y las papas, cocine revolviendo de vez en cuando, hasta que las verduras estén blandas, agregar sal al gusto.",
+  "publico": true,
+  "created_at": "2019-11-11T20:49:20.428Z",
+  "updated_at": "2019-11-11T20:49:20.428Z",
+  "photo": {
+    "id": 166,
+    "name": "Locro de Trigo.png",
+    "hash": "1284480b3e4b410f9b7a4c501764b47f",
+    "sha256": "D6kCaTlgTzEv0b3M24yqm-XMu9JqbwPgkJBywe8LUP0",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "48.46",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1574522247/sasf6g0xa3zje8nnjukk.jpg",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "sasf6g0xa3zje8nnjukk",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-23T15:17:27.891Z",
+    "updated_at": "2019-11-23T15:17:27.891Z"
+  },
+  "categorias": [
+    {
+      "id": 6,
+      "nombre": "Entrada",
+      "created_at": "2019-11-07T21:23:25.610Z",
+      "updated_at": "2019-11-07T21:23:25.610Z"
+    }
+  ],
+  "url": "/receta/81/locro-de-trigo-argentino",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/sasf6g0xa3zje8nnjukk",
+  "_sourceUrl": "https://bongusto.net/receta/81/locro-de-trigo-argentino",
+  "_fetchedAt": "2026-10-12T16:27:21.797Z"
+}

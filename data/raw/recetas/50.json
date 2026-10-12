@@ -1,0 +1,40 @@
+{
+  "id": 50,
+  "titulo": "Salsa Napolitana",
+  "descripcion": "Rica salsa para acompañar, diferentes platos a base de pasta.",
+  "historia": "Esta salsa originalmente en Italia es llamada ¨sugo di pomodoro alla napoletana¨. Otros nombres que suele ser usado para llamarla son:  Marinara, Al Pomodoro.\n\nExiste la polémica si la salsa napolitana nació en Nápoles, si fue en un restaurante llamado Napoli, otros dicen que es española,  hasta se rumora que es de China que , así que es mejor dejarlo así para no entrar en polémicas.",
+  "ingredientes": "### Insumos Salsa Napolitana:\n- ½ litro de salsa de tomate madre\t\t\t\n- 2 cebollas en brunoise\n- ½ pimentón en brunoise\n- 2 ají dulce en brunoise\t\t\n- 4 dientes de ajo majados\t\n- Sal y Pimienta al gusto\n- Orégano seco C/N\t\t\n- Aceite C/N\n",
+  "preparacion": "### Preparación:\n- a.\tRehogar en caldero la cebolla, el pimentón, ají dulce y el ajo.\n- b.\tSal-Pimentar al gusto\n- c.\tAgregar la salsa madre, remover constantemente hasta que hierva\n- d.\tRectificar sazón\n- e.\tAgregar el orégano desmenuzado al gusto.\n- f.\tDejar cocer a fuego lento hasta obtener la consistencia deseada.\n",
+  "publico": true,
+  "created_at": "2019-11-09T19:51:22.211Z",
+  "updated_at": "2019-11-09T22:10:04.272Z",
+  "photo": {
+    "id": 57,
+    "name": "Salsa.png",
+    "hash": "2ce4793b154e4221a730e44c746784ba",
+    "sha256": "TZL2EV7Ms6Yu1Ss9Fqu7b6iPQzLD6iSZgu-Wr2644kc",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "304.71",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1573329082/b6svqjafhnx8qw0dpmhc.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "b6svqjafhnx8qw0dpmhc",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-09T19:51:22.525Z",
+    "updated_at": "2019-11-09T19:51:22.525Z"
+  },
+  "categorias": [
+    {
+      "id": 42,
+      "nombre": "Salsa",
+      "created_at": "2019-11-09T19:51:40.254Z",
+      "updated_at": "2019-11-09T19:51:40.254Z"
+    }
+  ],
+  "url": "/receta/50/salsa-napolitana",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/b6svqjafhnx8qw0dpmhc",
+  "_sourceUrl": "https://bongusto.net/receta/50/salsa-napolitana",
+  "_fetchedAt": "2026-10-12T16:27:46.400Z"
+}

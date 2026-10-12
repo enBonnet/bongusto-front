@@ -1,0 +1,40 @@
+{
+  "id": 189,
+  "titulo": "Conejo en Coco",
+  "descripcion": "En la gastronomía zuliana, particularmente en la maracaibera, la leche de coco es fundamental.",
+  "historia": "En la gastronomía zuliana, particularmente en la maracaibera, la leche de coco es fundamental. El plato que aquí se presenta es uno más de los múltiples preparados que incorporan este ingrediente.",
+  "ingredientes": "### Ingredientes (para 6 personas) \n### Para limpiar la carne \n- 2 limones, cortados en dos \n### Para marinar \n- 1 conejo cortado en presas (1 ½ kg, aproximadamente) \n- 6 dientes de ajos machacados \n- 2 cebollas ralladas \n- 1 cucharada de salsa inglesa \n- Pimienta negra recién molida, al gusto \n- Sal al gusto \n- Para la cocción del conejo \n- ½ taza de aceite vegetal \n- 100 gramos de mantequilla \n- 2 ajíes dulces picados en trozos pequeños \n- 1 pimentón picado en trozos pequeños \n- 5 tomates picados en trozos pequeños \n- 1 taza de caldo de pollo o carne \n- Para la leche de coco \n- La pulpa de 2 cocos, rallada \n- 2 tazas de agua caliente",
+  "preparacion": "1. Se frota el conejo con los limones y se lava con agua corriente. En un recipiente, se adoba con los ajos machacados, las cebollas, la salsa inglesa, la pimienta y la sal. Se deja marinar por 12 horas. \n2. Se retira del envase y se reserva el líquido. En un caldero, se calienta a fuego medio el aceite, se añade la mantequilla y se sofríe el conejo hasta que todas sus presas estén doradas (el aceite impide que la mantequilla se queme). \n3. Se añade el líquido del adobo, el ají, el pimentón, los tomates y el caldo de pollo o carne, y se hace hervir a fuego alto. Se baja a fuego medio y se deja cocinar de 10 a 15 minutos o hasta que la carne esté casi blanda.\n4. Se licúa el coco rallado en las dos tazas de agua caliente y se cuela (preferiblemente con una manga de tela). Se añade la leche de coco al caldero y se mezcla con los demás ingredientes. \n5. Se prueba, se rectifica el punto de sal y se deja a fuego bajo hasta que la carne ablande por completo y la salsa espese.\n### Sugerencia \n- Acompañar con arroz blanco y ensalada de vegetales cocidos.",
+  "publico": true,
+  "created_at": "2019-12-06T22:45:45.621Z",
+  "updated_at": "2019-12-06T22:45:45.621Z",
+  "photo": {
+    "id": 223,
+    "name": "Conejo en Coco.png",
+    "hash": "5d493733b93b40f78a3ba322a2f88dbd",
+    "sha256": "qLQUJCWF3R53RRzwDQvOHbWCt6cU_WfIb-z4LiajPgs",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "105.49",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1575672345/tfop8iv1u3m3qgarhpvk.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "tfop8iv1u3m3qgarhpvk",
+      "resource_type": "image"
+    },
+    "created_at": "2019-12-06T22:45:46.124Z",
+    "updated_at": "2019-12-06T22:45:46.124Z"
+  },
+  "categorias": [
+    {
+      "id": 47,
+      "nombre": "Principal",
+      "created_at": "2019-11-20T14:11:58.958Z",
+      "updated_at": "2019-11-20T14:11:58.958Z"
+    }
+  ],
+  "url": "/receta/189/conejo-en-coco",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/tfop8iv1u3m3qgarhpvk",
+  "_sourceUrl": "https://bongusto.net/receta/189/conejo-en-coco",
+  "_fetchedAt": "2026-10-12T16:25:54.653Z"
+}

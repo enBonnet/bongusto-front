@@ -1,0 +1,40 @@
+{
+  "id": 150,
+  "titulo": "Lassi",
+  "descripcion": "El lassi es una bebida tradicional de la India hecha a base de yogur. Es popular en dicho país, aunque tuvo su origen en el Punyab.",
+  "historia": "El lassi se consume en la India, sobre todo en el norte, desde hace miles de años, pues se piensa que comenzó a elaborarse alrededor del año 1000 a. C. La zona donde se originó es Punyab. Esta bebida junto con cúrcuma se preparaba para combatir los problemas de estómago.",
+  "ingredientes": "- Agua fría\t\t\t\n- Un yogur natural\n- Leche de coco(O leche)\t\n- Miel (O azúcar)\n- Esencia de vainilla \t\t\n- Hojas de menta o hierba Buena",
+  "preparacion": "1. Colocar el yogur natural dentro del vaso de la batidora y agregar el agua (1/2 medida del vaso del yogur). La leche de coco (1/2 medida del vaso del yogur). Y la miel (1/2 medida del vaso del yogur).\n2. Procesar hasta que el batido quede homogéneo.\n3. Agregar a la batidora unas hojas de menta a fin de que la bebida quede refrescante.\n4. Servir con suficiente hielo.",
+  "publico": true,
+  "created_at": "2019-11-22T21:48:38.182Z",
+  "updated_at": "2019-11-22T21:48:38.182Z",
+  "photo": {
+    "id": 157,
+    "name": "Lassi.png",
+    "hash": "d8e5c3d6c02240c8b94699e2170f69b8",
+    "sha256": "tE3v9TUZMTB5Xy6Zy_TZnEL8Y9DVetAGih+VxnpiqXA",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "197.54",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1574459318/r5r99qsvw1245j8rifw6.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "r5r99qsvw1245j8rifw6",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-22T21:48:38.543Z",
+    "updated_at": "2019-11-22T21:48:38.543Z"
+  },
+  "categorias": [
+    {
+      "id": 43,
+      "nombre": "Maridaje ",
+      "created_at": "2019-11-09T20:57:22.945Z",
+      "updated_at": "2019-11-09T20:57:22.945Z"
+    }
+  ],
+  "url": "/receta/150/lassi",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/r5r99qsvw1245j8rifw6",
+  "_sourceUrl": "https://bongusto.net/receta/150/lassi",
+  "_fetchedAt": "2026-10-12T16:26:25.865Z"
+}

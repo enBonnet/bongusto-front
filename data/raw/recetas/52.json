@@ -1,0 +1,40 @@
+{
+  "id": 52,
+  "titulo": "Callos a la Andaluza",
+  "descripcion": "Los callos a la andaluza también conocidos como Menudo Gitano, son hechos a base de callos (tripas de animales). Suelen prepararse con garbanzos y por esto también se denominan “Callos con Garbanzo”",
+  "historia": "Los primeros registros en donde se menciona esta receta datan del siglo XIX y su origen es Andalucía, España. Esta es una de las recetas más famosas hechas a partir de callos.",
+  "ingredientes": "### 8 porciones:\n### Insumos:\nInsumos:\n- 1 kg. de mondongo limpio y previamente ablandado.\t\t\t\n- 500 g de garbanzos.\n- 150 g de jamón en cubos.\t\t\n- 1 cebolla grande en Emincé.\t\n- 3 tomates Concassé.\n- 4 chorizos en ruedas.\t\t\t\n- 3 dientes de ajo Majados.\t\n- 2 hojas de laurel.\n- 1 ramita de hierbabuena.\t\t\t\n- 1 Paprika.\t\t\t\n- ½ litro de vino banco.\n- Aceite C/N.\t\t\t\t\n- unas hebras de azafrán o un toque de curcuma\t.\t\n- ½ cucharadita de comino.\n- Pimienta.\t\t\t\t\n- 2 clavos de especia.\t\t\n- sal.\n- 1 rebanada de pan frito.\t\t\t\n- 3 cdas Aceite Onotado.\n\n",
+  "preparacion": "Preparación:\n- 1. La víspera (24 horas antes) se pondrán los garbanzos en remojo en agua tibia y sal.\n- 2. El mondongo se limpia y se lava, luego se corta en cuadros de 3x3 o a gusto.\n- 3. Llevar el mondongo al fuego en una cacerola u olla cubiertos de agua fría, cuando empiecen a hervir, escurrirlos, volverlos al fuego cubriéndolos de nuevo con agua fría, al empezar la ebullición, espumarlos y dejarlos que se sigan cociendo lentamente y sin interrupción, sazonarlos con sal, dejar en ebullición hasta que ablande. Se puede usar olla a presión.\n- 4. Levar a cocer los garbanzos hasta que ablande agregar un chorrito de aceite, y sal.\n- 5. En sartén puesta al fuego con aceite, freír el ajo, luego de un momento, y agregar seguidamente el jamón, la cebolla, las hojas de laurel y hierbabuena, al empezar a dorarse, añadir la paprika y el tomate, dejarlo sofreír también e incorporar el vino, que se reducirá a la mitad, una vez reducido, mezclarlo junto con los chorizos, vigilando que no se queden cortos de caldo, cuando falte poco para estar cocido añadir el mondongo ya ablandado, sal pimentar.\n- 6. Cuando comience el hervor agregar el azafrán, el comino, la pimienta, el clavo y una rebanada de pan frita, lo que hará espesar la salsa, al quedar todo reducido a una pasta finísima, se agrega el aceite onotado y caldo de los callos de ser necesario si está muy seco, rectificar de sal y pimienta.\n- 7. Se les mezclan entonces los garbanzos cocidos bien escurridos, se retira el ramillete de hierbas y se deja cocer 10 minutos más, no debe tener exceso de salsa y esta deberá estar ligeramente ligada.\n- 8. Se sirven en una cazuela con tapa, con los chorizos cortados a rodajas encima y unas hojitas de hierbabuena.\n",
+  "publico": true,
+  "created_at": "2019-11-09T20:20:31.109Z",
+  "updated_at": "2019-11-09T21:38:30.137Z",
+  "photo": {
+    "id": 202,
+    "name": "Callos.png",
+    "hash": "d48a71c6aa134d29a0b699de43768c7a",
+    "sha256": "zkzzLZaSp1jjl-NctzVa5IQ7PYdJEFQWa_xSzp2ZDwo",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "245.88",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1575582534/j0c6xf8uhtwzc2ddzuxi.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "j0c6xf8uhtwzc2ddzuxi",
+      "resource_type": "image"
+    },
+    "created_at": "2019-12-05T21:48:55.185Z",
+    "updated_at": "2019-12-05T21:48:55.185Z"
+  },
+  "categorias": [
+    {
+      "id": 47,
+      "nombre": "Principal",
+      "created_at": "2019-11-20T14:11:58.958Z",
+      "updated_at": "2019-11-20T14:11:58.958Z"
+    }
+  ],
+  "url": "/receta/52/callos-a-la-andaluza",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/j0c6xf8uhtwzc2ddzuxi",
+  "_sourceUrl": "https://bongusto.net/receta/52/callos-a-la-andaluza",
+  "_fetchedAt": "2026-10-12T16:27:44.787Z"
+}

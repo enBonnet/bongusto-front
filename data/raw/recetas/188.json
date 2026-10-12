@@ -1,0 +1,40 @@
+{
+  "id": 188,
+  "titulo": "Hígado Encebollado",
+  "descripcion": "EI hígado de res es la víscera más popular en Venezuela, valorada además por sus amplias cualidades alimenticias.",
+  "historia": "EI hígado de res es la víscera más popular en Venezuela, valorada además por sus amplias cualidades alimenticias: un bistec de hígado contiene casi tanta vitamina A como la que necesita el organismo durante un mes. Habitualmente se sofríe con cebolla, aunque también \npuede prepararse guisado en una salsa de tomates y especias, en paté o a la brasa. El modo de cocción que aquí se sugiere puede aplicarse a cualquier tipo de carne; sólo hay que saber que lo mejor es sofreír la cebolla después del bistec, para que absorba todo el sabor y jugo que ha dejado la pieza en la sartén.\n",
+  "ingredientes": "### Ingredientes (para 8 personas) \n- 1 ½ kg de hígado de res cortado en bistecs de 1 cm de espesor \n- 2 cucharaditas de sal \n- ½ cucharadita de pimienta negra recién molida \n- 4 cucharadas de aceite de maíz \n- 4 cebollas medianas cortadas en rodajas no muy finas (aprox. 1/2 cm de espesor) \n- 3 cucharadas de salsa inglesa \n- ½ cucharadita de comino molido",
+  "preparacion": "1. Se sazona el hígado con la sal y la pimienta. \n2. En una sartén con 2 cucharadas de aceite, se sofríen los bistecs a fuego alto, durante 1 ½ minutos por lado. \n3. Se retiran y reservan en una bandeja aparte. \n4. Se baja el fuego, se añaden a la sartén 2 cucharadas más de aceite y se sofríen las cebollas a fuego medio hasta que queden translúcidas. Se agrega la salsa inglesa y el comino. \n5. Se introducen nuevamente los bistecs en la sartén junto con las cebollas y se cocinan durante 1 o 2 minutos más. Se sirven con la cebolla por encima. \n### Sugerencia \n- Acompañar con arroz blanco y tajadas.",
+  "publico": true,
+  "created_at": "2019-12-06T22:42:56.073Z",
+  "updated_at": "2019-12-06T22:42:56.073Z",
+  "photo": {
+    "id": 222,
+    "name": "Higado Encebollado.png",
+    "hash": "78b617f4ae574c66a31f8ea1321d37e2",
+    "sha256": "zPKESFhM9LVativpithpNpFEQ7xSHb85WwmXf7-egzo",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "119.08",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1575672176/updspk4m84v33zvoozje.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "updspk4m84v33zvoozje",
+      "resource_type": "image"
+    },
+    "created_at": "2019-12-06T22:42:56.461Z",
+    "updated_at": "2019-12-06T22:42:56.461Z"
+  },
+  "categorias": [
+    {
+      "id": 47,
+      "nombre": "Principal",
+      "created_at": "2019-11-20T14:11:58.958Z",
+      "updated_at": "2019-11-20T14:11:58.958Z"
+    }
+  ],
+  "url": "/receta/188/higado-encebollado",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/updspk4m84v33zvoozje",
+  "_sourceUrl": "https://bongusto.net/receta/188/higado-encebollado",
+  "_fetchedAt": "2026-10-12T16:25:55.239Z"
+}

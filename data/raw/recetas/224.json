@@ -1,0 +1,40 @@
+{
+  "id": 224,
+  "titulo": "Sancocho de Gallina",
+  "descripcion": "El hervido de carne ó gallina, se acostumbra a comer en Caracas desde mucho antes del siglo XVIII, se preparaba esta sopa para comer antes del plato fuerte",
+  "historia": "El hervido de carne ó gallina, se acostumbra a comer en Caracas desde mucho antes del siglo XVIII, se preparaba esta sopa para comer antes del plato fuerte, en épocas de la colonia se presentaba casi diariamente, se hacía primero un caldo con la carne ó el ave, y en esta base se añadían los tubérculos, verduras y aliños, hasta estar blandos, se le agregaba el \"sofrito\" y el \"compuesto\", para darle sabor y aroma, entonces se servía el caldo en el plato y las verduras y tubérculos en una bandeja, y las presas del ave ó los trozos de carne en otra, para que el comensal tomara la ración de verduras y carnes de su preferencia, esto representaba el preámbulo al plato fuerte.",
+  "ingredientes": "### Ingredientes para 8 personas \n- 1 gallina de 2 a 3 kg \n- 1 limón cortado en dos \n- 6 litros de agua \n- 2 ajoporros grandes cortados en dos \n- 3 cebollas medianas cortadas en dos \n- 4 o 5 jojotos cortados en trozos medianos \n- 4 tazas de papas cortadas en cuadritos de 2 centímetros \n- 10 dientes de ajo majados \n- 2 cucharadas de sal \n- ½ cucharadita de pimienta blanca recién molida \n- 4 cucharadas de mantequilla \n- 2 ramitas de cilantro \n- l ramita de yerbabuena",
+  "preparacion": "Se limpia muy bien la gallina, quitándole los excesos de grasa, las vísceras y la piel del pescuezo, Se frota con el limón.\nSe coloca entera en una olla de presión, con el agua, el ajoporro y la cebolla. Se cocina a fuego alto hasta que hierva. Se baja a fuego medio y se deja cocinar hasta que ablande (unos 50 minutos). Se retira del fuego y se deja enfriar durante un tiempo (o se enfría con agua de chorro) para abrir la olla sin peligro. Se cuela el caldo y se desechan el ajoporroyla cebolla. \nCuando se enfríe la gallina, se le quita la piel y se corta la carne en presas (o en trozos pequeños). En una olla grande se vierte el caldo donde se cocinó la gallina y se le agrega agua hasta completar unas 11 tazas. \nSe añade el jojoto, las papas, el ajo, la sal y la pimienta y se cocina a fuego alto hasta que hierva. Se baja a fuego medio y se deja cocinar hasta que la papa ablande. \nSe agregan la gallina y la mantequilla y se deja cocinar por 15 minutos más, Se agregan el cilantro y la yerbabuena. \nDespués de unos 4 minutos, se retira la olla del fuego y se eliminan el cilantro y la yerbabuena.",
+  "publico": true,
+  "created_at": "2019-12-07T22:01:45.709Z",
+  "updated_at": "2019-12-07T22:01:45.709Z",
+  "photo": {
+    "id": 258,
+    "name": "Sancocho de Gallina.png",
+    "hash": "a6c983678a6142309e38142bfd9a0970",
+    "sha256": "Ax-9NY-MDfKsawJk3-fngWqRq4E31xTFB6iLsuz5t5s",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "199.15",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1575756105/f80sbw4mbuia8k7wtpfd.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "f80sbw4mbuia8k7wtpfd",
+      "resource_type": "image"
+    },
+    "created_at": "2019-12-07T22:01:46.133Z",
+    "updated_at": "2019-12-07T22:01:46.133Z"
+  },
+  "categorias": [
+    {
+      "id": 6,
+      "nombre": "Entrada",
+      "created_at": "2019-11-07T21:23:25.610Z",
+      "updated_at": "2019-11-07T21:23:25.610Z"
+    }
+  ],
+  "url": "/receta/224/sancocho-de-gallina",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/f80sbw4mbuia8k7wtpfd",
+  "_sourceUrl": "https://bongusto.net/receta/224/sancocho-de-gallina",
+  "_fetchedAt": "2026-10-12T16:25:25.858Z"
+}

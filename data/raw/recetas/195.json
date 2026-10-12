@@ -1,0 +1,40 @@
+{
+  "id": 195,
+  "titulo": "Pollo al Horno",
+  "descripcion": "Para obtener un pollo al horno jugoso y crujiente sólo hace falta conocer un secreto: la temperatura correcta.",
+  "historia": "Para obtener un pollo al horno jugoso y crujiente sólo hace falta conocer un secreto: la temperatura correcta. Por debajo de 240°C, ninguna pieza se dora; mientras que con un calor mayor es difícil cocerla en su totalidad sin quemar alguna parte. Los métodos de cocción en seco (al horno, a la parrilla o a la plancha) son siempre. recomendables para carnes suaves y jugosas, como la de esta ave, mientras que para otras más duras suele utilizarse con mayor frecuencia la cocción húmeda (guisado, hervido o en caldo corto). El pollo al horno es una receta sencilla y muy popular en la dieta cotidiana.",
+  "ingredientes": "### Ingredientes (para 4 personas) \n- 1 pollo entero, con piel \n- El jugo de 2 limones \n- Pabilo \n- 4 dientes de ajo machacados \n- 1 cebolla cortada en juliana \n- 6 ramas de cebollín cortadas en juliana \n- ½ tallo de ajoporro picado en juliana \n- 1 pimentón rojo picado en juliana \n- 6 ajíes dulces picados en juliana \n- ½ cucharadita de mezcla de aliños en polvo: laurel, comino y orégano \n- Sal al gusto (alrededor de h cucharada). \n- Pimienta negra recién molida, al gusto, \n- 2 cucharadas de aceite de oliva (opcional) \n- 30 gramos de mantequilla cortada en daditos, \n- 1 taza de agua o caldo de pollo.",
+  "preparacion": "1. Se limpia el pollo frotando la piel con el jugo de limón. Se lava con agua para eliminar el exceso. \n2. Se amarran los muslos y las alas. \n3. En una bandeja para hornear, se mezclan los ajos, la cebolla, el cebollín, el ajoporro, el pimentón, los ajíes, el aliño, la sal, la pimienta y el aceite de oliva.\n4. Se coloca el pollo y se le frota la mezcla. Una vez cubierto uniformemente, se deja marinar durante media hora. \n5. Se precalienta el horno a 150° C. \n6. Se rocía el caldo (o agua) sobre el pollo y la marinada. Se lleva al horno y se cocina tapado por unos 40 minutos o hasta que este cocido (para comprobarlo, basta pinchar la carne con una aguja de cocina o un cuchillo muy fino: el jugo que sale no debe contener sangre). \n7. Se saca del horno y se sube la temperatura a 240° C. Sobre la piel del pollo se colocan los cuadritos de mantequilla (lo que permite dorarlo mejor) y se introduce nuevamente, hasta que dore. \n8. Se retira la preparación del horno y se colocan en una bandeja el pollo y los vegetales. Se vierte la salsa en una olla pequeña, se calienta a fuego alto y se deja hervir hasta que espese un poco. \n9. Se baña el pollo con la salsa y se sirve. \n### Opcional \n- Se pueden añadir papas peladas, cocidas y cortadas en dos. \n### Sugerencias \n- Acompañar con arroz blanco, ensalada de aguacate y palmito, yuca sancochada o hallaquitas.",
+  "publico": true,
+  "created_at": "2019-12-06T23:07:18.769Z",
+  "updated_at": "2019-12-06T23:07:18.769Z",
+  "photo": {
+    "id": 229,
+    "name": "Pollo al Horno.png",
+    "hash": "b6cb3df3b11c47f29628e9cfb01ba4e3",
+    "sha256": "CmZqvRC660AZkNrE7OhPWBkWiWgu2nd-zJGT-J8MJAM",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "224.43",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1575673638/falpzb5nj3b78wewba0a.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "falpzb5nj3b78wewba0a",
+      "resource_type": "image"
+    },
+    "created_at": "2019-12-06T23:07:19.188Z",
+    "updated_at": "2019-12-06T23:07:19.188Z"
+  },
+  "categorias": [
+    {
+      "id": 47,
+      "nombre": "Principal",
+      "created_at": "2019-11-20T14:11:58.958Z",
+      "updated_at": "2019-11-20T14:11:58.958Z"
+    }
+  ],
+  "url": "/receta/195/pollo-al-horno",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/falpzb5nj3b78wewba0a",
+  "_sourceUrl": "https://bongusto.net/receta/195/pollo-al-horno",
+  "_fetchedAt": "2026-10-12T16:25:49.426Z"
+}

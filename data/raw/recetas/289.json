@@ -1,0 +1,40 @@
+{
+  "id": 289,
+  "titulo": "Tequila Sunrise",
+  "descripcion": "El tequila Sunrise o Acapulco. El cóctel que nos muestra un amanecer perfecto",
+  "historia": "Según la historia el cóctel Tequila Sunrise fue creado en el Hotel Arizona Biltmore Resort & Spa de Phoenix entre los años 1930 y 1940. ... Gene Sulit le sorprendió con una bebida a la que llamó Tequila Sunrise por la forma de los colores del cóctel preparado que se asemejaban a la salida del sol.",
+  "ingredientes": "- Vaso: Lo mejor seria presentarlo en una copa huracan, puede ser en vasos altos\n- Hielo picado (H.P) o en Cubos (H.C)\n- Tequila\n- Jugo de naranja (Preferiblemente pasteurizado)\n- Granadina\n**Decoración: **\n- Rodaja de Naranja\n- Guinda o cereza\n- Removedor de Bebidas\n- Pitillos o Pajillas\n- Sombrilla ",
+  "preparacion": "- Agregar al vaso alto hielo \n- Agregar sobre el hielo 1 ½ onza de tequila. Si la copa o vaso es muy alta 2 onzas\n- Completar con jugo de naranja\n- Agregar sobre el jugo de naranja un aproximado de ½ onza de granadina esparciendola por toda la superficie superior del coctel de manera que esta al caer por grabeda al findo de la copa haga el efecto deseado. \n**Decorar:**\n- Rodaja de naranja con cereza y sombrilla\n- Colocar removedor de bebidas y pitillo",
+  "publico": true,
+  "created_at": "2021-10-25T20:36:39.704Z",
+  "updated_at": "2021-10-25T20:36:39.704Z",
+  "photo": {
+    "id": 338,
+    "name": "Tequila Sol Naciente.png",
+    "hash": "0ccfdc263332461a8ae367a6e21bebdc",
+    "sha256": "HRYyH4v55gHQLARWD_PDjZbwNl8ZfUQq+WDPgdgxfT0",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "45.21",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1635605819/e3crv1in7o6pktxqdjnu.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "e3crv1in7o6pktxqdjnu",
+      "resource_type": "image"
+    },
+    "created_at": "2021-10-30T14:56:59.638Z",
+    "updated_at": "2021-10-30T14:56:59.638Z"
+  },
+  "categorias": [
+    {
+      "id": 43,
+      "nombre": "Maridaje ",
+      "created_at": "2019-11-09T20:57:22.945Z",
+      "updated_at": "2019-11-09T20:57:22.945Z"
+    }
+  ],
+  "url": "/receta/289/tequila-sunrise",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/e3crv1in7o6pktxqdjnu",
+  "_sourceUrl": "https://bongusto.net/receta/289/tequila-sunrise",
+  "_fetchedAt": "2026-10-12T16:24:32.051Z"
+}

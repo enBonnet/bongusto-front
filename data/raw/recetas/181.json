@@ -1,0 +1,40 @@
+{
+  "id": 181,
+  "titulo": "Caldo de Chipichipi",
+  "descripcion": "El chipi chipi es un molusco delicioso de colores diversos y vistosos con el que se preparan varios platillos, aunque por lo general se consume en forma de caldo. ",
+  "historia": "El chipi chipi es un molusco delicioso de colores diversos y vistosos con el que se preparan varios platillos, aunque por lo general se consume en forma de caldo. Se saca escarbando en la arena, en la orilla de las playas donde vive. Todo el año se consigue, pero en mayo y junio es la mejor época para consumirlos porque están más gustosos.",
+  "ingredientes": "- 1 ½ kg de Chipichipi con sus conchas \n- Agua \n- ½ ajoporro con algo de lo verde \n- 1 cebolla mediana \n- 1 diente de ajo \n- 1 zanahoria mediana \n- 1 ají dulce \n- 1 rama de céleri \n- 8 granos de pimienta negra \n- 1 rama de perejil \n- 1 rama de tomillo \n- ½ hoja de laurel \n- 3 cucharaditas de sal \n- 1 rama de cilantro \n- 1 cucharadita de picante \n- ½ cucharadita de jugo de limón",
+  "preparacion": "1. Se lavan muy bien los chipichipis y en un recipiente se sumergen en agua, por unas 5 horas, para que voten la arena (se cambia el agua varias veces).\n2. Se cocinan en una olla con 3 tazas de agua hirviente, a fuego alto y tapados, de 1 a 2 minutos o hasta que abran. Se retiran del fuego, se cuela el líquido y se reserva, se desechan los que hayan quedado cerrados, Se vuelve a colar el líquido, esta vez en un colador de tela previamente humedecido, para sacarles la arena. \n3. Se separa la carne de los chipichipis. \n4. En una olla, se vierte el caldo y se agregan 5 tazas de agua, el ajoporro, la cebolla, el ajo, la zanahoria, el ají dulce, el céleri, la pimienta, el perejil, el tomillo, el laurel y la sal. Después que hierva, se cocina a fuego bajo por 30 minutos. \n5. Se cuela el líquido y se regresa a la olla limpia. Se agrega la carne de los chipichipis, la ramita de cilantro y el picante. \n6. Se calienta a fuego alto, Cuando hierva, se baja el fuego y se cocina por 5 minutos más. Se retira el cilantro y se agrega el jugo de limón antes de servir (si se va a utilizar el consomé como fondo para la preparación de otros alimentos, se cuela una vez más).",
+  "publico": true,
+  "created_at": "2019-12-06T22:01:46.465Z",
+  "updated_at": "2019-12-06T22:01:46.465Z",
+  "photo": {
+    "id": 215,
+    "name": "Caldo de Chipichipi.png",
+    "hash": "d392e39359834553b703f236846cdaca",
+    "sha256": "OYPBzF6vIyqzgaUMRLnE1LHg8RcQcvpNjzaq0YOTa90",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "164.99",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1575669706/x8864fvjabfft3aea6tu.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "x8864fvjabfft3aea6tu",
+      "resource_type": "image"
+    },
+    "created_at": "2019-12-06T22:01:46.927Z",
+    "updated_at": "2019-12-06T22:01:46.927Z"
+  },
+  "categorias": [
+    {
+      "id": 6,
+      "nombre": "Entrada",
+      "created_at": "2019-11-07T21:23:25.610Z",
+      "updated_at": "2019-11-07T21:23:25.610Z"
+    }
+  ],
+  "url": "/receta/181/caldo-de-chipichipi",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/x8864fvjabfft3aea6tu",
+  "_sourceUrl": "https://bongusto.net/receta/181/caldo-de-chipichipi",
+  "_fetchedAt": "2026-10-12T16:26:00.963Z"
+}

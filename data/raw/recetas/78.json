@@ -1,0 +1,33 @@
+{
+  "id": 78,
+  "titulo": "Feijoada Brasileña",
+  "descripcion": "Es uno de los platos típicos de la cocina brasileña (considerado como plato nacional), de la gastronomía de Portugal y también muy común en Mozambique y Angola.",
+  "historia": "Los portugueses llevaron recetas para Brasil, con ingredientes como la oreja, el morro, el rabo y la lengua de cerdo; por lo que se extendió el uso de este animal en las dietas. En el libro História da Alimentação no Brasil (Historia de la alimentación en Brasil), Luís da Cámara Cascudo escribe sobre los orígenes de la feijoada.\nMuchos autores concuerdan en decir que la feijoada tuvo su origen cuando luego de los festines que se daban los dueños de las plantaciones, los esclavos negros recogían las sobras para mezclarlas con frijoles negros, haciendo un nuevo guiso.",
+  "ingredientes": "### 8 Porciones:\n- 2 tazas de arroz 4 naranjas maduras, para guarnición\t\n- Aceite de oliva\n- 500 gms porotos negros (caraotas)\t\t\t\t\n- Sal y pimienta al gusto\n- 250 gms carne seca\t\t\t\t\t\t\n- 2 dientes ajos majados\n- 250 gms costilla de cerdo\t\t\t\t\t\n- 2 cebollas en brunoise\n- 1 lengua de res o 2 de cerdo\t\t\t\t\t\n- 4 tomates maduros\n- 150 gms longaniza (chorizo ahumado o morcilla)\t\n- 250 gms panceta ahumada (tocineta)\n",
+  "preparacion": "- 1.\tColocar en remojo toda la noche los porotos y por otro lado la carne seca, enjuagar y escurrir, pasar la carne seca a una olla,, añadir la lengua, las  costillas de cerdo, la longaniza, la panceta, cubrir con agua fría y llevar a ebullición a fuego vivo\n- 2.\tEspumar el guiso, bajar el fuego, tapar dejar cocinar durante dos horas, retirar cada pieza de carne o embutido cuándo esté a punto, añadiendo más agua si fuera necesario. Reservar en un recipiente, cubiertas con caldo\n- 3.\tOjo. Al mismo tiempo poner a cocinar los porotos a fuego suave por dos horas, o hasta que ablanden, luego   escurrir los porotos, reservando  el caldo, guardar ambos  por separados\n- 4.\tSaltear las cebollas, el ajo con aceite, añadir los tomates, sal y pimenta dejar cocer por 15 minutos, incorporar la mitad de los porotos, prensarlos con tenedor. Agregar el resto de los porotos con una taza de líquido reservado\n- 5.\tPara preparar el arroz; en una olla calentar aceite, ajo, luego añadir  11/2 tazas de agua por cada taza de arroz, al romper el hervor, incorporar el arroz crudo, sazonar, tapar y dejar cocinar\n- 6.\tPelar la lengua, cortar las carnes y los embutidos  en trozos. En un plato, servir los porotos, el arroz, las carnes y los embutidos, y en otro plato servir las naranjas peladas en ruedas finas.\n- Nota: Los porotos deben quedar semi secos como si fueran unas caraotas refritas",
+  "publico": true,
+  "created_at": "2019-11-11T15:25:54.780Z",
+  "updated_at": "2019-11-11T15:25:54.780Z",
+  "photo": {
+    "id": 85,
+    "name": "Feijoada.png",
+    "hash": "81fb9de5078b433cb9a7f715422d506d",
+    "sha256": "bV7s1A-RbtbaI0WclF7NeOxUsBsZa1WdaWzK8UhBcSE",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "835.60",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1573485955/crmwom5l7blk3uxvzllf.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "crmwom5l7blk3uxvzllf",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-11T15:25:55.414Z",
+    "updated_at": "2019-11-11T15:25:55.414Z"
+  },
+  "categorias": [],
+  "url": "/receta/78/feijoada-brasilena",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/crmwom5l7blk3uxvzllf",
+  "_sourceUrl": "https://bongusto.net/receta/78/feijoada-brasilena",
+  "_fetchedAt": "2026-10-12T16:27:24.077Z"
+}

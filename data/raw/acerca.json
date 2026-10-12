@@ -1,0 +1,26 @@
+{
+  "id": 1,
+  "biografia": "Mi nombre es Antonio Bonnet, soy maestro en artes culinarias, egresado de la 2da promoción de la Universidad Central de Venezuela, campus de la facultad de agronomía de Maracay, estado Aragua (Venezuela). No digo nunca que soy un Chef, soy un cocinero profesional, que esta dedicando su carrera como Chef Instructor. He impartido clases de cocina en diferentes academias y en la Universidad Bicentenaria (Escuela de Cocina INGENIUM) y Actualmente al 100% en la Universidad de Carabobo, campus la Morita del Estado Aragua (Venezuela).\nConsidero mi carrera como cocinero profesional, la mejor de mi vida, ya que a lo largo de mi existencia he ejecutado y trabajado otras profesiones, que en su momento fueron satisfactorias, pero, siempre desde muy temprana edad sentía inclinación por la cocina. En una de esas encrucijadas que se te presentan en la vida, entro a estudiar cocina aupado por mi hijo menor, quien ya estudiaba cocina, en la referida Universidad, de hecho, él es de la 1ra promoción. En ese momento le dije, bueno voy a estudiar solo el básico, pero me apasione y en menos de lo que esperaba ya estaba graduado. Y no solo fui uno de los mejores de mi promoción, sino que mis instructores me ofrecieron ser docente de cocina. Lo cual pensé y dije bueno solo lo hare por uno que otro día, ya que yo tenia un negocio, el cual tenia que atender. Como cosas del destino el negocio desapareció de forma violenta, y ni modos me dedique solo a enseñar gastronomía.\nActualmente he complementado mi carrera con diferentes especializaciones, que no solo me han ayudado a inflar mi currículo, si no mis conocimientos y así mejoro la calidad de lo impartido a mis alumnos.\nLas materias en las que me desempeño mejor son:\n- Cocina Básica\n- Cocina Francesa\n- Cocina Latinoamericana\n- Cocina Internacional\n- Cocina Mediterránea\n- Cocina a la Vista del Cliente\n- Coctelería\n- Servicio de Comedor\n- Costos\n- Pastas y Salsas\n- Panadería Artesanal\n- Chocolatería y Bombonería\n- Vinos\n- Decoración con Frutas y Vegetales (Mukimono)\n\nEn resumidas cuentas, siempre le manifiesto a mis alumnos que, si no fuese por la necesidad de comer, yo aria este trabajo de GRATIS. Por que yo siento que no trabajo estoy en mi elemento y estoy cómodo.\nCito: Elige un trabajo que te guste y no tendrás que trabajar ni un día de tú vida. Confucio 551-478 AC. (Filosofo chino)\n\n",
+  "cursos": "- PABASTO:\t\t                          Cocina Básica\n- UCV, Facultad de Agronomía:     Auxiliar de Cocina \n- UCV, Facultad de Agronomía:     Cocinero I\t \n- UCV, Facultad de Agronomía:     Cocinero II\n- UCV, Facultad de Agronomía:     Cocinero III\n- UCV, Facultad de Agronomía:     Diplomado Sous Chef \n- UCV, Facultad de Agronomía:     Diplomado Maestro Artes Culinarias\n- Universidad Metropolitana:\t Humanismo Gastronómico\n- E Chocolatería del ALBA:            Bombonería Fina Artesanal\t\n- INCES Turismo:\t\t\t          Bartender\n- Fe y Alegría\t\t\t\t          Panadería I y II\t",
+  "created_at": "2019-11-06T23:02:08.175Z",
+  "updated_at": "2019-11-11T20:53:53.239Z",
+  "photo": {
+    "id": 15,
+    "name": "Antonio1.png",
+    "hash": "13bb88a9acf44b16a81e45a32ff31f51",
+    "sha256": "LEaBzhwzDAcTQtWcWihnFd2T1jywTRtsfZ6dX8i6eNE",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "707.25",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1573171715/khy8eao7bte6xzsihffn.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "khy8eao7bte6xzsihffn",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-08T00:08:35.917Z",
+    "updated_at": "2019-11-08T00:08:35.917Z"
+  },
+  "_sourceUrl": "https://www.bongusto.net/acerca",
+  "_fetchedAt": "2026-10-12T16:27:59.100Z"
+}

@@ -1,0 +1,40 @@
+{
+  "id": 5,
+  "titulo": "Puré de Papas",
+  "descripcion": "El puré de patatas o papas es un plato elaborado con patatas cocidas y molidas, así como otros ingredientes. ",
+  "historia": "No existe una historia, definida en cuanto al origen del pure de papas, ya que es una tecnica enpleada en toda la cocina a nivel mundial, pero buscando el origen de la papa como tal, se puede presumir que este tipo de preparación con la papa, es de los pueblos origibarios. La civilización Tiahuanaco, que existió en el altiplano andino, en lo que hoy es Bolivia, entre el 1.500 AC y el 1.000 DC aproximadamente.",
+  "ingredientes": "### 4 porciones:\n- 4 papas grandes o 8 pequeñas\t\n- ½ taza de leche\n- Pizca de nuez moscada\t\t\n- sal C/N\n- 2 cucharadas de mantequilla o margarina.\n\n",
+  "preparacion": "- Se lavan y se pelan las papas.\n- Se cortan en macedonias y se llevan a hervir en agua que apenas las cubran.\n- Agregamos sal al gusto.\n- Al romper el hervor chequear textura, hasta que estén blandas.\n- Se cuelan y se reserva el agua.\n- Se pasan por el pasa puré hasta triturar todas las papas.\n- Se le incorpora la mantequilla, la nuez moscada, removiendo constantemente.\n- Agregamos la leche poco a poco hasta obtener una textura sueva y que se mantenga firme. No es necesario agregar toda la leche, y de ser necesario se le coloca toda y un poco del agua que reservamos.\n- Para emplatar se puede utilizar una manga de repostería con boquilla grande.\n",
+  "publico": true,
+  "created_at": "2019-11-07T22:48:04.865Z",
+  "updated_at": "2019-11-09T22:03:31.201Z",
+  "photo": {
+    "id": 7,
+    "name": "Pure de Papas.jpg",
+    "hash": "e7e54867c280465e9095bb6954b984b1",
+    "sha256": "bkACMM2bfzyOYdhZ2w4AsftrZmUBg3UwlXVUIZ1S5H4",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "size": "36.83",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1573166885/cknjjbfknasfqmlaes6b.jpg",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "cknjjbfknasfqmlaes6b",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-07T22:48:05.346Z",
+    "updated_at": "2019-11-07T22:48:05.346Z"
+  },
+  "categorias": [
+    {
+      "id": 7,
+      "nombre": "Guarnición",
+      "created_at": "2019-11-07T21:25:47.915Z",
+      "updated_at": "2019-11-07T21:25:47.915Z"
+    }
+  ],
+  "url": "/receta/5/pure-de-papas",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/cknjjbfknasfqmlaes6b",
+  "_sourceUrl": "https://bongusto.net/receta/5/pure-de-papas",
+  "_fetchedAt": "2026-10-12T16:27:56.186Z"
+}

@@ -1,0 +1,40 @@
+{
+  "id": 104,
+  "titulo": "Terrina de Pollo y Vegetales",
+  "descripcion": "Terrina, del francés “terrine”, es un recipiente de barro, de cerámica o de hierro esmaltado, dentro del cual se ponen alimentos para su cocción y conservación.",
+  "historia": "El origen de la Terrina se remonta a los banquetes del Imperio Romano donde se realizan ya combinaciones de alimentos como la terrina de queso, higos y castañas. A partir de allí la terrina ha ido evolucionando de acuerdo con los gustos y variedad de aliemntos de cada lugar.",
+  "ingredientes": "6 porciones:\n- 300 grs. De pechuga de pollo limpia\t\t\n- 200 grs. De panceta en lonjas (Tiras)\n- 100 grs. De crema de leche\t\t\t\n- 2 claras de huevo\n- 2 rodajas de pan \t\t\t\t\n- 1 zanahoria\n- 1 pimiento rojo\t\t\t\t\n- 1 zapallito largo o calabacín (zucchinni)\n- Leche, sal y pimienta C/N.",
+  "preparacion": "- 1. Lavamos muy bien los vegetales y los cortamos en daditos chicos.\n- 2. Remojamos las rodajas de pan  leche con una pizca de sal.\n- 3. Cortamos la pechuga en dados y las colocamos en un vaso de mixer, agregamos las migas de pan ya húmedas (en leche), las claras de huevo y procesamos hasta formar una pasta.\n- 4. Incorporamos los vegetales y la crema de leche y mezclamos bien.\n- 5. Forramos el molde de terrina con las lonjas de panceta y vertemos la mezcla, posteriormente cerramos las lonjas de manera que quede algo parecido a un paquete.\n- 6. Colocamos la Terrina en una bandeja o fuente de horno con agua (Baño de María) y cubrimos con papel aluminio (ambas bandejas).\n- 7. Llevamos a un Horno precalentado a 170ºC por 50 minutos aproximadamente, retiramos, desmoldamos y dejamos que se enfríe.  Una vez Fría, Cortamos y Servimos.",
+  "publico": true,
+  "created_at": "2019-11-12T23:12:42.470Z",
+  "updated_at": "2019-11-12T23:12:42.470Z",
+  "photo": {
+    "id": 111,
+    "name": "Terrina.png",
+    "hash": "d838348036b1489e944fb20545585ef5",
+    "sha256": "4tKSklRkO-kdsvZ62q0kmSlC3s2mrbA3WU3H62lilbk",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "460.21",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1573600362/pozbu67wfpmsgjnhhffu.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "pozbu67wfpmsgjnhhffu",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-12T23:12:42.948Z",
+    "updated_at": "2019-11-12T23:12:42.948Z"
+  },
+  "categorias": [
+    {
+      "id": 6,
+      "nombre": "Entrada",
+      "created_at": "2019-11-07T21:23:25.610Z",
+      "updated_at": "2019-11-07T21:23:25.610Z"
+    }
+  ],
+  "url": "/receta/104/terrina-de-pollo-y-vegetales",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/pozbu67wfpmsgjnhhffu",
+  "_sourceUrl": "https://bongusto.net/receta/104/terrina-de-pollo-y-vegetales",
+  "_fetchedAt": "2026-10-12T16:27:03.159Z"
+}

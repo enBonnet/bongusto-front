@@ -1,0 +1,40 @@
+{
+  "id": 232,
+  "titulo": "Buñuelos de Yuca",
+  "descripcion": "La yuca representa uno de los más importantes cultivos de las etnias indígenas que comparten la nación venezolana, y es el componente básico de uno de nuestros más originales \"panes\"",
+  "historia": "La yuca representa uno de los más importantes cultivos de las etnias indígenas que comparten la nación venezolana, y es el componente básico de uno de nuestros más originales \"panes\": el casabe. Igualmente la encontramos, en otra variedad de uso, como acompañante de platos fuertes (especialmente de la carne a la parrilla), en pastelitos, empanadas o convertida en buñuelos. En general, estos últimos no son otra cosa que un puré de vegetales, a veces con frutas o pescado, que luego se fríen en forma de bolitas. En el caso de los buñuelos de yuca, \nesta técnica de cocción transforma la textura del ingrediente principal y lo convierte en una masa suave y delicada que se deshace en la boca. Se pueden comer solos o rellenos y bañados con un melao de papelón, sea como acompañante, como postre o como pasapalo.",
+  "ingredientes": "### Ingredientes (para 35 porciones) \n- 1 kg de yuca sancochada \n- 3 yemas de huevo batidas \n- 2 cucharadas de azúcar \n- 1 cucharadita de sal \n- 4 tazas de aceite de maíz \n- Papel absorbente \n- ½ panela de papelón blanco en trocitos \n- 1 ¼ tazas de agua \n- 6 clavos de olor",
+  "preparacion": "1. Se le quitan las venas a la yuca y se tritura hasta que tenga la consistencia de una masa. \n2. Se le agregan las yemas de los huevos, el azúcar y la sal. Se amasa hasta que quede una mezcla homogénea.\n3. Con pequeñas porciones de la mezcla, se hacen bolitas de unos 2 ½ centímetros de diámetro. \n4. Se fríen en abundante aceite caliente y a fuego alto, hasta que doren. \n5. Se retiran del aceite y se colocan sobre papel absorbente pava eliminar el exceso de grasa. \n6. En una olla a fuego lento, se disuelve el papelón en el agua y se añaden los clavos de olor. Se deja hervir y se cocina entre 20 y 25 minutos, o hasta que espese como melao. \n7. Se retira del fuego y se eliminan los clavos. Se deja enfriar. \n8. En una bandeja, se colocan las bolitas aún tibias y se bañan con el melao. \n### Sugerencia \n- Se puede aromatizar el melao con 4 hojas de naranjo.",
+  "publico": true,
+  "created_at": "2019-12-07T22:47:01.634Z",
+  "updated_at": "2019-12-07T22:47:01.634Z",
+  "photo": {
+    "id": 266,
+    "name": "Buñuelos de Yuca.png",
+    "hash": "666cf4cf937e40759685dc0ea7998ee7",
+    "sha256": "D-l-6JFONYUN8F4SgiAunna-VFd51NuuEatBPg48Ids",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "353.92",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1575758821/hhk29a1gseq8t6ilcchx.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "hhk29a1gseq8t6ilcchx",
+      "resource_type": "image"
+    },
+    "created_at": "2019-12-07T22:47:02.067Z",
+    "updated_at": "2019-12-07T22:47:02.067Z"
+  },
+  "categorias": [
+    {
+      "id": 9,
+      "nombre": "Postre",
+      "created_at": "2019-11-07T22:49:20.381Z",
+      "updated_at": "2019-11-07T22:49:20.381Z"
+    }
+  ],
+  "url": "/receta/232/bunuelos-de-yuca",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/hhk29a1gseq8t6ilcchx",
+  "_sourceUrl": "https://bongusto.net/receta/232/bunuelos-de-yuca",
+  "_fetchedAt": "2026-10-12T16:25:19.688Z"
+}

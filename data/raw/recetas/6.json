@@ -1,0 +1,40 @@
+{
+  "id": 6,
+  "titulo": "Cascos de Parchita",
+  "descripcion": "\"Los cascos de parchita son como la más tierna y deliciosa expresión de amor, suaves, dulces, si se acompañan con un poco de queso crema y se bañan en su almíbar, resultarán inolvidables.",
+  "historia": "No hay claridad en cuanto al origen de este postre tradicional venezolano, pero, posiblemente se halle en esas señoras que se negaban a botar y con creatividad le encontraban utilidad a los diferentes elementos de la cocina. Así lo que resultaba del refrescante jugo de esta fruta tropical se utilizó para hacer un delicioso dulce criollo típico.",
+  "ingredientes": "12 porciones:\n- 12 Parchitas maduras y lisas\t\t\t\n- 1 Litro de agua\t\t\t\t\n- Helado de Vainilla o Queso Crema\n- ½ Kg. de azúcar\n",
+  "preparacion": "- a.\tLave las parchitas y córtelas por la mitad sáquele las semillas y colóquelas en un colador de manera de que el sumo se reserve en un envase. Reservar este jugo y las semillas.\n- b.\tLleve los cascos a hervir hasta que se suavicen. Dejar enfriar o que tengan una temperatura aceptable para ser manipulados. Reservar el agua de cocción.\n- c.\tCon cuidado tome cada casco y retírele la piel transparente uno a uno. \n- d.\tEn el agua donde se cocinaron los cascos agregue los cascos sin piel el sumo o jugo que se coló de las semillas y el azúcar, y llevar a cocción a fuego lento hasta formar un almíbar, que hierva por espacio de una hora, o hasta que los cascos estén trasparentes y el almíbar espeso.\n- e.\tDejar enfriar y refrigerar, Servir sobre el almíbar y con un toque de queso crema en el interior de cada casco o helado de vainilla. Se decora con semillas de parchita.\n",
+  "publico": true,
+  "created_at": "2019-11-07T23:07:59.013Z",
+  "updated_at": "2019-11-09T21:42:59.250Z",
+  "photo": {
+    "id": 9,
+    "name": "Cascos de Parchita.png",
+    "hash": "ce2f4473a13140c888c09551adb86abd",
+    "sha256": "jNAP_4THalgY5Lcr+rxAlcG67Kvxb6hG+Bt3BRtJK1o",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "237.82",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1573168393/cwsrrvknbbrhidfstc11.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "cwsrrvknbbrhidfstc11",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-07T23:13:13.660Z",
+    "updated_at": "2019-11-07T23:13:13.660Z"
+  },
+  "categorias": [
+    {
+      "id": 9,
+      "nombre": "Postre",
+      "created_at": "2019-11-07T22:49:20.381Z",
+      "updated_at": "2019-11-07T22:49:20.381Z"
+    }
+  ],
+  "url": "/receta/6/cascos-de-parchita",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/cwsrrvknbbrhidfstc11",
+  "_sourceUrl": "https://bongusto.net/receta/6/cascos-de-parchita",
+  "_fetchedAt": "2026-10-12T16:27:55.544Z"
+}

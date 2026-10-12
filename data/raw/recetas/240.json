@@ -1,0 +1,40 @@
+{
+  "id": 240,
+  "titulo": "Jalea de Mango",
+  "descripcion": "Entre todas las preparaciones dulces que se elaboran con este fruto, la jalea de mango (que puede ser verde o maduro, con resultados algo distintos) es la más criolla.",
+  "historia": "Entre todas las preparaciones dulces que se elaboran con este fruto, la jalea de mango (que puede ser verde o maduro, con resultados algo distintos) es la más criolla. Se caracteriza por su textura sedosa, color brillante y sabor pronunciado. Muchos otros dulces criollos (como el de hicacos o limonzón) se preparan con un procedimiento parecido: basta hervir la fruta con abundante azúcar o papelón, y servirla con o sin semilla.",
+  "ingredientes": "### Ingredientes (para 5 porciones) \n- 10 mangos verdes \n- ¾ de kg de azúcar \n- 2 cucharaditas de jugo de limón",
+  "preparacion": "1. En una olla con abundante agua se hierven los mangos, con la concha, durante 20 minutos. Luego se retiran del fuego, se escurren, se enfrían y se extrae la pulpa. \n2. Se vuelve a colocar la pulpa en la olla sin agua y se agrega el azúcar y el jugo de limón. \n3. Se cocina a fuego alto y se revuelve con una cuchara de madera hasta que la jalea se pegue a la cuchara al levantarla (unos 12 minutos). \n4. Se vacía la jalea en un molde de vidrio humedecido y se deja enfriar. \n5. Se puede sustituir el azúcar por papelón. Lo importante es que su peso debe ser igual al de la \n6. pulpa extraída de los mangos.",
+  "publico": true,
+  "created_at": "2019-12-07T23:13:41.746Z",
+  "updated_at": "2019-12-07T23:13:41.746Z",
+  "photo": {
+    "id": 274,
+    "name": "Jalea de Mango.png",
+    "hash": "db94e87893c348bbbbbcc6a6ba265b03",
+    "sha256": "OBKsEVEIU3lxLFRuHV5VEJUS4pMjQgGxkAUAoi8wqds",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "338.35",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1575760421/i0yhhk2olglqje4zjrit.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "i0yhhk2olglqje4zjrit",
+      "resource_type": "image"
+    },
+    "created_at": "2019-12-07T23:13:42.207Z",
+    "updated_at": "2019-12-07T23:13:42.207Z"
+  },
+  "categorias": [
+    {
+      "id": 9,
+      "nombre": "Postre",
+      "created_at": "2019-11-07T22:49:20.381Z",
+      "updated_at": "2019-11-07T22:49:20.381Z"
+    }
+  ],
+  "url": "/receta/240/jalea-de-mango",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/i0yhhk2olglqje4zjrit",
+  "_sourceUrl": "https://bongusto.net/receta/240/jalea-de-mango",
+  "_fetchedAt": "2026-10-12T16:25:13.564Z"
+}

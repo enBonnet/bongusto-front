@@ -1,0 +1,40 @@
+{
+  "id": 112,
+  "titulo": "Sopa de Cebollas",
+  "descripcion": "La sopa de cebolla francesa es la combinación perfecta de todo lo maravilloso del mundo.",
+  "historia": "Esta sopa es una tradición que puede haber tenido su origen dentro del mercado de alimentos más grande del mundo en París, conocido como Les Halles, fundado en 1135 por el rey Philippe-Auguste.\nEste lugar abrió sus puertas como un simple mercado de comida al aire libre, creció rápidamente y pronto se requirió un muro para mantenerlo separado de su vecino, el cementerio de Los Santos Inocentes.\nA principios del siglo XIX, la ciudad se vio obligada a trasladar los huesos del cementerio a las Catacumbas, dejando espacio para que el mercado se convirtiera en lo que el novelista Emile Zola llamaría “el vientre de París”.",
+  "ingredientes": "### 4 Porciones:\n- 3 cebollas grandes.\t\n- 15 ml de aceite de oliva extra virgen (2 cucharadas)\n- 30 g de mantequilla\t\t\t\n- 1 diente de ajo.\n- 1 litros de caldo de carne\n- 9 rebanadas de pan del tipo baguette\t\t\n- 1 ½ cucharadas de harina de trigo\n- 1 cucharadita de azúcar\t\t\n- Sal y pimienta negra recién molida (al gusto)\n- 9 ml de brandy o coñac\t\t\n- 100 g de queso rallado suave que ",
+  "preparacion": "Pelamos y cortamos en juliana las cebollas. Reservamos en un cuenco.\nElegimos una cazuela grande, calentamos el aceite en el fondo de la cazuela. Añadimos la mantequilla, que es la verdadera base de esta sopa francesa.\nCuando se haya derretido y mezclado con el aceite de oliva introducimos las cebollas y el ajo majado. Añadimos también un poco de sal y pimienta negra. El efecto salado nos ayudará a que las cebollas suden y que se ablanden antes.\nRemovemos con una cuchara de madera de manera envolvente hasta que la cebolla quede transparente o translúcida, no debe coger color.\nEste proceso es lento porque queremos tener la cebolla blandita sin que se queme. Con fuego muy suave tardaremos unos 15-20 minutos.\nPodéis tapar o no la cazuela durante la cocción aunque si la tapáis el agua que va soltando el sofrito quedará en la cazuela y evitará que la cebolla tome color tostado.\nLuego que la cebolla esté traslucida es el momento de agregar una cucharada de azúcar. Aunque debemos tener cuidado de que no caramelice muy rápido para que la cebolla no quede con color.\nEspolvoreamos la harina en la cazuela y removemos con cuidado para mezclarla bien. El efecto de la harina con la cebolla y sobre todo la mantequilla se llama Roux, nos ayudará a ligar y espesar la sopa.\nAñadimos el brandy y dejamos 1-2 minutos que se evapore.\nIntroducimos el caldo, de carne o de lo que más nos guste, por ejemplo pollo, pescado o verduras (así le daréis vuestro toque a la sopa). Salpimentamos si es necesario y llevamos a ebullición. Dejamos 15-20 minutos a fuego muy suave.\nLa sopa tiene harina y si incrementamos la temperatura se irá al fondo de la cazuela. Se pegará pudiendo llegar a fastidiarnos la receta.\nCortamos en rebanadas finas el pan y tostamos ligeramente.\nUntamos con un trozo de ajo y colocamos en la superficie de la cazuela o en cuencos individuales con la sopa y las tostadas por encima.\nEspolvoreamos con el queso suave que más nos guste (yo he utilizado parmesano).\nMetemos al horno precalentado a 200º. Gratinamos a 220º durante 5-6 minutos y servimos inmediatamente bien caliente.\nLa elaboración de esta sopa es muy fácil, aunque puede que un poco laboriosa. Una sopa líquida pero con un punto de almidón que le da una textura entre sopa y crema, lo que le da a la sopa de cebolla ese toque único.\n",
+  "publico": true,
+  "created_at": "2019-11-13T23:09:24.812Z",
+  "updated_at": "2019-11-13T23:09:24.812Z",
+  "photo": {
+    "id": 119,
+    "name": "Sopa de cebollas.png",
+    "hash": "4015325ef06c4ce2ace89f7521c2f9f0",
+    "sha256": "f_ycIoPafx1OnRhKEn--HMLEkwh-3ableVOvl7bK2dY",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "318.53",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1573686565/mplnvpxgldzhqicou4dj.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "mplnvpxgldzhqicou4dj",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-13T23:09:26.325Z",
+    "updated_at": "2019-11-13T23:09:26.325Z"
+  },
+  "categorias": [
+    {
+      "id": 6,
+      "nombre": "Entrada",
+      "created_at": "2019-11-07T21:23:25.610Z",
+      "updated_at": "2019-11-07T21:23:25.610Z"
+    }
+  ],
+  "url": "/receta/112/sopa-de-cebollas",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/mplnvpxgldzhqicou4dj",
+  "_sourceUrl": "https://bongusto.net/receta/112/sopa-de-cebollas",
+  "_fetchedAt": "2026-10-12T16:26:56.690Z"
+}

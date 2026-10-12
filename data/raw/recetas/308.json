@@ -1,0 +1,40 @@
+{
+  "id": 308,
+  "titulo": "Taxi",
+  "descripcion": "Chupito tipo pousse-café, que se consume antes de solicitar el Taxi",
+  "historia": "Taxista mexicano es el trago que popularmente se solicita antes de solicitar el servicio de un taxi, no tiene una historis definida",
+  "ingredientes": "- Vaso Mezclador\n- Hielo en cubos\n- ½ onza de jugo de naranja \n- ½ onza de vodka\n- ½ onza de licor de café\n- Colador",
+  "preparacion": "Se colocan los licores y el jugo de naranja en un vaso mezclador con hielo, se mezclan y se cuelan en el vaso de shot.",
+  "publico": true,
+  "created_at": "2021-11-01T14:53:00.787Z",
+  "updated_at": "2021-11-01T14:53:00.787Z",
+  "photo": {
+    "id": 352,
+    "name": "Taxi.png",
+    "hash": "3161aa6d14ca488e9d136d2045d65d88",
+    "sha256": "EAEXAJON9Z256-rfVsJSNabDqdY_Wz6Fc-cpyDxwm1A",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "26.63",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1635778380/nd7j6zjxvxo3e9kxusdd.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "nd7j6zjxvxo3e9kxusdd",
+      "resource_type": "image"
+    },
+    "created_at": "2021-11-01T14:53:01.221Z",
+    "updated_at": "2021-11-01T14:53:01.221Z"
+  },
+  "categorias": [
+    {
+      "id": 43,
+      "nombre": "Maridaje ",
+      "created_at": "2019-11-09T20:57:22.945Z",
+      "updated_at": "2019-11-09T20:57:22.945Z"
+    }
+  ],
+  "url": "/receta/308/taxi",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/nd7j6zjxvxo3e9kxusdd",
+  "_sourceUrl": "https://bongusto.net/receta/308/taxi",
+  "_fetchedAt": "2026-10-12T16:24:16.786Z"
+}

@@ -1,0 +1,40 @@
+{
+  "id": 174,
+  "titulo": "Pargo Relleno en Hojas de Plátano",
+  "descripcion": "A diferencia del que se encuentra en el Mediterráneo, este pez es especialmente suave y gustoso en las costas venezolanas, probablemente por la alta salinidad del mar Caribe.",
+  "historia": "A diferencia del que se encuentra en el Mediterráneo, este pez es especialmente suave y gustoso en las costas venezolanas, probablemente por la alta salinidad del mar Caribe. Desde tiempos de la Colonia, el uso de las hojas de plátano ha sido muy popular como envoltorio para la cocción: preserva los perfumes y sabores, ala vez que añade cierto aroma ahumado a los alimentos. Esta receta presenta la técnica de rellenar un pescado (más sencilla de lo que muchos piensan) y brinda una combinación de sabores salados, dulces y cítricos, proporcionados por el relleno de vegetales y el baño de limones y naranjas.",
+  "ingredientes": "### Ingredientes (para 4 personas) \n### Pescado \n- 1 ½ kg de pargo (se recomienda pedirle al pescadero que limpie el pargo entero, sin hacerle ninguna incisión a la carne) \n### Adobo \n- 4 cucharadas de aceite de oliva \n- 2 cucharadas de sal marina \n### Envoltorio \n- 1 hoja de plátano (de unos 80 cm de largo x 25 cm de ancho) \n### Relleno \n- 2 cebollas cortadas en ruedas delgadas \n- 1 pimentón rojo cortado en brunoise \n- 6 ajíes dulces cortados en brunoise \n- 1 ajoporro cortado en julianas\n- 3 tallos largos de cilantro 0 3 ramas. Grandes de culantro, en hache \n- 2 ramas de perejil \n- Los dientes pelados de 1 cabeza de ajo mediana \n### Cocción y aderezo \n- El jugo de 4 naranjas \n- El jugo de 4 limones \n- ½ taza de aceite de oliva \n- Sal al gusto \n- Pimienta negra recién molida, al gusto \n- Hojas de cilantro o culantro, al gusto",
+  "preparacion": "1. Se lava el pargo con agua corriente y se frota con aceite de oliva y sal.\n2. También en agua corriente y sin jabón, se lava la hoja de plátano y se seca con un paño seco, Se extiende sobre una mesa. \n3. Con un cuchillo bien amado, se abre el pargo por la barriga, de la cabeza a la cola. \n4. Se dispone el pescado sobre la hoja de plátano y se rellena con los vegetales en este orden: las cebollas, el pimentón, el ají dulce, el ajoporro, el perejil, el cilantro o culantro y los dientes de ajo enteros. \n5. Se mezcla el jugo de las naranjas y de los limones con el aceite de oliva. Se añade sal y pimienta al gusto. La mitad de esta mezcla se rocía sobre el pescado. \n6. Se envuelve el pargo en la hoja de plátano y se cierra con palillos de madera colocados en los extremos. Se pone en una bandeja para hornear. \n7. Se coloca un molde refractario con agua en la parte inferior del horno, y se precalienta a 250° C. Luego, en la parrilla superior, se introduce la bandeja con el pargo, de modo que reciba todo el vapor. Se cocina durante 40 0 45 minutos, sin voltear. \n8. Se entibia el resto de la mezcla de naranjas, limones y aceite, y se le añade un poco de cilantro o culantro, al gusto, para que tenga el perfume fresco de las hierbas. Se vierte sobre el pescado antes de servir.",
+  "publico": true,
+  "created_at": "2019-12-05T23:30:43.712Z",
+  "updated_at": "2019-12-05T23:30:43.712Z",
+  "photo": {
+    "id": 208,
+    "name": "Pargo Relleno.png",
+    "hash": "7a03968375a44796bd6536047dfa12dd",
+    "sha256": "-vZNTTa6wYKo49SKanLKKAIe2nK3GRdrWG3yQVLwIDw",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "161.91",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1575588643/xtrt1ytwm4lhtxjrt3vx.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "xtrt1ytwm4lhtxjrt3vx",
+      "resource_type": "image"
+    },
+    "created_at": "2019-12-05T23:30:44.220Z",
+    "updated_at": "2019-12-05T23:30:44.220Z"
+  },
+  "categorias": [
+    {
+      "id": 47,
+      "nombre": "Principal",
+      "created_at": "2019-11-20T14:11:58.958Z",
+      "updated_at": "2019-11-20T14:11:58.958Z"
+    }
+  ],
+  "url": "/receta/174/pargo-relleno-en-hojas-de-platano",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/xtrt1ytwm4lhtxjrt3vx",
+  "_sourceUrl": "https://bongusto.net/receta/174/pargo-relleno-en-hojas-de-platano",
+  "_fetchedAt": "2026-10-12T16:26:06.487Z"
+}

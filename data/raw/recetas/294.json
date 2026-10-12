@@ -1,0 +1,40 @@
+{
+  "id": 294,
+  "titulo": "Tetero",
+  "descripcion": "Sabías que el anís es buen remedio para el tratamiento de digestión lenta y otros malestares, mucosidades en el pecho, gastralgia, debilidad intestinal.",
+  "historia": "El origen del cóctel no esta bien definido.",
+  "ingredientes": "- Vaso corto o Copa Alta. Ideal en una copa huracan\n-  Hielo: (Hielo Picado)\n- Ponche Crema\n- Ron Blanco\n- Granadina\n**Decoración:**\n- Pitillos\n- Guinda\n",
+  "preparacion": "- Llenar el vaso o la copa con hielo picado\n- Agregar 1 ½ onza de ponche crema\n- Agregar 1 ½ onza de ron blanco\n- Agregar 1 onza de granadina\n- Remover hasta que se torne de colar rosa\n**Decorar:**\n- Dos pitillos\n- Una Guinda",
+  "publico": true,
+  "created_at": "2021-10-30T14:30:56.256Z",
+  "updated_at": "2021-10-30T14:30:56.256Z",
+  "photo": {
+    "id": 332,
+    "name": "tetero.png",
+    "hash": "edb1dde8b0d945d39dcfd8cbd2321a61",
+    "sha256": "p9qDbv2Mnerfmps9KMuvFVlOdQ76xhv5mJYzUMSDxW8",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "47.86",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1635604256/vv3jtguqunqkqjw1mvng.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "vv3jtguqunqkqjw1mvng",
+      "resource_type": "image"
+    },
+    "created_at": "2021-10-30T14:30:56.667Z",
+    "updated_at": "2021-10-30T14:30:56.667Z"
+  },
+  "categorias": [
+    {
+      "id": 43,
+      "nombre": "Maridaje ",
+      "created_at": "2019-11-09T20:57:22.945Z",
+      "updated_at": "2019-11-09T20:57:22.945Z"
+    }
+  ],
+  "url": "/receta/294/tetero",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/vv3jtguqunqkqjw1mvng",
+  "_sourceUrl": "https://bongusto.net/receta/294/tetero",
+  "_fetchedAt": "2026-10-12T16:24:27.566Z"
+}

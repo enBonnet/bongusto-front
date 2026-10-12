@@ -1,0 +1,40 @@
+{
+  "id": 270,
+  "titulo": "Merluza a la Beurre Blanc",
+  "descripcion": "La estrella de este plato es sin duda su salsa, La Beurre blanc",
+  "historia": "La Beurre Blanc es una salsa francesa creada en la región de Bretaña. Concretamente fue creada por error por la cocinera francesa Clémence Lefeuvre cuando estaba intentado hacer una salsa bearnesa. ",
+  "ingredientes": "- 4 lomos o troncos de merluza \n- 2 cebollas dulces Cortadas en Brunoise\n- 2 cucharadas soperas de mantequilla \n- 100 ml o 3 cucharas de vinagre blanco\n- 200 ml o 6 cucharadas de vino blanco\n- 250 ml de crema de leche\n- 12 patatas pequeñas de guarnición\n- Sal y pimienta",
+  "preparacion": "- En una sartén derretimos la mantequilla, incorporamos la cebolla, el vinagre y el vino. Lo dejamos evaporar y añadimos la crema de leche, reduciendo la mezcla a la textura de salsa. Si lo creemos conveniente, lo rectificamos de sal.\n- A continuación, asamos la merluza en una sartén con aceite de oliva hasta que esté hecha, y la salpimentamos. A parte, preparamos las patatas para guarnición, ya sean hervidas o asadas en el horno.\n- Para acabar, servimos la merluza con la salsa y las patatas",
+  "publico": true,
+  "created_at": "2021-04-30T19:50:56.258Z",
+  "updated_at": "2021-04-30T19:50:56.258Z",
+  "photo": {
+    "id": 304,
+    "name": "Merluza a la beurre blanc.png",
+    "hash": "57bf8fd9319e481c9a6046474abd2d75",
+    "sha256": "CEwq9550-qKXex46hg3NMr6-BQKHC3ISuCmC9RXzf9w",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "923.99",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1619812256/tecmrewm08imtsxtby75.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "tecmrewm08imtsxtby75",
+      "resource_type": "image"
+    },
+    "created_at": "2021-04-30T19:50:57.403Z",
+    "updated_at": "2021-04-30T19:50:57.403Z"
+  },
+  "categorias": [
+    {
+      "id": 47,
+      "nombre": "Principal",
+      "created_at": "2019-11-20T14:11:58.958Z",
+      "updated_at": "2019-11-20T14:11:58.958Z"
+    }
+  ],
+  "url": "/receta/270/merluza-a-la-beurre-blanc",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/tecmrewm08imtsxtby75",
+  "_sourceUrl": "https://bongusto.net/receta/270/merluza-a-la-beurre-blanc",
+  "_fetchedAt": "2026-10-12T16:24:47.961Z"
+}

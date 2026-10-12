@@ -1,0 +1,40 @@
+{
+  "id": 130,
+  "titulo": "Sauerkraut Chucrut",
+  "descripcion": "Comida típica de Alsacia, de Alemania y de Polonia que se prepara haciendo fermentar las hojas del repollo (col) en agua con sal (salmuera).",
+  "historia": "Parece que las primeras referencias a la elaboración del chucrut provienen de China del norte y fue exportado hacia Europa mediante la expansión de los mongoles. Está muy presente en todas las gastronomías del este de Europa.",
+  "ingredientes": "### De 4 a 6 Porciones:\n- 1 repollo blanco grande cortado en juliana\t\n- Cdta. de comino entero\n- tazas de agua\t\t\t\t\t\n- 1 Cdta. de sal\n- tazas de vino blanco\t\t\t\t\n- ½ taza de vinagre blanco",
+  "preparacion": "Se pone en una olla o caldero el repollo cortado finamente con el agua, el vino blanco, el vinagre blanco, la sal y el comino entero. Se pone a cocinar por una hora tapado hasta que esté blando. Se deja enfriar y se envasa en frascos esterilizados de cristal. \nEsta preparación mientras más tiempo tenga almacenada mejor es su sabor. ",
+  "publico": true,
+  "created_at": "2019-11-20T22:04:02.666Z",
+  "updated_at": "2019-11-20T22:04:02.666Z",
+  "photo": {
+    "id": 137,
+    "name": "sauerkraut chucrut.png",
+    "hash": "f8307c4633494b4c9c0272b017426260",
+    "sha256": "UaZiBNlYYfcuN9ewl8nXNedAVYA7SninmqyTg0gsgi0",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "444.50",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1574287442/mnbits2zs6wbscuo0li9.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "mnbits2zs6wbscuo0li9",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-20T22:04:03.052Z",
+    "updated_at": "2019-11-20T22:04:03.052Z"
+  },
+  "categorias": [
+    {
+      "id": 7,
+      "nombre": "Guarnición",
+      "created_at": "2019-11-07T21:25:47.915Z",
+      "updated_at": "2019-11-07T21:25:47.915Z"
+    }
+  ],
+  "url": "/receta/130/sauerkraut-chucrut",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/mnbits2zs6wbscuo0li9",
+  "_sourceUrl": "https://bongusto.net/receta/130/sauerkraut-chucrut",
+  "_fetchedAt": "2026-10-12T16:26:42.379Z"
+}

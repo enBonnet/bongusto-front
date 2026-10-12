@@ -1,0 +1,40 @@
+{
+  "id": 245,
+  "titulo": "Calalú de Paria",
+  "descripcion": "Como otras comidas propias de Oriente y Guayana, este es un preparado que llegó de la vecina isla de Trinidad.",
+  "historia": "Como otras comidas propias de Oriente y Guayana, este es un preparado que llegó de la vecina isla de Trinidad. Es un plato muy atractivo, complicado y curioso, pues, además de la rica mezcla de sabores que contiene (por ejemplo, el dulce del Coco con el picante del ají), incluye generalmente dos tipos de carne, la de chivo y la de gallina (aunque también lo hacen con cangrejo o carne de res, esta última usualmente salada). \nOtro de sus componentes principales, el quimbombó, es un producto de origen africano muy común en la cocina de todo el Caribe y de Brasil, donde incluso se le incluye entre las comidas sagradas de algunas sectas religiosas. \nHay quienes preparan el calalú como guiso, mientras otros lo hacen con textura de asopado. Es una auténtica tradición afrocaribeña, que se puede conseguir con variaciones en Guadalupe; en Barbados y hasta en el estado de Louisiana, al sur de -Estados Unidos.",
+  "ingredientes": "### Ingredientes (para 6 personas) \n- 300 gramos de carne salada (falda, si es de res, o costillar, si es de cerdo) \n- 1 taza de repollo cortado finamente \n- 10 quimbombós cortados en ruedas de ½ cm de espesor \n- 6 cangrejos de río \n- ¼ de taza de ají dulce cortado en julianas \n- 1 cabeza de ajo majado \n- 2 cebollas medianas cortadas en brunoise pequeños \n- Sal al gusto \n- 2 tazas de leche de coco \n- 2 berenjenas cortadas en cubitos de 2 cm \n- Culantro al gusto en hache \n- Orégano fresco",
+  "preparacion": "1. Se sumerge la carne en agua por 24 horas para desalarla, cuidando de cambiar el líquido unas 3 o 4 veces. Se corta luego en cubos de unos 3 cm. \n2. Se sancocha en una olla hasta que ablande. Se retira del fuego y se cuela. \n3. En una olla aparte, se sancocha el quimbombó unos 15 minutos. Se agrega el repollo 5 minutos antes de finalizar la cocción, Se cuelan y reservan.\n4. En otra olla, se sancochan por 10 minutos los cangrejos y se les extrae la pulpa (tambien se pueden dejar enteros). \n5. Aparte, se cocina a fuego medio el ají dulce, el ajo, las cebollas y la sal, en la leche de Coco. Se remueve de vez en cuando con una, cuchara de madera, por unos 20 min o hasta que reduzca un poco la preparación. \n6. Se añaden las carnes de cangrejo y de res, el quimbombó, el repollo y las berenjenas, y se cocinan por unos 10 min o hasta que se obtenga la consistencia deseada (sea como sopa o algo más seco). Unos 5 minutos antes de finalizar la cocción, se rectifica la sal y, si se quiere, se añade el culantro y el orégano. \n### Opcional \n- Se pueden utilizar 10 brotes de hojas de ocumo, en lugar del repollo, como se hace tradicionalmente. En ese caso, debe quitárseles la vena y rasparse un poco por la superficie y cortarse en rueditas. Se hierven unos 15 minutos, se cuelan y se presionan bien contra el \n- colador antes de agregar a la preparación. \n- Puede agregarse aceite de onoto a la leche de coco y tomate al guiso \n### Sugerencia \n- Acompañar con bolitas de plátano o con frutapan sancochado.",
+  "publico": true,
+  "created_at": "2019-12-07T23:32:00.611Z",
+  "updated_at": "2019-12-07T23:32:00.611Z",
+  "photo": {
+    "id": 279,
+    "name": "Calalú de Paria.png",
+    "hash": "40bc6e2788d649c4bd07c273ece4b007",
+    "sha256": "TJ64bCiMbwbaKS3-gGLF2gvP6Mh4ujzvToGJTGx5BFE",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "104.28",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1575761520/b5ikr7qnrrguaivcmg9v.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "b5ikr7qnrrguaivcmg9v",
+      "resource_type": "image"
+    },
+    "created_at": "2019-12-07T23:32:00.917Z",
+    "updated_at": "2019-12-07T23:32:00.917Z"
+  },
+  "categorias": [
+    {
+      "id": 47,
+      "nombre": "Principal",
+      "created_at": "2019-11-20T14:11:58.958Z",
+      "updated_at": "2019-11-20T14:11:58.958Z"
+    }
+  ],
+  "url": "/receta/245/calalu-de-paria",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/b5ikr7qnrrguaivcmg9v",
+  "_sourceUrl": "https://bongusto.net/receta/245/calalu-de-paria",
+  "_fetchedAt": "2026-10-12T16:25:09.237Z"
+}

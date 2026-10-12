@@ -1,0 +1,40 @@
+{
+  "id": 186,
+  "titulo": "Pernil de Cerdo al Horno",
+  "descripcion": "EI origen de este plato, indispensable en nuestra mesa navideña, se remonta a la época de la \nColonia. Inicialmente se conoció con el nombre de pernil tovareño",
+  "historia": "EI origen de este plato, indispensable en nuestra mesa navideña, se remonta a la época de la \nColonia. Inicialmente se conoció con el nombre de pernil tovareño: la pierna del cerdo se horneaba entera, aderezada con especias, vino y un poco de azúcar. En las zonas frías, los preparados con alto contenido calórico son muy comunes, por lo que no es casual que este plato sea propio de la región andina.\nEl pernil es una carne que adquiere fácilmente el sabor de los condimentos, por lo que queda muy gustosa y con sabor intenso. En otras versiones de preparación, se baña con cerveza, jugo de naranja o crema de cebollas. Al inyectarle vino al pernil antes de hornearlo, queda asegurado que la pieza estará bien impregnada de sabor y tendrá una jugosidad muy especial.",
+  "ingredientes": "### Ingredientes (para 10 o 12 personas) \n- Un pernil de -cuarto trasero (se reconoce porque a veces tiene el rabito pegado), de apróx. 3 kg \n- ¼ kg de pimentón, cortado en cuatro (sin venas ni semillas) \n- ¾ kg de cebolla, cortada en cuatro \n- ¼ kg de ají dulce, cortado en cuatro \n- 1 cabeza de ajo pelada \n- Orégano en hoja al gusto \n- Comino en polvo al gusto \n- Sal al gusto \n- 1 cucharadita de pimienta negra molida \n- 4 cucharadas de salsa inglesa \n- 1 inyectadora de cocina \n- 1 ½ litros de vino moscatel o vino de cocinar \n- 1 cucharada de mantequilla \n- 1 cucharadita de maicena (opcional)",
+  "preparacion": "1. Se procesan o rallan los pimentones, las cebollas, los ajíes dulces y el ajo con el orégano, el comino, la sal, la pimienta y la salsa inglesa. \n2. Se coloca el pernil en una bandeja. Se le inyectan 2 tazas de vino y se frota con parte de la mezcla licuada (jamás se debe pinchar con un cuchillo, porque pierde jugo y se seca la carne). Se deja marinando un día en la nevera, volteándolo con frecuencia.\n3. Seprecalientaelhornoa3500 C. \n4. Se untan algunos puntos de mantequilla en la superficie del pernil y se baña con otras 2 tazas de y el resto de la mezcla licuada. \n5. Se agrega una taza de agua al fondo de la bandeja. \n6. Se hornea el pernil y se baña constantemente con su salsa, hasta que dore. \n7. Para reconocer cuándo está cocido, se introduce un punzón fino: debe salir seco y del orificio no debe brotar líquido. Se demora alrededor de 3 horas (hora por kg) \n8. Para la salsa que acompaña al pernil, se agrega 1 taza de agua a la bandeja, se calienta sobre el fuego y se desglasea (se raspa lo quemado). Se agrega el resto del vino y se deja hervir hasta que espese. \n9. También se puede añadir la fécula disuelta en agua. Se añade sal al gusto y se cuela. \n### Sugerencia \n- Acompañar con puré de papas o ensalada de gallina.",
+  "publico": true,
+  "created_at": "2019-12-06T22:34:14.953Z",
+  "updated_at": "2019-12-06T22:34:14.953Z",
+  "photo": {
+    "id": 220,
+    "name": "Pernil.png",
+    "hash": "85820d8981ea4ebfadc2d9892ac80d7b",
+    "sha256": "lU_AwqdprdZe5QgaDRSLhIefP7LD+XsmLs3t-d5ibRk",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "264.08",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1575671655/onqpebxo8nzg6iutbaqz.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "onqpebxo8nzg6iutbaqz",
+      "resource_type": "image"
+    },
+    "created_at": "2019-12-06T22:34:15.432Z",
+    "updated_at": "2019-12-06T22:34:15.432Z"
+  },
+  "categorias": [
+    {
+      "id": 47,
+      "nombre": "Principal",
+      "created_at": "2019-11-20T14:11:58.958Z",
+      "updated_at": "2019-11-20T14:11:58.958Z"
+    }
+  ],
+  "url": "/receta/186/pernil-de-cerdo-al-horno",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/onqpebxo8nzg6iutbaqz",
+  "_sourceUrl": "https://bongusto.net/receta/186/pernil-de-cerdo-al-horno",
+  "_fetchedAt": "2026-10-12T16:25:56.715Z"
+}

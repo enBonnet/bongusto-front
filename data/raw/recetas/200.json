@@ -1,0 +1,40 @@
+{
+  "id": 200,
+  "titulo": "Fondo de Pollo o Gallina Fondo Blanco",
+  "descripcion": "Los consomés de aves son parte de los llamados caldos blancos, que por ser los más neutros resultan así mismo los más versátiles.",
+  "historia": "Los consomés de aves son parte de los llamados caldos blancos, que por ser los más neutros resultan así mismo los más versátiles. Además, las creencias populares les atribuyen otras cualidades: el de pollo es popular como un reconstituyente para la \"resaca \"; mientras que el de pichón de paloma, garantiza la vitalidad reproductiva, pues funciona como afrodisiaco.\nEl uso del fondo claro es muy común en toda preparación que lo requiera.",
+  "ingredientes": "### Ingredientes (para 1 litro de caldo) \n- 1 pollo o una gallina enteros (o los huesos de dos pollo o gallinas)\n- 3 cucharadas de aceite de maíz \n- 1 ajoporro en julianas \n- 2 zanahorias peladas y cortadas en trozos grandes \n- 1 cabeza de ajo entera y sin pelar \n- 1 cebolla grande entera y pelada \n- 4 ajíes dulces cortados en dos \n- 1 pimentón en cuatro, sin semillas \n- 4 granos de guayabita \n- 6 granos de pimienta negra \n- 1 clavo de olor \n- Sal al gusto \n- 2 litros de agua \n- 2 ramas de apio españa \n- 2 ramas de perejil \n- 2 ramas de cilantro \n- 1 hoja de laurel",
+  "preparacion": "1. Se lava bien el pollo o la gallina y se cofia en trozos grandes. \n2. En una olla se saltean en aceite las zanahorias, la cabeza de ajo, la cebolla, los ajíes dulces, el pimentón y las especias (pimientas y clavo), por unos 5 minutos. Se añade el pollo o la gallina con la sal y se sofríe por 5 minutos más. \n3. Se agrega el agua y una rama de cada una de las hierbas (el apio españa, el perejil y el cilantro), más la hoja de laurel. Luego se tapa y se cocina todo a fuego lento: si es una gallina, por 3 o 4 horas; y si es un pollo, por 1 ½ a 2 horas, de ser huesos el tiempo se reduce a la mitad, en ambos casos). Con una espumadera, se retira cada cierto tiempo la espuma que se forma en la superficie. \n4. Durante los últimos 5 minutos de la cocción se añade el resto de las hierbas, de manera que el caldo absorba sus aromas. \n5. Se retira del fuego y se cuela.\n",
+  "publico": true,
+  "created_at": "2019-12-07T13:33:43.962Z",
+  "updated_at": "2019-12-07T13:33:43.962Z",
+  "photo": {
+    "id": 234,
+    "name": "Fondo de Ave.png",
+    "hash": "c8ec7e2255ad4f19b811ed42585d96c7",
+    "sha256": "_uPuv42vnyMmw-w+X-c3R0fpcBQJg1pk7lYmH-oOdE4",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "78.40",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1575725624/p68hq7lokl1wkkjjt2ey.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "p68hq7lokl1wkkjjt2ey",
+      "resource_type": "image"
+    },
+    "created_at": "2019-12-07T13:33:44.352Z",
+    "updated_at": "2019-12-07T13:33:44.352Z"
+  },
+  "categorias": [
+    {
+      "id": 48,
+      "nombre": "Condimento",
+      "created_at": "2019-11-22T19:59:02.301Z",
+      "updated_at": "2019-11-22T19:59:02.301Z"
+    }
+  ],
+  "url": "/receta/200/fondo-de-pollo-o-gallina-fondo-blanco",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/p68hq7lokl1wkkjjt2ey",
+  "_sourceUrl": "https://bongusto.net/receta/200/fondo-de-pollo-o-gallina-fondo-blanco",
+  "_fetchedAt": "2026-10-12T16:25:45.026Z"
+}

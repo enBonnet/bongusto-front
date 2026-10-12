@@ -1,0 +1,40 @@
+{
+  "id": 166,
+  "titulo": "Hamburguesa",
+  "descripcion": "Una hamburguesa es un tipo de sándwich hecho a base de carne molida aglutinada en forma de filete cocinado a la parrilla o a la plancha, aunque también puede freírse u hornearse.",
+  "historia": "En 1895 un chef llamado Louis Lassen, de Connecticut, Estados Unidos, elabora la primera hamburguesa en Norteamérica; la receta se la dieron unos marineros provenientes del puerto de Hamburgo.",
+  "ingredientes": "### Ingredientes para la carne:\n- ¾ de kilo de carne de res molida\t\t\t\n- 1 cebolla grande en brunoise\n- ½ pimentón grande en brunoise\t\t\t\n- 2 ají dulce en brunoise\n- Sal y pimienta al gusto\t\t\t\n- 1 huevo\n- 100 grs de pan molido\t\t\t\t\n- 4 dientes de ajo majados\n### Otros Ingredientes:\n- 8 panes de Hamburguesa\t\t\t\n- 8 rebanadas de tomate\n- 8 rebanadas de cebolla\t\t\t\n- 8 hojas de lechuga\n- Mayonesa al gusto\t\t\t\t\n- Salsa de tomate al gusto\n- Mostaza al gusto\t\t\t\t\n- Sal al gusto\n- 8 fetas de jamón (Si gusta)\t\t\t\n- 8 fetas de queso (Si gusta)\n- 8 lonjas de tocino (Si gusta)\t\t\t\n- 8 huevos fritos (Si gusta)",
+  "preparacion": "### Preparación de la Carne:\n1. Colocar todos los ingredientes en un recipiente y amasar de forma que todo se integre de forma pareja.\n2. Dar forma de arepas al gusto y reservar en nevera hasta la hora de preparar.\n3. Se pueden freír, asar o a la parrilla. Todo depende del gusto del comensal.\n### Preparación:\n1. Abrimos los panes por la mitad y Ponemos a calentar el pan al vapor, Si van con tocino y huevo, primero tostamos el tocino en una plancha y los huevos se fríen luego en la misma plancha sobre la grasa que quedo del tocino, seguidamente en la misma plancha colocamos las carnes de hamburguesa a asar, solo se les voltea una sola vez y se dejan por lo general a término. Cuando consideren que ya están, se les coloca el queso, el jamón, la tocineta y el huevo. Todo esto encima, de cada porción de carne.\n2. Disponemos sobre un mesón los panes de forma ordenada y abiertos. Seguidamente se le agrega sobre cada  porción de pan, la mayonesa, salsa de tomate y mostaza al gusto. \n3. Sobre uno de los lados del pan colocamos la lechuga, cebolla y tomate. Y sobre la otra parte del pan se le coloca la porción de carne.\n4. Se sirve en un plato de esta misma forma abierta que se observen los ingredientes y va acompañada de papas fritas.",
+  "publico": true,
+  "created_at": "2019-11-23T23:46:46.661Z",
+  "updated_at": "2019-11-23T23:46:46.661Z",
+  "photo": {
+    "id": 198,
+    "name": "Hamburguesa.png",
+    "hash": "4de17a4111544bb6926c920acdf5a61c",
+    "sha256": "EnYMWLOX7Lnh4zlKSd960BNALBOKAsSyhCtupMLoTP8",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "115.56",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1574552806/zzhehtcyejscyo5k8ot9.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "zzhehtcyejscyo5k8ot9",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-23T23:46:47.054Z",
+    "updated_at": "2019-11-23T23:46:47.054Z"
+  },
+  "categorias": [
+    {
+      "id": 47,
+      "nombre": "Principal",
+      "created_at": "2019-11-20T14:11:58.958Z",
+      "updated_at": "2019-11-20T14:11:58.958Z"
+    }
+  ],
+  "url": "/receta/166/hamburguesa",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/zzhehtcyejscyo5k8ot9",
+  "_sourceUrl": "https://bongusto.net/receta/166/hamburguesa",
+  "_fetchedAt": "2026-10-12T16:26:13.316Z"
+}

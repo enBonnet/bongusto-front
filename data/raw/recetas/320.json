@@ -1,0 +1,40 @@
+{
+  "id": 320,
+  "titulo": "Chip De Rábano",
+  "descripcion": "Chips. Se trata de tajadas redondas muy finas. Generalmente se usa en papas, camotes y plátanos. El corte es más parejo y preciso si se utiliza mandolina.",
+  "historia": "Chips. Se trata de tajadas redondas muy finas. Generalmente se usa en papas, camotes y plátanos. El corte es más parejo y preciso si se utiliza mandolina.",
+  "ingredientes": "- 8 a 10 pzas. Rábanos\n- 2 cdas. Aceite de oliva\n- 1 pza. Limón\n- 1 cdta. Cebolla en polvo\n- al gusto Sal\n- al gusto Pimienta",
+  "preparacion": "- Para comenzar esta receta vamos a cortar los rábanos en rodajas o chips es importante cortarlos muy delgados para que queden crujientes, si cuentas con una mandolina quedan mejor.\n- Colocar las rodajas en un molde o refractario, colocar de forma que las rodajas se toquen lo menos posible entre sí, darles espacio permite que se cocinen de forma más uniforme y queden más crujientes.\n- Una vez así vamos a rociar el aceite distribuyendo por toda la superficie para bañar muy bien los rábanos.\n- Espolvorear la cebolla en polvo, el jugo de limón y también sal y pimienta al gusto. Asegúrate de distribuir muy bien.\n- Hornear a 180°c por 10 minutos aproximadamente o hasta que queden crujientes y ligeramente dorados.\n- Retirar del horno y dejar enfriar antes de servir para evitar que se rompan o deshagan.",
+  "publico": true,
+  "created_at": "2022-06-11T15:36:08.116Z",
+  "updated_at": "2022-06-11T15:36:08.116Z",
+  "photo": {
+    "id": 364,
+    "name": "Chisp de Rabano.png",
+    "hash": "f41c7bca971e402395300dd4ef1ead4a",
+    "sha256": "iass0FJc9SRewC0arnYe9v1hSaZLKLQ4Brnn7Ameqv8",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "143.47",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1654961768/nn4xap0n8o9h6ipnnese.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "nn4xap0n8o9h6ipnnese",
+      "resource_type": "image"
+    },
+    "created_at": "2022-06-11T15:36:08.474Z",
+    "updated_at": "2022-06-11T15:36:08.474Z"
+  },
+  "categorias": [
+    {
+      "id": 7,
+      "nombre": "Guarnición",
+      "created_at": "2019-11-07T21:25:47.915Z",
+      "updated_at": "2019-11-07T21:25:47.915Z"
+    }
+  ],
+  "url": "/receta/320/chip-de-rabano",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/nn4xap0n8o9h6ipnnese",
+  "_sourceUrl": "https://bongusto.net/receta/320/chip-de-rabano",
+  "_fetchedAt": "2026-10-12T16:24:07.296Z"
+}

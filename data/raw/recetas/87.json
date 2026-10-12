@@ -1,0 +1,40 @@
+{
+  "id": 87,
+  "titulo": "Papa A la Huancaina",
+  "descripcion": "Una receta tradicional de la comida peruana.",
+  "historia": "El nombre de esta receta radica en la región peruana “Junín”. Dicen que el creador de esta receta compraba la papa en Huancayo - en el Valle del Río Mantaro, luego para homenajear esta región se le dio el nombre a la receta de “Papa a la Huancayo - Huancaína”.",
+  "ingredientes": "### 6 porciones:\n- 1/2 Kilo de papas sancochadas y rebanadas\t\t\t\n- 2 huevos cocidos\n- 250 ml de leche\t\t\t\n- 25 ml de aceite\n- 300 grs de queso blanco duro\t\t\n- 2 dientes de ajo\n- 4 ajíes mirasol\t\t\t\t\n- 1 paquetico de galleta de soda",
+  "preparacion": "- 1. Poner todo en la licuadora menos las papas, hasta crear una mezcla homogénea \n- 2. Rectificar la sal reservar un huevo cocido para decorar, servir con papa, lechuga, aceituna y perejil\n",
+  "publico": true,
+  "created_at": "2019-11-11T23:01:43.870Z",
+  "updated_at": "2019-11-11T23:01:43.870Z",
+  "photo": {
+    "id": 94,
+    "name": "Papa A la Huancaina.png",
+    "hash": "35618a2a2e2e482b8e8371dd8b9d35b8",
+    "sha256": "Ohokv39PvM9gmk9BD49M5mI9f8Dg3UfmVFKz8AqExr0",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "276.95",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1573513304/uajquygzayd6giqrg0wm.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "uajquygzayd6giqrg0wm",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-11T23:01:44.361Z",
+    "updated_at": "2019-11-11T23:01:44.361Z"
+  },
+  "categorias": [
+    {
+      "id": 7,
+      "nombre": "Guarnición",
+      "created_at": "2019-11-07T21:25:47.915Z",
+      "updated_at": "2019-11-07T21:25:47.915Z"
+    }
+  ],
+  "url": "/receta/87/papa-a-la-huancaina",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/uajquygzayd6giqrg0wm",
+  "_sourceUrl": "https://bongusto.net/receta/87/papa-a-la-huancaina",
+  "_fetchedAt": "2026-10-12T16:27:17.200Z"
+}

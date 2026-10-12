@@ -1,0 +1,40 @@
+{
+  "id": 73,
+  "titulo": "Arroz con Coco Panameño",
+  "descripcion": "Este plato es típico de las costas caribeñas de panamá, actualmente se prepara en toda panamá debido a su exquisito sabor y fácil preparación, ideal para ser acompañado con pescado frito o mariscos.",
+  "historia": "En Panamá es un arroz de contorno que es una delicia!\n\naquí te va\n\nEn realidad se hace de manera muy parecida al arroz blanco, sólo que en vez de agua le pones leche de coco... YO le pongo un poco de azúcar para realzar el sabor del coco... pero sólo un poco, recuerda que es un contorno para acompañar mariscos, carnes, pollos, etc",
+  "ingredientes": "### 4 Porciones:\n- 2 tazas de arroz\t\t\t\n- Sal al gusto.\n- 2 tazas de agua\t\t\t\n- 2 tazas de leche de coco\n",
+  "preparacion": "Colocar en una cacerola el arroz, leche de coco, agua y sal y llevar a fuego alto cuando seque tapar y bajar el fuego.",
+  "publico": true,
+  "created_at": "2019-11-10T22:49:22.224Z",
+  "updated_at": "2019-11-10T22:49:22.224Z",
+  "photo": {
+    "id": 80,
+    "name": "Arroz con Coco Panameño.png",
+    "hash": "6c2da4d0fcf042f39c4e5753533f5807",
+    "sha256": "TPCrttxMcX5q9BWHu8JddVjmJW_mSk4SIJLhMjHPJP8",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "357.92",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1573426162/qkqzwejso0m8xkee8jtd.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "qkqzwejso0m8xkee8jtd",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-10T22:49:22.713Z",
+    "updated_at": "2019-11-10T22:49:22.713Z"
+  },
+  "categorias": [
+    {
+      "id": 7,
+      "nombre": "Guarnición",
+      "created_at": "2019-11-07T21:25:47.915Z",
+      "updated_at": "2019-11-07T21:25:47.915Z"
+    }
+  ],
+  "url": "/receta/73/arroz-con-coco-panameno",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/qkqzwejso0m8xkee8jtd",
+  "_sourceUrl": "https://bongusto.net/receta/73/arroz-con-coco-panameno",
+  "_fetchedAt": "2026-10-12T16:27:28.136Z"
+}

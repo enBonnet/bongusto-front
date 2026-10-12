@@ -1,0 +1,40 @@
+{
+  "id": 68,
+  "titulo": "Sancocho Dominicano",
+  "descripcion": "El sancocho dominicano es una sopa integrada por carnes, tubérculos, verduras y condimentos que se mezclan para formar un espeso caldo.",
+  "historia": "Según los entendidos, el sancocho es un plato de origen canario, que procede de las primeras inmigraciones del archipiélago español a República Dominicana y que se fue adaptando con productos endémicos como la yuca, el ñame, la yautía y los plátanos.",
+  "ingredientes": "### 8 porciones:\n- ½ pollo entero, cortado en piezas\t\t\t\n- 1 Jojotos de maíz en trozos\n- ½ kilo pulpa de cerdo \t\t\t\t\n- ¼ kilo auyama pelada en trozos\n- ½ kilo carne de res picada \t\t\t\t\n- 1 ñame pequeño en trozos\n- ½ kilo de yuca en trozos grandes \t\t\t\n- 1 ocumo pelado y en trozos\n- 2 papas grandes peladas y en trozos grandes \t\n- 2 plátanos verdes en trozos medianos\n- 3 cucharadas de aceite\t\t\t\t\n- ½ cda de Azúcar\n- 2 limones\t\t\t\t\t\t\n- 2 dientes de ajos majados\n- 1 ají grande verde picadito pequeño \t\t\t\n- 1 cucharada de salsa inglesa\n- ½ ramito de perejil \t\t\t\t\t\n- 1 cucharadas de vinagre\n- 1 cebolla morada pequeñas picaditas \t\t\n- Sal y Pimienta C/N\t\n- 2 o 3 hojas cilantro \t\t\t\t\t\n- 1 litro de fondo de pollo o res\n- Cilantro C/N\t\t\t\t\t\t\n- Orégano C/N\n- ",
+  "preparacion": "- 1 corta las carnes en trozos pequeños. Unta la carne con el jugo de 2 limones.\n- Coloca las carnes en un recipiente profundo y agrega el cilantro, orégano, ajo y ½ cucharadita de sal y pimienta. \n- Mezcla bien y marina brevemente.\n- En un caldero o una olla grande calienta el aceite a fuego medio. Agrega la carne de res y remueve. Cubre y cuece por 10 minutos, agrega fondo por cucharadas si se hace necesario para evitar que se queme.\n- Agrega el resto de las carnes y cuece por 5 minutos, agrega fondo por cucharadas si se hace necesario para evitar que se queme.\n- Agrega el resto del fondo. Cuando empiece a hervir agrega ñame, ocumo, la yuca, el jojoto y los 2 plátanos rebanados. (Cubrir con agua de ser necesario) Cuece tapado hasta que ablande el plátano.\n- Agrega los ingredientes restantes y cuece hasta que estén cocidos. Remueve frecuentemente para evitar que se pegue al fondo.\n- Rectificar sazón y servir.\n- ",
+  "publico": true,
+  "created_at": "2019-11-10T21:38:16.420Z",
+  "updated_at": "2019-11-10T21:38:16.420Z",
+  "photo": {
+    "id": 176,
+    "name": "Sancocho.png",
+    "hash": "aca11ca245fd4dbdb0d6fa249a855d86",
+    "sha256": "5gPj_j0odQpN7lY3frkdI+TXD-O5+01XevkQcdrqCT8",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "146.32",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1574525196/tjvaixsv49piverjhych.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "tjvaixsv49piverjhych",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-23T16:06:37.272Z",
+    "updated_at": "2019-11-23T16:06:37.272Z"
+  },
+  "categorias": [
+    {
+      "id": 6,
+      "nombre": "Entrada",
+      "created_at": "2019-11-07T21:23:25.610Z",
+      "updated_at": "2019-11-07T21:23:25.610Z"
+    }
+  ],
+  "url": "/receta/68/sancocho-dominicano",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/tjvaixsv49piverjhych",
+  "_sourceUrl": "https://bongusto.net/receta/68/sancocho-dominicano",
+  "_fetchedAt": "2026-10-12T16:27:32.104Z"
+}

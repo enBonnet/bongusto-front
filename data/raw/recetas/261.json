@@ -1,0 +1,40 @@
+{
+  "id": 261,
+  "titulo": "Ensalada Caprese Al Rojo",
+  "descripcion": "La ensalada caprese, o simplemente caprese, es una ensalada italiana compuesta de rodajas de tomate y de mozzarella fresca, y hojas de albahaca fresca",
+  "historia": "La ensalada caprese proviene de la isla de Capri, lugar mítico situado enfrente de Nápoles, donde se creó esta sabrosa e inigualable combinación, y es uno de los símbolos gastronómicos de Italia, no sólo por lo sabrosa que resulta, sino porque los italianos hacen alarde de ella por su juego de colores: verde, blanco y rojo, los mismos que su bandera. Por cierto, que el diseño de la enseña italiana tiene su origen en Napoleón.\n\nFue él quien entregó un estandarte con esos colores a un cuerpo de voluntarios de la Legión Lombarda integrado en el ejército francés. Corría el año de 1796. Francesco Dall’Ongaro, poeta y dramaturgo del siglo XIX, definió de la siguiente manera la simbología de los colores de la bandera: 'Blanco como los Alpes, rojo como los volcanes y verde como las llanuras de Lombardía'.",
+  "ingredientes": "### Para 4 porciones \n- 500 gramos de tomate margariteño o manzanos \n- 100 gramos de tomate seco en aceite de oliva \n- 1 paquete de grisinis o señoritas de ajonjolí \n- 2 unidades de queso mozzarella \n- ½ taza de aceite de oliva \n- 2 dientes de ajo \n- 5 cucharadas de queso parmesano rallado \n- 2 cucharadas de piñones o nueces \n- ¼ de cucharadita de pimienta negra molida \n- La ralladura de 1 limón \n- Sal al gusto \n- Hojas de hierbabuena para decorar",
+  "preparacion": "Preparación De La Vinagreta \nA) Pelar el ajo, cortar por la mitad y retirar el nervio para evitar acidez. \nB) Colocar el ajo en un procesador de alimentos junto con los piñones o nueces, los tomates secos y triturar poco a poco, incorporando el aceite de oliva en hilo (chorrito fino y constante). \nC) Luego añadir el queso parmesano y la ralladura de limón, triturar hasta obtener una pasta homogénea y sazonar con sal y pimienta negra. \nPreparación De La Ensalada \nD) Lavar bien los tomates y cortar en rodajas de 0,5 centímetros de grosor. \nE) Cortar el queso mozzarella en ruedas delgadas. \nF) Coloque una rueda de tomate, encima una rueda de queso y así sucesivamente. Inserte los grisinis \npara formar una escalera de caracol. \nG) Aderezar la ensalada con la salsa de tomates secos y decorar con hojas de hierbabuena.\n",
+  "publico": true,
+  "created_at": "2019-12-21T14:10:55.588Z",
+  "updated_at": "2019-12-21T14:10:55.588Z",
+  "photo": {
+    "id": 295,
+    "name": "Ensalada Caprese Al Rojo1.png",
+    "hash": "166100a660944c3bbaee3e42d6bb3c7b",
+    "sha256": "KZwRV6PLD0erC7PzFmRgDfFBNQwXpaM8mhkfJIUMqjs",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "306.65",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1576937455/idqtq5irdserdmiovfj3.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "idqtq5irdserdmiovfj3",
+      "resource_type": "image"
+    },
+    "created_at": "2019-12-21T14:10:56.101Z",
+    "updated_at": "2019-12-21T14:10:56.101Z"
+  },
+  "categorias": [
+    {
+      "id": 6,
+      "nombre": "Entrada",
+      "created_at": "2019-11-07T21:23:25.610Z",
+      "updated_at": "2019-11-07T21:23:25.610Z"
+    }
+  ],
+  "url": "/receta/261/ensalada-caprese-al-rojo",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/idqtq5irdserdmiovfj3",
+  "_sourceUrl": "https://bongusto.net/receta/261/ensalada-caprese-al-rojo",
+  "_fetchedAt": "2026-10-12T16:24:55.593Z"
+}

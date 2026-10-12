@@ -1,0 +1,40 @@
+{
+  "id": 121,
+  "titulo": "Crepes",
+  "descripcion": "Una crepa es la mejor opción si quieres comer algo ligero para entretener el hambre y no perderte del plato fuerte.",
+  "historia": "Las crepas, derivando del latín “crispus” que significa crespo, la palabra crepa es antigua, tan antigua data de la Francia del medievo, en la zona de Bretaña para ser más precisos tiempo en que los agricultores fabricaban una especie de torta de consistencia crepitante.\nHechas con harina de trigo mejor conocida como galette que comúnmente se le integraban con ingredientes con un toque de sal.\nEl proceso para preparar las crepas se realizaba esparciendo esta masa sobre piedras que se habían calentado a fuego vivo con antelación.\nCon el correr del tiempo, fue transformándose en una comida recurrente entre los agricultores, atribuyendo este hecho a la simpleza de su realización.",
+  "ingredientes": "### De 4 a 6 Porciones:\n- 125 grs de harina de trigo\t\t\t\n- ½ cdta de sal\n- 2 huevos batidos\t\t\t\t\n- 300 ml de leche\n- 60 grs de mantequilla derretida.",
+  "preparacion": "- Tamizar la harina con la sal, llevar a un bowl e incorporar los huevos batidos y la leche lentamente batir con batidor de bola hasta que no haya grumos luego incorporar la mantequilla derretida, dejar tapado y en reposo por 30 minutos.\n- Calentar un sartén antiadherente grande (25 ctm) engrasar con un poco de mantequilla, agregar la mezcla y esparcir por toda la superficie del sartén cuando los creps pierdan el brillo voltear de inmediato cocinar durante 30 segundos más y reservar envuelta en un paño para que se mantengan suaves.",
+  "publico": true,
+  "created_at": "2019-11-20T19:53:19.115Z",
+  "updated_at": "2019-11-20T19:53:19.115Z",
+  "photo": {
+    "id": 128,
+    "name": "Crepes.png",
+    "hash": "8bffb90bc85240bba0ffa96c320032a5",
+    "sha256": "1wWX9ffc6p0aAsMhQhL_PFHSgyRHtoddS9r4i6AlBIY",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "119.39",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1574279599/smdgb4xfdaz2xauuntme.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "smdgb4xfdaz2xauuntme",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-20T19:53:19.642Z",
+    "updated_at": "2019-11-20T19:53:19.642Z"
+  },
+  "categorias": [
+    {
+      "id": 6,
+      "nombre": "Entrada",
+      "created_at": "2019-11-07T21:23:25.610Z",
+      "updated_at": "2019-11-07T21:23:25.610Z"
+    }
+  ],
+  "url": "/receta/121/crepes",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/smdgb4xfdaz2xauuntme",
+  "_sourceUrl": "https://bongusto.net/receta/121/crepes",
+  "_fetchedAt": "2026-10-12T16:26:49.350Z"
+}

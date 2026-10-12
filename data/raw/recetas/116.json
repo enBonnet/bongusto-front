@@ -1,0 +1,40 @@
+{
+  "id": 116,
+  "titulo": "Crema San German",
+  "descripcion": "La crema San German o crema de guisantes es de fácil elaboración,bonito color verde y agradable sabor. Servir como primer plato en comida o cena.",
+  "historia": "El potage Saint Germain es un clásico de la cocina francesa, originalmente hecho con guisantes (petit pois) frescos. Es la típica sopa de primavera que puede hacerse todo el año con arvejas verdes partidas, que luego de cocinadas se procesan y se convierten en un cremoso puré.\nElaborada originalmente con guisantes frescos, esta sopa de guisantes partidos debe su nombre al conde de Saint Germain, ministro de la guerra en el siglo XVIII.",
+  "ingredientes": "### 4 porciones:\n- 1 ½ lts de fondo de ave\t\t\t\n- 2 cdas de mantequilla\n- 50 grs de ajo porro\t\t\t\t\n- 50 grs de cebolla\n- 250 grs de arvejas\t\t\t\t\n- 150 grs de papa\n- 50 grs de crotones\t\t\t\t\n- 1 dl de crema de leche\n- Sal y pimienta c/n.",
+  "preparacion": "Sudar en mantequilla cebolla, ajoporro, papas, y arvejas y mojar con el fondo y cocinar por 45 minutos, al ablandar procesar en licuadora sazonar servir con crotones de pan.",
+  "publico": true,
+  "created_at": "2019-11-20T14:50:24.765Z",
+  "updated_at": "2019-11-20T14:50:24.765Z",
+  "photo": {
+    "id": 123,
+    "name": "Crema San German.png",
+    "hash": "0d2ab60dcf264b3ab7252311734dd2b2",
+    "sha256": "aMkJ-sNNbfX5PeSMSioHYUPwpjpyncilpsDWkAuHrL8",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "240.14",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1574261425/z6vcubaz5rrtcbhduakb.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "z6vcubaz5rrtcbhduakb",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-20T14:50:25.538Z",
+    "updated_at": "2019-11-20T14:50:25.538Z"
+  },
+  "categorias": [
+    {
+      "id": 6,
+      "nombre": "Entrada",
+      "created_at": "2019-11-07T21:23:25.610Z",
+      "updated_at": "2019-11-07T21:23:25.610Z"
+    }
+  ],
+  "url": "/receta/116/crema-san-german",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/z6vcubaz5rrtcbhduakb",
+  "_sourceUrl": "https://bongusto.net/receta/116/crema-san-german",
+  "_fetchedAt": "2026-10-12T16:26:53.236Z"
+}

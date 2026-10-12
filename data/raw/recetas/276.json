@@ -1,0 +1,40 @@
+{
+  "id": 276,
+  "titulo": "Torta Imposible",
+  "descripcion": "\nSe denomina pastel imposible porque durante el procedimiento se coloca primero la mezcla de pastel y después la de flan, pero cuando se hornea los lugares se invierten.",
+  "historia": "El origen de “Pastel imposible” no está definido. Se le atribuye tanto a Italia como a Perú y últimamente se otorga el mérito de su creación a los mexicanos. Sin embargo, independientemente de su origen, este postre de dos texturas combinadas es altamente consumido en México; sobre todo en festividades.",
+  "ingredientes": "Insumos para la preparación en un molde de 16 centímetros de circunferencia y 9.5 de alto, lo que sería la qué-sillera normal.\n## Caramelo:\n•\t1/2 taza de azúcar\n•\t2 cucharaditas de agua\n## Torta:\n•\t100 grs de harina de trigo todo uso \n•\t1 huevo\n•\t100 grs de azúcar\n•\t75 grs de margarina o mantequilla sin sal\n•\t½ cucharadita de esencia de vainilla\n•\tRalladura de 1 limón \n•\tPizca de sal (nota si la mantequilla o margarina es con sal, omitir más sal)\n•\t1/3 taza de leche líquida o agua\n## Quesillo:\n•\t1 huevo\n•\t200 grs de leche condensada (1/2 Lata)\n•\t200 grs de agua\n•\t2 cucharadas del licor de su preferencia\n•\t1 cucharadita de esencia de vainilla\n•\t1 cucharada de fécula de maíz \n•\t2 cucharadas de leche en polvo\n",
+  "preparacion": "•\tPrecalentar el horno a 200°C\n•\tMontar de 4 a 5 litros de agua a fuego alto. La idea es que hierva \n•\tPreparamos el caramelo; En el molde a utilizar agregar el azúcar y el agua, llevar al fuego hasta que comience a burbujear y tornándose color caramelo, dejarlo hasta que se torne del color deseado. Nota: mucha vigilancia a que se quema muy rápido.\n•\tLuego retiramos del fuego y tratamos de esparcir por el fondo del molde, hasta más o menos la mitad del molde o aproximadamente 4 centímetros de manera pareja. Dejamos enfriar aparte.\n•\tUna vez frio el molde con el caramelo. Aceitar la parte del molde que no tiene caramelo y reservar.\n•\tPreparamos la torta; Cremar la margarina con el azúcar hasta que se disuelva el azúcar.\n•\tIntegramos el huevo sin dejar de remover, hasta que se forme una masa homogénea\n•\tIncorporar la ralladura de limón.\n•\tAgregar la harina junto al polvo de hornear, tamizando e incorporando en forma envolvente, hasta incorporar todo.\n•\tIncorporar la esencia de vainilla\n•\tAgregar la leche o agua poco a poco en el momento que estemos incorporando la harina.\n•\tAgregamos la mescla de la torta al molde que ya tenemos con el caramelo y aceite.\n•\tPreparación del Quesillo; Incorporamos los insumos a procesar en la licuadora\n•\tUna vez incorporados todos los ingredientes lo agregamos el molde donde ya tenemos la mezcla de la torta, esto utilizando una espátula para que la mezcla no caiga directamente sobre la mezcla de la torta y no deforme la superficie donde cae.\n•\tNOTA: Va 1ro la mezcla de la torta, sobre el caramelo y luego la del quesillo en la parte que esta aceitada.\n•\tTapamos el molde con su tapa, lo colocamos en una tortera amplia en el centro y agregamos agua caliente que cubra la mitad del molde donde tenemos la mezcla.\n•\tLlevamos al horno en la parte media de este, bajamos la temperatura a 180°c y lo dejamos por 1 ½ hora.\n•\tTranscurrido el tiempo sacamos del horno introducimos un cuchillo para verificar que este cocida la torta. La torta en este momento esta en la superficie, por lo tanto, se introduce el cuchillo solo hasta la mitad.\n•\tUna vez comprobada la cocción de la torta, dejamos enfriar a temperatura ambiente, luego lo llevamos a la nevera hasta que se enfrié bien, preferiblemente de un día para otro.\n•\tAntes de desmoldar verificamos que se despegue de los lados del molde y desmoldamos.\n",
+  "publico": true,
+  "created_at": "2021-07-28T12:31:45.374Z",
+  "updated_at": "2021-07-28T12:31:45.374Z",
+  "photo": {
+    "id": 310,
+    "name": "Torta Imposible.png",
+    "hash": "96a1347d405240dab295fb0ab1ec1802",
+    "sha256": "9nfT3CP1ahp3oAWPz7zrymJZzJfir6RMCNgfP8VJyhU",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "1652.74",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1627475505/lcmsnhao1vpc655drfhs.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "lcmsnhao1vpc655drfhs",
+      "resource_type": "image"
+    },
+    "created_at": "2021-07-28T12:31:46.039Z",
+    "updated_at": "2021-07-28T12:31:46.039Z"
+  },
+  "categorias": [
+    {
+      "id": 9,
+      "nombre": "Postre",
+      "created_at": "2019-11-07T22:49:20.381Z",
+      "updated_at": "2019-11-07T22:49:20.381Z"
+    }
+  ],
+  "url": "/receta/276/torta-imposible",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/lcmsnhao1vpc655drfhs",
+  "_sourceUrl": "https://bongusto.net/receta/276/torta-imposible",
+  "_fetchedAt": "2026-10-12T16:24:43.244Z"
+}

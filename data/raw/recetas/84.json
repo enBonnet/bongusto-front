@@ -1,0 +1,40 @@
+{
+  "id": 84,
+  "titulo": "Merengues Con Dulce De Leche Argentino",
+  "descripcion": "Fabulosa receta para Merengues rellenos con dulce de leche.",
+  "historia": "No hay una historia definida de este postre, lo que si es sierto es que es muy popular en la Argentina.",
+  "ingredientes": "### 12 porciones:\n- 50 grs de mantequilla\t\t\t\t\n- 150 grs de azúcar glass.\n- 2 cdas de harina\t\t\t\t\n- 12 fresas\n- 6 huevos (clara solamente)\t\t\t\n- 200 grs de melocotón\n- 180 grs de azúcar\t\t\t\t\n- 1 cdt de bicarbonato\n- 1 pizca de sal\t\t\t\t\t\n- 500 grs de azúcar\n- 2 lts de leche\t\t\t\t\t\n- 1 cda de esencia de vainilla\n-  250 grs de dulce de leche o arequipe\n",
+  "preparacion": "Elaborar suspiros, (cocción a baja temperatura 2 horas) con el melocotón preparar un coulis, aparte cocinar la leche el azúcar la esencia de vainilla y el bicarbonato hasta que reduzca y tome un color marrón claro. Para montar el plato vaciar los suspiros con ayuda de una cucharilla y rellenar con el dulce de leche, decorar con fresas y coulis de melocotón.",
+  "publico": true,
+  "created_at": "2019-11-11T21:27:50.880Z",
+  "updated_at": "2019-11-11T21:27:50.880Z",
+  "photo": {
+    "id": 91,
+    "name": "Merengue.png",
+    "hash": "98691c6e423b480c84f48278e1d6f908",
+    "sha256": "3LLefJAyVyrnQIwf3lpqai9JdlBMRutwJXoq69VKqh8",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "127.77",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1573507671/u7ztgkuls7sjpjh5ctoq.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "u7ztgkuls7sjpjh5ctoq",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-11T21:27:51.282Z",
+    "updated_at": "2019-11-11T21:27:51.282Z"
+  },
+  "categorias": [
+    {
+      "id": 9,
+      "nombre": "Postre",
+      "created_at": "2019-11-07T22:49:20.381Z",
+      "updated_at": "2019-11-07T22:49:20.381Z"
+    }
+  ],
+  "url": "/receta/84/merengues-con-dulce-de-leche-argentino",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/u7ztgkuls7sjpjh5ctoq",
+  "_sourceUrl": "https://bongusto.net/receta/84/merengues-con-dulce-de-leche-argentino",
+  "_fetchedAt": "2026-10-12T16:27:19.684Z"
+}

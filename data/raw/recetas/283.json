@@ -1,0 +1,40 @@
+{
+  "id": 283,
+  "titulo": "Crema de Coco",
+  "descripcion": "Pasta suave elaborada a partir de la pulpa de los cocos, propia de la cocina caribeña y del sur de Asia. ",
+  "historia": "El origen de la crema de coco no es algo que se pueda ubicar en el tiempo, ya que existen muchas recetas antiguas donde se usa la leche de coco y la crema de coco como parte de la misma.",
+  "ingredientes": "•\t3 cocos medianos (con su agua)\n•\tAgua la cantidad necesaria.\n•\t2 cucharaditas de fécula de maíz (de ser necesario)\n•\t½ taza de azúcar blanca\n",
+  "preparacion": "**Preparación:**\n1.\tRecuperar y conservar el agua de los cocos\n2.\tPartir y Sacra la pulpa de los cocos\n3.\tPelar la pulpa (Quitar la piel marrón)\n4.\tRallar el coco por la parte fina del rallador\n**Elaborar la leche de coco:**\n1.\tDividir en dos porciones el coco rayado\n2.\tEn una olla agregar la mitad del coco rayado y cubrir con el agua de coco. Si el agua de coco no cubre, se agrega agua común hasta cubrir unos dos centímetros por encima.\n3.\tLlevar a fuego medio hasta que hierva, removiendo constantemente. Esta lista cuando el agua se torna blanca como la leche.\n4.\tColar y exprimir, reservar tanto la leche como el coco.\n**Elaborar la Crema de coco:**\n1.\tEn un procesador de alimentos (licuadora) agregar la leche de coco y todo el coco que tenemos rayado. (ambos el que se utilizo para la leche como el que teníamos reservado). Mas el azúcar.\n2.\tProcesar en licuadora hasta obtener una crema. (si está muy liquida agregamos la fécula de maíz) Y si esta muy seca agregamos agua hasta obtener la textura de una crema de leche.\n3.\tLlevamos a fuego medio sin dejar de remover hasta que indique que va a hervir.\n4.\tBajamos del fuego, dejamos enfriar y listo.\n",
+  "publico": true,
+  "created_at": "2021-10-22T20:50:21.194Z",
+  "updated_at": "2021-10-22T20:50:21.194Z",
+  "photo": {
+    "id": 321,
+    "name": "Crema de coco.png",
+    "hash": "66c56b39402b457eb3317895534c212f",
+    "sha256": "C5mZS076Ga02vTmGrZddeBLsTDfo-4FlHqfomJ_oPxA",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "93.73",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1634935821/rdsnp2qclpf9jlwxx0dg.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "rdsnp2qclpf9jlwxx0dg",
+      "resource_type": "image"
+    },
+    "created_at": "2021-10-22T20:50:21.559Z",
+    "updated_at": "2021-10-22T20:50:21.559Z"
+  },
+  "categorias": [
+    {
+      "id": 9,
+      "nombre": "Postre",
+      "created_at": "2019-11-07T22:49:20.381Z",
+      "updated_at": "2019-11-07T22:49:20.381Z"
+    }
+  ],
+  "url": "/receta/283/crema-de-coco",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/rdsnp2qclpf9jlwxx0dg",
+  "_sourceUrl": "https://bongusto.net/receta/283/crema-de-coco",
+  "_fetchedAt": "2026-10-12T16:24:37.149Z"
+}

@@ -1,0 +1,40 @@
+{
+  "id": 65,
+  "titulo": "Tartaletas de plátano verde con Gambas",
+  "descripcion": "Exquisito mangar a base de plátanos verdes fritos en forma de canasta, relleno con guiso de gambas",
+  "historia": "Este plato es una entrada muy popular en la isla de cuba, no se tiene datos de fechas ni autor del mismo, ni tampoco si es originario de cuba ya que el plátano verde es consumido en Latinoamérica, en muchas presentaciones.",
+  "ingredientes": "### 6 Raciones:\n- 3 plátanos verdes\t\t\t\n- Sal y pimienta c/n\t\t\n- 1 rama de perejil liso\n- 1 lt. De aceite vegetal\t\t\t\t\t\t\n- ½ lt. De fumet\n- 3 ajíes dulce\n- 250 grs. De camarones medianos\t\t\t\n- 1 pimentón rojo \n- 1 cebolla mediana\t\n- 3 tomates maduros\t\t\t\n- 6 dientes de ajo\n",
+  "preparacion": "Elaborar las cestas de plátano, cortar el plátano en trozos de 2 cms, blanquear en aceite y moldear con exprimidor de jugo de limón, dar fritura final al momento de servir. Aparte preparar una salsa de marisco con los camarones y servir con las tartaletas de plátano verde. ",
+  "publico": true,
+  "created_at": "2019-11-10T21:09:06.051Z",
+  "updated_at": "2019-11-10T21:18:13.721Z",
+  "photo": {
+    "id": 172,
+    "name": "Tartaletas de platano.png",
+    "hash": "e91056d5e8bb434c9c6e55fed53087e0",
+    "sha256": "C8HJhaa2m43GL9xl001SHtZ2KGXUSgRbQRpnNVXjqsM",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "57.40",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1574524707/eig28he4m927r2r0avkx.jpg",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "eig28he4m927r2r0avkx",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-23T15:58:28.173Z",
+    "updated_at": "2019-11-23T15:58:28.173Z"
+  },
+  "categorias": [
+    {
+      "id": 6,
+      "nombre": "Entrada",
+      "created_at": "2019-11-07T21:23:25.610Z",
+      "updated_at": "2019-11-07T21:23:25.610Z"
+    }
+  ],
+  "url": "/receta/65/tartaletas-de-platano-verde-con-gambas",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/eig28he4m927r2r0avkx",
+  "_sourceUrl": "https://bongusto.net/receta/65/tartaletas-de-platano-verde-con-gambas",
+  "_fetchedAt": "2026-10-12T16:27:34.399Z"
+}

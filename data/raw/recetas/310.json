@@ -1,0 +1,40 @@
+{
+  "id": 310,
+  "titulo": "Piel Canela (Frozzen)",
+  "descripcion": "Cóctel ganador de varios premios mundiales con mucho sabor y calor caribeño",
+  "historia": "Presentado al mundo en El Mundial, celebrado del 6 al 11 de agosto de 2009 en el hotel Maritim de Berlín, por el bartender peruano Ángelo.",
+  "ingredientes": "- Copa Huracán\n- Grand Marnier o Ponche Crema\n- licor de café\n- frange lico o Amaretto\n- Hielo Picado\n- Canela en polvo\n- **Decoración: **\n- Twis de piel de limón",
+  "preparacion": "- En el vaso de la licuadora, agregar:\n- 1 Onza de Grand Marnier o Ponche Crema\n- 1 Onza de licor de Café\n- 1 Onza de frange lico o Amaretto\n- ½ cucharadita de canela en polvo\n- La cantidad de hielo a ser usado, es la misma capacidad de la copa a ser usada. \n- Agregar el hielo lentamente, mientras se estan procesando los ingredientes y cuando ya tenga la consistencia de frozzen dejar de agregar hielo.\n- Servir y decorar con ½ cucharadita de canela en polvo esparcida por la superficie y un twis de limón.",
+  "publico": true,
+  "created_at": "2021-11-05T14:09:28.611Z",
+  "updated_at": "2021-11-05T14:09:28.611Z",
+  "photo": {
+    "id": 354,
+    "name": "Piel Canela.png",
+    "hash": "e17cf35256b44dcbab13597fee20dc73",
+    "sha256": "_4iFSld9OUjfXBYP6Nz-WUpkkDbihzxjsUKbMrAUY3s",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "195.82",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1636121368/wte1d9pq1stpmsyzvtvr.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "wte1d9pq1stpmsyzvtvr",
+      "resource_type": "image"
+    },
+    "created_at": "2021-11-05T14:09:29.531Z",
+    "updated_at": "2021-11-05T14:09:29.531Z"
+  },
+  "categorias": [
+    {
+      "id": 43,
+      "nombre": "Maridaje ",
+      "created_at": "2019-11-09T20:57:22.945Z",
+      "updated_at": "2019-11-09T20:57:22.945Z"
+    }
+  ],
+  "url": "/receta/310/piel-canela-frozzen",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/wte1d9pq1stpmsyzvtvr",
+  "_sourceUrl": "https://bongusto.net/receta/310/piel-canela-frozzen",
+  "_fetchedAt": "2026-10-12T16:24:15.089Z"
+}

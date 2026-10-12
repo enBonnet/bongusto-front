@@ -1,0 +1,40 @@
+{
+  "id": 258,
+  "titulo": "Corona De Langostinos Con Salsa De Perejil",
+  "descripcion": "Esta receta de Corona de Langostinos es ideal para preparar en verano. Gusta tanto a niños como a mayores y además la puedes dejar hecha con antelación.",
+  "historia": "Esta receta de Corona de Langostinos es ideal para preparar en verano. Gusta tanto a niños como a mayores y además la puedes dejar hecha con antelación.",
+  "ingredientes": "### Para 4 porciones \n### PARA LA SALSA \n- 20C) mililitros de caldo de vegetales \n- taza de perejil \n- 1 00 gramos de margarina \n- 2 cucharadas de fécula de maíz \n- ½ cucharadita de jugo de limón \n- ½ cucharadita de Ajo en polvo \n- Sal y pimienta negra al gusto \n### PARA LA CORONA \n- Un kilo de langostinos grandes \n- 1 paquete de rúgula \n- 30 mililitros de aceite de oliva\n- Las hojas de I lechuga \n- Pimienta gourmet al gusto \n- Semillas de ajonjolí tostadas al gusto \n- palillos de madera",
+  "preparacion": "### PREPARACIÓN DE LA SALSA \n- A) Lavar el perejil y escurrir bien, retirar los tallos y cortar finamente las hojas. \n- B) Derretir en un sartén 40 gramos de margarina, añadir la fécula de Maíz y mezclar durante 1 minuto. \n- C) Luego agregar el caldo de vegetales y sin dejar de remover agregue la margarina restante. \n- D) Remover hasta que la salsa tome una consistencia homogénea. \n- E) Después añadir el jugo de limón, el perejil cortado, el Ajo la sal y la pimienta negra, y retirar del fuego. \n### PREPARACIÓN DE LA CORONA \n- F) Pelar los langostinos, extraer la vena y lavarlos muy bien. Hacer una Incisión horizontal en el medio del langostino en forma de mariposa. \n- G) Luego formar una corona con langostinos sujetándolos con los palillos. Añadir pimienta gourmet y sal. \n- H) En una plancha o grill caliente con aceite de oliva, colocar la corona durante 7 minutos aproximadamente. \n- l) Cortar la rúgula y la lechuga en trozos y aderezar con el aceite de oliva y la pimienta gourmet. \n- J) Para servir colocar la corona en el plato con un poco de salsa y luego en el centro de la corona la lechuga y la rúgula. Espolvorear las semillas de ajonjolí previamente tostadas para decorar.\n",
+  "publico": true,
+  "created_at": "2019-12-18T21:31:46.780Z",
+  "updated_at": "2019-12-18T21:31:46.780Z",
+  "photo": {
+    "id": 292,
+    "name": "Corona de langostinos1.jpg",
+    "hash": "233d7ee8975a489e8bdde095e0c285cb",
+    "sha256": "8e2brxsQ9d0Fwxhgc5Am0dVPCol10wM_6lFBOS7ytjI",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "size": "63.80",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1576704706/lzs6ndyjdcsyvzq6ucdm.jpg",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "lzs6ndyjdcsyvzq6ucdm",
+      "resource_type": "image"
+    },
+    "created_at": "2019-12-18T21:31:47.087Z",
+    "updated_at": "2019-12-18T21:31:47.087Z"
+  },
+  "categorias": [
+    {
+      "id": 6,
+      "nombre": "Entrada",
+      "created_at": "2019-11-07T21:23:25.610Z",
+      "updated_at": "2019-11-07T21:23:25.610Z"
+    }
+  ],
+  "url": "/receta/258/corona-de-langostinos-con-salsa-de-perejil",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/lzs6ndyjdcsyvzq6ucdm",
+  "_sourceUrl": "https://bongusto.net/receta/258/corona-de-langostinos-con-salsa-de-perejil",
+  "_fetchedAt": "2026-10-12T16:24:58.193Z"
+}

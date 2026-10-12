@@ -1,0 +1,40 @@
+{
+  "id": 154,
+  "titulo": "Sangría",
+  "descripcion": "Sangría es el nombre que se le da a una bebida proveniente de España que resulta de mezclar vino tinto con fruta y zumos de frutas, brandy, agua de soda y especias (entre ellas ramitas de canela).",
+  "historia": "En la Roma antigua era muy común beber vino en lugar de agua, ya que el alcohol mataba los gérmenes frecuentes en el agua contaminada de la época. Tanto niños como adultos tomaban diariamente vinos que se especiaban para dar distintos sabores agradables al paladar. A esta bebida se le llamaba grog o hippocras.\nEsta costumbre se fue expandiendo por el resto de Europa, incluyendo la península ibérica, donde empezó a llamársele sangría al vino tinto por su coloración roja.",
+  "ingredientes": "### 6 a 8 Porciones:\n- 1 botella de vino tinto\t\t\n- 1 naranjas anaranjada en rebanadas\n- 1 melón pequeño en cubos\t\t\n- 250 cc de jugo de limón\n- Un ramillete de uvas tintas\t\t\n- 1 piña en cubos\n- 250 gramos de Azúcar\t\t\n- 1 ½ litro de chinoto o 7up\n- Granadina al gusto\t\t\t\n- Jarabe de goma al gusto\n- Hielo en cubos C/N",
+  "preparacion": "1. En una jarra preferiblemente de vidrio que pueda contener 2 litros o más, macerar las frutas junto con el jugo de limón y el azúcar por lo menos ½ hora.\n2. Agregar en la jarra hasta la mitad de hielo.\n3. Agregar el vino mezclando contantemente con paleta de madera.\n4. Agregar las ruedas de naranja, 1 ½ onza de granadina y 1 ½ onza de jarabe de goma.\n5. Completar con chinoto o 7up mezclando constantemente.\n6. Servir en vasos con la mitad de hielo tratando de que contenga los diferentes tipos de frutas en cada servida, las ruedas de naranja se pueden colocar a caballo en los vasos para decorar.",
+  "publico": true,
+  "created_at": "2019-11-23T20:59:45.852Z",
+  "updated_at": "2019-11-23T20:59:45.852Z",
+  "photo": {
+    "id": 186,
+    "name": "Sangria.jpg",
+    "hash": "5fd1e7df83bc49f58f1fb92f5f8fdb71",
+    "sha256": "WBFh2jCZRLVG0QlNjlv_6MYltznN8ZGHEQwe1gVU1cM",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "size": "34.49",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1574542785/eh3spuufyigf9nagyx7s.jpg",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "eh3spuufyigf9nagyx7s",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-23T20:59:46.106Z",
+    "updated_at": "2019-11-23T20:59:46.106Z"
+  },
+  "categorias": [
+    {
+      "id": 43,
+      "nombre": "Maridaje ",
+      "created_at": "2019-11-09T20:57:22.945Z",
+      "updated_at": "2019-11-09T20:57:22.945Z"
+    }
+  ],
+  "url": "/receta/154/sangria",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/eh3spuufyigf9nagyx7s",
+  "_sourceUrl": "https://bongusto.net/receta/154/sangria",
+  "_fetchedAt": "2026-10-12T16:26:22.544Z"
+}

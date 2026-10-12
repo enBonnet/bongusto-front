@@ -1,0 +1,40 @@
+{
+  "id": 162,
+  "titulo": "Kaipiroska",
+  "descripcion": "Su nombre deriva del de la caipiriña tradicional, de la que sólo se diferencia por la sustitución de cachaza por vodka. Se sirve con hielo picado, y se bebe con pajita.",
+  "historia": "La Kaipiroska, también conocida como \"caipirivodka\", originaria en Rusia, pertenece a la familia de cócteles denominados \"caipiras\", nacidos exclusivamente como una variación de está, la cual ha sido y es, uno de los grandes cócteles clásicos. A mediados de los 80 y gracias a la promoción de varios elaboradores de vodka consiguieron crear Kaipiroska, e incluso llevarlo hacia el Brasil, convirtiéndolo en la copa de referencia de las noches \"brasileras\" entre la clase alta de Sao Paulo o Río,",
+  "ingredientes": "- 1 ½  onza de vodka\n- 4/4 de limón\n- 1 cucharada de azúcar\n- Hielo picado",
+  "preparacion": "El trago se prepara en un vaso bajo, de boca ancha, donde se colocan los gajos de lima con el azúcar. Majamos los gajos con un mortero o cuchara. Una vez triturado, agregamos el vodka y el hielo. Decoramos con un gajo de limón. Se bebe, generalmente, con pitillo.",
+  "publico": true,
+  "created_at": "2019-11-23T23:04:01.659Z",
+  "updated_at": "2019-11-23T23:04:01.659Z",
+  "photo": {
+    "id": 194,
+    "name": "Kaipiroska.png",
+    "hash": "6e814e3f3f81418c912ad0cca521c09a",
+    "sha256": "3u4pauDhIJj53OEp5z7vIQP_BpzEbMoY+EHeD0aCw-I",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "45.18",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1574550241/yu8yi46qqyl5fp9yebhk.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "yu8yi46qqyl5fp9yebhk",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-23T23:04:02.059Z",
+    "updated_at": "2019-11-23T23:04:02.059Z"
+  },
+  "categorias": [
+    {
+      "id": 43,
+      "nombre": "Maridaje ",
+      "created_at": "2019-11-09T20:57:22.945Z",
+      "updated_at": "2019-11-09T20:57:22.945Z"
+    }
+  ],
+  "url": "/receta/162/kaipiroska",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/yu8yi46qqyl5fp9yebhk",
+  "_sourceUrl": "https://bongusto.net/receta/162/kaipiroska",
+  "_fetchedAt": "2026-10-12T16:26:16.160Z"
+}

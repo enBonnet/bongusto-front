@@ -1,0 +1,40 @@
+{
+  "id": 216,
+  "titulo": "Plátano Dulce",
+  "descripcion": "Es una receta sencilla y apetecible que aprovecha la facilidad que tiene el plátano maduro para caramelizarse y la acentúa con melao de papelón.",
+  "historia": "Es una receta sencilla y apetecible que aprovecha la facilidad que tiene el plátano maduro para caramelizarse y la acentúa con melao de papelón. Además de acompañar preparados salados, puede servirse como postre. Este modo de preparación también es utilizado con cambures, particularmente titiaros.",
+  "ingredientes": "### Ingredientes (para 3 personas) \n- ½ taza de aceite \n- 3 plátanos bien maduros, pelados y cortados en 3 partes \n- ½ litro de agua \n- ½ panela de papelón rallado \n- 3 clavos de olor \n- 1 ramita de canela",
+  "preparacion": "1. Se sofríen los plátanos en una sartén o caldero con el aceite a fuego alto, unos 10 minutos, volteándolos hasta que queden dorados por completo. \n2. Se retiran del fuego y se escurren sobre papel absorbente. \n3. Se desecha el aceite y se añade el agua, el papelón, los clavos y la ramita de canela a la sartén y se calienta a fuego alto. Una vez que hierva, se deja cocinar unos 15 minutos, o hasta que el papelón tome la consistencia de un melao. Se agregan los plátanos y se cocinan a fuego bajo durante unos 10 minutos para que absorban todo el caramelo.",
+  "publico": true,
+  "created_at": "2019-12-07T20:21:35.720Z",
+  "updated_at": "2019-12-07T20:21:35.720Z",
+  "photo": {
+    "id": 250,
+    "name": "Platano Dulce.png",
+    "hash": "ba84f961adfc4f9eb7bbb7ccc6109124",
+    "sha256": "LRINgu386AN5HHJ41CzLKtXVm7LX6tqekQGAPPLKrNM",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "299.68",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1575750095/steyt9hekmp6dujhp75e.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "steyt9hekmp6dujhp75e",
+      "resource_type": "image"
+    },
+    "created_at": "2019-12-07T20:21:36.135Z",
+    "updated_at": "2019-12-07T20:21:36.135Z"
+  },
+  "categorias": [
+    {
+      "id": 7,
+      "nombre": "Guarnición",
+      "created_at": "2019-11-07T21:25:47.915Z",
+      "updated_at": "2019-11-07T21:25:47.915Z"
+    }
+  ],
+  "url": "/receta/216/platano-dulce",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/steyt9hekmp6dujhp75e",
+  "_sourceUrl": "https://bongusto.net/receta/216/platano-dulce",
+  "_fetchedAt": "2026-10-12T16:25:31.801Z"
+}

@@ -1,0 +1,40 @@
+{
+  "id": 59,
+  "titulo": "Pico Gallo",
+  "descripcion": "Para los tacos, las tostadas o la botana, la salsa cruda o mejor conocida como SALSA PICO DE GALLO, es un tesoro mexicano que nos encanta y no podemos resistirnos a ella.",
+  "historia": "Existe la teoría de que al momento de cortar  los cuadritos de cebolla y jitomate, quedaban  tan pequeños como el pico de un gallo, además de que su sabor condimentado era como si el gallo te picara.",
+  "ingredientes": "### 8 porciones:\n- 2 tomates\t\t\t\t\t     \n- Sal y pimienta\n- 1/4 de cebolla\t\t\t\t       \n- 2 cucharadas de cilantro\t\t\t     \n-  1 limón\n- 1 diente de ajo\n",
+  "preparacion": "- Primero corta el tomate y la cebolla en pequeños cuadros (brunoise pequeño). En el caso de los tomates, quíteles las semillas.\n- El ajo, por su parte, córtalo en pedacitos lo más pequeños posible.\n- El cilantro no necesita tantos cuidados, cortarlo sin tomar mucho en consideración el tamaño.\n- Corta el limón por la mitad y exprime su jugo en un recipiente mediano. En el mismo recipiente coloca todos los ingredientes que ya habías cortado.\n- Condimenta la mezcla con sal y pimienta al gusto y un pequeño chorro de aceite vegetal.\n- ¡Ya está listo para servir! Cómelo, como te dijimos anteriormente, con pan, tostadas, nachos o úsalo para darle sabor a cualquier otro plato que estés cocinando. \n",
+  "publico": true,
+  "created_at": "2019-11-09T23:48:42.121Z",
+  "updated_at": "2019-11-09T23:48:42.121Z",
+  "photo": {
+    "id": 66,
+    "name": "Pico Gallo.png",
+    "hash": "0af86b01ea7d4ef889712448cd9f615f",
+    "sha256": "9tguw-0eR3gIjaV_wc4IR0G-US8ulLEkkAVq3t2qTgI",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "335.72",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1573343322/dnhakm8oaicabhjs6gkg.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "dnhakm8oaicabhjs6gkg",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-09T23:48:42.569Z",
+    "updated_at": "2019-11-09T23:48:42.569Z"
+  },
+  "categorias": [
+    {
+      "id": 7,
+      "nombre": "Guarnición",
+      "created_at": "2019-11-07T21:25:47.915Z",
+      "updated_at": "2019-11-07T21:25:47.915Z"
+    }
+  ],
+  "url": "/receta/59/pico-gallo",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/dnhakm8oaicabhjs6gkg",
+  "_sourceUrl": "https://bongusto.net/receta/59/pico-gallo",
+  "_fetchedAt": "2026-10-12T16:27:39.068Z"
+}

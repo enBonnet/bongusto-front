@@ -1,0 +1,40 @@
+{
+  "id": 309,
+  "titulo": "Piña Colada (Frozzen)",
+  "descripcion": "Estupenda combinación de sabores caribeños en un cóctel refrescante con mucho sabor a trópico.",
+  "historia": "El Caribe Hilton Hotel, ubicado en la capital boricua San Juan afirma que Ramón \"Monchito\" Marrero creó la Piña Colada en 1954 mientras era cantinero en el hotel. Según este relato, el Sr. Marrero finalmente se decidió por la receta de la Piña Colada, que sintió que capturó la verdadera naturaleza y esencia de Puerto Rico. El hotel recibió una proclamación en 2004 por la gobernadora de Puerto Rico, Sila Calderón, celebrando el 50 aniversario de la bebida.",
+  "ingredientes": "- Copa Huracán o en la piña\n- Azúcar\n- Jugo de Piña\n- crema de coco\n- Ron Blanco\n- Hielo Picado\n- **Decoración: **\n- Trozos de piña\n- Sombrillas\n- Pitillos",
+  "preparacion": "**En el vaso de la licuadora, agregar:**\n- 4 onzas de jugo de piña \n- 3 o 4 medidas de azucar\n- 4 onzas de crema de coco\n- 1 ½ onza o 2 de ron blanco\n- Se procede a procesar (licuar)\n- La cantidad de hielo a ser usado, es la misma capacidad de la copa a ser usada. \n- Agregar el hielo lentamente, mientras se estan procesando los ingredientes y cuando ya tenga la consistencia de frozzen dejar de agregar hielo.\n- Servir y decorar a gusto. \n- **NOTA: **Generalmente las cremas de coco comerciales son muy dulces, por esa razón utilizamos poca azucar, pero si la crema de coco que se utilizara es sin azucar podemos complementar agregando más azucar o en su defecto leche condensada.",
+  "publico": true,
+  "created_at": "2021-11-05T14:05:30.119Z",
+  "updated_at": "2021-11-05T14:05:30.119Z",
+  "photo": {
+    "id": 353,
+    "name": "Piña Colada.png",
+    "hash": "450ce1c89a3a4040b8146c7dac4fd977",
+    "sha256": "a2aTdkTdKIl380dUlmEqoaAevqWnA-gJBispw9KbuVY",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "18.82",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1636121130/cql1jxwsdxkjnh52hbyo.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "cql1jxwsdxkjnh52hbyo",
+      "resource_type": "image"
+    },
+    "created_at": "2021-11-05T14:05:31.141Z",
+    "updated_at": "2021-11-05T14:05:31.141Z"
+  },
+  "categorias": [
+    {
+      "id": 43,
+      "nombre": "Maridaje ",
+      "created_at": "2019-11-09T20:57:22.945Z",
+      "updated_at": "2019-11-09T20:57:22.945Z"
+    }
+  ],
+  "url": "/receta/309/pina-colada-frozzen",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/cql1jxwsdxkjnh52hbyo",
+  "_sourceUrl": "https://bongusto.net/receta/309/pina-colada-frozzen",
+  "_fetchedAt": "2026-10-12T16:24:15.935Z"
+}

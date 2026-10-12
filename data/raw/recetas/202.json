@@ -1,0 +1,40 @@
+{
+  "id": 202,
+  "titulo": "Arroz con Pollo",
+  "descripcion": "Conocido en la Caracas del siglo XIX como pollo en arroz, éste es un plato principal en el cual el popular cereal trasciende su usual condición de acompañante",
+  "historia": "Conocido en la Caracas del siglo XIX como pollo en arroz, éste es un plato principal en el cual el popular cereal trasciende su usual condición de acompañante, pues absorbe los sabores y colores del sofrito y del pollo. Por aquel entonces, la receta llegó incluso a dotarse de un distintivo político, según palabras de Ramón David León: en La Victoria: se le añadía \nonoto para teñirlo de amarillo y rendirle. así homenaje al general Francisco Linares Alcántara. (cabeza del liberalismo amarillo); en Villa de Cura (en algún momento de dominio godo) se le agregaba un porcentaje más alto de este colorante natural para que el arroz luciera \nrojo, símbolo de los conservadores. Más adelante, en Maracay, ya en tiempos de Gómez (cuyo color distintivo era el blanco), se comía este plato sin colorearlo en absoluto, como tributo al benemérito. \nHasta bien entrado el siglo XX, decir \"un arroz\" o \"un arrocito\" era sinónimo de fiestas bailables, porque no faltaba un arroz con huesitos o con pollo. El que nunca dejaba de comer en esas celebraciones era todo un \"arrocero\". No es de extrañar que actualmente esta palabra haya quedado para los que asisten, aun sin invitación, a todas las fiestas.",
+  "ingredientes": "### Ingredientes (para 6 personas) \n### Sofrito \n- 2 cucharadas de aceite \n- 1 cebolla cortada en brunoise \n- 1 pimentón cortado en brunoise\n- 1 ajoporro cortado en brunoise\n- 1 zanahoria cortada en brunoise\n- 6 ajíes dulces cortados en brunoise\n- 1 ramita de cilantro en hache \n- 8 dientes de ajo majados\nSal al gusto \n### Cocción \n- 5 pechugas de pollo cortadas en cuadros, sin prescindir de los huesitos \n- 2 ½ tazas de arroz \n- 4 tazas de consomé de pollo. \n- 3 cucharadas de aceite onotado",
+  "preparacion": "- Se saltean a fuego bajo los ingredientes sólidos del sofrito, con sal al gusto. \n- Cuando la cebolla esté dorada, se añade el pollo, y se mueve regularmente durante unos 4 minutos. \n- Se agrega el arroz y se sofríe todo por unos 2 minutos más. \n- Se añade el consomé de pollo, el aceite onotado y se sube un poco el fuego. Sin remover, ya fuego medio, se espera a que hierva. \n- Se baja el fuego y se tapa. Se esperan unos 3 minutos y se remueve un poco. Se tapa de nuevo y se espera hasta que el agua se absorba completamente. \n- Sugerencia \n- Para darle más coloración al arroz, al final se puede añadir 1 cucharada más de aceite onotado.",
+  "publico": true,
+  "created_at": "2019-12-07T13:43:30.952Z",
+  "updated_at": "2019-12-07T13:43:30.952Z",
+  "photo": {
+    "id": 236,
+    "name": "Arroz con Pollo.png",
+    "hash": "038f448cedff46a8a1639fda1d509717",
+    "sha256": "NkTWaFrRzw8kdAjks1TNzPS-7cjvG3kqLyJfpW5TZ9s",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "154.39",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1575726211/dpdfhlbm9lpvxbte9sxc.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "dpdfhlbm9lpvxbte9sxc",
+      "resource_type": "image"
+    },
+    "created_at": "2019-12-07T13:43:31.428Z",
+    "updated_at": "2019-12-07T13:43:31.428Z"
+  },
+  "categorias": [
+    {
+      "id": 47,
+      "nombre": "Principal",
+      "created_at": "2019-11-20T14:11:58.958Z",
+      "updated_at": "2019-11-20T14:11:58.958Z"
+    }
+  ],
+  "url": "/receta/202/arroz-con-pollo",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/dpdfhlbm9lpvxbte9sxc",
+  "_sourceUrl": "https://bongusto.net/receta/202/arroz-con-pollo",
+  "_fetchedAt": "2026-10-12T16:25:43.369Z"
+}

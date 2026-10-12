@@ -1,0 +1,40 @@
+{
+  "id": 235,
+  "titulo": "Bollos Pelones",
+  "descripcion": "Los bollos pelones son un plato tradicional y muy popular, tanto por su sencillez como por su riqueza de sabores.",
+  "historia": "Los bollos pelones son un plato tradicional y muy popular, tanto por su sencillez como por su riqueza de sabores. Son degustados y reconocidos en todo el territorio nacional, pero los más famosos provienen de la capital del estado Yaracuy, San Felipe, donde se hacen con carne de cerdo. Y aunque su preparación más frecuente es con un relleno de carne de res, no es tampoco raro encontrarlos de pescado, pero siempre bañados con una salsa de tomates.",
+  "ingredientes": "### Ingredientes (para 12 personas) \n### Guiso \n- 4 cucharadas de aceite \n- ½ kg de carne de res molida \n- ½ de kg de carne de cochino molida \n- 1 cebolla cortada en brunoise \n- 1 cebollín cortado en brunoise \n- 3 pimentones cortados en brunoise \n- 12 ajíes dulces en brunoise \n- 1 ramita de cilantro en hache\n- ½ cucharadita de comino. \n- Sal y pimienta al gusto \n- 3 huevos cocidos y triturados \n### Salsa \n- 2 cucharadas de aceite \n- 2 cebollas cortadas en rodajas \n- 5 tomates cortados en rodajas \n- 6 ajíes en brunoise \n- ¼ de repollo cortadito \n- Sal al gusto \n- 1 cucharadita de aceite onotado \n### Masa \n- 1 kg de harina de maíz precocida \n- 8 tazas de agua \n- Sal al gusto ",
+  "preparacion": "1. En una sartén con el aceite, se sofríen a fuego medio las carnes de cerdo y res por unos 8 minutos.\n2. Se agrega la cebolla, el cebollín, los pimentones, los ajíes, el cilantro, el comino, la sal y la pimienta. Se revuelve hasta que quede un guiso seco. Se añaden los huevos y se mezcla. Se retira la sartén del fuego y se reserva. \n3. En otra sartén profunda, con el aceite caliente, se prepara la salsa: se sofríe a fuego medio la cebolla, el tomate, las hojas de repollo, los ajíes y la sal, revolviéndolos constantemente, Se añade el aceite onotado, se tapa y se deja sudar hasta que adquiera una consistencia espesa (unos 8 minutos). Se retira del fuego y se reserva. \n4. Se mezcla la harina de maíz con el agua y la sal y se amasa (del mismo modo que para las arepas). Se deja reposar por unos 5 minutos. \n5. Se hacen bolas de masa del tamaño de un puño y, con un dedo, se les abre un orificio hasta el centro de la esfera. \n6. Se rellenan con el guiso, utilizando una cucharilla, y se cierra el orificio con la misma masa, \n7. A fuego alto, se hace hervir abundante agua en una olla. Se introducen los bollos y se cocinan hasta que floten, Se retiran y escurren con una espumadera. \n8. Se introducen en la sartén con la salsa y se cocinan 10 minutos. \n9. Se sirven bañados con la salsa.",
+  "publico": true,
+  "created_at": "2019-12-07T22:57:04.437Z",
+  "updated_at": "2019-12-07T22:57:04.437Z",
+  "photo": {
+    "id": 269,
+    "name": "Bollos Pelones.png",
+    "hash": "5551a1e25cd842ce9d8761828ed926f5",
+    "sha256": "_SI+EJSt3ZuGrAnV0O8ao8rb4AQh1Um2qIhk0omqs14",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "297.65",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1575759424/d7z648k6upq5fwt1bgll.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "d7z648k6upq5fwt1bgll",
+      "resource_type": "image"
+    },
+    "created_at": "2019-12-07T22:57:04.823Z",
+    "updated_at": "2019-12-07T22:57:04.823Z"
+  },
+  "categorias": [
+    {
+      "id": 6,
+      "nombre": "Entrada",
+      "created_at": "2019-11-07T21:23:25.610Z",
+      "updated_at": "2019-11-07T21:23:25.610Z"
+    }
+  ],
+  "url": "/receta/235/bollos-pelones",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/d7z648k6upq5fwt1bgll",
+  "_sourceUrl": "https://bongusto.net/receta/235/bollos-pelones",
+  "_fetchedAt": "2026-10-12T16:25:17.364Z"
+}

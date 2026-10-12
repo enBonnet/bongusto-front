@@ -1,0 +1,40 @@
+{
+  "id": 131,
+  "titulo": "Salsa Alemana",
+  "descripcion": "Si a una velouté de ternera le añadimos una liga de nata y yema de huevo, y la condimentamos con sal, pimienta, y unas gotas de zumo de limón, tenemos una salsa alemana.",
+  "historia": "La salsa alemana (también conocida como salsa parisina) se trata de una salsa velouté elaborada de caldo de carne reducido y con yema de huevo aliñado con unas gotas de limón. Se trata de una de las cuatro salsas madre definidas por el gastrónomo francés Antoine Carême. Existen variantes de esta salsa para pescados.",
+  "ingredientes": "- Cebolla\t\t\t\t\n- Mayonesa\n- Perejil\t\t\t\t\t\n- Alcaparras\n- Pepinillos\t\t\t\t\n- Pimienta Blanca",
+  "preparacion": "- Cortar la cebolla y los pepinillos en brunoise (muy fino), el perejil y las alcaparras en hache.\n- Mezclar todo junto con la mayonesa y aderezar con pimienta blanca, la sal es opcional dependiendo de cómo estén las alcaparras y los pepinillos de sal.\n\n",
+  "publico": true,
+  "created_at": "2019-11-20T22:11:04.606Z",
+  "updated_at": "2019-11-20T22:11:04.606Z",
+  "photo": {
+    "id": 138,
+    "name": "Salsa Alemana.png",
+    "hash": "003433581acc4e0c81e5845c6c9c2acf",
+    "sha256": "icafqZYoVRxYzneHfF04Q5A90H4C1zJKoFDeXqQ0DEg",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "128.12",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1574287864/oopuiwih0mugvlrehxhm.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "oopuiwih0mugvlrehxhm",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-20T22:11:04.990Z",
+    "updated_at": "2019-11-20T22:11:04.990Z"
+  },
+  "categorias": [
+    {
+      "id": 42,
+      "nombre": "Salsa",
+      "created_at": "2019-11-09T19:51:40.254Z",
+      "updated_at": "2019-11-09T19:51:40.254Z"
+    }
+  ],
+  "url": "/receta/131/salsa-alemana",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/oopuiwih0mugvlrehxhm",
+  "_sourceUrl": "https://bongusto.net/receta/131/salsa-alemana",
+  "_fetchedAt": "2026-10-12T16:26:41.561Z"
+}

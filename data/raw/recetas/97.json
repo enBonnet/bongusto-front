@@ -1,0 +1,40 @@
+{
+  "id": 97,
+  "titulo": "Ceviche Ecuatoriano",
+  "descripcion": "El ceviche de camarón es uno de los ceviches ecuatorianos más populares. El ceviche, también conocido como cebiche, es un plato tradicional muy popular en todo el Ecuador, pero sobre todo en la playa.",
+  "historia": "Ceviche o Cebiche, algunos les atribuyen el origen del nombre, a los marineros ingleses que al llegar a los puertos peruanos degustaban un plato típico al que ellos llamaban “SEA BEACH” (Pescado en la Playa) y el nombre viene derivado de esa denominación.",
+  "ingredientes": "### 4 porciones regulares o un tazón grande:\n- 1 kg.  De camarones ya cocinado, pelados y sin venas\t\n- Sal y aceite\n- 2 cebollas moradas cortadas en pluma\t\t\n- 1 manojo de cilantro picado finamente\n- 4 tomates, cortadas en juliana\t\t\t\n- ½ taza de salsa de tomate\n- El jugo de 15 limones criollos\t\t\t\n- El jugo de una naranja",
+  "preparacion": "- Lavar las plumas de cebollas con sal y agua, luego enjuáguelas.\n- Mezcle todos los ingredientes y deje reposar en la refrigeradora por lo menos durante dos horas.\n- Sirva acompañado de tostones y/o chip de plátanos",
+  "publico": true,
+  "created_at": "2019-11-12T14:45:01.705Z",
+  "updated_at": "2019-11-12T14:45:01.705Z",
+  "photo": {
+    "id": 104,
+    "name": "Ceviche Ecuatoriano.png",
+    "hash": "e52eca3c75e447c68c260a557d7a8e9d",
+    "sha256": "DMW3La95t5TJ4HzKVxxZSYOBd-Ykv5jrvCltOGdgMaw",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "239.59",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1573569901/xipjteiba2oqrfrilnlv.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "xipjteiba2oqrfrilnlv",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-12T14:45:02.161Z",
+    "updated_at": "2019-11-12T14:45:02.161Z"
+  },
+  "categorias": [
+    {
+      "id": 6,
+      "nombre": "Entrada",
+      "created_at": "2019-11-07T21:23:25.610Z",
+      "updated_at": "2019-11-07T21:23:25.610Z"
+    }
+  ],
+  "url": "/receta/97/ceviche-ecuatoriano",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/xipjteiba2oqrfrilnlv",
+  "_sourceUrl": "https://bongusto.net/receta/97/ceviche-ecuatoriano",
+  "_fetchedAt": "2026-10-12T16:27:08.837Z"
+}

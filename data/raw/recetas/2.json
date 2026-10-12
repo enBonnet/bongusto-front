@@ -1,0 +1,40 @@
+{
+  "id": 2,
+  "titulo": "Papas Rusticas",
+  "descripcion": "Son como papas fritas al horno, muy crujientes y sabrosas además de más sanas ya que se elaboran con poco aceite.",
+  "historia": "Si bien concede que la fritura del tubérculo en rodajas pudo tener efectivamente su origen en París, se aclara  que las papas fritas bastón o rsuticas con piel, - en la forma en que se distribuye en los restaurantes de comida rápida de todo el mundo - provienen de Bélgica.",
+  "ingredientes": "### 4 Porciones:\n- 4 papas medianas en bastones gruesos con piel\t\n- Aceite C/N\t\t\n- Sal C/N\n- Pimienta C/N\t\t\t\n- Orégano seco C/N\t\n- Papel de aluminio\n",
+  "preparacion": "### Procedimiento:\n- Se precalienta el horno a 200°\n- Se lavan bien las papas, se cortan en bastones gruesos de forma irregular con todo y piel.\n- Se colocan en una bandeja para horno, se sazonan con sal y pimienta, se bañan de aceite y orégano desmenuzado.\n- Se cubren con papel aluminio y se llevan al horno por media hora, se chequean y al estar tiernas o se puedan pinchar con tenedor, se retira el papel aluminio y se dejan dorar por 15 minutos más.\n",
+  "publico": true,
+  "created_at": "2019-11-07T21:21:28.461Z",
+  "updated_at": "2019-11-09T21:52:23.594Z",
+  "photo": {
+    "id": 4,
+    "name": "Papas Rusticas.jpg",
+    "hash": "f3ab3c7468b24b579ae3d759e83c29ed",
+    "sha256": "DXynEE1XeOioGbunQAiUD7mxysN8-_CgdDITnM0P-80",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "size": "268.65",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1573161696/w35plfdipjcz6puddtkq.jpg",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "w35plfdipjcz6puddtkq",
+      "resource_type": "image"
+    },
+    "created_at": "2019-11-07T21:21:36.713Z",
+    "updated_at": "2019-11-07T21:21:36.713Z"
+  },
+  "categorias": [
+    {
+      "id": 7,
+      "nombre": "Guarnición",
+      "created_at": "2019-11-07T21:25:47.915Z",
+      "updated_at": "2019-11-07T21:25:47.915Z"
+    }
+  ],
+  "url": "/receta/2/papas-rusticas",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/w35plfdipjcz6puddtkq",
+  "_sourceUrl": "https://bongusto.net/receta/2/papas-rusticas",
+  "_fetchedAt": "2026-10-12T16:27:58.256Z"
+}

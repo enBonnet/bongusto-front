@@ -1,0 +1,40 @@
+{
+  "id": 273,
+  "titulo": "Cordón Bleu de Pollo Frito",
+  "descripcion": "El cordón bleu era una cinta azul que servía de distinción y que la llevaban los mejores cocineros",
+  "historia": "La historia de la receta del cordón bleu tiene su origen en Francia, aunque esa cinta azul era un símbolo en la cocina antes de dar el nombre a una receta que perdura hoy en día. Y es que en la época de Enrique III, allá por el siglo XVI, en Francia se distinguía con una cinta azul a aquellas personas que habían recibido la Orden del Caballero del Espíritu Santo, la más alta distinción de la época.",
+  "ingredientes": "Para 4 Comensales\n\n- 2 pechugas de pollo cortadas en filetes tipo libro \n- 8 fetas de queso gouda o emmental o mozzarella  \n- 8 fetas de jamón de pierna o el de su preferencia \n- 200 grs de pan rallado\n- 200 grs harina de trigo todo uso\n- 2 huevos \n- sal y pimienta\n- Aceite\n- Palillos de madera.",
+  "preparacion": "- Salpimentamos las pechugas de pollo. Recuerda que deben estar ya fileteadas. Y abiertas tipo libro.\n- En la encimera, ponemos un trozo de papel de cocina transparente o bolsa plástica. Encima ponemos una de las pechugas y la tapamos con más papel film. Con un martillo u otro objeto romo, como con un vaso grande y pesado, golpeamos la pechuga. La idea es estirarla lo máximo posible sin romperla.\n- Retiramos la pechuga del papel film. Sobre ella, ponemos unos trozos de queso. Sobre el queso, una loncha de jamón cocido y sobre éste, más queso. Así queda más cremoso. Enrollamos todo con las manos, encerrando el relleno en el interior de la pechuga de pollo. No pasa nada si sobresale un poco por los lados. Aseguramos con palillos. Los colocamos de manera que se observen, para poder retirarlos fácilmente cuando todo este listo.\n- Ahora, pasamos cada «paquetito» de pollo relleno primero por harina, después por huevo, luego por pan rallado y después de nuevo por huevo y por pan rallado. Por ese orden. Con esto de pasarlo dos veces por huevo y por rallado, lograremos una cobertura exterior más fuerte, que aguante mejor el relleno y más crujiente. Reservamos en un plato hasta haber empanado todo el pollo\n- Cuando hayamos rellenado y empanado todas las pechugas, las metemos en el congelador durante unos 10 minutos. Si no vas a freírlas en el momento, puedes dejarlas unas horas en la nevera.\n- Freímos en abundante aceite. Que las cubra por completo. Es importante que el aceite no esté muy caliente (a unos 150ºC) para que el calor penetre bien en el interior de cada paquetito de pollo, sin que se queme el pan rallado. Pasados unos tres minutos de fritura, cuando esté dorado y cocinado en su interior, retiramos del aceite y colocamos cada cordon bleu en papel absorbente, antes de servirlo, recuerda retirar los palillos.",
+  "publico": true,
+  "created_at": "2021-05-03T20:27:35.790Z",
+  "updated_at": "2021-05-03T20:27:35.790Z",
+  "photo": {
+    "id": 307,
+    "name": "Cordin Bleu de Pollo Frito.png",
+    "hash": "b6703dbe2fcf4c18aa3cfcfa58b63a98",
+    "sha256": "ZFj7_FKQMCKkvUKNKNfVbti+kMudjFn-h9v2QSX9wRc",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": "1212.07",
+    "url": "https://res.cloudinary.com/enbonnet/image/upload/v1620073655/e1cncy6qhu7feguiu5ah.png",
+    "provider": "cloudinary",
+    "provider_metadata": {
+      "public_id": "e1cncy6qhu7feguiu5ah",
+      "resource_type": "image"
+    },
+    "created_at": "2021-05-03T20:27:36.656Z",
+    "updated_at": "2021-05-03T20:27:36.656Z"
+  },
+  "categorias": [
+    {
+      "id": 47,
+      "nombre": "Principal",
+      "created_at": "2019-11-20T14:11:58.958Z",
+      "updated_at": "2019-11-20T14:11:58.958Z"
+    }
+  ],
+  "url": "/receta/273/cordon-bleu-de-pollo-frito",
+  "imageBase": "https://res.cloudinary.com/enbonnet/image/upload/w_100,h_100,c_thumb/e1cncy6qhu7feguiu5ah",
+  "_sourceUrl": "https://bongusto.net/receta/273/cordon-bleu-de-pollo-frito",
+  "_fetchedAt": "2026-10-12T16:24:45.587Z"
+}
