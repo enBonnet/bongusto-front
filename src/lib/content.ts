@@ -19,10 +19,14 @@ let recetasCache: Promise<(Receta | null)[]> | undefined;
 let categoriasCache: Promise<{ slug: string; categoria: Categoria }[]> | undefined;
 
 function loadAllRecetas() {
-  recetasCache ??= (async () => {
+  const load = async () => {
     const slugs = await reader.collections.recetas.list();
     return Promise.all(slugs.map((s) => reader.collections.recetas.read(s)));
-  })();
+  };
+  // Dev: never cache — Keystatic admin edits write YAML to disk and must
+  // show up on the next page load without a dev-server restart.
+  if (import.meta.env.DEV) return load();
+  recetasCache ??= load();
   return recetasCache;
 }
 
@@ -42,11 +46,13 @@ export async function getRecetaById(id: number): Promise<Receta | undefined> {
 }
 
 export async function getCategorias(): Promise<{ slug: string; categoria: Categoria }[]> {
-  categoriasCache ??= (async () => {
+  const load = async () => {
     const slugs = await reader.collections.categorias.list();
     const entries = await Promise.all(slugs.map((s) => reader.collections.categorias.read(s)));
     return slugs.map((slug, i) => ({ slug, categoria: entries[i] as Categoria }));
-  })();
+  };
+  if (import.meta.env.DEV) return load();
+  categoriasCache ??= load();
   return categoriasCache;
 }
 
