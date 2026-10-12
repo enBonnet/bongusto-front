@@ -1,9 +1,21 @@
 ---
 import "../styles/global.css";
+import { SITE } from "../lib/site.js";
+
 interface Props {
   title?: string;
+  description?: string;
+  image?: string;
+  canonical?: string;
 }
-const { title = "BonGusto" } = Astro.props;
+const {
+  title = "BonGusto",
+  description = SITE.description,
+  image = SITE.image,
+  canonical,
+} = Astro.props;
+const canonicalUrl = canonical ?? new URL(Astro.url.pathname, Astro.site).href;
+const fullTitle = title === "BonGusto" ? title : `${title} | BonGusto`;
 ---
 
 <!doctype html>
@@ -11,7 +23,21 @@ const { title = "BonGusto" } = Astro.props;
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>{title}</title>
+    <title>{fullTitle}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonicalUrl} />
+    <link rel="icon" type="image/png" href="/bongusto-rounded.png" />
+    <link rel="sitemap" href="/sitemap-index.xml" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="BonGusto" />
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonicalUrl} />
+    {image && <meta property="og:image" content={image} />}
+    <meta name="twitter:card" content={image ? "summary_large_image" : "summary"} />
+    <meta name="twitter:title" content={fullTitle} />
+    <meta name="twitter:description" content={description} />
+    {image && <meta name="twitter:image" content={image} />}
   </head>
   <body>
     <header class="header">

@@ -1,0 +1,14 @@
+# legacy URL from the original Gatsby site
+/acerca-de-mi          /acerca                 301
+/acerca-de-mi/         /acerca                 301
+# /pagina/1 is the homepage
+/pagina/1              /                       301
+/pagina/1/             /                       301
+# stale slugs (original URL slug differs from canonical slug derived from title)
+/receta/124/bifes-de-lomo-a-la-provenzal-    /receta/124/bifes-de-lomo-a-la-provenzal    301
+/receta/136/pescado-en-salsa-tahini-    /receta/136/pescado-en-salsa-tahini    301
+/receta/252/brownie-de-chocolate-    /receta/252/brownie-de-chocolate    301
+/receta/268/coq-au-vin-gallo-al-vino-    /receta/268/coq-au-vin-gallo-al-vino    301
+/receta/277/carimanolas-    /receta/277/carimanolas    301
+/receta/285/cuba-libre-    /receta/285/cuba-libre    301
+/receta/304/tequila-    /receta/304/tequila    301

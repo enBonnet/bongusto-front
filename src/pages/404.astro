@@ -1,0 +1,21 @@
+---
+import Layout from "../components/Layout.astro";
+---
+
+<Layout title="Página no encontrada">
+  <div class="big-card notfound">
+    <h1>404 — Página no encontrada</h1>
+    <p>Parece que esta receta se quemó en el horno.</p>
+    <a href="/" class="link">← Volver a las recetas</a>
+  </div>
+</Layout>
+
+<style>
+  .notfound {
+    background-color: var(--white);
+    border-radius: 4px;
+    padding: 32px 16px;
+    margin-top: 20px;
+    text-align: center;
+  }
+</style>

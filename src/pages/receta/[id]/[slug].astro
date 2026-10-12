@@ -23,7 +23,11 @@ const ingredientes = renderMarkdoc(receta.ingredientes);
 const preparacion = renderMarkdoc(receta.preparacion);
 ---
 
-<Layout title={`${receta.titulo} | BonGusto`}>
+<Layout
+  title={receta.titulo}
+  description={receta.descripcion}
+  image={receta.photo?.url}
+>
   <article class="receta big-card">
     <h1 class="title">{receta.titulo}</h1>
     {
