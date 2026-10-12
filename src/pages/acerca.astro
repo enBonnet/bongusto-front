@@ -1,0 +1,75 @@
+---
+import Layout from "../components/Layout.astro";
+import { getAcerca, renderMarkdoc } from "../lib/content.js";
+
+const acerca = await getAcerca();
+const biografia = renderMarkdoc(acerca?.biografia);
+const cursos = renderMarkdoc(acerca?.cursos);
+---
+
+<Layout title="Acerca de mi | BonGusto">
+  <div class="about-me big-card">
+    {
+      acerca?.photo?.url && (
+        <div class="photo">
+          <img src={acerca.photo.url} alt={acerca.photo?.alt || "Antonio Bonnet"} width="200" height="200" />
+        </div>
+      )
+    }
+    {
+      biografia && (
+        <div class="bio">
+          <h2 class="title">Biografía</h2>
+          <div class="text" set:html={biografia} />
+        </div>
+      )
+    }
+    {
+      cursos && (
+        <div class="courses">
+          <h2 class="title">Cursos</h2>
+          <div class="text" set:html={cursos} />
+        </div>
+      )
+    }
+  </div>
+</Layout>
+
+<style>
+  .about-me {
+    background-color: var(--white);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 4px;
+    padding: 8px;
+    margin-bottom: 20px;
+  }
+  .about-me .photo {
+    margin-top: 24px;
+    margin-bottom: 32px;
+    border-radius: 50%;
+    overflow: hidden;
+    max-width: 200px;
+    max-height: 200px;
+    align-self: center;
+  }
+  .about-me .photo img {
+    max-width: 100%;
+    height: auto;
+  }
+  .about-me .bio,
+  .about-me .courses {
+    margin-bottom: 32px;
+  }
+  .about-me .title {
+    margin: 0 0 16px;
+    font-size: 24px;
+    font-weight: 700;
+  }
+  @media only screen and (min-width: 768px) {
+    .about-me {
+      margin-top: 20px;
+    }
+  }
+</style>

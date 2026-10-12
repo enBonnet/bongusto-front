@@ -1,9 +1,12 @@
 ---
 import Layout from "../components/Layout.astro";
 import Card from "../components/Card.astro";
+import Pagination from "../components/Pagination.astro";
 import { getAllRecetas } from "../lib/content.js";
+import { paginate, sortedRecetas } from "../lib/paginate.js";
 
-const recetas = (await getAllRecetas()).sort((a, b) => a.id - b.id);
+const all = sortedRecetas(await getAllRecetas());
+const { items: recetas, current, total } = paginate(all, 1);
 ---
 
 <Layout title="BonGusto">
@@ -22,6 +25,7 @@ const recetas = (await getAllRecetas()).sort((a, b) => a.id - b.id);
         </div>
       )
     }
+    <Pagination current={current} total={total} />
   </div>
 </Layout>
 

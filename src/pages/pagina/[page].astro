@@ -1,0 +1,46 @@
+---
+import Layout from "../../components/Layout.astro";
+import Card from "../../components/Card.astro";
+import Pagination from "../../components/Pagination.astro";
+import { getAllRecetas } from "../../lib/content.js";
+import { paginate, sortedRecetas } from "../../lib/paginate.js";
+
+export async function getStaticPaths() {
+  const all = sortedRecetas(await getAllRecetas());
+  const total = Math.max(1, Math.ceil(all.length / 15));
+  return Array.from({ length: total }, (_, i) => ({ params: { page: String(i + 1) } }));
+}
+
+const { page } = Astro.params;
+const all = sortedRecetas(await getAllRecetas());
+const { items: recetas, current, total } = paginate(all, Number(page));
+---
+
+<Layout title={current <= 1 ? "BonGusto" : `Recetas — página ${current} | BonGusto`}>
+  <div class="cards-wrapper">
+    <div class="title">
+      <h1>Recetas</h1>
+    </div>
+    <div class="cards">
+      {recetas.map((receta) => <Card receta={receta} />)}
+    </div>
+    <Pagination current={current} total={total} />
+  </div>
+</Layout>
+
+<style>
+  .cards-wrapper .title h1 {
+    font-size: 32px;
+    font-weight: 300;
+  }
+  .cards-wrapper .title {
+    padding-bottom: 8px;
+  }
+  @media only screen and (min-width: 768px) {
+    .cards-wrapper .cards {
+      display: flex;
+      justify-content: space-between;
+      flex-wrap: wrap;
+    }
+  }
+</style>
