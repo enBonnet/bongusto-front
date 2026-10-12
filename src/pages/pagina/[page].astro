@@ -18,9 +18,9 @@ const all = sortedRecetas(await getAllRecetas());
 const { items: recetas, current, total } = paginate(all, pageNumber);
 // Static builds only generate in-range pages; this guards against the
 // clamp inside paginate() ever silently rendering a wrong page
-// (e.g. if this route is ever served dynamically).
+// (e.g. if this route is ever served dynamically — return a real 404 there).
 if (!Number.isInteger(pageNumber) || pageNumber < 2 || pageNumber > total) {
-  throw new Error(`404: /pagina/${page} is out of range (total ${total})`);
+  throw new Error(`/pagina/${page} is out of range (total ${total}) — must 404, not render`);
 }
 ---
 

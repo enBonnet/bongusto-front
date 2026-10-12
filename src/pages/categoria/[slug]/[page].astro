@@ -22,9 +22,10 @@ const all = await getRecetasByCategoria(slug!);
 const total = Math.max(1, Math.ceil(all.length / PER_PAGE));
 const current = Number(page);
 // Static builds only generate pages 2..total; fail loudly instead of
-// clamping an out-of-range request to a wrong page.
+// clamping an out-of-range request to a wrong page (return a real 404
+// if this route is ever served dynamically).
 if (!Number.isInteger(current) || current < 2 || current > total) {
-  throw new Error(`404: /categoria/${slug}/${page} is out of range (total ${total})`);
+  throw new Error(`/categoria/${slug}/${page} is out of range (total ${total}) — must 404, not render`);
 }
 const recetas = all.slice((current - 1) * PER_PAGE, current * PER_PAGE);
 const categorias = await getCategorias();

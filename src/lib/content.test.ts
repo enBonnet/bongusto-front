@@ -23,10 +23,19 @@ describe("renderMarkdoc", () => {
     expect(html).not.toContain("<article>");
   });
 
-  it("keeps multiple blocks when the wrapper cannot be safely stripped", () => {
+  it("renders all blocks of a multi-block document", () => {
     const html = renderMarkdoc("uno\n\ndos");
-    expect(html).toContain("uno");
-    expect(html).toContain("dos");
+    expect(html).toContain("<p>uno</p>");
+    expect(html).toContain("<p>dos</p>");
+  });
+
+  it("escapes raw HTML — no <article> (or any tag) passes through", () => {
+    // This is why the never-strip branch in renderMarkdoc is unreachable
+    // from content: Markdoc escapes raw HTML, so a nested article can only
+    // come from a future renderer change — which this pins.
+    const html = renderMarkdoc("<article>hola</article>");
+    expect(html).not.toContain("<article>");
+    expect(html).toContain("hola");
   });
 });
 
@@ -60,6 +69,17 @@ describe("recetaCardImage", () => {
       },
     });
     expect(src).toBe("https://example.com/real.jpg");
+  });
+
+  it("does not rewrite Cloudinary thumbs with a different transformation", () => {
+    const src = recetaCardImage({
+      photo: {
+        url: `${cloudinaryBase}/v1573170326/nzzlltblm8rfco38t1ao.jpg`,
+        thumb: `${cloudinaryBase}/w_200,h_200,c_thumb/nzzlltblm8rfco38t1ao`,
+        alt: "",
+      },
+    });
+    expect(src).toBe(`${cloudinaryBase}/v1573170326/nzzlltblm8rfco38t1ao.jpg`);
   });
 
   it("returns undefined when there is no photo at all", () => {

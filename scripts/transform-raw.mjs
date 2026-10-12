@@ -23,8 +23,12 @@ if (!FORCE) {
   let dirty = false;
   try {
     dirty = execSync("git status --porcelain -- content/", { cwd: ROOT, encoding: "utf8" }).trim().length > 0;
-  } catch {
-    // outside a git repo — nothing to protect
+  } catch (err) {
+    if (err?.code !== "ENOENT") {
+      // git exists but failed (ownership, lock file, …) — don't hide it
+      console.warn(`⚠ git status failed (${err?.message?.split("\n")[0]}); proceeding without the dirty check`);
+    }
+    // ENOENT: not a git repo — nothing to protect
   }
   if (dirty) {
     console.error("✋ content/ has uncommitted changes; editor edits live there now.");
