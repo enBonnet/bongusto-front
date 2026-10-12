@@ -5,7 +5,7 @@
 import { createReader } from "@keystatic/core/reader";
 import Markdoc from "@markdoc/markdoc";
 import keystaticConfig from "../../keystatic.config";
-import { slugify } from "./slugify.js";
+import { slugify } from "./slugify";
 
 export const reader = createReader(process.cwd(), keystaticConfig);
 

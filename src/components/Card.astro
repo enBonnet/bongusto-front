@@ -1,6 +1,6 @@
 ---
-import type { Receta } from "../lib/content.js";
-import { recetaCardImage, recetaUrl } from "../lib/content.js";
+import type { Receta } from "../lib/content";
+import { recetaCardImage, recetaUrl } from "../lib/content";
 
 interface Props {
   receta: Receta;
@@ -28,13 +28,15 @@ const { receta } = Astro.props;
     box-shadow: 3px 3px 5px 0px rgba(0, 0, 0, 0.119);
   }
   .photo {
+    aspect-ratio: 1 / 1;
     border-radius: 4px;
     margin-bottom: 16px;
     overflow: hidden;
   }
   .photo img {
-    min-width: 100%;
-    height: auto;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
   }
   .title {
     font-size: 18px;

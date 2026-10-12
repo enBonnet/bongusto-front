@@ -3,8 +3,8 @@ import Layout from "../../components/Layout.astro";
 import Card from "../../components/Card.astro";
 import CategoryNav from "../../components/CategoryNav.astro";
 import Pagination from "../../components/Pagination.astro";
-import { getCategorias, getRecetasByCategoria } from "../../lib/content.js";
-import { PER_PAGE } from "../../lib/paginate.js";
+import { getCategorias, getRecetasByCategoria } from "../../lib/content";
+import { PER_PAGE } from "../../lib/paginate";
 
 export async function getStaticPaths() {
   const categorias = await getCategorias();

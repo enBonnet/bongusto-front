@@ -1,6 +1,6 @@
 import { describe, expect, it } from "vitest";
 import Markdoc from "@markdoc/markdoc";
-import { recetaCardImage, renderMarkdoc } from "./content.js";
+import { recetaCardImage, renderMarkdoc } from "./content";
 
 describe("renderMarkdoc", () => {
   it("returns empty string for falsy input", () => {

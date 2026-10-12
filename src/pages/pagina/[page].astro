@@ -2,8 +2,8 @@
 import Layout from "../../components/Layout.astro";
 import Card from "../../components/Card.astro";
 import Pagination from "../../components/Pagination.astro";
-import { getAllRecetas } from "../../lib/content.js";
-import { paginate, sortedRecetas, PER_PAGE } from "../../lib/paginate.js";
+import { getAllRecetas } from "../../lib/content";
+import { paginate, sortedRecetas, PER_PAGE } from "../../lib/paginate";
 
 export async function getStaticPaths() {
   const all = sortedRecetas(await getAllRecetas());

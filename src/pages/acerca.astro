@@ -1,6 +1,6 @@
 ---
 import Layout from "../components/Layout.astro";
-import { getAcerca, renderMarkdoc } from "../lib/content.js";
+import { getAcerca, renderMarkdoc } from "../lib/content";
 
 const acerca = await getAcerca();
 const biografia = renderMarkdoc(acerca?.biografia);
