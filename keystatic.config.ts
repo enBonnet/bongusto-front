@@ -2,7 +2,9 @@ import { config, fields, collection, singleton } from "@keystatic/core";
 
 // GitHub mode in production (admin edits commit to the repo via the GitHub App),
 // local mode for development.
-const storage = process.env.KEYSTATIC_GITHUB_CLIENT_ID
+// Gated on the PUBLIC var because this config is also imported into the
+// browser bundle by the admin UI (import.meta.env works on both sides).
+const storage = import.meta.env.PUBLIC_KEYSTATIC_GITHUB_APP_SLUG
   ? {
       kind: "github" as const,
       repo: "enBonnet/bongusto-front",

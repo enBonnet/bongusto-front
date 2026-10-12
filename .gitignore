@@ -13,3 +13,7 @@ node_modules/
 
 # astro generated
 src/content/config.gen.ts
+
+# test artifacts
+.playwright-cli/
+admin-*.yaml
