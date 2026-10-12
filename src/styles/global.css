@@ -1,5 +1,6 @@
-/* Raleway is loaded via <link> in Layout.astro <head> (preconnected,
-   non-render-blocking). Keep font-family declarations here in sync. */
+/* Raleway loads via <link> in Layout.astro <head> (preconnected, discovered
+   immediately — no @import waterfall behind the bundled CSS). Keep
+   font-family declarations here in sync. */
 
 :root {
   --blue: #2364aa;

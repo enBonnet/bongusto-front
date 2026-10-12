@@ -1,7 +1,7 @@
 ---
 import Layout from "../../../components/Layout.astro";
 import CategoryNav from "../../../components/CategoryNav.astro";
-import { getAllRecetas, getCategorias, renderMarkdoc } from "../../../lib/content";
+import { getAllRecetas, getCategorias, recetaHeroImage, renderMarkdoc } from "../../../lib/content";
 import { slugify } from "../../../lib/slugify";
 
 export async function getStaticPaths() {
@@ -45,7 +45,7 @@ const chipCats = (receta.categorias ?? [])
       receta.photo?.url && (
         <div class="photo">
           <img
-            src={receta.photo.url}
+            src={recetaHeroImage(receta)}
             alt={receta.photo?.alt || receta.titulo}
             width="600"
             data-pagefind-meta="image[src]"

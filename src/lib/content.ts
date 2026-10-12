@@ -54,6 +54,19 @@ export function recetaCardImage(receta: Pick<Receta, "photo">): string | undefin
   return receta.photo?.url ?? undefined;
 }
 
+/**
+ * On-page hero image: request the original as a 600×450 c_fill crop so the
+ * browser gets exactly the rendered box size (4/3) instead of stretching a
+ * smaller original. Non-Cloudinary URLs pass through untouched; og:image
+ * keeps the original full-size URL.
+ */
+export function recetaHeroImage(receta: Pick<Receta, "photo">): string | undefined {
+  const url = receta.photo?.url;
+  if (!url) return undefined;
+  const m = url.match(/^(https:\/\/res\.cloudinary\.com\/[^/]+\/image\/upload\/)(.+)$/);
+  return m ? `${m[1]}w_600,h_450,c_fill/${m[2]}` : url;
+}
+
 export async function getRecetaById(id: number): Promise<Receta | undefined> {
   const all = await getAllRecetas(true);
   return all.find((r) => r.id === id);

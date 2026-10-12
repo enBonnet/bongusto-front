@@ -9,9 +9,11 @@ const { receta } = Astro.props;
 ---
 
 <a href={recetaUrl(receta)} class="link card">
-  <div class="photo">
-    {receta.photo?.url && <img src={recetaCardImage(receta)} alt={receta.photo?.alt || receta.titulo} loading="lazy" decoding="async" width="300" />}
-  </div>
+  {receta.photo?.url && (
+    <div class="photo">
+      <img src={recetaCardImage(receta)} alt={receta.photo?.alt || receta.titulo} loading="lazy" decoding="async" width="300" />
+    </div>
+  )}
   <div class="title">{receta.titulo}</div>
   <p class="description">{receta.descripcion}</p>
 </a>

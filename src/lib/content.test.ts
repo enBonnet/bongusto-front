@@ -1,6 +1,6 @@
 import { describe, expect, it } from "vitest";
 import Markdoc from "@markdoc/markdoc";
-import { recetaCardImage, renderMarkdoc } from "./content";
+import { recetaCardImage, recetaHeroImage, renderMarkdoc } from "./content";
 
 describe("renderMarkdoc", () => {
   it("returns empty string for falsy input", () => {
@@ -84,5 +84,31 @@ describe("recetaCardImage", () => {
 
   it("returns undefined when there is no photo at all", () => {
     expect(recetaCardImage({ photo: null })).toBeUndefined();
+  });
+});
+
+describe("recetaHeroImage", () => {
+  const cloudinaryBase = "https://res.cloudinary.com/enbonnet/image/upload";
+
+  it("requests the hero at the rendered 600×450 box size", () => {
+    const src = recetaHeroImage({
+      photo: {
+        url: `${cloudinaryBase}/v1573170326/nzzlltblm8rfco38t1ao.jpg`,
+        thumb: null,
+        alt: "",
+      },
+    });
+    expect(src).toBe(`${cloudinaryBase}/w_600,h_450,c_fill/v1573170326/nzzlltblm8rfco38t1ao.jpg`);
+  });
+
+  it("passes non-Cloudinary hero URLs through untouched", () => {
+    const src = recetaHeroImage({
+      photo: { url: "https://example.com/a.jpg", thumb: null, alt: "" },
+    });
+    expect(src).toBe("https://example.com/a.jpg");
+  });
+
+  it("returns undefined when there is no photo at all", () => {
+    expect(recetaHeroImage({ photo: null })).toBeUndefined();
   });
 });
