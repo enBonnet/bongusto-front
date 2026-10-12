@@ -1,0 +1,22 @@
+titulo: Godmather (Madrina)
+id: 298
+descripcion: Un cóctel clásico y con aspecto distinguido que bien podría ser el combinado preferido de Vito Corleone. Ligero y con sabor dulce.
+publico: true
+categorias:
+  - maridaje
+photo:
+  url: https://res.cloudinary.com/enbonnet/image/upload/v1635604928/cdmkndl9zvk4qhpdhnjc.png
+  alt: Godmather (Madrina)
+created_at: 2021-10-30T14:42:08.777Z
+updated_at: 2021-10-30T14:42:08.777Z
+historia: No se conoce el origen exacto del Godmother, pero este cóctel se volvió muy popular en Estados Unidos a entre los años 70 y 80. Mientras la saga El Padrino estaba en su máximo apogeo.
+ingredientes: |-
+  - Vaso: (vaso old fashion)
+  - Hielo (en cubos) 
+  - Whisky
+  - Amaretto
+preparacion: |-
+  - Colocar dos o tres cubos de hielo en el vaso
+  - Agregar 1 ½ onza de Whisky
+  - Agregar 1 de amaretto
+  - Mezclar

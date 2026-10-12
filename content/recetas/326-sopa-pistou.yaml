@@ -1,0 +1,45 @@
+titulo: Sopa Pistou
+id: 326
+descripcion: Pistou, es una salsa francesa parecida al famoso pesto genovés.
+publico: true
+categorias:
+  - entrada
+photo:
+  url: https://res.cloudinary.com/enbonnet/image/upload/v1654963126/xk2dlzeaddaioslwerke.png
+  alt: Sopa Pistou
+created_at: 2022-06-11T15:58:46.115Z
+updated_at: 2022-06-11T15:58:46.115Z
+historia: |-
+  Pistou, es una salsa francesa parecida al famoso pesto genovés. Es un condimento típico de la región de Provenza en Francia cuyo uso principal es realzar el sabor de la sopa al pistou.
+  Probablemente el pistou y el pesto compartan origen. El poeta romano Virgilio describe una salsa de hierbas machacadas, ajo, sal y aceite de oliva.  
+  Una versión con piñones surgió en la región de Génova para convertirse en el pesto, mientras el pistou evolucionó en la región de Niza.
+  Otras regiones, especialmente las cercanas a los Alpes, emplean queso suizo en lugar de parmesano. Cualquiera que sea el queso usado, se prefieren variedades que cuando se fundan en un líquido caliente (la sopa, por ejemplo) no se funda en hebras largas.
+ingredientes: |-
+  **Para la sopa**
+  - 1 puerro (Ajo porro) en rodajas finas
+  - 4 patatas (Papa), pelada y cortadas en cubos pequeños 
+  - 1 cebolla, en plumas
+  - 2 tomates maduros, en brunoise
+  - 200g de judías verdes 
+  - Caldo de verduras c/n (Fondo de verduras)
+  **Para el pistou**
+  - 1 tomate maduro, cortado en cuartos
+  - 2 dientes de ajo
+  - 100g de queso parmesano rallado
+  - 150g de albahaca fresca, las hojas
+  - Aceite de oliva c/n
+  - Piñones c/n (O en su defecto maní)
+preparacion: |-
+  **Elaboración del pistou**
+  - Lava las hojas de albahaca y sécalas con un paño. 
+  - Colócalas en el vaso de la batidora junto con el tomate maduro cortado en cuartos, los dientes de ajo y los piñones al gusto.
+  - Remueve a velocidad mínima hasta lograr una pasta no tan fina.
+  - Añade el queso parmesano rallado y continúa removiendo durante unos segundos solo para integrar.
+  - Coloca el pistou en un recipiente y agrégale un poco de aceite de oliva en forma de hilo, mientras remueves con constancia hasta lograr una mezcla fluida. 
+  - Deja reposar durante una hora antes de servir.
+  **Elaboración de la sopa de vegetales**
+  - Pocha el puerro en una olla con aceite de oliva.
+  - Coloca las judías verdes, las patatas y los tomates a la olla.
+  - Agrega un poco de caldo de verduras y deja que hierva suavemente durante media hora. 
+  - Si estás preparando la sopa pistou en una olla exprés reduce el tiempo a tan solo 15 minutos.
+  - Rectifica el punto de sal y sirve la sopa de vegetales caliente en platos soperos, presentando el pistou en otro recipiente para que cada comensal se sirva a su gusto.

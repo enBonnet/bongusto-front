@@ -1,0 +1,25 @@
+titulo: Papa A la Huancaina
+id: 87
+descripcion: Una receta tradicional de la comida peruana.
+publico: true
+categorias:
+  - guarnicion
+photo:
+  url: https://res.cloudinary.com/enbonnet/image/upload/v1573513304/uajquygzayd6giqrg0wm.png
+  alt: Papa A la Huancaina
+created_at: 2019-11-11T23:01:43.870Z
+updated_at: 2019-11-11T23:01:43.870Z
+historia: El nombre de esta receta radica en la región peruana “Junín”. Dicen que el creador de esta receta compraba la papa en Huancayo - en el Valle del Río Mantaro, luego para homenajear esta región se le dio el nombre a la receta de “Papa a la Huancayo - Huancaína”.
+ingredientes: |-
+  ### 6 porciones:
+  - 1/2 Kilo de papas sancochadas y rebanadas			
+  - 2 huevos cocidos
+  - 250 ml de leche			
+  - 25 ml de aceite
+  - 300 grs de queso blanco duro		
+  - 2 dientes de ajo
+  - 4 ajíes mirasol				
+  - 1 paquetico de galleta de soda
+preparacion: |-
+  - 1. Poner todo en la licuadora menos las papas, hasta crear una mezcla homogénea 
+  - 2. Rectificar la sal reservar un huevo cocido para decorar, servir con papa, lechuga, aceituna y perejil

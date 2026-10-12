@@ -1,0 +1,27 @@
+titulo: Camarones Creole
+id: 253
+descripcion: Un guiso de camarones que se disfruta en la cocina norteamericana, mezclando diversos ingredientes y especias para reforzar el sabor.
+publico: true
+categorias:
+  - entrada
+photo:
+  url: https://res.cloudinary.com/enbonnet/image/upload/v1576616808/ciratlhd85mpalzohari.jpg
+  alt: Camarones Creole
+created_at: 2019-12-17T21:06:48.029Z
+updated_at: 2019-12-17T21:06:48.029Z
+historia: Se trata, también, de una entrada perfecta para quienes disfrutan de los sabores del mar. ¿Ya tienes el menú navideño listo? Quizá estos camarones creole aún pueden entrar en tu cocina y quedarse para siempre en el corazón de tus comensales.
+ingredientes: |-
+  ### para 4 porciones 
+  - 04 tazas de camarones pelados 
+  - 1 ½ taza de crema de leche 
+  - 1 cebolla cortada en cuadritos 
+  - 3 cucharadas de mostaza 
+  - 2 cucharadas de salvia 
+  - 2 cucharadas de picante criollo 
+  - 1 cucharada de mantequilla
+preparacion: |-
+  - A) En un sartén con la mantequilla, saltear a fuego medio la cebolla. 
+  - B) luego añadir los camarones pelados. 
+  - C) Agregar la salvia el picante criollo, la mostaza y la crema de leche. 
+  - D) Calentar a fuego bajo sin que llegue a hervir.
+  - E) Servir en una cazuela.

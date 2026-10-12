@@ -1,0 +1,40 @@
+titulo: Fish and Chips
+id: 157
+descripcion: Durante generaciones, el pescado rebozado y crujiente y las patatas fritas y calientes han alimentado a millones de personas.
+publico: true
+categorias:
+  - principal
+photo:
+  url: https://res.cloudinary.com/enbonnet/image/upload/v1574544811/qypv3pi33rq7oputaopn.png
+  alt: Fish and Chips
+created_at: 2019-11-23T21:33:31.418Z
+updated_at: 2019-11-23T21:33:31.418Z
+historia: |-
+  El Fish & Chips se sirvió por primera vez como plato completo en 1860. Se cree que la familia Malin de Londres y la familia Lee de Mossley, cerca de Manchester, fueron las primeras en plantar la tradición. Joseph Malin, de hecho, abrió el primer establecimiento (Fish & Chip Shop) en Londres en 1860. El pescado frito fue introducido primero en Londres de la mano de inmigrantes judíos que venían de Portugal y España por allá el siglo XVII, como derivado del famoso ‘pescaíto frito’ andaluz.
+  El presidente estadounidense Thomas Jefferson, por otro lado, dijo haber comido “pescado frito al estilo judío” en una visita a la capital a finales del siglo XVIII, y hasta Charles Dickens hace referencia a un almacén de pescado frito en su obra ‘Oliver Twist’ (1838).
+  Las patatas fritas conocidas como ‘chips’ probablemente se originaron en Bélgica. En Irlanda, la leyenda asegura que el primer pescado frito con patatas fritas fue vendido por un inmigrante italiano: Giuseppe Cervi, que erróneamente se bajó de un barco con destino a América en Cobh, en el condado de Cork, e inició allí su camino hacia Dublín. Comenzó la venta de pescado y patatas fritas fuera de los pubs de Dublín con un carro.
+ingredientes: |-
+  ### Raciones: 4
+  - 4 filetes grandes de pescado blanco (merluza)	
+  - 170 ml. cerveza rubia fría
+  - 120 gr. harina de trigo				
+  - 1 cda. Miel
+  - 2 patatas grandes					
+  - Aceite C/N
+  - Pimienta negra molida				
+  - Sal
+preparacion: |-
+  ### Preparación:	Papas Fritas
+  1. Cortamos las patatas en bastones medio gruesos y largos.
+  2. En una olla con agua hirviendo las ponemos a cocer durante unos 7 - 8 minutos hasta que estén tiernas, pero que no lleguen a romperse. Las dejamos enfriar unos 15 minutos. Secar
+  3. Hacemos una primera fritura a fuego bajo (unos 160º) para pochar la patata hasta que esté dorada. Las sacamos y dejamos enfriar otros 10 minutos.
+  4. Las volvemos a freír por segunda vez, pero a fuego fuerte (180-200ºC) un par de minutos, para que queden muy crujientes y tiernas por dentro.
+  5. Dejamos escurrir el exceso de aceite colocando las patatas en papel absorbente y añadimos sal y pimienta negra al gusto.
+  ### Pescado Rebozado:
+  1. Cortamos en tiras el pescado, sin ninguna espina. Añadimos sal y pimienta.
+  2. Preparamos el rebozado mezclando bien en un cuenco cerveza rubia muy fría (170ml.) con 120 gr. de harina y una cucharada colmada de miel.
+  3. Calentamos abundante aceite en una sartén a fuego fuerte (180ºC).
+  4. Preparamos un platito de harina y vamos pasando cada tira de pescado por harina, y luego la mojamos en el rebozado. Escurrimos bien el exceso de rebozado y freímos unos dos o tres minutos el pescado, de tres en tres.
+  5. Por último lo dejamos escurrir el exceso de grasa en papel absorbente.
+  Notas: Podemos usar el pescado que más nos guste: merluza, bacalao, panga, fletán, etc.
+  También podemos freír el filete de pescado entero sin cortarlo en tiras, como se sirve originalmente en Inglaterra.

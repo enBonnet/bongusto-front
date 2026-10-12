@@ -1,0 +1,37 @@
+titulo: Sanduchón
+id: 234
+descripcion: EI sanduchón siempre ofrece sus sorpresas. Las opciones de relleno son tan diversas como las de cualquier sándwich
+publico: true
+categorias:
+  - pasa-palo
+photo:
+  url: https://res.cloudinary.com/enbonnet/image/upload/v1575759246/n0vqpoxo47p7wmzofyvd.png
+  alt: Sanduchón
+created_at: 2019-12-07T22:54:05.893Z
+updated_at: 2019-12-07T22:54:05.893Z
+historia: "EI sanduchón siempre ofrece sus sorpresas. Las opciones de relleno son tan diversas como las de cualquier sándwich, con la diferencia de que el color de los ingredientes cumple una función decorativa: desde queso fundido, aguacate, jamón o atún hasta mermelada o huevos duros. Este pasapalo se reviste totalmente con mayonesa sola o mezclada con queso crema, para mostrarse como una torta de contenido muy esponjoso. Es un pasapalo típico de fiestas infantiles, como piñatas, bautizos o primeras comuniones, Una variante es la serpentina, en la que el pan queda enrollado como un espiral."
+ingredientes: |-
+  ### Ingredientes (para 25 porciones) 
+  - 1 pan de sándwich sin piel, cortado a lo largo en 6 rebanadas. 
+  - 300 gramos de jamón endiablado 
+  - 4cucharadasdequesoparmesanorallado 
+  - 4 cucharadas de mayonesa 
+  - 150 gramos de crema de leche 
+  - 225 gramos de queso crema 
+  - 1 pechuga de pollo sancochada, sin piel ni huesos 
+  - 1 cucharada de salsa inglesa 
+  - 200 gramos de queso amarillo rebanado 
+  - 3 pimentones morrones cortados en tiritas 
+  - 200 gramos de jamón rebanado 
+  - 1 cucharada de hojas de perejil
+preparacion: |-
+  1. En un recipiente se mezcla el jamón endiablado, el queso parmesano rallado y la mayonesa. 
+  2. En otro recipiente se hace una crema uniendo la crema de leche y el queso crema. 
+  3. En un procesador de alimentos ("pica todo"), se tritura el pollo. Se mezcla en un tercer recipiente con la salsa inglesa y con una cucharada de la mezcla de crema de leche y queso crema. 
+  4. Con ayuda de una paleta, se unta la primera rebanada de pan con la mezcla de jamón endiablado. Las siguientes rebanadas que servirán de tapa, se untan todas por una cara (que quedará luego hacia abajo) con la crema blanca (Debe cuidarse el orden en el que vienen dispuestas, para que el sanduchón no presente irregularidades). 
+  5. Se pone la segunda rebanada, se unta por encima la crema blanca y se coloca una capa de lonjas de queso. 
+  6. Se pone la tercera rebanada, se cubre con la pasta de pollo y se colocan diagonalmente tiritas de pimentones morrones. 
+  7. Se coloca la cuarta rebanada, se unta por encima con la crema blanca y se recubre con lonjas de jamón. 
+  8. Se pone la quinta rebanada, se unta con la mezcla de jamón endiablado y se tapa con la última rebanada de pan. 
+  9. Se cubre todo el sanduchón con la crema blanca. 
+  10. Se decora con tiritas de pimentones morrones y con hojitas de perejil.

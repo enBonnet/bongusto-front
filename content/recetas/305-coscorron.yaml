@@ -1,0 +1,17 @@
+titulo: Coscorrón
+id: 305
+descripcion: Una forma de degustar tequila efervescente
+publico: true
+categorias:
+  - maridaje
+photo:
+  url: https://res.cloudinary.com/enbonnet/image/upload/v1635778002/xnodb2ikombjuhreyfdd.png
+  alt: Coscorrón
+created_at: 2021-11-01T14:46:41.888Z
+updated_at: 2021-11-01T14:46:41.888Z
+historia: No se tiene claro el origen de esta particular forma de degustar tequila
+ingredientes: |-
+  - vaso shutter o caballito
+  - Tequila
+  - Soda o Agua Gasificada o Gaseosa de Limón
+preparacion: En un shuter colocar 1 de onza de tequila y rellenar con soda o chinoto, colocarle un paño para evitar el derrame, dar un golpe y tomarlo hasta que se le acabe la efervescencia.

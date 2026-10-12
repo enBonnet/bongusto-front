@@ -1,0 +1,36 @@
+titulo: Pozole
+id: 62
+descripcion: El pozole es un plato que consiste una especie de caldo hecho a base de granos de maíz de un tipo conocido comúnmente como cacahuazintle.
+publico: true
+categorias:
+  - entrada
+photo:
+  url: https://res.cloudinary.com/enbonnet/image/upload/v1574523982/q9bhfww8q1brxzyxlykp.jpg
+  alt: Pozole
+created_at: 2019-11-10T15:22:10.768Z
+updated_at: 2019-11-10T15:22:10.768Z
+historia: |-
+  Los antiguos mexicas preparaban el pozole con carne de los cautivos sacrificados en algunas fiestas, principalmente la dedicada a Nuestro Señor el Desollado, Xipe Totec.
+  En dicho festejo, que llevaba el nombre de Tlacaxipehualiztli, se realizaban los famosos sacrificios de rayamiento o gladiatorios, donde un guerrero cautivo era amarrado a un temalacatl (una gran piedra cilíndrica, ej. Piedra de Tizoc, del antiguo Palacio del Arzobispado o la Piedra del Sol) de la cintura para enfrentar a los grandes combatientes mexicas (cuauhpilli y ocelopilli) armados hasta los dientes. Después de ser muerto, el cautivo era desollado y desmembrado para su consumo. El muslo derecho siempre iba al palacio del Huey Tlahtoani, para expresar agradecimiento y respeto. Según comentaban los cronistas de Sahagún, los muslos era la parte donde se encontraba la carne con mejor sabor y textura. El muslo izquierdo y ambos brazos eran propiedad del guerrero que había capturado a su enemigo en batalla. Aunque él no los podía consumir, ya que desde la cosmovisión mexica el capturador se volvía su padre y el capturado su hijo. Sus familiares, compañeros de armas, los líderes del calpulli se disponían a comerlo en un gran banquete. Es importante aclarar que entre los mexicas existía la antropofagia ritual, en otras palabras, el consumo de carne humana con fines religiosos. Dicho privilegio estaba segmentado a grupo selecto de la gran población de Tenochtitlán, los nobles, los gobernantes, los guerreros y los teteuctin (señores). Cuando se llevaban a cabo estos rituales Sahagún comenta que la carne humada para consumo nunca era asada, sino hervida.
+ingredientes: |-
+  - ½ kg. De cerdo con hueso (espalda o chuleta de cochino)		
+  - 2 cucharaditas de sal	
+  - 1 manita de cerdo en trocitos (pata de cochino)		
+  - 6 tazas de caldo de res o pollo
+  - 3 tazas de maíz cacahuazintle (maíz pilado sancochado)
+  ### Para el sofrito
+  - 4 cucharadas de aceite			
+  - 1 cucharada de chile molido (pimentón picante)
+  - 1 cucharada de ajo majado			
+  - 2 cucharadas de puré de tomate
+  - ½ taza de cebolla cortada en brunoise
+preparacion: |-
+  ### Preparación:
+  - 1. Hierva la carne y la manita en el caldo con la sal. Cuando la carne esta blanda, retírela y deje cocinar la manita hasta que ablande. 
+  - 2. Saque los huesos y corte en trocitos. Coloque la carne de nuevo en el caldo, añada el maíz y el sofrito. 
+  - 3. Deje cocinar por 15 minutos, manteniendo la olla tapada. Si la preparación se seca agregue agua para que quede como una sopa. 
+  - 4. Sirva en platos soperos con cebollín, lechuga y unas gotas de jugo de limón.
+  ### Para el momento de servir:
+  - ¼ taza de cebollín cortado en tiritas		
+  - 2 cucharadas de jugo de limón.
+  - 1 taza de lechuga picada finita.

@@ -1,0 +1,33 @@
+titulo: Tortilla Española
+id: 54
+descripcion: La tortilla española o tortilla de patata, es uno de los bocados más populares del Mundo.
+publico: true
+categorias:
+  - entrada
+photo:
+  url: https://res.cloudinary.com/enbonnet/image/upload/v1573332310/bu3jnduo76zdoq468h6n.png
+  alt: Tortilla Española
+created_at: 2019-11-09T20:45:10.644Z
+updated_at: 2019-11-09T22:14:15.409Z
+historia: Su origen no está muy claro. Por un lado, según documentan Las Crónicas de Indias, sabemos que las primeras tortillas de huevos, se conocen entorno al año 1519, tanto por los españoles como por los aztecas. Y por otro lado, sabemos que las patatas las trajo Pizarro de América a Europa en el año 1537 como alimento para los animales, ya que en aquella época los alimentos que provenían de la tierra se consideraban venenosos para el consumo humano, teniendo que esperar hasta 200 años para que se consideraran aptas para nuestro consumo. Los españoles confundían las papas con las batatas debido a su parecido aspecto y es por ello que las empiezan a llamar patatas adoptando ese nombre hasta hoy en día, excepto en Canarias y parte de Andalucía que las siguen llamando papas, igual que en el resto de los países hispanohablantes.
+ingredientes: |-
+  ### 6 Porciones:
+  ### Insumos:
+  - 6 huevos.	
+  - 3 papas en cubos.	
+  - 1 cebolla Julianas.		
+  - 1 pimiento verde Julianas.
+  - 1 taza de aceite.			
+  - sal.				
+  - hojas de perejil.
+  - 1 chorizo español o cualquier otro chorizo rojo. En rodajas finas.
+preparacion: |-
+  ### Preparación:
+  - a.	En un sartén calentar el aceite.
+  - b.	Introduce todo en la sartén, menos el chorizo, sazona a tu gusto y fríe a fuego suave durante 15 a 20 minutos. Hasta que la papa esté lista, agregar el chorizo y dejar cocinar removiendo levemente por unos 5 minutos más. 
+  - c.	Retira y escurre la preparación. Pasa el aceite a un recipiente y resérvalo. Limpia la sartén con papel absorbente de cocina. 
+  - d.	Casca los huevos, colócalos en un recipiente grande y bátelos. Sálalos a tu gusto, agrega la preparación anterior y mezcla bien. 
+  - e.	Coloca la sartén nuevamente en el fuego, agrega un chorrito del aceite reservado y agrega la mezcla. Remueve un poco con una cuchara de madera y espera (20 segundos) a que empiece a cuajarse. 
+  - f.	Separa los bordes, cubre la sartén con un plato de mayor diámetro que la sartén y dale la vuelta. 
+  - g.	Devuélvela de nuevo para que cuaje por el otro lado. Puedes repetir esta operación hasta obtener el color deseado por ambos lados.
+  - h.	Está lista cuando introduces un palillo y este sale seco.

@@ -1,0 +1,22 @@
+titulo: Salsa Alemana
+id: 131
+descripcion: Si a una velouté de ternera le añadimos una liga de nata y yema de huevo, y la condimentamos con sal, pimienta, y unas gotas de zumo de limón, tenemos una salsa alemana.
+publico: true
+categorias:
+  - salsa
+photo:
+  url: https://res.cloudinary.com/enbonnet/image/upload/v1574287864/oopuiwih0mugvlrehxhm.png
+  alt: Salsa Alemana
+created_at: 2019-11-20T22:11:04.606Z
+updated_at: 2019-11-20T22:11:04.606Z
+historia: La salsa alemana (también conocida como salsa parisina) se trata de una salsa velouté elaborada de caldo de carne reducido y con yema de huevo aliñado con unas gotas de limón. Se trata de una de las cuatro salsas madre definidas por el gastrónomo francés Antoine Carême. Existen variantes de esta salsa para pescados.
+ingredientes: |-
+  - Cebolla				
+  - Mayonesa
+  - Perejil					
+  - Alcaparras
+  - Pepinillos				
+  - Pimienta Blanca
+preparacion: |-
+  - Cortar la cebolla y los pepinillos en brunoise (muy fino), el perejil y las alcaparras en hache.
+  - Mezclar todo junto con la mayonesa y aderezar con pimienta blanca, la sal es opcional dependiendo de cómo estén las alcaparras y los pepinillos de sal.

@@ -1,0 +1,31 @@
+titulo: "Cuba Libre "
+id: 285
+descripcion: Es increíble la cantidad de Ron con Cola que se beben los clientes que visitan los bares. Si se pudiera poner un contador para este cóctel, las cifras serian millonarias.
+publico: true
+categorias:
+  - maridaje
+photo:
+  url: https://res.cloudinary.com/enbonnet/image/upload/v1635606075/rwspd8losbowtfqmjqdh.png
+  alt: "Cuba Libre "
+created_at: 2021-10-25T19:19:31.989Z
+updated_at: 2021-10-25T19:19:31.989Z
+historia: La historia del Cuba Libre se remonta al año 1898, cuando las tropas norteamericanas liberaron la isla cubana del dominio español y ésta pasó a ser colonia norteamericana. Se cuenta que los soldados estadounidenses introdujeron la Coca-Cola en Cuba donde la combinaron con el Ron.
+ingredientes: |-
+  •	Vaso: High ball (H.B)
+  •	Hielo en cubos (H.C)
+  •	Amargo de Angostura
+  •	jugo de ½ limón
+  •	Ron Añejo (Ron Rubio)
+  •	Coca-Cola 
+  **Decoración: **
+  •	Rebanada de Limóm
+  •	Removedor de Bebidas
+preparacion: |-
+  1.	Agregar al vaso alto hielo en cubos 
+  2.	Agregar sobre el hielo un Dash de Amargo de Angostura
+  3.	Agregar el jugo de ½ limóm
+  4.	Agregar 1 ½ onza de Ron Añejo
+  **Decorar:**
+  1.	Colocar rebanada de limón a Caballo
+  2.	Colocar removedor de Bebidas 
+  Se presenta al cliente, colocando la botella de Coca-Cola a un lado, para que el cliente sea quien se sirva a su gusto.

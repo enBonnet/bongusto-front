@@ -1,0 +1,22 @@
+titulo: Salsa Barbecue
+id: 164
+descripcion: Es una salsa empleada para dar sabor a ciertos platos a base de carne o para otros usos.
+publico: true
+categorias:
+  - salsa
+photo:
+  url: https://res.cloudinary.com/enbonnet/image/upload/v1574551398/z1znodnfy3hryuu126yi.png
+  alt: Salsa Barbecue
+created_at: 2019-11-23T23:23:18.047Z
+updated_at: 2019-11-23T23:23:18.047Z
+historia: |-
+  La idea de incluir salsa barbacoa en los alimentos se remonta desde que alguien descubrió que era una buena forma de conservar la carne, además de potenciar su sabor. Su antecesora, la salsa Worcestershire que se popularizó en Inglaterra y en Estados Unidos en el siglo XIX, contiene muchos de los ingredientes que componen la receta actual. Los europeos, por su parte, ya en la Edad Media usaban el vinagre como acompañamiento de sus platos y también lo incluyeron con éxito en esta salsa, más cuando en los tiempos de Colón conocieron cómo realizaban los nativos sus barbacoas.
+  En este contexto, las costumbres culinarias de ambos lados del océano comenzaron a integrarse dando lugar a la primera salsa de tomate. Los franceses, sin embargo, continuaban empleando la mantequilla como el ingrediente estrella de sus aderezos, así como los alemanes a la mostaza. Pero fue tras la liberación de los esclavos cuando los cocineros americanos publicaron la primera reseña sobre la auténtica receta de la salsa en su versión más oficial.
+ingredientes: |-
+  - 1 Taza de salsa de tomate kétchup			
+  - 1 Cda. De azúcar morena
+  - 3 Dientes de ajo majados			
+  - 1 Cda. De miel
+  - 4 Cdas. De salsa inglesa
+  - Gotas de picante líquido o pimienta negra recién molida (opcional)
+preparacion: Mezclar los ingredientes y guardar en un frasco en la nevera hasta el momento de la comida.

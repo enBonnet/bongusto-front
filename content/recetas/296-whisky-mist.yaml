@@ -1,0 +1,21 @@
+titulo: Whisky Mist
+id: 296
+descripcion: Un Whisky en las Rocas Aromatizado con Piel de limón
+publico: true
+categorias:
+  - maridaje
+photo:
+  url: https://res.cloudinary.com/enbonnet/image/upload/v1635604540/mbbkr4i8w38kz1kb9b1n.png
+  alt: Whisky Mist
+created_at: 2021-10-30T14:35:40.862Z
+updated_at: 2021-10-30T14:35:40.862Z
+historia: Se dice que el hábito de tomar whisky escocés “On the rocks” empezó en los climas cálidos, después de que las personas encontraron un creativo método para enfriar el whisky, sumergiendo piedras en el fondo de los ríos. Y no esta bien definodo como comenzaron a aromatizarlo con piel de limón.
+ingredientes: |-
+  - Vaso: (vaso old fashion)
+  - Hielo (en cubos) 
+  - Whisky
+  - Twis de Limón
+preparacion: |-
+  - Colocar dos o tres cubos de hielo en el vaso
+  - Agregar 1 ½ onza de Whisky
+  - Retorcer el twis de limón sobre la preparación y dejar caer el mismo sobre el hielo

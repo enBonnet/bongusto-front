@@ -1,0 +1,22 @@
+titulo: Quiche Lorraine
+id: 109
+descripcion: Una quiche es una tarta salada procedente de la cocina francesa.
+publico: true
+categorias:
+  - entrada
+photo:
+  url: https://res.cloudinary.com/enbonnet/image/upload/v1573684692/w9dxb0dc15jiprlukg6a.png
+  alt: Quiche Lorraine
+created_at: 2019-11-13T22:38:12.697Z
+updated_at: 2019-11-13T22:38:12.697Z
+historia: "La receta original nació en la región de Lorena, en el noroeste de Francia. De ahí su nombre: 'Quiche Lorraine'. Su preparación es a base de huevos batidos y crema de leche, mezclada con verduras cortadas y añadiéndole jamón o bacon."
+ingredientes: |-
+  ### 200 grs. De tocineta entera.		
+  - 250 grs. De harina T/U.. 
+  - 125 grs. De margarina. 
+  - 5 huevos.				
+  - 300 CC de crema de leche
+  - 3 cdas de agua helada
+  - 1 pizca de nuez moscada.	Pimienta			
+  - Sal
+preparacion: Elaborar una masa quebrada, forrar un molde circular llevar al horno y  cocinar por 15 minutos, seguidamente cortar la tocineta en cubos y desalar mediante un escaldado de 5 minutos, saltear en  margarina escurrir y mezclar con 4 huevos batidos y la crema de leche espesa dar un toque de pimienta recién molida sal y un toque de nuez moscada, vaciar en la base y hornear por 30 minutos a 200 ºC.

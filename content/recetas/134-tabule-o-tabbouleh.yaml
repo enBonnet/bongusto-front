@@ -1,0 +1,28 @@
+titulo: Tabule o Tabbouleh
+id: 134
+descripcion: El tabule o tabbouleh es una ensalada de origen arabe que resulta deliciosa y además es un plato muy refrescante.
+publico: true
+categorias:
+  - entrada
+photo:
+  url: https://res.cloudinary.com/enbonnet/image/upload/v1574349836/aeyfiywvzbq0eyepkmgj.png
+  alt: Tabule o Tabbouleh
+created_at: 2019-11-21T15:23:56.497Z
+updated_at: 2019-11-21T15:23:56.497Z
+historia: Es una ensalada oriunda de Siria y Líbano que es empleada a veces como acompañamiento del conjunto de aperitivos típicos de la zona. Se trata de un plato frío consumido en los calurosos meses de verano en todo el mundo árabe.
+ingredientes: |-
+  ### De 6 a 10 Porciones:
+  - 1 taza de Bulgur o burghul (sémola de trigo)	
+  - Sal
+  - 2 tazas de perejil fresco picado en hache		
+  - 3 cebollín corte fino
+  - 1 taza de hierbabuena fresca picada			
+  - Pimienta (opcional)
+  - ½ Kg. De tomates rojos cortados en brunoise	
+  - 2-3 cucharadas de aceite de oliva
+  - ½ taza de zumo de limón recién exprimido
+preparacion: |-
+  1. Poner el burghul en un recipiente con agua y dejarlo en remojo durante 10 minutos.
+  2. Escurrir el burghul en un colador y exprimir el agua restante presionando el burghul con una cuchara.
+  3. Colocar el burgul junto con el resto de ingredientes en un cuenco y mezclarlos bien.
+  4. Sírvalo como aperitivo, acompañado de hojitas de lechuga fresca. Para apilar el tabbouleh, o bien como ensalada para acompañar un plato principal.

@@ -1,0 +1,21 @@
+titulo: Batido de Yogur y Piña
+id: 139
+descripcion: "Exquisita bebida refrescante ideal en épocas calurosas y muy nutritiva y digestiva "
+publico: true
+categorias:
+  - maridaje
+photo:
+  url: https://res.cloudinary.com/enbonnet/image/upload/v1574354076/r2cvzhbg576pnxyc1svs.png
+  alt: Batido de Yogur y Piña
+created_at: 2019-11-21T16:34:36.432Z
+updated_at: 2019-11-21T16:34:36.432Z
+historia: No hay un origen específico para esta bebida lo que si se tiene certeza es que se consume en todo el medio oriente
+ingredientes: |-
+  ### 2 Porciones:
+  - 2	yogures naturales dulces, 		
+  - Menta o Yerba Buena al Gusto
+  - ½ piña en Cubos.
+preparacion: |-
+  1. Poner el yogur en una batidora, luego agregarle la piña y hojas de menta al gusto.
+  2. Procesar varios minutos hasta lograr una consistencia casi cremosa.
+  3. Servir frio decorado con hojas de menta.

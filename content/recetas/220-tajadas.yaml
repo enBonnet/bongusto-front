@@ -1,0 +1,21 @@
+titulo: Tajadas
+id: 220
+descripcion: Las tajadas de plátano son uno de los contornos más típicos de la comida venezolana.
+publico: true
+categorias:
+  - guarnicion
+photo:
+  url: https://res.cloudinary.com/enbonnet/image/upload/v1575750812/yrxbedhbujdxbrcxcgh3.png
+  alt: Tajadas
+created_at: 2019-12-07T20:33:32.465Z
+updated_at: 2019-12-07T20:33:32.465Z
+historia: Las tajadas de plátano son uno de los contornos más típicos de la comida venezolana. Además, funcionan como base de otros preparados, como la torta de plátano maduro, el pastel de chucho o los yoyos, Actualmente son parte imprescindible del pabellón criollo, pero tiempo atrás se distinguía el pabellón "con baranda" del "sin baranda”, dependiendo de su presencia (pues las tajadas se disponían en los bordes del plato formando un cerco).
+ingredientes: |-
+  ### Ingredientes - para 6 a 8 personas 
+  - 4 plátanos bien maduros pelados 
+  - Papel absorbente 
+  - ½ litro de aceite vegetal
+preparacion: |-
+  1. Se corta cada plátano por la mitad y se rebana luego en lonjas no muy gruesas (de 1 centímetro de espesor). 
+  2. En una sartén con el aceite vegetal caliente, se fríen las tajadas a fuego alto, por ambos lados, hasta que doren. 
+  3. Se retiran del fuego y se colocan sobre papel absorbente para eliminar el exceso de grasa.

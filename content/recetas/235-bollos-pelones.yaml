@@ -1,0 +1,48 @@
+titulo: Bollos Pelones
+id: 235
+descripcion: Los bollos pelones son un plato tradicional y muy popular, tanto por su sencillez como por su riqueza de sabores.
+publico: true
+categorias:
+  - entrada
+photo:
+  url: https://res.cloudinary.com/enbonnet/image/upload/v1575759424/d7z648k6upq5fwt1bgll.png
+  alt: Bollos Pelones
+created_at: 2019-12-07T22:57:04.437Z
+updated_at: 2019-12-07T22:57:04.437Z
+historia: Los bollos pelones son un plato tradicional y muy popular, tanto por su sencillez como por su riqueza de sabores. Son degustados y reconocidos en todo el territorio nacional, pero los más famosos provienen de la capital del estado Yaracuy, San Felipe, donde se hacen con carne de cerdo. Y aunque su preparación más frecuente es con un relleno de carne de res, no es tampoco raro encontrarlos de pescado, pero siempre bañados con una salsa de tomates.
+ingredientes: |-
+  ### Ingredientes (para 12 personas) 
+  ### Guiso 
+  - 4 cucharadas de aceite 
+  - ½ kg de carne de res molida 
+  - ½ de kg de carne de cochino molida 
+  - 1 cebolla cortada en brunoise 
+  - 1 cebollín cortado en brunoise 
+  - 3 pimentones cortados en brunoise 
+  - 12 ajíes dulces en brunoise 
+  - 1 ramita de cilantro en hache
+  - ½ cucharadita de comino. 
+  - Sal y pimienta al gusto 
+  - 3 huevos cocidos y triturados 
+  ### Salsa 
+  - 2 cucharadas de aceite 
+  - 2 cebollas cortadas en rodajas 
+  - 5 tomates cortados en rodajas 
+  - 6 ajíes en brunoise 
+  - ¼ de repollo cortadito 
+  - Sal al gusto 
+  - 1 cucharadita de aceite onotado 
+  ### Masa 
+  - 1 kg de harina de maíz precocida 
+  - 8 tazas de agua 
+  - Sal al gusto
+preparacion: |-
+  1. En una sartén con el aceite, se sofríen a fuego medio las carnes de cerdo y res por unos 8 minutos.
+  2. Se agrega la cebolla, el cebollín, los pimentones, los ajíes, el cilantro, el comino, la sal y la pimienta. Se revuelve hasta que quede un guiso seco. Se añaden los huevos y se mezcla. Se retira la sartén del fuego y se reserva. 
+  3. En otra sartén profunda, con el aceite caliente, se prepara la salsa: se sofríe a fuego medio la cebolla, el tomate, las hojas de repollo, los ajíes y la sal, revolviéndolos constantemente, Se añade el aceite onotado, se tapa y se deja sudar hasta que adquiera una consistencia espesa (unos 8 minutos). Se retira del fuego y se reserva. 
+  4. Se mezcla la harina de maíz con el agua y la sal y se amasa (del mismo modo que para las arepas). Se deja reposar por unos 5 minutos. 
+  5. Se hacen bolas de masa del tamaño de un puño y, con un dedo, se les abre un orificio hasta el centro de la esfera. 
+  6. Se rellenan con el guiso, utilizando una cucharilla, y se cierra el orificio con la misma masa, 
+  7. A fuego alto, se hace hervir abundante agua en una olla. Se introducen los bollos y se cocinan hasta que floten, Se retiran y escurren con una espumadera. 
+  8. Se introducen en la sartén con la salsa y se cocinan 10 minutos. 
+  9. Se sirven bañados con la salsa.

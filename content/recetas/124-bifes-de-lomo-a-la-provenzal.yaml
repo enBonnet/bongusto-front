@@ -1,0 +1,25 @@
+titulo: "Bifes de lomo a la provenzal "
+id: 124
+descripcion: Exquisito corte de lomo aderezado con hiervas y mostaza. Napado en su salsa.
+publico: true
+categorias:
+  - principal
+photo:
+  url: https://res.cloudinary.com/enbonnet/image/upload/v1574282005/kq2suwo8glslhy8dw9hy.png
+  alt: "Bifes de lomo a la provenzal "
+created_at: 2019-11-20T20:33:25.161Z
+updated_at: 2019-11-20T20:33:25.161Z
+historia: |-
+  Aunque todo indica que es de Francia, específicamente de la parte mediterránea, también existe esta receta tanto en Chile como Perú.
+  Se denominan hierbas provenzales o de la Provenza a una mezcla de plantas culinarias secadas y originarias de la cuenca del Mediterráneo. Tradicionalmente se usan en todos los pueblos mediterráneos sin llamarlas así
+ingredientes: |-
+  ### 6 Porciones:
+  - 6 bifes de 150 grs c/u		
+  - Sal y pimienta c/n	
+  - 100 ml de aceite
+  - 3 cdas de mostaza Dijon	
+  ### Para la salsa:
+  - 200 ml de vino de madeira	
+  - 300 ml de fondo de res	 
+  - 1 rama de tomillo
+  - 20 grs de mantequilla

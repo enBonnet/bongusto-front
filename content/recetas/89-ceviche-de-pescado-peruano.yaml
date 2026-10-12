@@ -1,0 +1,31 @@
+titulo: Ceviche de Pescado Peruano
+id: 89
+descripcion: " Es un plato consistente en carne marinada de pescado, mariscos o ambos, en aliños cítricos."
+publico: true
+categorias:
+  - entrada
+photo:
+  url: https://res.cloudinary.com/enbonnet/image/upload/v1573514262/odfgnamzifwuiumj9lpn.png
+  alt: Ceviche de Pescado Peruano
+created_at: 2019-11-11T23:17:42.179Z
+updated_at: 2019-11-11T23:17:42.179Z
+historia: En cuanto a su origen, se dan varias explicaciones. Según algunas fuentes históricas del Perú, el cebiche se habría originado entre los moche, una civilización costera que comenzó a florecer entre los siglos I y II en lo que actualmente es el norte del Perú.
+ingredientes: |-
+  ### 6 porciones:
+  - 500 grs de filete de Corvina			
+  - 2 dientes de ajo en hache
+  - 1 cebolla morada				
+  - 2 choclos (Jojoto)
+  - 5 ajíes limo					
+  - 1 hoja de lechuga"
+  - 1 ramita de celery				
+  - 1 boniato (Batata)
+  - 1/2 cucharadita de jengibre			
+  - 2 papas cocidas
+  - 1 taza de jugo de limón			
+  - Una pizca de ajinomoto
+  - Sal y pimienta blanca				
+  - Una rama de cilantro
+preparacion: |-
+  - 1. Se corta el pescado en dados; se coloca en un bol con sal .pimienta, ajo y jengibre en haché el celery cortado en brunise y ajinomoto se deja reposar par 10 minutos 
+  - 2. Después se le agrega la taza de limón y el ají finamente cortado. Se deja reposar por 10 minutos más, y se sirve con cebolla cortada en pluma, papas cocidas y boniato (batata).

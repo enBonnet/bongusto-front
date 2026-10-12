@@ -1,0 +1,32 @@
+titulo: Ceviche Mexicano
+id: 99
+descripcion: No sólo peruano, México también reivindica su ceviche
+publico: true
+categorias:
+  - entrada
+photo:
+  url: https://res.cloudinary.com/enbonnet/image/upload/v1573571162/somkpumj7xkrufaw3sb9.png
+  alt: Ceviche Mexicano
+created_at: 2019-11-12T15:06:02.310Z
+updated_at: 2019-11-12T15:06:02.310Z
+historia: |-
+  Los limones desembarcaron en América con los españoles y México fue una de sus primeras paradas. Los chiles –pimientos– son uno de los ingredientes fundamentales de la cocina del país, y el Pacífico no anda mal servido de pescado.
+
+  Ahí están los tres pilares del ceviche, un plato que Perú ha conseguido colocar en el mapa mundial de la gastronomía, pero sobre el que México también tiene mucho que decir. Hemos estado por la costa del Pacífico del país –Puerto Vallarta y Riviera Nayarit, más concretamente– rastreando el posible origen mexicano del ceviche.
+ingredientes: |-
+  ### 4 porciones medianas o un tazón grande:
+  - 12 Unidades de Limones				
+  - 1/2 Kg de Mero
+  - 2  Cebollas 					
+  - 100 grs de Cazón
+  - ½ rama de Apio picado				
+  - 200 grs de Rape
+  - 1/2  Pimiento italiano				
+  - 1/2 Kilogramo de Lenguado
+  - 2 Tomates rojos y firmes sin pepitas		
+  - 1 Pizca de Orégano
+  - 1 Puñado de Cilantro picado			
+  - 1 Pizca de Sal
+  - 1 Cucharadita de Gotas de salsa Soja		
+  - 2 Cdas sopera de Ketchup
+preparacion: Lavar el pescado y cortar en cubos y agregar el jugo de limón teniendo cuidado de no agregar las semillas del limón, dejar marinar por 40 minutos y luego colar sin estropear el pescado, luego agregarle el resto de los ingredientes y mover con cuidado, llevar al refrigerador y servir con tostadas.

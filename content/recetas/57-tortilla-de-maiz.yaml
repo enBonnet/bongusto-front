@@ -1,0 +1,25 @@
+titulo: Tortilla de Maiz
+id: 57
+descripcion: Una tortilla de maíz es un alimento hecho con maíz nixtamalizado de forma circular y aplanado. Es una preparación de origen precolombino.
+publico: true
+categorias:
+  - guarnicion
+photo:
+  url: https://res.cloudinary.com/enbonnet/image/upload/v1574524230/qt39b7qmungjaqpudshp.jpg
+  alt: Tortilla de Maiz
+created_at: 2019-11-09T23:27:47.652Z
+updated_at: 2021-09-12T13:34:19.991Z
+historia: |-
+  El origen de la tortilla en Mesoamérica se remonta antes del año 500 a. C. Por ejemplo, en la región de Oaxaca se tienen evidencias de que la tortilla empezó a utilizarse al final de la Etapa de Villas (1500 a 500 a. C.), se sabe esto porque las planchas de arcilla utilizadas para su cocimiento aparecieron en ese entonces.
+  Las civilizaciones precolombinas de Mesoamérica usaban el maíz como su alimento base al igual que la sociedad moderna de esta misma región.
+  Las primeras crónicas de Indias, describen a la tortilla mesoamericana como pan de maíz, incluso la primera traducción al español en la crónica de Francisco López de Gómara del nombre de la ciudad de "Tlaxcala" fue usada como: .."Tlaxcallan, quiere decir pan cocido o casa de pan; pues se coge allí más centli que por los alrededores".
+ingredientes: |-
+  ### 8 Tortillas:
+  - 2 tazas de harina de maíz (Maseca o PAN)			
+  - ½ cucharadita de sal
+  - 3 cucharadas de maicena				
+  - 1 taza de agua más o menos
+preparacion: |-
+  - Mezcle todos los ingredientes hasta formar una masa que debe quedar un poco seca. 
+  - Forme bolitas y adelgácelas con rodillo entre dos plásticos hasta que queden bien finas y redondeadas. 
+  - Cocínelas en un budare bien caliente, 30 segundos por cada lado.

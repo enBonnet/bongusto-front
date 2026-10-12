@@ -1,0 +1,30 @@
+titulo: Consomé de pollo con quenelles
+id: 100
+descripcion: Especialidad de la cocina francesa, se elabora un caldo clarificado y quenelles. Una típica entrada de la cocina gala.
+publico: true
+categorias:
+  - entrada
+photo:
+  url: https://res.cloudinary.com/enbonnet/image/upload/v1573597636/npxxufctd9alknsuo1zp.png
+  alt: Consomé de pollo con quenelles
+created_at: 2019-11-12T22:27:15.992Z
+updated_at: 2019-11-12T22:27:15.992Z
+historia: |-
+  El consome es Especialidad de la cocina francesa, se elabora un caldo clarificado y quenelles. Una típica entrada de la cocina gala.
+  Las quenelles ya eran frecuentes en los menús de los reyes franceses de los siglos XVII y XVIII, pero poco tenían que ver con las actuales quenelles de Lyon.
+ingredientes: |-
+  ### ## 4 porciones:
+  - 1 pechuga de pollo		
+  - 150 ml crema de leche		
+  - 2 cdas coñac (o Brandy)
+  - 2 litro de fondo blanco	
+  - Sal, pimienta y nuez moscada al gusto
+preparacion: |-
+  - 1. Hacer un puré con la pechuga de pollo (cruda) en una procesadora de alimentos
+  - 2. Agregar el puré a un recipiente que este sobre un baño de maría invertido (agua helada)
+  - 3. Poco a poco agregar la crema de leche y la clara de huevo
+  - 4. Condimentar con sal y pimienta, nuez moscada, incorporar el coñac
+  - 5. Colocar caldo de pollo al fuego
+  - 6. Formar los querelles utilizando dos cucharillas
+  - 7. Al estar formados los quenelles, con la cucharilla de abajo llevarlo al Caldo por 10 minutos
+  - 8. Sacarlos y reservar, para luego servir con el caldo clarificado.

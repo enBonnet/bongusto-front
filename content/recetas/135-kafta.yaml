@@ -1,0 +1,27 @@
+titulo: Kafta
+id: 135
+descripcion: La Kofta denominada también köfte, kafta, kufta o kufteh es una familia de diferentes preparaciones hechas con carne cortada y muy habitual en Oriente Medio, la India y los Balcanes.
+publico: true
+categorias:
+  - principal
+photo:
+  url: https://res.cloudinary.com/enbonnet/image/upload/v1574350548/gsls8jhjeygz27mkepyd.png
+  alt: Kafta
+created_at: 2019-11-21T15:35:47.925Z
+updated_at: 2019-11-21T15:35:47.925Z
+historia: La palabra kofta proviene del persa y significa molido. Con este nombre se designa a varios platos típicos de origen árabe y oriental que tienen forma de albóndigas o hamburguesas
+ingredientes: |-
+  De 5 a 10 porciones:
+  - 1kilo de carne molida		
+  - Palitos de madera para la parrilla
+  - 1 cebolla				
+  - Hierba buena
+  - Perejil				
+  - 7 especies
+  - Sal					
+  - Pimienta negra
+preparacion: |-
+  1. Cortar la cebolla, el perejil, la hierba buena todo bien brunoise fino, colocar en un bol, añadir la carne molida, la sal y las especies, amasar todo muy  bien.
+  2. Armar unos pinchos o brochetas comprimiendo la carne aliñada alrededor de los palitos.
+  3. Se puede cocinar en el horno o a la parrilla
+  4. Se acompaña con pan árabe y crema de garbanzo.

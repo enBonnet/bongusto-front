@@ -1,0 +1,37 @@
+titulo: Mojito Cubano
+id: 302
+descripcion: De remedio para el escorbuto a uno de los cocteles más populares del mundo.
+publico: true
+categorias:
+  - maridaje
+photo:
+  url: https://res.cloudinary.com/enbonnet/image/upload/v1635692206/cqizfxwokx1pojppdtsf.png
+  alt: Mojito Cubano
+created_at: 2021-10-31T14:56:46.628Z
+updated_at: 2021-10-31T14:56:46.628Z
+historia: |-
+  Cuenta la leyenda que la invención de este famoso cóctel denominado mojito, tuvo lugar en el siglo XVI de manos de uno de los piratas ingleses más famosos de su tiempo, Francis Drake.
+  La combinación inicial del mojito conocido entonces como “Draque”, mezclaba “tafia” (aguardiente de caña antecesor del ron), azúcar, lima y menta siendo remedio habitual para dolencias estomacales, combatir el cólera y el escorbuto, mal  que azotaba a las tripulaciones que pasaban largas temporadas en alta mar.
+ingredientes: |-
+  - Vaso: vaso old fashion o jaibol
+  - Hielo: Frape 
+  - Hierba Buena
+  - Azúcar	
+  - Jugo de limón
+  - Ron Blanco
+  - Soda o Agua gasificada
+  **- Decoración:**
+  - Hierba Buena
+  - Removedor de bebidas
+  - Removedor 
+  - Pitillos
+preparacion: |-
+  - Agregar al vaso 3 o 4 hojas de hierba buena
+  - Agregar 1 medida de azúcar
+  - Agregar jugo de ½ limón
+  - Agregar hielo frape hasta el borde del vaso
+  - Agregar 1 ½ onza de ron blanco
+  - Remover
+  - Completar con agua gassificada o soda
+  **- Decorar:**
+  - Rodaja de limón, hierba buena, removedor y pitillos

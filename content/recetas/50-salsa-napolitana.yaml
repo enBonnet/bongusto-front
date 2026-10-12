@@ -1,0 +1,33 @@
+titulo: Salsa Napolitana
+id: 50
+descripcion: Rica salsa para acompañar, diferentes platos a base de pasta.
+publico: true
+categorias:
+  - salsa
+photo:
+  url: https://res.cloudinary.com/enbonnet/image/upload/v1573329082/b6svqjafhnx8qw0dpmhc.png
+  alt: Salsa Napolitana
+created_at: 2019-11-09T19:51:22.211Z
+updated_at: 2019-11-09T22:10:04.272Z
+historia: |-
+  Esta salsa originalmente en Italia es llamada ¨sugo di pomodoro alla napoletana¨. Otros nombres que suele ser usado para llamarla son:  Marinara, Al Pomodoro.
+
+  Existe la polémica si la salsa napolitana nació en Nápoles, si fue en un restaurante llamado Napoli, otros dicen que es española,  hasta se rumora que es de China que , así que es mejor dejarlo así para no entrar en polémicas.
+ingredientes: |-
+  ### Insumos Salsa Napolitana:
+  - ½ litro de salsa de tomate madre			
+  - 2 cebollas en brunoise
+  - ½ pimentón en brunoise
+  - 2 ají dulce en brunoise		
+  - 4 dientes de ajo majados	
+  - Sal y Pimienta al gusto
+  - Orégano seco C/N		
+  - Aceite C/N
+preparacion: |-
+  ### Preparación:
+  - a.	Rehogar en caldero la cebolla, el pimentón, ají dulce y el ajo.
+  - b.	Sal-Pimentar al gusto
+  - c.	Agregar la salsa madre, remover constantemente hasta que hierva
+  - d.	Rectificar sazón
+  - e.	Agregar el orégano desmenuzado al gusto.
+  - f.	Dejar cocer a fuego lento hasta obtener la consistencia deseada.

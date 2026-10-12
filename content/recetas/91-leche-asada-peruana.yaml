@@ -1,0 +1,23 @@
+titulo: Leche Asada Peruana
+id: 91
+descripcion: La textura de la leche asada es suave y cremosa. Tiene como característica ésta cubierta dorada.
+publico: true
+categorias:
+  - postre
+photo:
+  url: https://res.cloudinary.com/enbonnet/image/upload/v1573515155/alv8hzxudshjpxbcxpfk.png
+  alt: Leche Asada Peruana
+created_at: 2019-11-11T23:32:34.974Z
+updated_at: 2019-11-11T23:32:34.974Z
+historia: Su origen es incierto, es Europa la cuna de estos Postres (Clásico Flan, Crème brûlée y Crema catalana), probablemente los conquistadores hicieron el trabajo de traerlo y expandirlo en la región,  por eso es posible comerlo en Perú, Ecuador, Colombia y México.
+ingredientes: |-
+  ### 6 Porciones:
+  - 1 ½ Taza de azúcar			
+  - 1 lt. De leche entera o condensada
+  - 6 huevos				
+  - 1 raja de canela
+  - 2 cdas de vainilla			
+  - 1 cdta de canela en polvo
+preparacion: |-
+  Batir el azúcar con los huevos, agregar la vainilla, canela en polvo, luego la leche y seguir batiendo, luego añadir la raja de canela, aparte preparar un caramelo con una taza de azúcar y media de agua, vaciar en el fondo del recipiente, luego vaciar la mezcla anterior y llevar al horno en baño de maría por 37 minutos aproximadamente, retirar del horno dejar reposar y llevar al refrigerador por dos horas desmoldar y servir.
+  Para darle ese color acaramelado o quemado por encima usar sopletede cocina o dorar con un poco de caramelo al horno.

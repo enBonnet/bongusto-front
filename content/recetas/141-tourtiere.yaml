@@ -1,0 +1,39 @@
+titulo: Tourtière
+id: 141
+descripcion: Tourtière conocido también como pastel de carne
+publico: true
+categorias:
+  - principal
+photo:
+  url: https://res.cloudinary.com/enbonnet/image/upload/v1574435037/suc144qadks6ot8feumq.png
+  alt: Tourtière
+created_at: 2019-11-22T15:03:56.824Z
+updated_at: 2019-11-22T15:03:56.824Z
+historia: El Tourtière es una especie de pastel de carne originario de Quebec, Canadá. Generalmente se elabora con carne de cerdo o venado, o vaca. Es un plato tradicional en Navidad y Año Nuevo en la provincia de Quebec, aunque se puede encontrar en las tiendas durante todo el año.
+ingredientes: |-
+  ### De 4 a 6 porciones:
+  ### Ingredientes Para el Relleno:
+  - 1 papa				
+  - ¾ kg de carne molida de cerdo
+  - ¾ kg de carne molida de vaca	
+  - 1 cebolla picada
+  - 1 diente de ajo picado		
+  - Sal
+  - ½ cucharadita de salvia		
+  - ½ cucharadita de mostaza seca
+  - ½ taza de agua hervida de la papa.
+  ### Ingredientes para la masa:
+  - Sal					
+  - 1 paquete de manteca
+  - 600 gramos de harina		
+  - Agua fría (media taza)
+  - 1 huevo batido			
+  - 3 cucharadas de azúcar
+  - 3 cucharadas de vinagre blanco.
+preparacion: |-
+  ### Preparación del relleno:
+  - Hervir la papa en una cacerola con agua y una vez lista, hacerla puré. Guardar el agua sobrante.
+  - Mezclar todos los ingredientes indicados (menos el puré) y llevar a fuego lento durante unos 20 minutos. Incorporar finalmente el puré de papa. Dejar que enfríe.
+  - Llenar 33 centímetros de relleno y cubrirlo con la tapa de masa. Sellar los bordes y hacer hoyos con un tenedor, para ventilar la tapa. Hornear a 220ºC durante media hora.
+  ### Preparación de la masa:
+  Tomar un bol y mezclar la harina y la sal. Cortar la manteca en pedacitos y mezclar con el agua, el huevo, el azúcar y el vinagre blanco hasta que quede todo bien unido. Añadir más harina si es necesario y mantenerla cubierta hasta que esté lista para utilizar.

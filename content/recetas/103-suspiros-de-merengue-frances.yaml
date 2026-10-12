@@ -1,0 +1,25 @@
+titulo: Suspiros de Merengue Francés
+id: 103
+descripcion: El merengue, suspiro o meringue  es un tipo de postre, hecho con clara de huevo batida y azúcar, preferiblemente glas
+publico: true
+categorias:
+  - postre
+photo:
+  url: https://res.cloudinary.com/enbonnet/image/upload/v1573599964/palpf9gysl4t4pjngktq.png
+  alt: Suspiros de Merengue Francés
+created_at: 2019-11-12T23:06:04.858Z
+updated_at: 2019-11-12T23:06:04.858Z
+historia: La teoría o leyenda con más fuerza dice que fue inventado alrededor del año 1600 por el pastelero italiano Gasparini, residente de Meiringen, pueblo suizo, de ahí su nombre. Otra teoría dice que fue obra de un cocinero al servicio del rey polaco Estanislao I Leszczynski, a partir de una receta alemana, y que provendría de la palabra polaca "Marzynka". Lo que si es seguro es que los primeros merengues en Francia se sirvieron en Nancy, de la corte de ese mismo rey polaco. La hija de dicho rey era muy golosa y entusiasta de esa receta, al casarse con Luis XV, la puso de moda en la corte francesa.
+ingredientes: |-
+  De 8 a 16 porciones:
+  - 1 1/2 de azúcar		
+  - 1/2 azúcar pulverizada
+  - 1 pizca sal		
+  - Esencia de vainilla
+  - 4 claras de huevo
+preparacion: |-
+  - Batir las claras de huevo a punto de nieve.
+  - Agregar poco a poco la azúcar e intercalar con la azúcar pulverizada hasta que se formen picos firmes.
+  - Agregar el punto de sal y la esencia y batir.
+  - Preparar la mezcla en una manga pastelera y formar en un molde enmantequillado los suspiros.
+  - Llevar al horno a 180 °c por aproximadamente por 20 minutos o hasta que se tornen doradas.

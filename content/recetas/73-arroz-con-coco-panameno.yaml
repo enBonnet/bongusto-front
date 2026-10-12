@@ -1,0 +1,24 @@
+titulo: Arroz con Coco Panameño
+id: 73
+descripcion: Este plato es típico de las costas caribeñas de panamá, actualmente se prepara en toda panamá debido a su exquisito sabor y fácil preparación, ideal para ser acompañado con pescado frito o mariscos.
+publico: true
+categorias:
+  - guarnicion
+photo:
+  url: https://res.cloudinary.com/enbonnet/image/upload/v1573426162/qkqzwejso0m8xkee8jtd.png
+  alt: Arroz con Coco Panameño
+created_at: 2019-11-10T22:49:22.224Z
+updated_at: 2019-11-10T22:49:22.224Z
+historia: |-
+  En Panamá es un arroz de contorno que es una delicia!
+
+  aquí te va
+
+  En realidad se hace de manera muy parecida al arroz blanco, sólo que en vez de agua le pones leche de coco... YO le pongo un poco de azúcar para realzar el sabor del coco... pero sólo un poco, recuerda que es un contorno para acompañar mariscos, carnes, pollos, etc
+ingredientes: |-
+  ### 4 Porciones:
+  - 2 tazas de arroz			
+  - Sal al gusto.
+  - 2 tazas de agua			
+  - 2 tazas de leche de coco
+preparacion: Colocar en una cacerola el arroz, leche de coco, agua y sal y llevar a fuego alto cuando seque tapar y bajar el fuego.

@@ -1,0 +1,32 @@
+titulo: Ruso Blanco
+id: 293
+descripcion: El Ruso Blanco o White Russian es una variante del coctel Black Russian, un aperitivo after-dinner que nace en la época de la guerra fría.
+publico: true
+categorias:
+  - maridaje
+photo:
+  url: https://res.cloudinary.com/enbonnet/image/upload/v1635604057/glcfifentnpkresuyjgo.png
+  alt: Ruso Blanco
+created_at: 2021-10-30T14:27:37.807Z
+updated_at: 2021-10-30T14:27:37.807Z
+historia: Se debe a una idea del barman del hotel Metropole de Bruselas Gustave Tops a fines de los años cuarenta, como cóctel para el embajador estadounidense en Luxemburgo, Pearl Mesta. Esta bebida no es de tradición rusa, sino que se le denomina así debido a la utilización de vodka como ingrediente principal.
+ingredientes: |-
+  - Vaso: (vaso old fashion)
+  - Hielo: (Hielo Picado)
+  - vodka
+  - licor de café
+  - Crema Batida o Ponche Crema
+  **Decoración:**
+  - Removedor de bebidas
+  - Hoja de hierba buena 
+  - Guinda
+preparacion: |-
+  - Agregar hielo al vaso (Lleno que sobresalga algo)
+  - Servir 1 onza de Vodka
+  - Servir 1 onza de licor de café
+  - Remover
+  - Completar con crema de leche o ponche crema
+  **Decorar:**
+  - Removedor de bebidas
+  - Hoja de Hierba Buena (Nalgueada)
+  - Guinda

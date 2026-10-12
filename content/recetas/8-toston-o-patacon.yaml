@@ -1,0 +1,25 @@
+titulo: Tostón o patacón
+id: 8
+descripcion: "Comida a base de trozos aplanados y fritos de plátano verde. "
+publico: true
+categorias:
+  - guarnicion
+photo:
+  url: https://res.cloudinary.com/enbonnet/image/upload/v1573170963/cj2m24rfaiubqmoqof5s.png
+  alt: Tostón o patacón
+created_at: 2019-11-07T23:56:02.979Z
+updated_at: 2019-11-09T22:16:17.860Z
+historia: El patacón, tostón, tachino, frito o tajada es una comida a base de trozos aplanados fritos de plátano verde, tradicional en la culinaria de varios países de América y el Caribe como Colombia, Cuba, Ecuador, Haití, Honduras, Nicaragua, Costa Rica, Panamá, Puerto Rico, República Dominicana y Venezuela.
+ingredientes: |-
+  ### 4 porciones:
+  - 2 plátanos verdes grandes 
+  - Aceite C/N
+  - Sal C/N
+preparacion: |-
+  - a.	en un caldero pequeño ponemos a calentar aceite (C/N) para freír
+  - b.	se pelan los plátanos y se cortan en ruedas de 3 a 4 centímetros de ancho.
+  - c.	Se llevan a freír hasta que doren levemente
+  - d.	Se retiran del aceite y se comprimen a un grosor aproximado a 1 centímetro o menos.
+  - e.	Se llevan de nuevo a la gran fritura, hasta dorar a gusto.
+  - f.	Se retiran del aceite se reposan sobre papel absorbente y se sazonan con sal.
+  NOTA: Se pueden sazonar con ajo majado y sal al momento de comprimirlos.

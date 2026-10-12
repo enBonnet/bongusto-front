@@ -1,0 +1,31 @@
+titulo: Ensalada de Garbanzos
+id: 209
+descripcion: A este voluminoso grano se suman vegetales rojos y verdes, muy frescos y en cortes pequeños, y un sencillo aderezo de vinagre y aceite de oliva. Es una ensalada de origen árabe.
+publico: true
+categorias:
+  - entrada
+photo:
+  url: https://res.cloudinary.com/enbonnet/image/upload/v1575728265/bmerznulqasw1g7mqqrv.png
+  alt: Ensalada de Garbanzos
+created_at: 2019-12-07T14:17:45.181Z
+updated_at: 2019-12-07T14:17:45.181Z
+historia: A este voluminoso grano se suman vegetales rojos y verdes, muy frescos y en cortes pequeños, y un sencillo aderezo de vinagre y aceite de oliva. Es una ensalada de origen árabe.
+ingredientes: |-
+  ### Ingredientes (para 6 personas) 
+  - ¼ de kg de garbanzos 
+  - Agua 
+  - 1 huevo 
+  - 3 cucharadas de vinagre de vino 
+  - 4 cucharadas de aceite de oliva 
+  - Sal al gusto 
+  - ½ cucharadita de azúcar 
+  - 3 tomates grandes cortados en cuadritos (sin semillas) 
+  - 3 ramas de cebollín cortado menudito 
+  - 3 ramas de cilantro cortadas finamente 
+  - 1 pimentón rojo cortado en cuadritos (sin venas ni semillas) 
+  - 1 cucharadita de pimienta negra (opcional)
+preparacion: |-
+  1. Se remojan los garbanzos en agua por unas 12 horas antes de la cocción. Se desecha el agua del remojo. 
+  2. Se les quita la piel con las manos y se hierven en una olla con agua suficiente para cubrirlos, durante 45 minutos. Se retiran del fuego, se cuelan, se dejan reposar unos 5 minutos y se colocan en una ensaladera. 
+  3. Se sancocha el huevo por unos 6 minutos en agua hirviente. Se le quita la cáscara, se corta menudito y se mezcla con el vinagre, el aceite de oliva, la sal y el azúcar. 
+  4. Se agregan a la ensaladera los tomates, el cebollín, el cilantro y el pimentón y se adereza con la vinagreta. Si se desea, se añade la cucharadita de pimienta negra.

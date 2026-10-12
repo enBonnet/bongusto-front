@@ -1,0 +1,30 @@
+titulo: Ruso Negro
+id: 292
+descripcion: Black Russian es un cóctel que se elabora a base de vodka y licor de café.
+publico: true
+categorias:
+  - maridaje
+photo:
+  url: https://res.cloudinary.com/enbonnet/image/upload/v1635603827/uysvoojvpmtydtszcysz.png
+  alt: Ruso Negro
+created_at: 2021-10-30T14:23:46.958Z
+updated_at: 2021-10-30T14:23:46.958Z
+historia: El cóctel Black Russian fue creado entre los años 1949 y 1950 por un barman belga llamado Gustave Tops; se dice que Gustave Tops hizo esta bebida para deleitar a sus amigos mientras éste trabajaba como jefe de bar en el famoso Hotel Metropole de Bruselas, construido en 1895, siendo el único hotel del siglo XIX que aún funciona en Bruselas.
+ingredientes: |-
+  - Vaso: (vaso old fashion)
+  - Hielo: (Hielo Picado)
+  - vodka
+  - licor de café
+  **Decoración:**
+  - Removedor de bebidas
+  - Hoja de hierba buena 
+  - Guinda
+preparacion: |-
+  - Agregar hielo al vaso (Lleno que sobresalga algo)
+  - Servir 1 ½ onza de Vodka
+  - Servir 1 onza de licor de café
+  - Remover
+  **Decorar:**
+  - Removedor de bebidas
+  - Hoja de Hierba Buena (Nalgueada)
+  - Guinda

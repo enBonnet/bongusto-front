@@ -1,0 +1,35 @@
+titulo: Cuba Libre Preparada
+id: 286
+descripcion: Es increíble la cantidad de Ron con Cola que se beben los clientes que visitan los bares. Si se pudiera poner un contador para este cóctel, las cifras serian millonarias.
+publico: true
+categorias:
+  - maridaje
+photo:
+  url: https://res.cloudinary.com/enbonnet/image/upload/v1635606129/cjjj4rcnawh4urf0afnd.png
+  alt: Cuba Libre Preparada
+created_at: 2021-10-25T19:37:24.709Z
+updated_at: 2021-10-25T19:37:24.709Z
+historia: La historia del Cuba Libre se remonta al año 1898, cuando las tropas norteamericanas liberaron la isla cubana del dominio español y ésta pasó a ser colonia norteamericana. Se cuenta que los soldados estadounidenses introdujeron la Coca-Cola en Cuba donde la combinaron con el Ron.
+ingredientes: |-
+  - Vaso: High ball (H.B)
+  - Hielo en cubos (H.C)
+  - Amargo de Angostura
+  - jugo de ½ limón
+  - Ginebra
+  - vermouth rojo
+  - Ron Añejo (Ron Rubio)
+  - Coca-Cola 
+  **Decoración: **
+  - Rebanada de Limóm
+  - Removedor de Bebidas
+preparacion: |-
+  - Agregar al vaso alto hielo en cubos 
+  - Agregar sobre el hielo un Dash de Amargo de Angostura
+  - Agregar el jugo de ½ limóm
+  - Agregar ½ onza de ginebra
+  - Agregar ½ onza de vermouth
+  - Agregar 1 ½ onza de Ron Añejo
+  **Decorar:**
+  - Colocar rebanada de limón a Caballo
+  - Colocar removedor de Bebidas 
+  Se presenta al cliente, colocando la botella de Coca-Cola a un lado, para que el cliente sea quien se sirva a su gusto.

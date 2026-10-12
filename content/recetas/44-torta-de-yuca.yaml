@@ -1,0 +1,30 @@
+titulo: Torta de Yuca
+id: 44
+descripcion: Torta a base de yuca aderezada con queso llanero, con costra de caramelo. Libre de gluten muy apetitosa.
+publico: true
+categorias:
+  - postre
+photo:
+  url: https://res.cloudinary.com/enbonnet/image/upload/v1573303555/aqg1iygqwo5dzrpzdxph.jpg
+  alt: Torta de Yuca
+created_at: 2019-11-09T12:45:55.479Z
+updated_at: 2019-11-09T22:12:43.884Z
+historia: Este tipo de tortas se desarrolla ampliamente a partir del siglo XVIII, y se fueron perfeccionando al pasar el tiempo convirtiéndose en suaves y dulces manjares, que aportó a nuestra cocina cierta distinción. Posteriormente, Guzmán Blanco, en su empeñó en afrancesar nuestra ciudad capital y su gente, promueve la difusión de la reconocida cocina francesa y por supuesto sus postres; entonces flanes, pudines, espumas, crepes, refinados ponques y bizcochuelos se convierten en parte importante del menú de esa época, y aportan nuevos ingredientes y técnicas culinarias a la ya mestizada repostería venezolana.
+ingredientes: |-
+  ### Insumos: 8 porciones
+  - 2 kilos yuca.			
+  - 1/2 taza agua.		
+  - 1/2 kilo azúcar.		
+  - 300 grs queso duro.		
+  - 400 grs mantequilla.	
+  - 5 huevos.
+  - 1 taza azúcar adicional para el caramelo.
+preparacion: |-
+  ### Preparación del Caramelo:
+  - En una olla colocar 1 taza de azúcar y ½ de agua, llevar al fuego bajo y vigilarlo sin removerlo hasta que tome el color caramelo deseado.
+  ### Preparación Torta de yuca:
+  - a.	Precalentar el horno 200°
+  - b.	Rayar el queso por el lado fino del rayador y reservar.
+  - c.	En un bol o taza grande batir el azúcar con la mantequilla hasta blanquear seguidamente agregar los huevos uno por uno.
+  - d.	Una vez homogeneizada la mezcla agregar la yuca rayada junto con el queso y mezclar para unificarlo todo.
+  - e.	Verter la mezcla en la bandeja donde se realizó el caramelo y llevarlo al horno por 45 minutos a 180°.

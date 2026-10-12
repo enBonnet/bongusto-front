@@ -1,0 +1,20 @@
+titulo: Taxi
+id: 308
+descripcion: Chupito tipo pousse-café, que se consume antes de solicitar el Taxi
+publico: true
+categorias:
+  - maridaje
+photo:
+  url: https://res.cloudinary.com/enbonnet/image/upload/v1635778380/nd7j6zjxvxo3e9kxusdd.png
+  alt: Taxi
+created_at: 2021-11-01T14:53:00.787Z
+updated_at: 2021-11-01T14:53:00.787Z
+historia: Taxista mexicano es el trago que popularmente se solicita antes de solicitar el servicio de un taxi, no tiene una historis definida
+ingredientes: |-
+  - Vaso Mezclador
+  - Hielo en cubos
+  - ½ onza de jugo de naranja 
+  - ½ onza de vodka
+  - ½ onza de licor de café
+  - Colador
+preparacion: Se colocan los licores y el jugo de naranja en un vaso mezclador con hielo, se mezclan y se cuelan en el vaso de shot.

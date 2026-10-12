@@ -1,0 +1,32 @@
+titulo: Caipirisima
+id: 300
+descripcion: La Caipiríssima es una adaptación caribeña del tradicional cóctel brasileño caipiriña (caipirinha), elaborado con ron en lugar de cachaza.
+publico: true
+categorias:
+  - maridaje
+photo:
+  url: https://res.cloudinary.com/enbonnet/image/upload/v1635691765/aczvojrkx4p7x6alnfbf.png
+  alt: Caipirisima
+created_at: 2021-10-31T14:49:25.180Z
+updated_at: 2021-10-31T14:49:25.180Z
+historia: "La Caipirinha es una bebida tradicional de Brasil, que ha generado distintas versiones en el resto de América latina y otras regiones del mundo. A continuación te mostramos una de estas variantes para disfrutar con amigo: La Caipirissima. La Cachaza, que es una especie de aguardiente, se sustituye por ron. Es muy fácil de preparar y muy deliciosa."
+ingredientes: |-
+  - Vaso: (vaso old fashion)
+  - Hielo: (Hielo Picado)
+  - Limón 
+  - Azucar
+  - Ron Blanco
+  **- Decoración:**
+  - Removedor de bebidas
+  - Pitillos
+  - Limón
+preparacion: |-
+  - En el vaso agregar de 3 a 4. ¼ de limón (La Cantidad depende del tamaño del Limón)
+  - Agregar 2 medidas de azucar
+  - Majar (solo que hasta que el limón suelte algo de jugo y se mezcle con el azucar)
+  - Agregar hielo picado
+  - Agregar 1 ½ onza de ron blanco
+  **- Decorar:**
+  - Colocar removedor de bebidas
+  - Colocar dos pitillos 
+  - Colocar rueda de limón a caballo

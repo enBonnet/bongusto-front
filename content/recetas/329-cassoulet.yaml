@@ -1,0 +1,37 @@
+titulo: Cassoulet
+id: 329
+descripcion: El Cassoulet es un guiso tradicional francés en el que se unen un sabor muy intenso
+publico: true
+categorias:
+  - principal
+photo:
+  url: https://res.cloudinary.com/enbonnet/image/upload/v1654974908/pkowkiwokf4m1b3mxgms.png
+  alt: Cassoulet
+created_at: 2022-06-11T19:15:08.921Z
+updated_at: 2022-06-11T19:15:08.921Z
+historia: |-
+  El Cassoulet es un guiso tradicional francés en el que se unen un sabor muy intenso, carnes que se deshacen en la boca, unas alubias tiernísimas y melosas y todo rematado en el horno (¡si, en el horno!) para conseguir una costra gratinada increíble que es difícil de olvidar.
+  Originario de Toulouse, Francia.
+ingredientes: |-
+  - 250 g de alubias (caraotas blancas)
+  - 1 carcasa de pollo 
+  - Huesos de cerdo 
+  - 1 cebolla 
+  - 1 zanahorias 
+  - 1 rama de puerro 
+  - 3 dientes de ajo 
+  - Sal 
+  - Pimienta 
+  - 1 ramita de tomillo 
+  - 1 hoja de laurel 
+  - 1 muslo de pato confitado (o pollo frito)
+  - 250 g de salchicha fresca tipo Toulouse 
+  - 1 codillo de cerdo (rodilla)
+  - 125 g de tocino 
+  - 100 g de panceta
+preparacion: |-
+  - Lo primero que tenemos que hacer es cocer las alubias en una olla con agua fría hasta que empiecen a hervir y las retiramos. 
+  - Seguidamente, preparamos el caldo con una carcasa de pollo, huesos de cerdo, una cebolla, dos zanahorias, un puerro, sal y pimienta. Añadimos una ramita de tomillo y una hoja de laurel. Dejamos cocer durante 30 minutos. 
+  - Incorporamos las alubias y dejamos cocer durante 45 minutos más.
+  - Mientras, preparamos las carnes. Para ello, en una sartén grande calentamos el muslo de pato confitado. Retiramos. En la misma sartén rehogamos la salchicha fresca tipo Toulouse y la reservamos. Rehogamos también un codillo de cerdo, el tocino y la panceta. Reservamos.
+  - Cuando las alubias estén cocidas, las retiramos del caldo y reservamos el caldo en la cazuela. En una cazuela de barro grande, montamos nuestro plato. Ponemos primero las lonchas de tocino en el fondo, incorporamos un tercio de las alubias, disponemos el resto de carnes y tapamos con todas las alubias. Las salchichas deben sobresalir un poco de las alubias. Vertemos el caldo filtrado y ponemos la cazuela en el horno a 150oC durante 35 minutos. El cassoulet tiene que presentarse con una costra de color marrón una vez terminado.

@@ -1,0 +1,30 @@
+titulo: Daiquiri Frozzen Limón
+id: 311
+descripcion: Otro clásico Cubano por excelencia
+publico: true
+categorias:
+  - maridaje
+photo:
+  url: https://res.cloudinary.com/enbonnet/image/upload/v1636121556/ubevm7w4nvwlrcqrdebw.png
+  alt: Daiquiri Frozzen Limón
+created_at: 2021-11-05T14:12:36.681Z
+updated_at: 2021-11-05T14:12:36.681Z
+historia: |-
+  Cuenta la historia más extendida sobre la creación del Daiquiri que el cóctel fue creación de un ingeniero estadounidense, de nombre Jennings Cox, que trabajaba en una mina próxima a la playa de Daiquiri, junto a Santiago de Cuba.
+  Corría el año 1896 cuando Cox recibió la visita de unos amigos y, al ver que se había quedado sin ginebra, que es lo que solía beber, recurrió a una botella de ron local y mezcló la bebida con zumo de las limas de un árbol que tenía en el jardín.
+ingredientes: |-
+  - Copa Margarita
+  - ron blanco
+  - jugo de limón
+  - jarabe de goma
+  - Hielo Picado
+  - **Decoración: **
+  - Rueda de limón
+preparacion: |-
+  - En el vaso de la licuadora, agregar:
+  - 1 ½ onza de ron blanco
+  - 2 onzas de jugo de limón
+  - 1 ½ onza de jarabe de goma
+  - La cantidad de hielo a ser usado, es la misma capacidad de la copa a ser usada. 
+  - Agregar el hielo lentamente, mientras se estan procesando los ingredientes y cuando ya tenga la consistencia de frozzen dejar de agregar hielo.
+  - Servir y decorar con rueda de limón.

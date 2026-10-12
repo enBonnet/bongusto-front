@@ -1,0 +1,26 @@
+titulo: Ceviche Ecuatoriano
+id: 97
+descripcion: El ceviche de camarón es uno de los ceviches ecuatorianos más populares. El ceviche, también conocido como cebiche, es un plato tradicional muy popular en todo el Ecuador, pero sobre todo en la playa.
+publico: true
+categorias:
+  - entrada
+photo:
+  url: https://res.cloudinary.com/enbonnet/image/upload/v1573569901/xipjteiba2oqrfrilnlv.png
+  alt: Ceviche Ecuatoriano
+created_at: 2019-11-12T14:45:01.705Z
+updated_at: 2019-11-12T14:45:01.705Z
+historia: Ceviche o Cebiche, algunos les atribuyen el origen del nombre, a los marineros ingleses que al llegar a los puertos peruanos degustaban un plato típico al que ellos llamaban “SEA BEACH” (Pescado en la Playa) y el nombre viene derivado de esa denominación.
+ingredientes: |-
+  ### 4 porciones regulares o un tazón grande:
+  - 1 kg.  De camarones ya cocinado, pelados y sin venas	
+  - Sal y aceite
+  - 2 cebollas moradas cortadas en pluma		
+  - 1 manojo de cilantro picado finamente
+  - 4 tomates, cortadas en juliana			
+  - ½ taza de salsa de tomate
+  - El jugo de 15 limones criollos			
+  - El jugo de una naranja
+preparacion: |-
+  - Lavar las plumas de cebollas con sal y agua, luego enjuáguelas.
+  - Mezcle todos los ingredientes y deje reposar en la refrigeradora por lo menos durante dos horas.
+  - Sirva acompañado de tostones y/o chip de plátanos

@@ -1,0 +1,30 @@
+titulo: Waterzooi
+id: 332
+descripcion: Es un estofado tradicional de la cocina belga
+publico: true
+categorias:
+  - entrada
+photo:
+  url: https://res.cloudinary.com/enbonnet/image/upload/v1654975437/yp8ye8dinuddqdhbxhmm.png
+  alt: Waterzooi
+created_at: 2022-06-11T19:23:56.921Z
+updated_at: 2022-06-11T19:23:56.921Z
+historia: |-
+  El nombre de este plato es de origen flamenco, concretamente de la ciudad de Gante, y significa "hervido". Es uno de los platos más conocidos de Bélgica preparado como un estofado. Suele servirse caliente y suele ser tanto de pescado como de pollo.
+  El waterzooi se remonta a la Edad Media, hacia finales del siglo XIII. La receta fue creada en la ciudad de Gante, y más precisamente en Quai de Brabant.
+ingredientes: |-
+  - 500 gr. pollo troceado 
+  - 50 gr. Hojas de apio 
+  - 3 zanahorias 
+  - 50 gr. Puerro 
+  - 1 patata grande 
+  - 30 gr. Mantequilla 
+  - Sal marina
+  - Pimienta molida 
+  - 2 yemas de huevo 
+  - 100 ml leche.
+  - 1 tallo de cebollín cortado longitudinalmente para decorar al final.
+preparacion: |-
+  - Primero se debe coloca el pollo en una cazuela. Cubre con agua, un litro más o menos. Añade una cucharadita de sal marina, un poco de pimienta molida, la mantequilla, las hojas de apio, las zanahorias y el puerro pelado y cortado en tiras finas. Lleva a ebullición y deja cocer a fuego medio, tapado, unos 15 minutos. Añade la patata pelada y cuartos y prosigue la cocción otros 20 minutos. Saca el pollo y las verduras, y reserva aparte. Si quieres puedes deshuesar el pollo. Deja reducir el caldo en la cazuela, a fuego vivo y destapada, hasta que reduzca a la mitad, algo menos de medio litro.
+  - Bate las yemas y agrega la leche hasta que se integre bien. Agregar esta mezcla a el caldo caliente remover y mantener caliente.
+  - Servir en un plato hondo o cazuela el pollo las verduras y luego agregar el caldo. Decorar con el cebollín y servir, caliente.

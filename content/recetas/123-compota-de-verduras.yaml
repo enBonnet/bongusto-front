@@ -1,0 +1,32 @@
+titulo: Compota de Verduras
+id: 123
+descripcion: Este plato es una mezcla de verduras reducidas casi a salsa.
+publico: true
+categorias:
+  - entrada
+photo:
+  url: https://res.cloudinary.com/enbonnet/image/upload/v1574281019/bfgtgjkvdcqqofxjaihm.png
+  alt: Compota de Verduras
+created_at: 2019-11-20T20:16:59.525Z
+updated_at: 2019-11-20T20:16:59.525Z
+historia: |-
+  Este plato es una mezcla de verduras reducidas casi a salsa, y es oriundo de la región de la Provenza en Francia.
+  El siglo XVII presentó también cambios en los que se refiere al consumo de frutas y verduras. Los tubérculos, como la patata, el nabo o la zanahoria, anteriormente menospreciados por las clases más altas, se pusieron de moda.
+  Se servían ensaladas y diferentes platos donde se mezclaban verduras, frutas y otros productos frescos. El aumento del consumo de fruta, trajo consigo otras novedades: aparecieron las primeras mermeladas, jaleas y compotas.
+ingredientes: |-
+  ### 4 Porciones:
+  - 2 cebollas cortadas a dados
+  - Un poco de aceite de oliva c/n.
+  - 1 pimentón rojo cortadas a dados pequeños
+  - 1 pimentón verde cortadas a dados pequeños
+  - 3 calabacines o zapallitos (así le llaman por la Provenza) dados pequeños
+  - Sal y pimienta molida en el momento
+  - 3 tomates concassés 
+  - 3 dientes de ajo bien majados
+preparacion: |-
+  - Cocinar la cebolla en un poco de aceite de oliva hasta que estén tiernas y suaves. Mientras tanto, quitar el centro y las semillas a los pimientos y cortarlos en dados pequeños. 
+  - Cortar los calabacines dados pequeños.
+  - Agregar los dados de pimiento y calabacines a la cebolla, mezclar con un poco más de aceite de oliva, cocinar hasta que los pimientos estén apenas tiernos.
+  - Condimentar y agregar los tomates concassés y el ajo.
+  - Dejar cocinar todos los ingredientes de la compota a fuego lento durante 10 minutos, o hasta que todas las verduras estén tiernas.
+  - ESto tiene que quedar como un asopado donde las verduras esten bien blandas ya para desvaratarse.

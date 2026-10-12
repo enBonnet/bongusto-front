@@ -1,0 +1,32 @@
+titulo: Maraquita
+id: 301
+descripcion: Acá en Venezuela le llamamos así al tradicional Anís con hielo, limón y un toque de soda... como digestivo es muy bueno y a orilla de playa mejor.
+publico: true
+categorias:
+  - maridaje
+photo:
+  url: https://res.cloudinary.com/enbonnet/image/upload/v1635691942/al6lh5ta2qbdjll8tq1i.png
+  alt: Maraquita
+created_at: 2021-10-31T14:52:22.617Z
+updated_at: 2021-10-31T14:52:22.617Z
+historia: Cóctel criollito, Venezolano, que tiene como nombre "Maraquita" el cual consiste en mezclar anís, zumo de limón y soda...
+ingredientes: |-
+  - Vaso: (vaso old fashion)
+  - Hielo: (Hielo Picado)
+  - Jugo de Limón 
+  - Anís 
+  - Soda
+  **- Decoración:**
+  - Removedor de bebidas
+  - Pitillos
+  - Limón
+  - Guinda
+preparacion: |-
+  - Agregar Hielo picado al vaso
+  - Agregar el sumo de ½ limón
+  - Agregar 1 ½ onza de anís
+  - Completar con soda 
+  **- Decorar:**
+  - Colocar removedor de bebidas
+  - Colocar dos pitillos 
+  - Colocar rueda de limón a caballo y guinda

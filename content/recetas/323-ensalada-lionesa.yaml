@@ -1,0 +1,32 @@
+titulo: Ensalada Lionesa
+id: 323
+descripcion: Esta ensalada lyonesa es un plato muy completo y muy característico de la ciudad de Lyon
+publico: true
+categorias:
+  - entrada
+photo:
+  url: https://res.cloudinary.com/enbonnet/image/upload/v1654962457/hfonha52w8nvlo6wevni.png
+  alt: Ensalada Lionesa
+created_at: 2022-06-11T15:47:37.111Z
+updated_at: 2022-06-11T15:47:37.111Z
+historia: Esta ensalada lyonesa es un plato muy completo y muy característico de la ciudad de Lyon, en Francia. Se sirve con un huevo escalfado y una vinagreta de mostaza muy especial. Aquí tienes la receta, que es muy sencilla.
+ingredientes: |-
+  **Por Persona**
+  - 50 g de hojas de lechugas variadas
+  - Un huevo
+  - 1 rebanada de pan tostado o tres cucharadas de crotones
+  - 50 g de panceta ahumada en taquitos o tiras
+  - Unos tomates cherry
+  **Para la vinagreta**
+  - 2 cucharadas de aceite de oliva
+  - 1 cucharada de vinagre
+  - 1 cucharadita de mostaza (mejor de Dijon)
+  - Cebolleta fresca muy picada
+  - Sal y pimienta
+preparacion: |-
+  - Lavamos muy bien las hojas de ensalada y las centrifugamos para que estén secas.
+  - Para hacer los crotones, freímos en aceite el pan cortado en dados. También lo puedes saltear en un fondo de aceite hasta que esté dorado.
+  - Del mismo modo preparamos la panceta, salteada en su propia grasa al fuego.
+  - Para hacer la vinagreta mezclamos muy bien todos los ingredientes hasta que quede una salsa bien emulsionada.
+  - Para escalfar los huevos ponemos un trozo de papel de film transparente dentro de un vasito, añadimos unas gotas de aceite, cascamos dentro el huevo, salpimentamos y cerramos el film. Ponemos un cazo al fuego con agua a hervir. Cuando rompa la ebullición ponemos el huevo dentro y contamos 4 minutos. Cortamos de golpe la cocción y lo ponemos debajo del grifo con agua fría.
+  - Montamos la ensalada disponiendo las lechugas en un bol de servicio junto con los tomates cortados por la mitad, ponemos por encima el pan y la panceta aún templados y coronamos con el huevo. Regamos con la vinagreta y servimos al momento.

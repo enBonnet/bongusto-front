@@ -1,0 +1,21 @@
+titulo: Cucaracha
+id: 307
+descripcion: Chupito tipo pousse-café, para luego arrastrarse como una cucaracha
+publico: true
+categorias:
+  - maridaje
+photo:
+  url: https://res.cloudinary.com/enbonnet/image/upload/v1635778268/dfv7lkgtlucl0czd01qt.png
+  alt: Cucaracha
+created_at: 2021-11-01T14:51:08.912Z
+updated_at: 2021-11-01T14:51:08.912Z
+historia: |-
+  Se dice, que un barman, al combinar el tequila con el licor de café, obtuvo una combinación algo fuerte, y al darle de probar a sus amigos, estos no podían caminar, y por eso el nombre del trago.
+  El nombre probablemente provenga de la canción popular mexicana La Cucaracha, cantada durante la Revolución Mexicana, que en la primera estrofa dice: «la cucaracha ya no puede caminar».
+ingredientes: |-
+  - vaso shutter o caballito
+  - Licor de Café
+  - Tequila
+  - Yesquero
+  - Pitillo
+preparacion: En un vaso de shot de 2 oz (60 ml), añadimos el licor de café hasta un poco menos de la mitad, ayudándonos con una cuchara hacemos una capa con el tequila, encendemos, se bebe muy rápido con un absorbedor (pitillo).

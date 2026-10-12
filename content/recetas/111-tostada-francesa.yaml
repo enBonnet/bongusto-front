@@ -1,0 +1,30 @@
+titulo: Tostada Francesa
+id: 111
+descripcion: Las tostadas francesas es un plato muy sencillo de preparar y probablemente debido a ello su origen no está claro
+publico: true
+categorias: []
+photo:
+  url: https://res.cloudinary.com/enbonnet/image/upload/v1573686188/whqdplgplxy8ucljfmy0.png
+  alt: Tostada Francesa
+created_at: 2019-11-13T23:03:08.304Z
+updated_at: 2019-11-13T23:03:08.304Z
+historia: |-
+  En el Imperio Romano ya existían
+  De hecho, las pruebas de la existencia de las tostadas francesas se remontan hasta nada más y nada menos que hasta una colección de Recetas de Apicius que datan del siglo V en pleno Imperio Romano.
+  En esa época el plato era conocido como “aliter dulcia” que se puede traducir como: otro plato dulce. Entonces no se utilizaba huevo en la receta únicamente leche.
+  Una de las leyendas más curiosas de el origen del plato es que el origen de la receta se sitúa en Albany (Nueva York), en torno al año 1724, y que el nombre del creador era un colono llamado Joseph French, y que cuando nombró su creación en inglés, las llamó French Toast.
+ingredientes: |-
+  #### 4 Porciones:
+  - 4 rebanadas de pan de molde blanco.	
+  - 2 huevos pequeños
+  - ½ taza de leche
+  - 1 cucharadita de azúcar			
+  - 1/2 cucharadita de canela
+  - 1/2 cucharadita de vainilla    			
+  - Aceite
+  - Miel, mermelada u otro alimento para untar
+  - Frutas para decorar (fresas / uvas / melocotón / moras, etc…)
+preparacion: |-
+  Batir los huevos hasta que clara y yema se mezclen, agregar el azúcar, canela y vainilla y leche. Verter en un plato hondo.
+  Calentar el aceite en un sartén. Mientras tanto, mojar los panes en el huevo batido hasta que absorban un poco de la mezcla (repetir por ambos lados del pan). Freír por lado y lado hasta que doren.
+  Sacar del aceite y colocar sobre papel absorbente para eliminar el exceso de grasa. Servir calientes, decoradas con frutas al gusto.

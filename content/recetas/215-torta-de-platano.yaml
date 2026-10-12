@@ -1,0 +1,29 @@
+titulo: Torta de Plátano
+id: 215
+descripcion: "Muy popular en los estados Zulia y Trujillo, esta torta constituye la gran receta del plátano: como ocurre pocas veces"
+publico: true
+categorias:
+  - postre
+photo:
+  url: https://res.cloudinary.com/enbonnet/image/upload/v1575749567/cmz9djw3iyxgo6xbhsj5.png
+  alt: Torta de Plátano
+created_at: 2019-12-07T20:12:47.604Z
+updated_at: 2019-12-07T20:12:47.604Z
+historia: "Muy popular en los estados Zulia y Trujillo, esta torta constituye la gran receta del plátano: como ocurre pocas veces, el fruto es presentado como plato principal y no como contorno de otros alimentos. La preparación es muy sencilla y apenas requiere de plátano, papelón, huevo y queso."
+ingredientes: |-
+  ### Ingredientes (para 6 personas) 
+  - 12 plátanos muy maduros 
+  - 6 huevos 
+  - 1 kg de queso blanco blando 
+  - Aceite de maíz 
+  - cucharada de mantequilla 
+  - ¼ de kg de queso de año rallado 
+  - 1 taza de melao de papelón
+preparacion: |-
+  1. Se cortan los plátanos por la mitad y luego se corta cada parte en tajadas (a lo largo).
+  2. Se corta el queso blando en rebanadas gruesas. 
+  3. En una sartén con abundante aceite, se fríen a fuego medio las tajadas de plátano hasta que doren. En una sartén aparte y con sólo 3 cucharadas de aceite, se hace lo mismo con las rebanadas de queso. 
+  4. Se separan las claras de huevo de las yemas. En un recipiente hondo se baten las claras hasta que estén a punto de nieve. Luego se añaden las yemas y se continúa batiendo hasta integrar la mezcla. 
+  5. Se engrasa una bandeja refractaria con la mantequilla. 
+  6. Se alternan en la bandeja capas de plátano, queso y huevo batido. Al final, se baña con el papelón y se añade el queso rallado. 
+  7. Se lleva al horno, a una temperatura de 150°C, hasta que dore (aproximadamente unos 45 minutos).
