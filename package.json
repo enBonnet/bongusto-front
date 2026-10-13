@@ -11,6 +11,7 @@
     "recover": "node scripts/recover-recetas.mjs",
     "transform": "node scripts/transform-raw.mjs",
     "verify:reader": "tsx scripts/verify-reader.mts",
+    "audit:redirects": "node scripts/check-redirects.mjs",
     "test": "vitest run"
   },
   "dependencies": {
