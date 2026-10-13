@@ -1,4 +1,7 @@
 ---
+import "@fontsource/raleway/300.css";
+import "@fontsource/raleway/400.css";
+import "@fontsource/raleway/700.css";
 import "../styles/global.css";
 import { SITE } from "../lib/site";
 
@@ -20,6 +23,9 @@ const canonicalUrl = canonical ?? new URL(Astro.url.pathname, Astro.site).href;
 const fullTitle = title === "BonGusto" ? title : `${title} | BonGusto`;
 // og/twitter require absolute URLs; SITE.image may be site-relative.
 const imageUrl = image ? new URL(image, Astro.site).href : undefined;
+// Raleway is self-hosted via @fontsource (imports above): the woff2 files are
+// bundled into /_astro/ and served from this origin with immutable caching —
+// no render-blocking third-party request, no Google connection.
 ---
 
 <!doctype html>
@@ -27,11 +33,6 @@ const imageUrl = image ? new URL(image, Astro.site).href : undefined;
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    {/* Stylesheet link still blocks first paint, but unlike a CSS @import it
-        is discovered immediately — no waterfall behind the bundled CSS. */}
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;700;900&display=swap" />
     <title>{fullTitle}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={canonicalUrl} />
@@ -47,6 +48,8 @@ const imageUrl = image ? new URL(image, Astro.site).href : undefined;
     <meta name="twitter:title" content={fullTitle} />
     <meta name="twitter:description" content={description} />
     {image && <meta name="twitter:image" content={imageUrl} />}
+    <!-- Pages can inject head-only tags (e.g. JSON-LD) through this slot. -->
+    <slot name="head" />
   </head>
   <body>
     <header class="header">

@@ -1,6 +1,7 @@
-/* Raleway loads via <link> in Layout.astro <head> (preconnected, discovered
-   immediately — no @import waterfall behind the bundled CSS). Keep
-   font-family declarations here in sync. */
+/* Raleway is self-hosted: Layout.astro imports @fontsource/raleway CSS in its
+   frontmatter and Astro bundles the woff2 files into /_astro/ (immutable
+   cache, same origin — no Google request). Keep font-family declarations
+   here in sync. */
 
 :root {
   --blue: #2364aa;
