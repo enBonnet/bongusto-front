@@ -17,7 +17,12 @@ const mountKeystaticAdmin = Boolean(
 
 export default defineConfig({
   output: "static",
-  adapter: netlify(),
+  adapter: netlify({
+    // No `netlify/edge-functions/` in this project, but the adapter eagerly
+    // boots a Deno-based edge-functions emulator during `astro dev` by default,
+    // which crashes with an unhandled rejection when Deno isn't installed.
+    devFeatures: { environmentVariables: false, images: true, edgeFunctions: false },
+  }),
   site: "https://www.bongusto.net",
   server: { port: 4321 },
   integrations: [
