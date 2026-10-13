@@ -1,7 +1,8 @@
 ---
 import Layout from "../../../components/Layout.astro";
 import CategoryNav from "../../../components/CategoryNav.astro";
-import { getAllRecetas, getCategorias, recetaHeroImage, renderMarkdoc } from "../../../lib/content";
+import { buildRecipeJsonLd, getAllRecetas, getCategorias, recetaHeroImage, renderMarkdoc } from "../../../lib/content";
+import { SITE } from "../../../lib/site";
 import { slugify } from "../../../lib/slugify";
 
 export async function getStaticPaths() {
@@ -30,6 +31,16 @@ const nombreBySlug = new Map(categorias.map(({ slug, categoria }) => [slug, cate
 const chipCats = (receta.categorias ?? [])
   .filter((s) => nombreBySlug.has(s))
   .map((s) => ({ slug: s, nombre: nombreBySlug.get(s) ?? s }));
+// schema.org/Recipe — Google rich results (ingredients, steps, categories).
+// `<` is escaped so a stray "</script>" inside content can't break out.
+const recipeLdJson = JSON.stringify(
+  buildRecipeJsonLd({
+    receta,
+    url: new URL(Astro.url.pathname, Astro.site).href,
+    categorias: chipCats.map((c) => c.nombre),
+    author: SITE.author,
+  }),
+).replace(/</g, "\\u003c");
 ---
 
 <Layout
@@ -38,6 +49,12 @@ const chipCats = (receta.categorias ?? [])
   image={receta.photo?.url || undefined}
   ogType="article"
 >
+  <script
+    is:inline
+    type="application/ld+json"
+    slot="head"
+    set:html={recipeLdJson}
+  />
   <article class="receta big-card" data-pagefind-body>
     <h1 class="title" data-pagefind-meta="title">{receta.titulo}</h1>
     {chipCats.length > 0 && <CategoryNav cats={chipCats} />}
@@ -48,6 +65,7 @@ const chipCats = (receta.categorias ?? [])
             src={recetaHeroImage(receta)}
             alt={receta.photo?.alt || receta.titulo}
             width="600"
+            height="450"
             data-pagefind-meta="image[src]"
           />
         </div>

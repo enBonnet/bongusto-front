@@ -7,4 +7,6 @@ export const SITE = {
   // Banner used for social cards on pages without their own image
   // (served locally; Layout makes it absolute for og/twitter).
   image: "/bongusto-rounded.png",
+  // About-page identity, reused as Recipe structured-data author.
+  author: "Antonio Bonnet",
 };

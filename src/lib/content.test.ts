@@ -1,6 +1,6 @@
 import { describe, expect, it } from "vitest";
 import Markdoc from "@markdoc/markdoc";
-import { recetaCardImage, recetaHeroImage, renderMarkdoc } from "./content";
+import { buildRecipeJsonLd, markdocLines, markdocSections, recetaCardImage, recetaHeroImage, renderMarkdoc } from "./content";
 
 describe("renderMarkdoc", () => {
   it("returns empty string for falsy input", () => {
@@ -110,5 +110,205 @@ describe("recetaHeroImage", () => {
 
   it("returns undefined when there is no photo at all", () => {
     expect(recetaHeroImage({ photo: null })).toBeUndefined();
+  });
+});
+
+describe("markdocLines", () => {
+  it("returns an empty array for falsy input", () => {
+    expect(markdocLines(null)).toEqual([]);
+    expect(markdocLines(undefined)).toEqual([]);
+    expect(markdocLines("")).toEqual([]);
+  });
+
+  it("extracts list items individually", () => {
+    const value = { node: Markdoc.parse("- 5 tomates\n- 3 zanahorias") };
+    expect(markdocLines(value)).toEqual(["5 tomates", "3 zanahorias"]);
+  });
+
+  it("includes headings and paragraphs in document order (real ingredientes mix all three)", () => {
+    const value = {
+      node: Markdoc.parse("4 Porciones\n### Para La Salsa:\n- 5 tomates\n\nReposar 1 hora."),
+    };
+    expect(markdocLines(value)).toEqual([
+      "4 Porciones",
+      "Para La Salsa:",
+      "5 tomates",
+      "Reposar 1 hora.",
+    ]);
+  });
+
+  it("strips inline formatting to plain text", () => {
+    const value = { node: Markdoc.parse("- **200 g** de *harina*") };
+    expect(markdocLines(value)).toEqual(["200 g de harina"]);
+  });
+
+  it("skips empty list items and blank blocks", () => {
+    const value = { node: Markdoc.parse("- \n- algo\n") };
+    expect(markdocLines(value)).toEqual(["algo"]);
+  });
+
+  it("keeps inline nodes from fusing into words (join separator)", () => {
+    const value = { node: Markdoc.parse("- **200g**de harina") };
+    expect(markdocLines(value)).toEqual(["200g de harina"]);
+  });
+
+  it("explodes nested lists into their own lines instead of gluing them", () => {
+    const value = { node: Markdoc.parse("- masa\n  - harina\n  - agua") };
+    expect(markdocLines(value)).toEqual(["masa", "harina", "agua"]);
+  });
+
+  it("splits loose list items whose content wraps a paragraph", () => {
+    const value = { node: Markdoc.parse("- item A\n\n  parrafo pegado") };
+    expect(markdocLines(value)).toEqual(["item A", "parrafo pegado"]);
+  });
+});
+
+describe("markdocSections", () => {
+  const node = (md: string) => ({ node: Markdoc.parse(md) });
+
+  it("returns one unnamed section when there are no headings", () => {
+    expect(markdocSections(node("Paso uno.\n\nPaso dos."))).toEqual([
+      { lines: ["Paso uno.", "Paso dos."] },
+    ]);
+  });
+
+  it("groups blocks under their preceding heading", () => {
+    expect(markdocSections(node("Intro.\n### Salsa:\n- Sofreír\n### Montaje:\n- Capas"))).toEqual([
+      { lines: ["Intro."] },
+      { name: "Salsa:", lines: ["Sofreír"] },
+      { name: "Montaje:", lines: ["Capas"] },
+    ]);
+  });
+
+  it("drops named-but-empty sections (heading with no following content)", () => {
+    expect(markdocSections(node("### Solitario:\n"))).toEqual([]);
+  });
+});
+
+describe("buildRecipeJsonLd", () => {
+  const node = (md: string) => ({ node: Markdoc.parse(md) });
+  // Date-only values parse as UTC midnight, so assertions are TZ-independent
+  // (unlike "2019-11-06T23:03", which shifts across timezones).
+  const base = {
+    titulo: "Ratatouille",
+    id: 1,
+    descripcion: "Guisado de hortalizas.",
+    publico: true,
+    categorias: ["entrada"],
+    photo: { url: "https://res.cloudinary.com/enbonnet/image/upload/v1/ratatouille.jpg", thumb: null, alt: "Ratatouille" },
+    created_at: "2019-11-06",
+    updated_at: "2019-11-09",
+    historia: node("Historia corta."),
+    ingredientes: node("- 5 tomates\n- 3 zanahorias"),
+    preparacion: node("Cortar todo.\n\nGuisar a fuego lento."),
+  };
+
+  it("builds a complete Recipe schema from existing data", () => {
+    const ld = buildRecipeJsonLd({
+      receta: base as never,
+      url: "https://www.bongusto.net/receta/1/ratatouille",
+      categorias: ["Entrada"],
+      author: "Antonio Bonnet",
+    });
+    expect(ld["@type"]).toBe("Recipe");
+    expect(ld.name).toBe("Ratatouille");
+    expect(ld.image).toEqual(["https://res.cloudinary.com/enbonnet/image/upload/v1/ratatouille.jpg"]);
+    expect(ld.description).toBe("Guisado de hortalizas.");
+    expect(ld.datePublished).toBe("2019-11-06T00:00:00.000Z");
+    expect(ld.dateModified).toBe("2019-11-09T00:00:00.000Z");
+    expect(ld.author).toEqual({ "@type": "Person", name: "Antonio Bonnet" });
+    expect(ld.inLanguage).toBe("es");
+    expect(ld.url).toBe("https://www.bongusto.net/receta/1/ratatouille");
+    expect(ld.recipeCategory).toBe("Entrada");
+    expect(ld.keywords).toBe("Entrada");
+    expect(ld.recipeIngredient).toEqual(["5 tomates", "3 zanahorias"]);
+    expect(ld.recipeInstructions).toEqual([
+      { "@type": "HowToStep", text: "Cortar todo." },
+      { "@type": "HowToStep", text: "Guisar a fuego lento." },
+    ]);
+  });
+
+  it("is timezone-independent for naive datetimes (no machine-dependent builds)", () => {
+    // Recorded as wall-clock "23:03"; parsing as local time made CI (UTC) and
+    // dev machines (UTC+3 etc.) emit different dates for the same commit.
+    const ld = buildRecipeJsonLd({
+      receta: { ...base, created_at: "2019-11-06T23:03" } as never,
+      url: "https://www.bongusto.net/receta/1/ratatouille",
+      categorias: [],
+      author: "A",
+    });
+    expect(ld.datePublished).toBe("2019-11-06T23:03:00.000Z");
+  });
+
+  it("keeps offsets when the content provides them", () => {
+    const ld = buildRecipeJsonLd({
+      receta: { ...base, created_at: "2019-11-06T23:03:00-04:00" } as never,
+      url: "https://www.bongusto.net/receta/1/ratatouille",
+      categorias: [],
+      author: "A",
+    });
+    expect(ld.datePublished).toBe("2019-11-07T03:03:00.000Z");
+  });
+
+  it("groups preparación under its headings as HowToSection", () => {
+    const ld = buildRecipeJsonLd({
+      receta: {
+        ...base,
+        preparacion: node("Empezar por la salsa.\n### La Salsa:\n- Sofreír\n- Licuar\n### El Montaje:\n- Capas alternadas"),
+      } as never,
+      url: "https://www.bongusto.net/receta/1/ratatouille",
+      categorias: [],
+      author: "A",
+    });
+    expect(ld.recipeInstructions).toEqual([
+      { "@type": "HowToStep", text: "Empezar por la salsa." },
+      {
+        "@type": "HowToSection",
+        name: "La Salsa:",
+        itemListElement: [
+          { "@type": "HowToStep", text: "Sofreír" },
+          { "@type": "HowToStep", text: "Licuar" },
+        ],
+      },
+      {
+        "@type": "HowToSection",
+        name: "El Montaje:",
+        itemListElement: [{ "@type": "HowToStep", text: "Capas alternadas" }],
+      },
+    ]);
+  });
+
+  it("omits image for photo-less recipes (never invents a placeholder)", () => {
+    const ld = buildRecipeJsonLd({
+      receta: { ...base, photo: null } as never,
+      url: "https://www.bongusto.net/receta/1/ratatouille",
+      categorias: [],
+      author: "Antonio Bonnet",
+    });
+    expect(ld).not.toHaveProperty("image");
+    expect(ld).not.toHaveProperty("recipeCategory");
+    expect(ld).not.toHaveProperty("keywords");
+  });
+
+  it("omits unparseable dates instead of emitting garbage", () => {
+    const ld = buildRecipeJsonLd({
+      receta: { ...base, created_at: "no-es-fecha", updated_at: null } as never,
+      url: "https://www.bongusto.net/receta/1/ratatouille",
+      categorias: [],
+      author: "Antonio Bonnet",
+    });
+    expect(ld).not.toHaveProperty("datePublished");
+    expect(ld).not.toHaveProperty("dateModified");
+  });
+
+  it("omits ingredient/instruction keys when those fields are empty", () => {
+    const ld = buildRecipeJsonLd({
+      receta: { ...base, ingredientes: null, preparacion: null } as never,
+      url: "https://www.bongusto.net/receta/1/ratatouille",
+      categorias: [],
+      author: "Antonio Bonnet",
+    });
+    expect(ld).not.toHaveProperty("recipeIngredient");
+    expect(ld).not.toHaveProperty("recipeInstructions");
   });
 });
