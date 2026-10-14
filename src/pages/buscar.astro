@@ -8,10 +8,17 @@ import Layout from "../components/Layout.astro";
     <link rel="stylesheet" href="/pagefind/pagefind-ui.css" />
     <script src="/pagefind/pagefind-ui.js" is:inline></script>
     <div id="search"></div>
+    <p id="search-unavailable" class="search-unavailable" hidden>
+      La búsqueda no está disponible en modo desarrollo: el índice se genera en el build.
+      Ejecuta <code>npm run build</code> y luego <code>npm run preview</code> para probarla.
+    </p>
     <script is:inline>
       // The pagefind assets only exist after `pagefind --site dist`, so the
-      // UI script may 404 under plain `astro dev` — degrade to a no-op.
-      if (window.PagefindUI) {
+      // UI script may 404 under plain `astro dev` — explain instead of
+      // leaving a blank card.
+      if (!window.PagefindUI) {
+        document.getElementById("search-unavailable").hidden = false;
+      } else {
         new PagefindUI({ element: "#search", showImages: true, translations: {
           placeholder: "Buscar por título, ingrediente…",
           clear_search: "Limpiar",
@@ -36,5 +43,9 @@ import Layout from "../components/Layout.astro";
   .search-page h1 {
     font-size: 32px;
     font-weight: 300;
+  }
+  .search-unavailable {
+    color: #6f6f6f;
+    margin-top: 16px;
   }
 </style>

@@ -7,7 +7,7 @@
   "scripts": {
     "dev": "astro dev",
     "build": "astro build && pagefind --site dist",
-    "preview": "astro preview",
+    "preview": "node scripts/preview.mjs",
     "recover": "node scripts/recover-recetas.mjs",
     "transform": "node scripts/transform-raw.mjs",
     "verify:reader": "tsx scripts/verify-reader.mts",
