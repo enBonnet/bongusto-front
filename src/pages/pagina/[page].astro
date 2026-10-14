@@ -2,6 +2,7 @@
 import Layout from "../../components/Layout.astro";
 import Card from "../../components/Card.astro";
 import Pagination from "../../components/Pagination.astro";
+import SearchTrigger from "../../components/SearchTrigger.astro";
 import { getAllRecetas } from "../../lib/content";
 import { paginate, sortedRecetas, PER_PAGE } from "../../lib/paginate";
 
@@ -29,6 +30,7 @@ if (!Number.isInteger(pageNumber) || pageNumber < 2 || pageNumber > total) {
     <div class="title">
       <h1>Recetas</h1>
     </div>
+    <SearchTrigger />
     <div class="cards">
       {recetas.map((receta) => <Card receta={receta} />)}
     </div>

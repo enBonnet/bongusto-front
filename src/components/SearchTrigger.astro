@@ -1,0 +1,54 @@
+---
+// Fake search input above the recetas grid: an <a> styled like a text field.
+// A link (not a real <input>) is honest about the behavior — it can't be typed
+// into — while staying clickable, keyboard-focusable and functional without JS.
+---
+
+<a href="/buscar" class="search-trigger">
+  <svg
+    class="icon"
+    viewBox="0 0 24 24"
+    fill="none"
+    stroke="currentColor"
+    stroke-width="2"
+    stroke-linecap="round"
+    aria-hidden="true"
+  >
+    <circle cx="11" cy="11" r="7"></circle>
+    <line x1="16.5" y1="16.5" x2="21" y2="21"></line>
+  </svg>
+  <span class="placeholder">Buscar por título, ingrediente…</span>
+</a>
+
+<style>
+  .search-trigger {
+    align-items: center;
+    background-color: var(--white);
+    border: 1px solid var(--white-one);
+    border-radius: 4px;
+    color: #6f6f6f;
+    display: flex;
+    gap: 8px;
+    margin-bottom: 24px;
+    padding: 10px 12px;
+    text-decoration: none;
+    transition: border-color 0.15s ease;
+  }
+  .search-trigger:hover,
+  .search-trigger:focus-visible {
+    border-color: var(--green);
+  }
+  .search-trigger .icon {
+    flex-shrink: 0;
+    height: 18px;
+    width: 18px;
+  }
+  .search-trigger .placeholder {
+    font-size: 16px;
+  }
+  @media only screen and (min-width: 768px) {
+    .search-trigger {
+      margin-bottom: 16px;
+    }
+  }
+</style>
