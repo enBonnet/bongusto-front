@@ -76,6 +76,23 @@ export function recetaHeroImage(receta: Pick<Receta, "photo">): string | undefin
   return m ? `${m[1]}${CLOUDINARY_DELIVERY},w_600,h_450,c_fill/${m[2]}` : url;
 }
 
+/**
+ * `srcset` for big photo slots (cover, large cards, recipe hero). Every
+ * candidate keeps the 4:3 crop of recetaHeroImage; the plain 600px `src` stays
+ * the shared URL, so small slots and the list→detail cache hit are untouched
+ * and only slots that render wider than 600px pull a larger file.
+ * Undefined for non-Cloudinary photos (no resizing available).
+ */
+export const PHOTO_WIDTHS = [600, 1000, 1600, 2400] as const;
+export function recetaImageSrcset(receta: Pick<Receta, "photo">): string | undefined {
+  const url = receta.photo?.url;
+  const m = url?.match(/^(https:\/\/res\.cloudinary\.com\/[^/]+\/image\/upload\/)(.+)$/);
+  if (!m) return undefined;
+  return PHOTO_WIDTHS.map(
+    (w) => `${m[1]}${CLOUDINARY_DELIVERY},w_${w},h_${Math.round((w * 3) / 4)},c_fill/${m[2]} ${w}w`,
+  ).join(", ");
+}
+
 export async function getRecetaById(id: number): Promise<Receta | undefined> {
   const all = await getAllRecetas(true);
   return all.find((r) => r.id === id);

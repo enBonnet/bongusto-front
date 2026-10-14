@@ -1,6 +1,6 @@
 import { describe, expect, it } from "vitest";
 import Markdoc from "@markdoc/markdoc";
-import { buildRecipeJsonLd, markdocLines, markdocSections, recetaCardImage, recetaHeroImage, renderMarkdoc } from "./content";
+import { buildRecipeJsonLd, markdocLines, markdocSections, recetaCardImage, recetaHeroImage, recetaImageSrcset, renderMarkdoc } from "./content";
 
 describe("renderMarkdoc", () => {
   it("returns empty string for falsy input", () => {
@@ -119,6 +119,23 @@ describe("recetaHeroImage", () => {
 
   it("returns undefined when there is no photo at all", () => {
     expect(recetaHeroImage({ photo: null })).toBeUndefined();
+  });
+});
+
+describe("recetaImageSrcset", () => {
+  const cloudinaryBase = "https://res.cloudinary.com/enbonnet/image/upload";
+
+  it("lists 4:3 candidates whose 600w entry is the shared hero URL", () => {
+    const photo = { url: `${cloudinaryBase}/v1573170326/a.jpg`, thumb: null, alt: "" };
+    const set = recetaImageSrcset({ photo });
+    expect(set).toContain(`${recetaHeroImage({ photo })} 600w`);
+    expect(set).toContain(`${cloudinaryBase}/f_auto,q_auto,w_1000,h_750,c_fill/v1573170326/a.jpg 1000w`);
+    expect(set).toContain(`w_1600,h_1200,c_fill/v1573170326/a.jpg 1600w`);
+  });
+
+  it("is undefined for non-Cloudinary photos and when there is no photo", () => {
+    expect(recetaImageSrcset({ photo: { url: "https://example.com/a.jpg", thumb: null, alt: "" } })).toBeUndefined();
+    expect(recetaImageSrcset({ photo: null })).toBeUndefined();
   });
 });
 

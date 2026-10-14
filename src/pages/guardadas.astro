@@ -1,0 +1,177 @@
+---
+import Layout from "../components/Layout.astro";
+import DeptBanner from "../components/DeptBanner.astro";
+---
+
+<Layout title="Guardadas" noindex>
+  <DeptBanner nombre="Guardadas" flag="Tu lista" />
+  <div class="wrap saved-page">
+    <p class="note">
+      Las recetas se guardan en este navegador, sin cuenta. Si borras los datos del sitio o cambias de
+      dispositivo, la lista no te sigue.
+    </p>
+    <p class="empty" data-empty hidden>
+      Aún no has guardado ninguna receta. Toca <strong>Guardar</strong> en cualquier receta y aparecerá aquí.
+      <a href="/" class="link back">Ver las recetas →</a>
+    </p>
+    <noscript>
+      <p class="empty">Necesitas activar JavaScript para ver tus recetas guardadas.</p>
+    </noscript>
+    <ul class="list" data-list></ul>
+  </div>
+</Layout>
+
+<style>
+  .saved-page {
+    padding-block: 40px 0;
+  }
+  .note {
+    color: var(--muted);
+    font-size: 1rem;
+    max-width: 60ch;
+  }
+  .empty {
+    font-size: 1.375rem;
+    margin-top: 32px;
+    max-width: 36ch;
+  }
+  .empty[hidden] {
+    display: none;
+  }
+  .back {
+    color: var(--aji-deep);
+    display: block;
+    font-family: var(--font-display);
+    font-size: 0.9375rem;
+    font-stretch: 100%;
+    font-weight: 800;
+    letter-spacing: 0.08em;
+    margin-top: 16px;
+    text-transform: uppercase;
+  }
+  .list {
+    display: grid;
+    gap: 48px var(--gutter);
+    grid-template-columns: minmax(0, 1fr);
+    list-style: none;
+    margin: 40px 0 0;
+    padding: 0;
+  }
+  @media (min-width: 700px) {
+    .list {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+  }
+  @media (min-width: 1000px) {
+    .list {
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+  }
+  /* Items are built by the script below, so these selectors are global. */
+  .list :global(.saved-item) {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+  }
+  .list :global(.saved-item a) {
+    color: inherit;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    text-decoration: none;
+  }
+  .list :global(.saved-photo) {
+    aspect-ratio: 4 / 3;
+    background-color: var(--smoke);
+    overflow: hidden;
+  }
+  .list :global(.saved-photo img) {
+    height: 100%;
+    object-fit: cover;
+    width: 100%;
+  }
+  .list :global(.saved-dept) {
+    margin: 0;
+  }
+  .list :global(.saved-title) {
+    font-size: clamp(1.75rem, 2.4vw, 2.25rem);
+    font-stretch: 68%;
+    font-weight: 800;
+    line-height: 0.95;
+  }
+  .list :global(.saved-item a:hover .saved-title) {
+    color: var(--aji);
+  }
+  .list :global(.saved-remove) {
+    align-self: flex-start;
+    background: none;
+    border: 0;
+    border-bottom: 2px solid var(--ink);
+    color: var(--ink);
+    cursor: pointer;
+    font-family: var(--font-display);
+    font-size: 0.8125rem;
+    font-weight: 800;
+    letter-spacing: 0.08em;
+    padding: 6px 0;
+    text-transform: uppercase;
+  }
+  .list :global(.saved-remove:hover) {
+    border-color: var(--aji);
+    color: var(--aji-deep);
+  }
+</style>
+
+<script>
+  import { onSavedChange, readSaved, removeSaved } from "../scripts/saved";
+
+  const list = document.querySelector<HTMLUListElement>("[data-list]")!;
+  const empty = document.querySelector<HTMLElement>("[data-empty]")!;
+  const CLOUDINARY = "https://res.cloudinary.com/";
+
+  onSavedChange(() => {
+    const items = readSaved();
+    empty.hidden = items.length > 0;
+    list.replaceChildren(
+      ...items.map((r) => {
+        const li = document.createElement("li");
+        li.className = "saved-item";
+
+        const a = document.createElement("a");
+        a.href = r.url;
+        if (r.img?.startsWith(CLOUDINARY)) {
+          const photo = document.createElement("div");
+          photo.className = "saved-photo";
+          const img = document.createElement("img");
+          img.src = r.img;
+          img.alt = "";
+          img.width = 600;
+          img.height = 450;
+          img.loading = "lazy";
+          photo.append(img);
+          a.append(photo);
+        }
+        if (r.dept) {
+          const dept = document.createElement("p");
+          dept.className = "kicker saved-dept";
+          dept.textContent = r.dept;
+          a.append(dept);
+        }
+        const title = document.createElement("h2");
+        title.className = "saved-title";
+        title.textContent = r.titulo;
+        a.append(title);
+
+        const remove = document.createElement("button");
+        remove.type = "button";
+        remove.className = "saved-remove";
+        remove.textContent = "Quitar";
+        remove.setAttribute("aria-label", `Quitar ${r.titulo} de guardadas`);
+        remove.addEventListener("click", () => removeSaved(r.id));
+
+        li.append(a, remove);
+        return li;
+      }),
+    );
+  });
+</script>

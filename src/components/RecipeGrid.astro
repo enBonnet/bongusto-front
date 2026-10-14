@@ -1,0 +1,45 @@
+---
+import type { Receta } from "../lib/content";
+import { gridSpans } from "../lib/layout-rows";
+import Card from "./Card.astro";
+
+interface Props {
+  recetas: Receta[];
+  /** category slug -> display name */
+  deptNames: Map<string, string>;
+  /** How many leading cards load eagerly. */
+  eager?: number;
+  /** Screen-reader h2 that bridges the page h1 and the card h3s. */
+  heading?: string;
+}
+const { recetas, deptNames, eager = 0, heading } = Astro.props;
+const spans = gridSpans(recetas.length);
+---
+
+{heading && <h2 class="sr-only">{heading}</h2>}
+<div class="grid">
+  {
+    recetas.map((receta, i) => (
+      <Card
+        receta={receta}
+        span={spans[i]}
+        dept={deptNames.get((receta.categorias ?? [])[0] ?? "")}
+        eager={i < eager}
+      />
+    ))
+  }
+</div>
+
+<style>
+  .grid {
+    display: grid;
+    gap: 48px var(--gutter);
+    grid-template-columns: minmax(0, 1fr);
+  }
+  @media (min-width: 900px) {
+    .grid {
+      gap: 72px var(--gutter);
+      grid-template-columns: repeat(12, minmax(0, 1fr));
+    }
+  }
+</style>

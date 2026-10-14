@@ -1,7 +1,18 @@
 ---
 import Layout from "../../../components/Layout.astro";
 import CategoryNav from "../../../components/CategoryNav.astro";
-import { buildRecipeJsonLd, getAllRecetas, getCategorias, recetaHeroImage, renderMarkdoc } from "../../../lib/content";
+import Card from "../../../components/Card.astro";
+import RecipeActions from "../../../components/RecipeActions.astro";
+import {
+  buildRecipeJsonLd,
+  getAllRecetas,
+  getCategorias,
+  getRecetasByCategoria,
+  recetaHeroImage,
+  recetaImageSrcset,
+  renderMarkdoc,
+} from "../../../lib/content";
+import { sortedRecetas } from "../../../lib/paginate";
 import { SITE } from "../../../lib/site";
 import { slugify } from "../../../lib/slugify";
 
@@ -41,6 +52,32 @@ const recipeLdJson = JSON.stringify(
     author: SITE.author,
   }),
 ).replace(/</g, "\\u003c");
+
+// Dateline from the real publication date (no invented issue numbers).
+const created = String(receta.created_at ?? "").slice(0, 10);
+const createdDate = /^\d{4}-\d{2}-\d{2}$/.test(created) ? new Date(`${created}T12:00:00Z`) : null;
+const dateLabel = createdDate
+  ? new Intl.DateTimeFormat("es", { dateStyle: "long", timeZone: "UTC" }).format(createdDate)
+  : null;
+
+// "Sigue leyendo": the three neighbours of this recipe in its first category
+// (or in the whole archive when it has none), wrapping around at the ends.
+const pool = chipCats.length > 0 ? await getRecetasByCategoria(chipCats[0].slug) : sortedRecetas(await getAllRecetas());
+const at = pool.findIndex((r) => r.id === receta.id);
+const others = pool.filter((r) => r.id !== receta.id);
+const start = Math.max(0, at);
+const related = others.length <= 3 ? others : [0, 1, 2].map((i) => others[(start + i) % others.length]);
+const deptNames = new Map(categorias.map(({ slug, categoria }) => [slug, categoria?.nombre ?? slug]));
+const heroSrcset = recetaImageSrcset(receta);
+const canonicalUrl = new URL(Astro.url.pathname, Astro.site).href;
+const actionProps = {
+  id: receta.id,
+  titulo: receta.titulo.trim(),
+  path: `/receta/${receta.id}/${slugify(receta.titulo)}`,
+  url: canonicalUrl,
+  img: recetaHeroImage(receta),
+  dept: chipCats[0]?.nombre,
+};
 ---
 
 <Layout
@@ -55,100 +92,284 @@ const recipeLdJson = JSON.stringify(
     slot="head"
     set:html={recipeLdJson}
   />
-  <article class="receta big-card" data-pagefind-body>
-    <h1 class="title" data-pagefind-meta="title">{receta.titulo}</h1>
-    {chipCats.length > 0 && <CategoryNav cats={chipCats} />}
+  <article class="receta" data-pagefind-body>
+    <header class="opener wrap">
+      {chipCats.length > 0 && <CategoryNav cats={chipCats} />}
+      <h1 class="headline" data-pagefind-meta="title">{receta.titulo}</h1>
+      {receta.descripcion && <p class="dek">{receta.descripcion}</p>}
+      <p class="byline" data-pagefind-ignore>
+        Por <strong>{SITE.author}</strong>
+        {createdDate && dateLabel && (
+          <>
+            <span class="sep" aria-hidden="true">·</span>
+            <time datetime={created}>{dateLabel}</time>
+          </>
+        )}
+      </p>
+      <RecipeActions {...actionProps} />
+    </header>
     {
       receta.photo?.url && (
         <div class="photo" style={`view-transition-name: receta-${receta.id}`}>
           <img
             src={recetaHeroImage(receta)}
+            srcset={heroSrcset}
+            sizes={heroSrcset ? "100vw" : undefined}
             alt={receta.photo?.alt || receta.titulo}
             width="600"
             height="450"
+            loading="eager"
+            fetchpriority="high"
             data-pagefind-meta="image[src]"
           />
         </div>
       )
     }
-    <div class="content">
+    <div class="body wrap">
       {
         historia && (
-          <div class="history">
-            <h2 class="title">Historia</h2>
-            <div class="text" set:html={historia} />
-          </div>
+          <section class="history">
+            <h2 class="section-title">Historia</h2>
+            <div class="prose" set:html={historia} />
+          </section>
         )
       }
       {
         ingredientes && (
-          <div class="ingredients">
-            <h2 class="title">Ingredientes</h2>
-            <div class="text" set:html={ingredientes} />
-          </div>
+          <section class="ingredients">
+            <h2 class="section-title">Ingredientes</h2>
+            <div class="prose" set:html={ingredientes} />
+          </section>
         )
       }
       {
         preparacion && (
-          <div class="preparation">
-            <h2 class="title">Preparación</h2>
-            <div class="text" set:html={preparacion} />
-          </div>
+          <section class="method">
+            <h2 class="section-title">Preparación</h2>
+            <div class="prose" set:html={preparacion} />
+          </section>
         )
       }
     </div>
-    <div class="more">
-      <a href="/" class="link">Ver más recetas</a>
+    <div class="wrap end-actions" data-pagefind-ignore>
+      <p class="end-title">¿Te gustó la receta?</p>
+      <RecipeActions {...actionProps} />
     </div>
   </article>
+
+  {
+    related.length > 0 && (
+      <aside class="next wrap" aria-labelledby="next-title">
+        <div class="next-head">
+          <h2 id="next-title">Sigue leyendo</h2>
+          <a href="/" class="link more">Ver más recetas →</a>
+        </div>
+        <div class="next-grid">
+          {related.map((r) => (
+            <Card receta={r} span={4} dept={deptNames.get((r.categorias ?? [])[0] ?? "")} />
+          ))}
+        </div>
+      </aside>
+    )
+  }
 </Layout>
 
 <style>
-  .receta {
-    background-color: var(--white);
+  /* Opener: kicker, headline, dek, byline — then the photo bleeds edge to edge. */
+  .opener {
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    border-radius: 4px;
-    padding: 8px;
-    margin-bottom: 20px;
+    gap: 18px;
+    padding-block: 44px 36px;
   }
-  .receta .title {
-    margin: 0 0 16px;
-    font-size: 24px;
+  .headline {
+    font-size: clamp(2.75rem, 8vw, 7rem);
+    font-stretch: 62%;
+    font-weight: 900;
+    letter-spacing: -0.025em;
+    line-height: 0.88;
+    max-width: 16ch;
+  }
+  .dek {
+    font-size: clamp(1.25rem, 2vw, 1.75rem);
+    font-style: italic;
+    line-height: 1.35;
+    max-width: 38ch;
+  }
+  .byline {
+    border-top: 1px solid var(--rule);
+    color: var(--muted);
+    font-family: var(--font-display);
+    font-size: 0.8125rem;
+    font-stretch: 100%;
     font-weight: 700;
+    letter-spacing: 0.08em;
+    margin-top: 6px;
+    padding-top: 14px;
+    text-transform: uppercase;
   }
-  .receta .photo {
-    view-transition-class: receta-photo;
+  .byline strong {
+    color: var(--ink);
+    font-weight: 800;
+  }
+  .byline .sep {
+    margin-inline: 10px;
+  }
+
+  .photo {
     aspect-ratio: 4 / 3;
-    margin-bottom: 32px;
+    background-color: var(--smoke);
     overflow: hidden;
-    max-width: 600px;
-    align-self: center;
-  }
-  .receta .photo img {
+    view-transition-class: receta-photo;
     width: 100%;
+  }
+  .photo img {
     height: 100%;
     object-fit: cover;
+    object-position: center 40%;
+    width: 100%;
   }
-  .receta .history,
-  .receta .ingredients,
-  .receta .preparation {
+  @media (min-width: 900px) {
+    .photo {
+      aspect-ratio: auto;
+      height: clamp(420px, 72vh, 800px);
+    }
+  }
+
+  /* Body: ingredients sticky on the left, history and method on the right. */
+  .body {
+    display: grid;
+    gap: 56px var(--gutter);
+    grid-template-columns: minmax(0, 1fr);
+    padding-block: 56px 0;
+  }
+  /* Narrow screens: the recipe's ingredients come before the long history. */
+  .ingredients {
+    order: -1;
+  }
+  .section-title {
+    border-top: 3px solid var(--ink);
+    font-size: clamp(2rem, 3.4vw, 3rem);
+    font-stretch: 62%;
+    font-weight: 900;
+    margin-bottom: 24px;
+    padding-top: 12px;
+    text-transform: uppercase;
+  }
+  .ingredients {
+    background-color: var(--smoke);
+    padding: 24px 24px 28px;
+  }
+  .ingredients .section-title {
+    border-top-color: var(--aji);
+    margin-bottom: 20px;
+  }
+  .ingredients .prose {
+    font-size: 1.0625rem;
+    line-height: 1.5;
+  }
+  .ingredients .prose :global(li + li) {
+    margin-top: 0.4em;
+  }
+  .ingredients .prose :global(h2),
+  .ingredients .prose :global(h3),
+  .ingredients .prose :global(h4) {
+    font-size: 1.125rem;
+    margin: 1.4em 0 0.5em;
+  }
+
+  /* Drop cap opens the history like a feature story. */
+  .history .prose > :global(p:first-of-type)::first-letter {
+    color: var(--aji);
+    float: left;
+    font-family: var(--font-display);
+    font-size: 5.2em;
+    font-stretch: 62%;
+    font-weight: 900;
+    line-height: 0.78;
+    margin: 0.06em 0.1em 0 -0.02em;
+  }
+
+  @media (min-width: 1000px) {
+    .body {
+      align-items: start;
+      grid-template-areas:
+        "ingr hist"
+        "ingr prep";
+      grid-template-columns: minmax(300px, 4fr) minmax(0, 8fr);
+    }
+    .history {
+      grid-area: hist;
+    }
+    .ingredients {
+      order: 0;
+      grid-area: ingr;
+      max-height: calc(100vh - 48px);
+      overflow-y: auto;
+      position: sticky;
+      top: 24px;
+    }
+    .method {
+      grid-area: prep;
+    }
+  }
+
+  .end-actions {
+    border-top: 3px solid var(--ink);
+    margin-top: 72px;
+    padding-top: 20px;
+  }
+  .end-title {
+    font-family: var(--font-display);
+    font-size: clamp(1.75rem, 3vw, 2.5rem);
+    font-stretch: 62%;
+    font-weight: 900;
+    line-height: 0.95;
+    margin-bottom: 16px;
+    text-transform: uppercase;
+  }
+
+  /* Keep reading */
+  .next {
+    margin-top: 96px;
+  }
+  .next-head {
+    align-items: baseline;
+    border-top: 3px solid var(--ink);
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px 24px;
+    justify-content: space-between;
     margin-bottom: 32px;
+    padding-top: 14px;
   }
-  .receta .history .title,
-  .receta .ingredients .title,
-  .receta .preparation .title {
-    margin: 0 0 16px;
-    font-size: 24px;
-    font-weight: 700;
+  .next-head h2 {
+    font-size: clamp(2.5rem, 6vw, 4.5rem);
+    font-stretch: 62%;
+    font-weight: 900;
+    text-transform: uppercase;
   }
-  .receta .more {
-    text-align: right;
+  .more {
+    color: var(--aji);
+    font-family: var(--font-display);
+    font-size: 0.9375rem;
+    font-stretch: 100%;
+    font-weight: 800;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
   }
-  @media only screen and (min-width: 768px) {
-    .receta {
-      margin-top: 20px;
+  .more:hover {
+    text-decoration: underline;
+    text-underline-offset: 5px;
+  }
+  .next-grid {
+    display: grid;
+    gap: 48px var(--gutter);
+    grid-template-columns: minmax(0, 1fr);
+  }
+  @media (min-width: 900px) {
+    .next-grid {
+      grid-template-columns: repeat(12, minmax(0, 1fr));
     }
   }
 </style>

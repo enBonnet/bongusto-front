@@ -1,7 +1,7 @@
 ---
 import Layout from "../../../components/Layout.astro";
-import Card from "../../../components/Card.astro";
-import CategoryNav from "../../../components/CategoryNav.astro";
+import DeptBanner from "../../../components/DeptBanner.astro";
+import RecipeGrid from "../../../components/RecipeGrid.astro";
 import Pagination from "../../../components/Pagination.astro";
 import { getCategorias, getRecetasByCategoria } from "../../../lib/content";
 import { PER_PAGE } from "../../../lib/paginate";
@@ -31,35 +31,21 @@ const recetas = all.slice((current - 1) * PER_PAGE, current * PER_PAGE);
 const categorias = await getCategorias();
 const cat = categorias.find((c) => c.slug === slug);
 const nombre = cat?.categoria?.nombre ?? slug!;
-const navCats = categorias.map(({ slug: s, categoria }) => ({ slug: s, nombre: categoria?.nombre ?? s }));
+const deptNames = new Map(categorias.map(({ slug: s, categoria }) => [s, categoria?.nombre ?? s]));
 ---
 
 <Layout title={`${nombre} — página ${current}`}>
-  <div class="cards-wrapper">
-    <div class="title">
-      <h1>{nombre}</h1>
-    </div>
-    <CategoryNav cats={navCats} activeSlug={slug} />
-    <div class="cards">
-      {recetas.map((receta) => <Card receta={receta} />)}
+  <DeptBanner nombre={nombre} count={all.length} page={{ current, total }} />
+  <div class="wrap">
+    <div class="grid-wrap">
+      <RecipeGrid recetas={recetas} deptNames={deptNames} eager={2} heading="Recetas de esta sección" />
     </div>
     <Pagination current={current} total={total} makeHref={(n) => (n <= 1 ? `/categoria/${slug}` : `/categoria/${slug}/${n}`)} />
   </div>
 </Layout>
 
 <style>
-  .cards-wrapper .title h1 {
-    font-size: 32px;
-    font-weight: 300;
-  }
-  .cards-wrapper .title {
-    padding-bottom: 8px;
-  }
-  @media only screen and (min-width: 768px) {
-    .cards-wrapper .cards {
-      display: flex;
-      justify-content: space-between;
-      flex-wrap: wrap;
-    }
+  .grid-wrap {
+    padding-top: 56px;
   }
 </style>

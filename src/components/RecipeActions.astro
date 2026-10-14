@@ -1,0 +1,235 @@
+---
+/**
+ * Save + share row for a recipe. Everything that needs JavaScript (save, copy,
+ * native share) starts hidden and is revealed by the script; the WhatsApp,
+ * Facebook and X links are plain anchors and work without it.
+ */
+interface Props {
+  id: number;
+  titulo: string;
+  /** Site-relative path, stored with the bookmark. */
+  path: string;
+  /** Absolute canonical URL, used for sharing. */
+  url: string;
+  img?: string;
+  dept?: string;
+}
+const { id, titulo, path, url, img, dept } = Astro.props;
+const text = `${titulo} — BonGusto`;
+const links = [
+  { name: "WhatsApp", href: `https://wa.me/?text=${encodeURIComponent(`${text} ${url}`)}` },
+  { name: "Facebook", href: `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(url)}` },
+  { name: "X", href: `https://x.com/intent/post?text=${encodeURIComponent(text)}&url=${encodeURIComponent(url)}` },
+];
+---
+
+<div
+  class="actions"
+  data-pagefind-ignore
+  data-recipe-actions
+  data-id={id}
+  data-title={titulo}
+  data-path={path}
+  data-url={url}
+  data-img={img}
+  data-dept={dept}
+>
+  <button type="button" class="btn save" data-save aria-pressed="false" hidden>
+    <svg viewBox="0 0 24 24" aria-hidden="true" class="icon">
+      <path d="M6 3h12v18l-6-4.5L6 21z" stroke-linejoin="miter"></path>
+    </svg>
+    <span data-save-label>Guardar</span>
+  </button>
+
+  <div class="share" role="group" aria-label="Compartir esta receta">
+    <span class="share-title" aria-hidden="true">Compartir</span>
+    <button type="button" class="btn" data-native hidden>
+      <svg viewBox="0 0 24 24" aria-hidden="true" class="icon">
+        <path d="M12 15V3M7 8l5-5 5 5M5 13v8h14v-8" stroke-linejoin="miter"></path>
+      </svg>
+      Compartir
+    </button>
+    {
+      links.map(({ name, href }) => (
+        <a class="btn" href={href} target="_blank" rel="noopener noreferrer">
+          {name}
+          <span class="sr-only"> (se abre en una pestaña nueva)</span>
+        </a>
+      ))
+    }
+    <button type="button" class="btn" data-copy hidden>
+      <svg viewBox="0 0 24 24" aria-hidden="true" class="icon">
+        <path d="M9 9h11v11H9zM4 4h11v3M4 4v11h3" stroke-linejoin="miter"></path>
+      </svg>
+      Copiar enlace
+    </button>
+  </div>
+  <p class="status" role="status" data-status></p>
+</div>
+
+<style>
+  .actions {
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px 28px;
+  }
+  .share {
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+  .share-title {
+    color: var(--muted);
+    font-family: var(--font-display);
+    font-size: 0.8125rem;
+    font-stretch: 100%;
+    font-weight: 800;
+    letter-spacing: 0.08em;
+    margin-right: 4px;
+    text-transform: uppercase;
+  }
+  .btn {
+    align-items: center;
+    background: var(--paper);
+    border: 2px solid var(--ink);
+    border-radius: 0;
+    color: var(--ink);
+    cursor: pointer;
+    display: inline-flex;
+    font-family: var(--font-display);
+    font-size: 0.8125rem;
+    font-stretch: 100%;
+    font-weight: 800;
+    gap: 8px;
+    letter-spacing: 0.08em;
+    line-height: 1;
+    min-height: 44px;
+    padding: 0 16px;
+    text-decoration: none;
+    text-transform: uppercase;
+    transition: background-color 0.15s ease, color 0.15s ease;
+  }
+  .btn[hidden] {
+    display: none;
+  }
+  .btn:hover {
+    background: var(--ink);
+    color: var(--paper);
+  }
+  .icon {
+    fill: none;
+    flex: none;
+    height: 18px;
+    stroke: currentColor;
+    stroke-width: 2.2;
+    width: 18px;
+  }
+  .save {
+    background: var(--aji);
+    border-color: var(--aji);
+    color: var(--paper);
+  }
+  .save:hover {
+    background: var(--aji-deep);
+    border-color: var(--aji-deep);
+  }
+  .save[aria-pressed="true"] {
+    background: var(--ink);
+    border-color: var(--ink);
+  }
+  .save[aria-pressed="true"] .icon {
+    fill: currentColor;
+  }
+  .status {
+    color: var(--muted);
+    flex-basis: 100%;
+    font-family: var(--font-display);
+    font-size: 0.8125rem;
+    font-stretch: 100%;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    margin: 0;
+    min-height: 1.2em;
+    text-transform: uppercase;
+  }
+  @media (min-width: 700px) {
+    .status {
+      flex-basis: auto;
+    }
+  }
+</style>
+
+<script>
+  import { onSavedChange, isSaved, toggleSaved } from "../scripts/saved";
+
+  const roots = document.querySelectorAll<HTMLElement>("[data-recipe-actions]");
+
+  function say(root: HTMLElement, message: string) {
+    const status = root.querySelector<HTMLElement>("[data-status]");
+    if (!status) return;
+    status.textContent = message;
+    window.setTimeout(() => {
+      if (status.textContent === message) status.textContent = "";
+    }, 3000);
+  }
+
+  async function copy(text: string): Promise<boolean> {
+    try {
+      await navigator.clipboard.writeText(text);
+      return true;
+    } catch {
+      const field = document.createElement("textarea");
+      field.value = text;
+      field.setAttribute("readonly", "");
+      field.style.position = "fixed";
+      field.style.opacity = "0";
+      document.body.append(field);
+      field.select();
+      const ok = document.execCommand("copy");
+      field.remove();
+      return ok;
+    }
+  }
+
+  for (const root of roots) {
+    const { id, title = "", path = "", url = "", img, dept } = root.dataset;
+    const recipeId = Number(id);
+    const save = root.querySelector<HTMLButtonElement>("[data-save]");
+    const label = root.querySelector<HTMLElement>("[data-save-label]");
+    const native = root.querySelector<HTMLButtonElement>("[data-native]");
+    const copyBtn = root.querySelector<HTMLButtonElement>("[data-copy]");
+
+    if (save && label) {
+      save.hidden = false;
+      onSavedChange(() => {
+        const saved = isSaved(recipeId);
+        save.setAttribute("aria-pressed", String(saved));
+        label.textContent = saved ? "Guardada" : "Guardar";
+      });
+      save.addEventListener("click", () => {
+        const saved = toggleSaved({ id: recipeId, titulo: title, url: path, img, dept });
+        say(root, saved ? "Receta guardada en este navegador" : "Receta quitada de tus guardadas");
+      });
+    }
+
+    if (native && typeof navigator.share === "function") {
+      native.hidden = false;
+      native.addEventListener("click", async () => {
+        try {
+          await navigator.share({ title, text: `${title} — BonGusto`, url });
+        } catch {
+          // Dismissing the share sheet rejects with AbortError: not an error.
+        }
+      });
+    }
+
+    if (copyBtn) {
+      copyBtn.hidden = false;
+      copyBtn.addEventListener("click", async () => {
+        say(root, (await copy(url)) ? "Enlace copiado" : "No se pudo copiar el enlace");
+      });
+    }
+  }
+</script>

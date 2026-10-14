@@ -1,9 +1,9 @@
 ---
 import Layout from "../../components/Layout.astro";
-import Card from "../../components/Card.astro";
+import RecipeGrid from "../../components/RecipeGrid.astro";
 import Pagination from "../../components/Pagination.astro";
 import SearchTrigger from "../../components/SearchTrigger.astro";
-import { getAllRecetas } from "../../lib/content";
+import { getAllRecetas, getCategorias } from "../../lib/content";
 import { paginate, sortedRecetas, PER_PAGE } from "../../lib/paginate";
 
 export async function getStaticPaths() {
@@ -23,34 +23,41 @@ const { items: recetas, current, total } = paginate(all, pageNumber);
 if (!Number.isInteger(pageNumber) || pageNumber < 2 || pageNumber > total) {
   throw new Error(`/pagina/${page} is out of range (total ${total}) — must 404, not render`);
 }
+const deptNames = new Map((await getCategorias()).map(({ slug, categoria }) => [slug, categoria?.nombre ?? slug]));
 ---
 
 <Layout title={current <= 1 ? "BonGusto" : `Recetas — página ${current}`}>
-  <div class="cards-wrapper">
-    <div class="title">
-      <h1>Recetas</h1>
-    </div>
-    <SearchTrigger />
-    <div class="cards">
-      {recetas.map((receta) => <Card receta={receta} />)}
-    </div>
+  <div class="wrap">
+    <header class="page-head">
+      <p class="kicker">Página {current} de {total}</p>
+      <h1>Todas las recetas</h1>
+      <div class="search"><SearchTrigger /></div>
+    </header>
+    <RecipeGrid recetas={recetas} deptNames={deptNames} eager={2} heading="Recetas de esta página" />
     <Pagination current={current} total={total} />
   </div>
 </Layout>
 
 <style>
-  .cards-wrapper .title h1 {
-    font-size: 32px;
-    font-weight: 300;
+  .page-head {
+    align-items: end;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px 32px;
+    justify-content: space-between;
+    padding-block: 48px 40px;
   }
-  .cards-wrapper .title {
-    padding-bottom: 8px;
+  .page-head .kicker {
+    flex-basis: 100%;
   }
-  @media only screen and (min-width: 768px) {
-    .cards-wrapper .cards {
-      display: flex;
-      justify-content: space-between;
-      flex-wrap: wrap;
-    }
+  h1 {
+    font-size: clamp(3rem, 9vw, 8rem);
+    font-stretch: 62%;
+    font-weight: 900;
+    text-transform: uppercase;
+  }
+  .search {
+    flex: 0 1 26rem;
+    min-width: 240px;
   }
 </style>

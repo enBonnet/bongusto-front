@@ -1,19 +1,18 @@
 ---
 /**
- * Chip-style category nav. Used on category listings (full nav, one active)
- * and on recipe pages (only that recipe's categories, nothing active).
+ * Department kickers above a recipe headline: the recipe's own categories as
+ * links back into browse. Only that recipe's categories are passed in.
  */
 interface Props {
   cats: { slug: string; nombre: string }[];
-  activeSlug?: string;
 }
-const { cats, activeSlug } = Astro.props;
+const { cats } = Astro.props;
 ---
 
 <nav class="cats" aria-label="Categorías">
   {
     cats.map(({ slug, nombre }) => (
-      <a href={`/categoria/${slug}`} class={`link cat ${slug === activeSlug ? "active" : ""}`}>
+      <a href={`/categoria/${slug}`} class="link kicker cat">
         {nombre}
       </a>
     ))
@@ -24,20 +23,15 @@ const { cats, activeSlug } = Astro.props;
   .cats {
     display: flex;
     flex-wrap: wrap;
-    gap: 8px;
-    padding-bottom: 16px;
+    gap: 6px 20px;
   }
   .cat {
-    background-color: var(--white);
-    border: 1px solid var(--green);
-    border-radius: 4px;
-    padding: 4px 12px;
-    font-size: 14px;
-    font-weight: 700;
-    color: var(--green);
+    font-size: 0.875rem;
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 5px;
   }
-  .cat.active {
-    background-color: var(--green);
-    color: var(--white);
+  .cat:hover {
+    color: var(--aji-deep);
   }
 </style>

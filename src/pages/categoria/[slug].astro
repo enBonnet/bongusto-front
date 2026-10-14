@@ -1,7 +1,7 @@
 ---
 import Layout from "../../components/Layout.astro";
-import Card from "../../components/Card.astro";
-import CategoryNav from "../../components/CategoryNav.astro";
+import DeptBanner from "../../components/DeptBanner.astro";
+import RecipeGrid from "../../components/RecipeGrid.astro";
 import Pagination from "../../components/Pagination.astro";
 import { getCategorias, getRecetasByCategoria } from "../../lib/content";
 import { PER_PAGE } from "../../lib/paginate";
@@ -17,23 +17,18 @@ const total = Math.max(1, Math.ceil(all.length / PER_PAGE));
 const recetas = all.slice(0, PER_PAGE);
 const categorias = await getCategorias();
 const nombre = categorias.find((c) => c.slug === slug)?.categoria?.nombre ?? slug!;
-const navCats = categorias.map(({ slug: s, categoria }) => ({ slug: s, nombre: categoria?.nombre ?? s }));
+const deptNames = new Map(categorias.map(({ slug: s, categoria }) => [s, categoria?.nombre ?? s]));
 ---
 
 <Layout title={nombre}>
-  <div class="cards-wrapper">
-    <div class="title">
-      <h1>{nombre}</h1>
-    </div>
-    <CategoryNav cats={navCats} activeSlug={slug} />
+  <DeptBanner nombre={nombre} count={all.length} page={{ current: 1, total }} />
+  <div class="wrap">
     {
       all.length === 0 ? (
-        <p>No hay recetas en esta categoría todavía.</p>
+        <p class="empty">No hay recetas en esta categoría todavía.</p>
       ) : (
-        <div class="cards">
-          {recetas.map((receta) => (
-            <Card receta={receta} />
-          ))}
+        <div class="grid-wrap">
+          <RecipeGrid recetas={recetas} deptNames={deptNames} eager={2} heading="Recetas de esta sección" />
         </div>
       )
     }
@@ -42,18 +37,10 @@ const navCats = categorias.map(({ slug: s, categoria }) => ({ slug: s, nombre: c
 </Layout>
 
 <style>
-  .cards-wrapper .title h1 {
-    font-size: 32px;
-    font-weight: 300;
+  .grid-wrap {
+    padding-top: 56px;
   }
-  .cards-wrapper .title {
-    padding-bottom: 8px;
-  }
-  @media only screen and (min-width: 768px) {
-    .cards-wrapper .cards {
-      display: flex;
-      justify-content: space-between;
-      flex-wrap: wrap;
-    }
+  .empty {
+    padding-block: 64px;
   }
 </style>

@@ -1,7 +1,7 @@
 ---
-// Fake search input above the recetas grid: an <a> styled like a text field.
-// A link (not a real <input>) is honest about the behavior — it can't be typed
-// into — while staying clickable, keyboard-focusable and functional without JS.
+// Fake search input: an <a> styled like a text field. A link (not a real
+// <input>) is honest about the behavior — it can't be typed into — while
+// staying clickable, keyboard-focusable and functional without JS.
 ---
 
 <a href="/buscar" class="search-trigger">
@@ -10,8 +10,8 @@
     viewBox="0 0 24 24"
     fill="none"
     stroke="currentColor"
-    stroke-width="2"
-    stroke-linecap="round"
+    stroke-width="2.5"
+    stroke-linecap="square"
     aria-hidden="true"
   >
     <circle cx="11" cy="11" r="7"></circle>
@@ -23,32 +23,25 @@
 <style>
   .search-trigger {
     align-items: center;
-    background-color: var(--white);
-    border: 1px solid var(--white-one);
-    border-radius: 4px;
-    color: #6f6f6f;
+    border-bottom: 3px solid var(--ink);
+    color: var(--muted);
     display: flex;
-    gap: 8px;
-    margin-bottom: 24px;
-    padding: 10px 12px;
+    gap: 10px;
+    padding: 8px 2px;
     text-decoration: none;
-    transition: border-color 0.15s ease;
+    transition: color 0.15s ease, border-color 0.15s ease;
   }
   .search-trigger:hover,
   .search-trigger:focus-visible {
-    border-color: var(--green);
+    border-color: var(--aji);
+    color: var(--ink);
   }
   .search-trigger .icon {
     flex-shrink: 0;
-    height: 18px;
-    width: 18px;
+    height: 20px;
+    width: 20px;
   }
   .search-trigger .placeholder {
-    font-size: 16px;
-  }
-  @media only screen and (min-width: 768px) {
-    .search-trigger {
-      margin-bottom: 16px;
-    }
+    font-size: 1.0625rem;
   }
 </style>

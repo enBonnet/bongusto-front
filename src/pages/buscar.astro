@@ -1,10 +1,11 @@
 ---
 import Layout from "../components/Layout.astro";
+import DeptBanner from "../components/DeptBanner.astro";
 ---
 
 <Layout title="Buscar">
-  <div class="big-card search-page">
-    <h1>Buscar recetas</h1>
+  <DeptBanner nombre="Buscar" flag="Índice" />
+  <div class="wrap search-page">
     <link rel="stylesheet" href="/pagefind/pagefind-ui.css" />
     <script src="/pagefind/pagefind-ui.js" is:inline></script>
     <div id="search"></div>
@@ -34,7 +35,15 @@ import Layout from "../components/Layout.astro";
       if (!window.PagefindUI) {
         document.getElementById("search-unavailable").hidden = false;
       } else {
-        new PagefindUI({ element: "#search", showImages: true, translations: {
+        // Results show a ~200px thumbnail: ask Cloudinary for 400x300 (2x) instead
+        // of the 600x450 file the recipe page indexes for its hero.
+        const smallThumb = (result) => {
+          if (result.meta?.image) {
+            result.meta.image = result.meta.image.replace("w_600,h_450", "w_400,h_300");
+          }
+          return result;
+        };
+        new PagefindUI({ element: "#search", showImages: true, processResult: smallThumb, translations: {
           placeholder: "Buscar por título, ingrediente…",
           clear_search: "Limpiar",
           zero_results: "No se encontraron recetas para “[SEARCH_TERM]”",
@@ -43,24 +52,129 @@ import Layout from "../components/Layout.astro";
           searching: "Buscando “[SEARCH_TERM]”…",
           search_for_something_else: "Busca otra cosa",
         }});
+        document.querySelector('#search .pagefind-ui__search-input')?.setAttribute('aria-label', 'Buscar recetas por título o ingrediente');
       }
     </script>
   </div>
 </Layout>
 
-<style>
+<style is:global>
   .search-page {
-    background-color: var(--white);
-    border-radius: 4px;
-    padding: 16px;
-    margin-top: 20px;
-  }
-  .search-page h1 {
-    font-size: 32px;
-    font-weight: 300;
+    padding-block: 48px 0;
   }
   .search-unavailable {
-    color: #6f6f6f;
+    color: var(--muted);
     margin-top: 16px;
+  }
+
+  /* Pagefind UI, dressed as the magazine: square, ink rules, condensed titles. */
+  #search {
+    --pagefind-ui-scale: 1;
+    --pagefind-ui-primary: var(--aji);
+    --pagefind-ui-text: var(--ink);
+    --pagefind-ui-background: var(--paper);
+    --pagefind-ui-border: var(--ink);
+    --pagefind-ui-tag: var(--smoke);
+    --pagefind-ui-border-width: 3px;
+    --pagefind-ui-border-radius: 0px;
+    --pagefind-ui-image-border-radius: 0px;
+    --pagefind-ui-image-box-ratio: 4 / 3;
+    --pagefind-ui-font: var(--font-text);
+  }
+  #search .pagefind-ui__search-input {
+    font-family: var(--font-text);
+    font-size: 1.25rem;
+    height: 64px;
+  }
+  #search .pagefind-ui__search-input::placeholder {
+    color: var(--muted);
+    opacity: 1;
+  }
+  #search .pagefind-ui__search-input:focus-visible {
+    outline: 3px solid var(--aji);
+    outline-offset: 3px;
+  }
+  /* The whole result row is one big link: the title link is stretched over
+     the thumbnail, text and padding with a pseudo-element. */
+  #search .pagefind-ui__result {
+    border-top: 1px solid var(--rule);
+    cursor: pointer;
+    margin-inline: -16px;
+    padding: 28px 16px;
+    position: relative;
+    transition: background-color 0.15s ease;
+  }
+  #search .pagefind-ui__result:hover {
+    background-color: var(--smoke);
+  }
+  #search .pagefind-ui__result-link::after {
+    content: "";
+    inset: 0;
+    position: absolute;
+  }
+  #search .pagefind-ui__result:hover .pagefind-ui__result-link {
+    color: var(--aji);
+  }
+  #search .pagefind-ui__result:has(.pagefind-ui__result-link:focus-visible) {
+    outline: 3px solid var(--aji);
+    outline-offset: -3px;
+  }
+  #search .pagefind-ui__result-link:focus-visible {
+    outline: none;
+  }
+  #search .pagefind-ui__result-title,
+  #search .pagefind-ui__result-link {
+    font-family: var(--font-display);
+    font-size: 1.75rem;
+    font-stretch: 68%;
+    font-weight: 800;
+    letter-spacing: -0.02em;
+    line-height: 1;
+  }
+  #search .pagefind-ui__result-link:hover {
+    color: var(--aji);
+  }
+  #search .pagefind-ui__result-excerpt {
+    color: var(--muted);
+  }
+  /* Pagefind caps thumbnails at 120px and gives the image no intrinsic size,
+     so reserve a 4:3 box (no layout jump while it loads). */
+  #search .pagefind-ui__result-thumb {
+    aspect-ratio: 4 / 3;
+    background-color: var(--smoke);
+    flex: none;
+    margin-top: 4px;
+    max-width: none;
+    overflow: hidden;
+    width: clamp(112px, 24vw, 200px);
+  }
+  #search .pagefind-ui__result-thumb img {
+    height: 100%;
+    max-width: none;
+    object-fit: cover;
+    width: 100%;
+  }
+  #search .pagefind-ui__button {
+    background: var(--ink);
+    border: 0;
+    color: var(--paper);
+    font-family: var(--font-display);
+    font-stretch: 100%;
+    font-weight: 800;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+  #search .pagefind-ui__button:hover {
+    background: var(--aji);
+  }
+  #search mark {
+    background-color: var(--amarillo);
+    color: var(--ink);
+  }
+  #search .pagefind-ui__message {
+    font-family: var(--font-display);
+    font-stretch: 100%;
+    font-weight: 700;
+    letter-spacing: 0.04em;
   }
 </style>

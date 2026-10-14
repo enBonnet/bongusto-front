@@ -1,36 +1,75 @@
-/* Raleway is self-hosted: Layout.astro imports @fontsource/raleway CSS in its
-   frontmatter and Astro bundles the woff2 files into /_astro/ (immutable
-   cache, same origin — no Google request). Keep font-family declarations
-   here in sync. */
+/*
+ * DIRECTION CONTRACT (see DESIGN.md)
+ * THESIS: BonGusto is a glossy food monthly. One chef's archive treated as
+ *   "the issue": photography edge to edge, condensed black headlines, one hot
+ *   color field. Refuses the blog-card grid and the cream-paper/italic-serif look.
+ * OWN-WORLD: white gloss, ink #16120F, Ají vermilion #D43B1A as whole fields,
+ *   Amarillo as highlighter only. Archivo (condensed) + Source Serif 4. Square
+ *   corners, no shadows, no cards.
+ * STORY: a student or peer finds a recipe fast, reads its history, follows
+ *   ingredients and method side by side.
+ * FIRST VIEWPORT: wordmark across the full width, department bar, then the
+ *   cover: newest recipe photo bleeding left, Ají panel with headline on the right.
+ * FORM: glossy food monthly, chosen by the owner (pinned, no dice roll).
+ *
+ * Fonts are self-hosted: Layout.astro imports the @fontsource-variable CSS and
+ * Astro bundles the woff2 files into /_astro/ (immutable cache, same origin).
+ * Keep the family names below in sync with those imports.
+ */
 
 :root {
-  --blue: #2364aa;
-  --green: #226b00;
-  --green-one: #a8df8f;
-  --orange: #ea7317;
-  --red: #980000;
-  --white: #ffffff;
-  --white-one: #dfdfdf;
-  --yellow: #d7cf07;
+  --ink: #16120f;
+  --paper: #ffffff;
+  --aji: #d43b1a;
+  --aji-deep: #a82c10;
+  --amarillo: #ffc72c;
+  --smoke: #f1eeea;
+  --muted: #5b554f;
+  --rule: #d9d4ce;
+
+  --font-display: "Archivo Variable", "Arial Narrow", "Helvetica Neue", Arial, sans-serif;
+  --font-text: "Source Serif 4 Variable", Georgia, "Times New Roman", serif;
+
+  --gutter: clamp(16px, 2.4vw, 32px);
+  --max: 1360px;
+  --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
 }
 
 html {
-  background-color: var(--white-one);
-  font-family: "Raleway", sans-serif;
-}
-
-::selection {
-  background-color: var(--green-one);
-}
-
-:focus {
-  outline-color: var(--green);
-  outline-offset: 2px;
-  outline-width: 5px;
+  background-color: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-text);
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
 }
 
 body {
+  display: flex;
+  flex-direction: column;
+  font-size: 1.125rem;
+  line-height: 1.65;
   margin: 0;
+  min-height: 100vh;
+}
+
+main {
+  flex: 1;
+}
+
+::selection {
+  background-color: var(--amarillo);
+  color: var(--ink);
+}
+
+:focus-visible {
+  outline: 3px solid var(--aji);
+  outline-offset: 3px;
 }
 
 h1,
@@ -39,35 +78,163 @@ h3,
 h4,
 h5,
 h6 {
-  margin: 32px 0;
+  font-family: var(--font-display);
+  font-stretch: 70%;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  line-height: 0.95;
+  margin: 0;
+  text-wrap: balance;
+  word-spacing: 0.08em;
 }
 
-.link {
-  text-decoration: none;
-  color: inherit;
+p {
+  margin: 0;
 }
 
 img {
   display: block;
+  max-width: 100%;
 }
 
-.main {
-  padding: 8px 8px 40px 8px;
+.link {
+  color: inherit;
+  text-decoration: none;
 }
 
-@media only screen and (min-width: 768px) {
-  .main {
-    max-width: 960px;
-    margin: 0 auto;
-  }
-  .big-card {
-    padding: 16px;
-  }
+.sr-only {
+  clip-path: inset(50%);
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
+  white-space: nowrap;
+  width: 1px;
+}
+
+/* Page frame: content column inside the 1360px measure. */
+.wrap {
+  margin-inline: auto;
+  max-width: var(--max);
+  padding-inline: var(--gutter);
+  width: 100%;
+}
+
+/* Department label: the one small-caps device, always Ají on white. */
+.kicker {
+  color: var(--aji);
+  font-family: var(--font-display);
+  font-size: 0.8125rem;
+  font-stretch: 100%;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  line-height: 1.2;
+  text-transform: uppercase;
+}
+
+/* Rich text rendered from Markdoc (set:html — so these must be global). */
+.prose {
+  font-size: 1.125rem;
+  line-height: 1.65;
+  max-width: 66ch;
+}
+.prose > * + * {
+  margin-top: 1em;
+}
+.prose p {
+  margin-top: 0;
+}
+.prose p + p {
+  margin-top: 1em;
+}
+.prose strong {
+  font-weight: 700;
+}
+.prose a {
+  color: var(--aji-deep);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
+.prose h1,
+.prose h2,
+.prose h3,
+.prose h4 {
+  font-size: 1.375rem;
+  font-stretch: 85%;
+  letter-spacing: 0;
+  line-height: 1.15;
+  margin: 1.6em 0 0.6em;
+}
+.prose > :first-child {
+  margin-top: 0;
+}
+.prose ul,
+.prose ol {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.prose ul ul,
+.prose ul ol,
+.prose ol ul,
+.prose ol ol {
+  margin-top: 0.5em;
+}
+.prose li {
+  padding-left: 1.4em;
+  position: relative;
+}
+.prose li + li {
+  margin-top: 0.5em;
+}
+.prose ul > li::before {
+  color: var(--aji);
+  content: "–";
+  font-weight: 700;
+  left: 0;
+  position: absolute;
+}
+.prose ol {
+  counter-reset: step;
+}
+.prose ol > li {
+  counter-increment: step;
+  padding-left: 2.6rem;
+}
+.prose ol > li + li {
+  margin-top: 1.1em;
+}
+.prose ol > li::before {
+  color: var(--aji);
+  content: counter(step);
+  font-family: var(--font-display);
+  font-size: 1.9rem;
+  font-stretch: 70%;
+  font-weight: 900;
+  left: 0;
+  line-height: 1;
+  position: absolute;
+  top: 0.05em;
+}
+.prose hr {
+  border: 0;
+  border-top: 1px solid var(--rule);
+  margin: 1.5em 0;
+}
+.prose table {
+  border-collapse: collapse;
+  width: 100%;
+}
+.prose td,
+.prose th {
+  border-bottom: 1px solid var(--rule);
+  padding: 0.4em 0.6em 0.4em 0;
+  text-align: left;
+  vertical-align: top;
 }
 
 /* Cross-document view transitions (progressive enhancement: browsers without
    support just navigate normally). Recipe photos share a per-recipe
-   view-transition-name — set on the card, the recipe page and the clicked
+   view-transition-name — set on the cover/card, the recipe page and the clicked
    search result — so the photo morphs between list and detail. */
 @view-transition {
   navigation: auto;
@@ -80,13 +247,13 @@ img {
 }
 
 ::view-transition-group(*.receta-photo) {
-  animation-duration: 0.4s;
+  animation-duration: 0.5s;
   animation-timing-function: cubic-bezier(0.2, 0, 0, 1);
   overflow: clip;
-  border-radius: 4px;
 }
 
-/* The card is 1:1 and the recipe photo 4:3: crop instead of stretching. */
+/* Frames differ in aspect between list and recipe page (4:3 card, wide
+   hero): crop instead of stretching. */
 ::view-transition-old(*.receta-photo),
 ::view-transition-new(*.receta-photo) {
   block-size: 100%;

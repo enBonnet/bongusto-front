@@ -1,9 +1,10 @@
 ---
-import "@fontsource/raleway/300.css";
-import "@fontsource/raleway/400.css";
-import "@fontsource/raleway/700.css";
+import "@fontsource-variable/archivo/wdth.css";
+import "@fontsource-variable/source-serif-4/wght.css";
+import "@fontsource-variable/source-serif-4/wght-italic.css";
 import "../styles/global.css";
 import { SITE } from "../lib/site";
+import { getAllRecetas, getCategorias } from "../lib/content";
 
 interface Props {
   title?: string;
@@ -11,6 +12,10 @@ interface Props {
   image?: string;
   canonical?: string;
   ogType?: "website" | "article";
+  /** Let the page's last block run straight into the footer (no gap). */
+  flush?: boolean;
+  /** Keep the page out of search engines (personal, per-browser pages). */
+  noindex?: boolean;
 }
 const {
   title = "BonGusto",
@@ -18,14 +23,25 @@ const {
   image = SITE.image,
   canonical,
   ogType = "website",
+  flush = false,
+  noindex = false,
 } = Astro.props;
 const canonicalUrl = canonical ?? new URL(Astro.url.pathname, Astro.site).href;
 const fullTitle = title === "BonGusto" ? title : `${title} | BonGusto`;
 // og/twitter require absolute URLs; SITE.image may be site-relative.
 const imageUrl = image ? new URL(image, Astro.site).href : undefined;
-// Raleway is self-hosted via @fontsource (imports above): the woff2 files are
-// bundled into /_astro/ and served from this origin with immutable caching —
-// no render-blocking third-party request, no Google connection.
+// Archivo and Source Serif 4 are self-hosted via @fontsource-variable (imports
+// above): the woff2 files are bundled into /_astro/ and served from this origin
+// with immutable caching — no render-blocking third-party request, no Google
+// connection.
+const departments = (await getCategorias()).map(({ slug, categoria }) => ({
+  slug,
+  nombre: categoria?.nombre ?? slug,
+}));
+const totalRecetas = (await getAllRecetas()).length;
+// The full-width nameplate is the home page's cover; inner pages get a compact one.
+const isHome = Astro.url.pathname === "/";
+const activeDept = Astro.url.pathname.match(/^\/categoria\/([^/]+)/)?.[1];
 ---
 
 <!doctype html>
@@ -35,6 +51,7 @@ const imageUrl = image ? new URL(image, Astro.site).href : undefined;
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{fullTitle}</title>
     <meta name="description" content={description} />
+    {noindex && <meta name="robots" content="noindex" />}
     <link rel="canonical" href={canonicalUrl} />
     <link rel="icon" type="image/png" href="/bongusto-rounded.png" />
     <link rel="sitemap" href="/sitemap-index.xml" />
@@ -52,75 +69,314 @@ const imageUrl = image ? new URL(image, Astro.site).href : undefined;
     <slot name="head" />
   </head>
   <body>
-    <header class="header">
-      <nav class="nav">
-        <a href="/" class="link logo">BonGusto</a>
-        <div class="menu">
-          <a href="/buscar" class="link">Buscar</a>
-          <a href="/acerca" class="link">Acerca de mi</a>
+    <header class={`masthead ${isHome ? "" : "compact"}`}>
+      <div class="strip wrap">
+        <span class="count">{totalRecetas} recetas</span>
+        <nav class="util" aria-label="Principal">
+          <a href="/buscar" class="link" aria-current={Astro.url.pathname.startsWith("/buscar") ? "page" : undefined}>Buscar</a>
+          <a href="/guardadas" class="link saved-link" aria-current={Astro.url.pathname.startsWith("/guardadas") ? "page" : undefined}>
+            Guardadas<span class="saved-count" data-saved-count hidden></span>
+          </a>
+          <a href="/acerca" class="link" aria-current={Astro.url.pathname.startsWith("/acerca") ? "page" : undefined}>Acerca de mí</a>
+        </nav>
+      </div>
+      <div class="wrap">
+        <a href="/" class="link wordmark" aria-label="BonGusto, inicio"><span>Bon</span>Gusto</a>
+      </div>
+      <p class="tagline wrap">Bonnet al gusto <span class="more">· recetas con un poco de historia</span></p>
+      <nav class="depts" aria-label="Categorías">
+        <div class="wrap depts-row">
+          {
+            departments.map(({ slug, nombre }) => (
+              <a
+                href={`/categoria/${slug}`}
+                class="link dept"
+                aria-current={slug === activeDept ? "page" : undefined}
+              >
+                {nombre}
+              </a>
+            ))
+          }
         </div>
       </nav>
     </header>
-    <main class="main">
+    <main>
       <slot />
     </main>
-    <footer class="footer">
-      <div class="mobile">
-        <a href="/buscar" class="link option">Buscar</a>
-        <a href="/acerca" class="link option">Acerca de mi</a>
+    <footer class={`footer ${flush ? "flush" : ""}`}>
+      <div class="wrap">
+        <a href="/" class="link foot-mark" aria-label="BonGusto, inicio"><span>Bon</span>Gusto</a>
+        <div class="foot-cols">
+          <nav aria-label="Categorías (pie)">
+            <p class="foot-title">Secciones</p>
+            <ul>
+              {
+                departments.map(({ slug, nombre }) => (
+                  <li>
+                    <a href={`/categoria/${slug}`} class="link">
+                      {nombre}
+                    </a>
+                  </li>
+                ))
+              }
+            </ul>
+          </nav>
+          <nav aria-label="Sitio">
+            <p class="foot-title">El sitio</p>
+            <ul>
+              <li><a href="/" class="link">Todas las recetas</a></li>
+              <li><a href="/buscar" class="link">Buscar</a></li>
+              <li><a href="/acerca" class="link">Acerca de mí</a></li>
+            </ul>
+          </nav>
+          <p class="colophon">
+            Recetas de comida latinoamericana y del mundo, con un poco de historia, al gusto de {SITE.author}.
+          </p>
+        </div>
+        <p class="legal">© {new Date().getFullYear()} BonGusto</p>
       </div>
     </footer>
+    <script>
+    import { onSavedChange, readSaved } from "../scripts/saved";
+    const badge = document.querySelector<HTMLElement>("[data-saved-count]");
+    onSavedChange(() => {
+      if (!badge) return;
+      const n = readSaved().length;
+      badge.hidden = n === 0;
+      badge.textContent = String(n);
+    });
+  </script>
   </body>
 </html>
 
 <style>
-  .header {
-    background-color: var(--white);
-    border-bottom: 1px solid var(--green);
-    padding: 16px 8px;
+  .masthead {
+    background-color: var(--paper);
   }
-  .header .nav {
+
+  .masthead.compact .wordmark {
+    font-size: clamp(3rem, 8vw, 6.5rem);
+    margin-top: 8px;
+    padding-bottom: 10px;
+  }
+  .masthead.compact .tagline {
+    display: none;
+  }
+
+  /* Utility strip */
+  .strip {
+    align-items: center;
     display: flex;
-    justify-content: space-between;
-  }
-  .header .logo {
-    color: var(--green);
-    font-size: 18px;
+    font-family: var(--font-display);
+    font-size: 0.8125rem;
+    font-stretch: 100%;
     font-weight: 700;
-    letter-spacing: 2px;
+    justify-content: space-between;
+    letter-spacing: 0.08em;
+    padding-block: 12px 0;
     text-transform: uppercase;
   }
-  .header .menu {
-    font-weight: 700;
+  .strip .count {
+    color: var(--muted);
   }
-  @media only screen and (max-width: 767px) {
-    .header .menu {
+  .strip .util {
+    display: flex;
+    gap: 24px;
+  }
+  .saved-count {
+    background-color: var(--aji);
+    color: var(--paper);
+    display: inline-block;
+    font-size: 0.6875rem;
+    line-height: 1;
+    margin-left: 6px;
+    min-width: 1.6em;
+    padding: 4px 5px;
+    text-align: center;
+  }
+  .saved-count[hidden] {
+    display: none;
+  }
+  @media (max-width: 520px) {
+    .strip .count {
+      display: none;
+    }
+    .strip {
+      justify-content: flex-end;
+    }
+    .strip .util {
+      gap: 18px;
+    }
+  }
+  .strip .util a[aria-current="page"] {
+    color: var(--aji);
+  }
+  .strip .util a:hover {
+    color: var(--aji);
+  }
+
+  /* The wordmark spans the page like a magazine nameplate. */
+  .wordmark {
+    display: block;
+    font-family: var(--font-display);
+    font-size: clamp(4rem, 23.8vw, 20rem);
+    font-stretch: 62%;
+    font-weight: 900;
+    letter-spacing: -0.02em;
+    line-height: 0.74;
+    margin-top: 14px;
+    padding-bottom: 0.02em;
+    text-transform: uppercase;
+    white-space: nowrap;
+  }
+  .wordmark span {
+    color: var(--aji);
+  }
+
+  .tagline {
+    color: var(--muted);
+    font-family: var(--font-display);
+    font-size: 0.8125rem;
+    font-stretch: 100%;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    padding-block: 14px 14px;
+    text-transform: uppercase;
+  }
+  .tagline span {
+    color: var(--aji);
+  }
+
+  /* Department bar */
+  .depts {
+    background-color: var(--paper);
+    border-block: 3px solid var(--ink);
+  }
+  .depts-row {
+    display: flex;
+    gap: 4px 28px;
+    overflow-x: auto;
+    scrollbar-width: none;
+  }
+  .depts-row::-webkit-scrollbar {
+    display: none;
+  }
+  .dept {
+    flex: none;
+    font-family: var(--font-display);
+    font-size: 0.9375rem;
+    font-stretch: 100%;
+    font-weight: 800;
+    letter-spacing: 0.06em;
+    padding-block: 12px;
+    position: relative;
+    text-transform: uppercase;
+  }
+  .dept:hover {
+    color: var(--aji);
+  }
+  .dept[aria-current="page"] {
+    color: var(--aji);
+  }
+  .dept[aria-current="page"]::after {
+    background-color: var(--aji);
+    bottom: -3px;
+    content: "";
+    height: 3px;
+    left: 0;
+    position: absolute;
+    right: 0;
+  }
+  @media (max-width: 899px) {
+    .depts-row {
+      mask-image: linear-gradient(to right, #000 calc(100% - 48px), transparent);
+    }
+    .tagline .more {
       display: none;
     }
   }
+  @media (min-width: 900px) {
+    .depts-row {
+      justify-content: space-between;
+    }
+    .dept {
+      font-size: 1rem;
+    }
+  }
 
+  /* Footer / colophon */
   .footer {
-    align-items: center;
-    background-color: var(--white);
-    border-top: 1px solid var(--green);
-    bottom: 0;
-    justify-content: flex-end;
-    position: fixed;
-    width: 100%;
+    background-color: var(--ink);
+    color: var(--paper);
+    margin-top: 96px;
+    padding-block: 56px 32px;
   }
-  .footer .mobile {
-    align-items: center;
-    display: flex;
-    font-weight: 700;
-    height: 40px;
-    justify-content: left;
+  .footer.flush {
+    margin-top: 0;
   }
-  .footer .option {
-    margin: 0 8px;
+  .footer :focus-visible {
+    outline-color: var(--amarillo);
   }
-  @media only screen and (min-width: 768px) {
-    .footer {
-      display: none;
+  .foot-mark {
+    display: block;
+    font-family: var(--font-display);
+    font-size: clamp(3.5rem, 20vw, 17rem);
+    font-stretch: 62%;
+    font-weight: 900;
+    letter-spacing: -0.02em;
+    line-height: 0.84;
+    text-transform: uppercase;
+  }
+  .foot-mark span {
+    color: var(--amarillo);
+  }
+  .foot-cols {
+    border-top: 1px solid rgb(255 255 255 / 0.25);
+    display: grid;
+    gap: 32px;
+    margin-top: 40px;
+    padding-top: 32px;
+  }
+  .foot-title {
+    color: var(--amarillo);
+    font-family: var(--font-display);
+    font-size: 0.8125rem;
+    font-weight: 800;
+    letter-spacing: 0.08em;
+    margin-bottom: 12px;
+    text-transform: uppercase;
+  }
+  .foot-cols ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  .foot-cols li + li {
+    margin-top: 6px;
+  }
+  .foot-cols a:hover {
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+  .colophon {
+    color: rgb(255 255 255 / 0.78);
+    font-size: 1rem;
+    max-width: 34ch;
+  }
+  .legal {
+    color: rgb(255 255 255 / 0.65);
+    font-family: var(--font-display);
+    font-size: 0.8125rem;
+    letter-spacing: 0.08em;
+    margin-top: 40px;
+    text-transform: uppercase;
+  }
+  @media (min-width: 760px) {
+    .foot-cols {
+      grid-template-columns: 1fr 1fr 1.4fr;
+    }
+    .colophon {
+      justify-self: end;
     }
   }
 </style>

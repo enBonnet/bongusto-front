@@ -11,18 +11,24 @@ const { current, total, makeHref = (n) => (n <= 1 ? "/" : `/pagina/${n}`) } = As
 {
   total > 1 && (
     <nav class="pagination" aria-label="Paginación">
-      {current > 1 && (
-        <a href={makeHref(current - 1)} class="link nav-link">
-          ← Anterior
+      {current > 1 ? (
+        <a href={makeHref(current - 1)} class="link step prev" rel="prev">
+          <span class="arrow" aria-hidden="true">←</span>
+          <span class="label">Anterior</span>
         </a>
+      ) : (
+        <span class="step prev off" aria-hidden="true" />
       )}
-      <span class="status" aria-current="page">
-        Página {current} de {total}
-      </span>
-      {current < total && (
-        <a href={makeHref(current + 1)} class="link nav-link">
-          Siguiente →
+      <p class="status">
+        Página <strong>{current}</strong> de {total}
+      </p>
+      {current < total ? (
+        <a href={makeHref(current + 1)} class="link step next" rel="next">
+          <span class="label">Siguiente</span>
+          <span class="arrow" aria-hidden="true">→</span>
         </a>
+      ) : (
+        <span class="step next off" aria-hidden="true" />
       )}
     </nav>
   )
@@ -30,13 +36,56 @@ const { current, total, makeHref = (n) => (n <= 1 ? "/" : `/pagina/${n}`) } = As
 
 <style>
   .pagination {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 16px 0;
-    font-weight: 700;
+    align-items: stretch;
+    border-top: 3px solid var(--ink);
+    display: grid;
+    grid-template-columns: 1fr auto 1fr;
+    margin-top: 72px;
   }
-  .nav-link {
-    color: var(--green);
+  .step {
+    align-items: center;
+    display: flex;
+    font-family: var(--font-display);
+    font-size: clamp(1.25rem, 3vw, 2.25rem);
+    font-stretch: 70%;
+    font-weight: 900;
+    gap: 12px;
+    padding-block: 20px;
+    text-transform: uppercase;
+  }
+  .step.next {
+    justify-content: flex-end;
+  }
+  .step:not(.off):hover {
+    color: var(--aji);
+  }
+  .arrow {
+    font-stretch: 100%;
+  }
+  .status {
+    align-self: center;
+    color: var(--muted);
+    font-family: var(--font-display);
+    font-size: 0.8125rem;
+    font-stretch: 100%;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    padding-inline: 16px;
+    text-align: center;
+    text-transform: uppercase;
+  }
+  .status strong {
+    color: var(--ink);
+  }
+  /* On narrow screens only the arrows show; the label stays for screen readers. */
+  @media (max-width: 520px) {
+    .label {
+      clip-path: inset(50%);
+      height: 1px;
+      overflow: hidden;
+      position: absolute;
+      white-space: nowrap;
+      width: 1px;
+    }
   }
 </style>
