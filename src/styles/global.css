@@ -64,3 +64,31 @@ img {
     padding: 16px;
   }
 }
+
+/* Cross-document view transitions (progressive enhancement: browsers without
+   support just navigate normally). Recipe photos share a per-recipe
+   view-transition-name — set on the card, the recipe page and the clicked
+   search result — so the photo morphs between list and detail. */
+@view-transition {
+  navigation: auto;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  @view-transition {
+    navigation: none;
+  }
+}
+
+::view-transition-group(*.receta-photo) {
+  animation-duration: 0.4s;
+  animation-timing-function: cubic-bezier(0.2, 0, 0, 1);
+  overflow: clip;
+  border-radius: 4px;
+}
+
+/* The card is 1:1 and the recipe photo 4:3: crop instead of stretching. */
+::view-transition-old(*.receta-photo),
+::view-transition-new(*.receta-photo) {
+  block-size: 100%;
+  object-fit: cover;
+}

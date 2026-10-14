@@ -10,7 +10,7 @@ const { receta } = Astro.props;
 
 <a href={recetaUrl(receta)} class="link card">
   {receta.photo?.url && (
-    <div class="photo">
+    <div class="photo" style={`view-transition-name: receta-${receta.id}`}>
       <img src={recetaCardImage(receta)} alt={receta.photo?.alt || receta.titulo} loading="lazy" decoding="async" width="300" height="300" />
     </div>
   )}
@@ -30,6 +30,7 @@ const { receta } = Astro.props;
     box-shadow: 3px 3px 5px 0px rgba(0, 0, 0, 0.119);
   }
   .photo {
+    view-transition-class: receta-photo;
     aspect-ratio: 1 / 1;
     border-radius: 4px;
     margin-bottom: 16px;

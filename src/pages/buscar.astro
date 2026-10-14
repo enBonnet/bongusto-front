@@ -13,6 +13,21 @@ import Layout from "../components/Layout.astro";
       Ejecuta <code>npm run build</code> y luego <code>npm run preview</code> para probarla.
     </p>
     <script is:inline>
+      // Name the clicked result's thumbnail after its recipe so the browser can
+      // morph it into the photo on the recipe page (see global.css). Pagefind
+      // renders results client-side, so this can't be done in markup.
+      document.addEventListener("click", (event) => {
+        const link = event.target.closest?.(".pagefind-ui__result-link, .pagefind-ui__result-thumb a, .pagefind-ui__result-image");
+        const result = link?.closest(".pagefind-ui__result");
+        const href = result?.querySelector(".pagefind-ui__result-link")?.getAttribute("href");
+        const id = href?.match(/^\/receta\/(\d+)\//)?.[1];
+        const thumb = result?.querySelector(".pagefind-ui__result-thumb");
+        if (!id || !thumb) return;
+        thumb.style.viewTransitionName = `receta-${id}`;
+        thumb.style.viewTransitionClass = "receta-photo";
+      });
+    </script>
+    <script is:inline>
       // The pagefind assets only exist after `pagefind --site dist`, so the
       // UI script may 404 under plain `astro dev` — explain instead of
       // leaving a blank card.

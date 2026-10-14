@@ -60,7 +60,7 @@ const recipeLdJson = JSON.stringify(
     {chipCats.length > 0 && <CategoryNav cats={chipCats} />}
     {
       receta.photo?.url && (
-        <div class="photo">
+        <div class="photo" style={`view-transition-name: receta-${receta.id}`}>
           <img
             src={recetaHeroImage(receta)}
             alt={receta.photo?.alt || receta.titulo}
@@ -119,6 +119,7 @@ const recipeLdJson = JSON.stringify(
     font-weight: 700;
   }
   .receta .photo {
+    view-transition-class: receta-photo;
     aspect-ratio: 4 / 3;
     margin-bottom: 32px;
     overflow: hidden;
