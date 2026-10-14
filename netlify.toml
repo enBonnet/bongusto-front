@@ -5,6 +5,15 @@
 [build.environment]
   NODE_VERSION = "22"
 
+# www is the canonical host (astro.config.mjs `site`, sitemap, robots.txt) and
+# the form the old site was indexed under. Needs www set as the primary domain
+# in Netlify's Domain management too, or the two redirects loop.
+[[redirects]]
+  from = "https://bongusto.net/*"
+  to = "https://www.bongusto.net/:splat"
+  status = 301
+  force = true
+
 [[headers]]
   for = "/*"
   [headers.values]
