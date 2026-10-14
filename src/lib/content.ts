@@ -40,16 +40,25 @@ export function recetaUrl(receta: Receta): string {
   return `/receta/${receta.id}/${slugify(receta.titulo)}`;
 }
 
+// f_auto/q_auto: Cloudinary picks AVIF/WebP per browser and a perceptual
+// quality. Without them the uploads (mostly PNG) are served as-is, ~15x bigger.
+const CLOUDINARY_DELIVERY = "f_auto,q_auto";
+
 /**
- * Listing image for a recipe card. Thumbs are stored as 100px Cloudinary
- * crops (w_100,h_100,c_thumb); request the same transformation at card
- * resolution instead of shipping a blurry upscale or the full photo.
- * Falls back to the full photo when there is no Cloudinary thumb.
+ * Listing image for a recipe card. Cloudinary photos reuse the exact hero URL
+ * (see recetaHeroImage): same bytes, so opening a recipe is served from the
+ * browser cache instead of downloading the photo a second time, and the
+ * list→detail view transition morphs identical pixels. The card box is 1:1 and
+ * crops the 4:3 image with object-fit: cover.
+ * Otherwise falls back to the stored 100px Cloudinary thumb upscaled to card
+ * resolution, then to the full photo.
  */
 export function recetaCardImage(receta: Pick<Receta, "photo">): string | undefined {
+  const hero = recetaHeroImage(receta);
+  if (hero && hero !== receta.photo?.url) return hero;
   const thumb = receta.photo?.thumb;
   if (thumb?.includes("/image/upload/") && thumb.includes("w_100,h_100,c_thumb")) {
-    return thumb.replace("w_100,h_100,c_thumb", "w_600,h_600,c_thumb");
+    return thumb.replace("w_100,h_100,c_thumb", `${CLOUDINARY_DELIVERY},w_600,h_600,c_thumb`);
   }
   return receta.photo?.url ?? undefined;
 }
@@ -64,7 +73,7 @@ export function recetaHeroImage(receta: Pick<Receta, "photo">): string | undefin
   const url = receta.photo?.url;
   if (!url) return undefined;
   const m = url.match(/^(https:\/\/res\.cloudinary\.com\/[^/]+\/image\/upload\/)(.+)$/);
-  return m ? `${m[1]}w_600,h_450,c_fill/${m[2]}` : url;
+  return m ? `${m[1]}${CLOUDINARY_DELIVERY},w_600,h_450,c_fill/${m[2]}` : url;
 }
 
 export async function getRecetaById(id: number): Promise<Receta | undefined> {

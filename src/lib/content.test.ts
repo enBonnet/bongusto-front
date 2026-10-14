@@ -42,15 +42,24 @@ describe("renderMarkdoc", () => {
 describe("recetaCardImage", () => {
   const cloudinaryBase = "https://res.cloudinary.com/enbonnet/image/upload";
 
-  it("requests the stored thumb transformation at card resolution", () => {
+  it("reuses the hero URL so the recipe page hits the browser cache", () => {
+    const photo = {
+      url: `${cloudinaryBase}/v1573170326/nzzlltblm8rfco38t1ao.jpg`,
+      thumb: `${cloudinaryBase}/w_100,h_100,c_thumb/nzzlltblm8rfco38t1ao`,
+      alt: "x",
+    };
+    expect(recetaCardImage({ photo })).toBe(recetaHeroImage({ photo }));
+  });
+
+  it("upscales the stored thumb when the full photo is not a Cloudinary URL", () => {
     const src = recetaCardImage({
       photo: {
-        url: `${cloudinaryBase}/v1573170326/nzzlltblm8rfco38t1ao.jpg`,
+        url: "https://example.com/a.jpg",
         thumb: `${cloudinaryBase}/w_100,h_100,c_thumb/nzzlltblm8rfco38t1ao`,
         alt: "x",
       },
     });
-    expect(src).toBe(`${cloudinaryBase}/w_600,h_600,c_thumb/nzzlltblm8rfco38t1ao`);
+    expect(src).toBe(`${cloudinaryBase}/f_auto,q_auto,w_600,h_600,c_thumb/nzzlltblm8rfco38t1ao`);
   });
 
   it("falls back to the full photo when there is no thumb", () => {
@@ -71,7 +80,7 @@ describe("recetaCardImage", () => {
     expect(src).toBe("https://example.com/real.jpg");
   });
 
-  it("does not rewrite Cloudinary thumbs with a different transformation", () => {
+  it("ignores Cloudinary thumbs with a different transformation and uses the sized hero", () => {
     const src = recetaCardImage({
       photo: {
         url: `${cloudinaryBase}/v1573170326/nzzlltblm8rfco38t1ao.jpg`,
@@ -79,7 +88,7 @@ describe("recetaCardImage", () => {
         alt: "",
       },
     });
-    expect(src).toBe(`${cloudinaryBase}/v1573170326/nzzlltblm8rfco38t1ao.jpg`);
+    expect(src).toBe(`${cloudinaryBase}/f_auto,q_auto,w_600,h_450,c_fill/v1573170326/nzzlltblm8rfco38t1ao.jpg`);
   });
 
   it("returns undefined when there is no photo at all", () => {
@@ -98,7 +107,7 @@ describe("recetaHeroImage", () => {
         alt: "",
       },
     });
-    expect(src).toBe(`${cloudinaryBase}/w_600,h_450,c_fill/v1573170326/nzzlltblm8rfco38t1ao.jpg`);
+    expect(src).toBe(`${cloudinaryBase}/f_auto,q_auto,w_600,h_450,c_fill/v1573170326/nzzlltblm8rfco38t1ao.jpg`);
   });
 
   it("passes non-Cloudinary hero URLs through untouched", () => {
