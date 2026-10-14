@@ -3,4 +3,4 @@ Allow: /
 Disallow: /keystatic
 Disallow: /api/keystatic
 
-Sitemap: https://www.bongusto.net/sitemap-index.xml
+Sitemap: https://bongusto.net/sitemap-index.xml

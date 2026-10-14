@@ -23,7 +23,7 @@ export default defineConfig({
     // which crashes with an unhandled rejection when Deno isn't installed.
     devFeatures: { environmentVariables: false, images: true, edgeFunctions: false },
   }),
-  site: "https://www.bongusto.net",
+  site: "https://bongusto.net",
   server: { port: 4321 },
   integrations: [
     react(),

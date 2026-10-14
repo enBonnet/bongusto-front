@@ -18,7 +18,7 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
-const BASE = (process.argv[2] || process.env.AUDIT_BASE || "https://www.bongusto.net").replace(/\/+$/, "");
+const BASE = (process.argv[2] || process.env.AUDIT_BASE || "https://bongusto.net").replace(/\/+$/, "");
 const MAX_HOPS = 5;
 const THROTTLE_MS = 150;
 const RETRIES = 3;
