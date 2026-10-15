@@ -163,6 +163,7 @@ const links = [
 
 <script>
   import { onSavedChange, isSaved, toggleSaved } from "../scripts/saved";
+  import { play } from "../scripts/sfx";
 
   const roots = document.querySelectorAll<HTMLElement>("[data-recipe-actions]");
 
@@ -210,6 +211,7 @@ const links = [
       });
       save.addEventListener("click", () => {
         const saved = toggleSaved({ id: recipeId, titulo: title, url: path, img, dept });
+        play(saved ? "save" : "unsave");
         say(root, saved ? "Receta guardada en este navegador" : "Receta quitada de tus guardadas");
       });
     }
@@ -228,7 +230,9 @@ const links = [
     if (copyBtn) {
       copyBtn.hidden = false;
       copyBtn.addEventListener("click", async () => {
-        say(root, (await copy(url)) ? "Enlace copiado" : "No se pudo copiar el enlace");
+        const ok = await copy(url);
+        if (ok) play("copy");
+        say(root, ok ? "Enlace copiado" : "No se pudo copiar el enlace");
       });
     }
   }

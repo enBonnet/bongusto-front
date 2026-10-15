@@ -124,6 +124,7 @@ import DeptBanner from "../components/DeptBanner.astro";
 
 <script>
   import { onSavedChange, readSaved, removeSaved } from "../scripts/saved";
+  import { play } from "../scripts/sfx";
 
   const list = document.querySelector<HTMLUListElement>("[data-list]")!;
   const empty = document.querySelector<HTMLElement>("[data-empty]")!;
@@ -167,7 +168,10 @@ import DeptBanner from "../components/DeptBanner.astro";
         remove.className = "saved-remove";
         remove.textContent = "Quitar";
         remove.setAttribute("aria-label", `Quitar ${r.titulo} de guardadas`);
-        remove.addEventListener("click", () => removeSaved(r.id));
+        remove.addEventListener("click", () => {
+          removeSaved(r.id);
+          play("unsave");
+        });
 
         li.append(a, remove);
         return li;

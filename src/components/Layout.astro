@@ -78,6 +78,16 @@ const activeDept = Astro.url.pathname.match(/^\/categoria\/([^/]+)/)?.[1];
             Guardadas<span class="saved-count" data-saved-count hidden></span>
           </a>
           <a href="/acerca" class="link" aria-current={Astro.url.pathname.startsWith("/acerca") ? "page" : undefined}>Acerca de mí</a>
+          <!-- JS-only control (sounds need Web Audio): starts hidden like the
+               save button, revealed by the script below. -->
+          <button type="button" class="sound" data-sound-toggle aria-pressed="true" hidden>
+            <svg class="icon" viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M3 9h4l5-4v14l-5-4H3z" stroke-linejoin="miter"></path>
+              <path class="waves" d="M15.5 9.5a3.5 3.5 0 0 1 0 5M18 7a7 7 0 0 1 0 10" stroke-linecap="square"></path>
+              <line class="slash" x1="15" y1="9" x2="21" y2="15" stroke-linecap="square"></line>
+            </svg>
+            Sonido
+          </button>
         </nav>
       </div>
       <div class="wrap">
@@ -138,12 +148,40 @@ const activeDept = Astro.url.pathname.match(/^\/categoria\/([^/]+)/)?.[1];
     </footer>
     <script>
     import { onSavedChange, readSaved } from "../scripts/saved";
+    import { onSoundChange, play, readSoundPref, setSoundOn } from "../scripts/sfx";
     const badge = document.querySelector<HTMLElement>("[data-saved-count]");
     onSavedChange(() => {
       if (!badge) return;
       const n = readSaved().length;
       badge.hidden = n === 0;
       badge.textContent = String(n);
+    });
+
+    // Sound on/off, dressed as a util link. onSoundChange also runs now, so
+    // the pressed state is corrected from localStorage before anyone reads it.
+    const sound = document.querySelector<HTMLButtonElement>("[data-sound-toggle]");
+    if (sound) {
+      sound.hidden = false;
+      onSoundChange(() => {
+        sound.setAttribute("aria-pressed", String(readSoundPref()));
+      });
+      sound.addEventListener("click", () => {
+        const on = !readSoundPref();
+        setSoundOn(on);
+        if (on) play("copy"); // reuse the confirmation blip; turning off stays silent
+      });
+    }
+
+    // One tick per plain left-click on an internal link. Plain clicks only:
+    // modified clicks change the destination (new tab/window) and external
+    // share links stay silent.
+    document.addEventListener("click", (event) => {
+      if (event.button !== 0 || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
+      const target = event.target;
+      const link = target instanceof Element ? target.closest<HTMLAnchorElement>("a[href]") : null;
+      if (!link || link.target === "_blank") return;
+      if (new URL(link.href).origin !== location.origin) return;
+      play("nav");
     });
   </script>
   </body>
@@ -213,6 +251,54 @@ const activeDept = Astro.url.pathname.match(/^\/categoria\/([^/]+)/)?.[1];
   }
   .strip .util a:hover {
     color: var(--aji);
+  }
+
+  /* Sound toggle: a <button> styled exactly like the util links above. */
+  .strip .util .sound {
+    align-items: center;
+    background: none;
+    border: 0;
+    color: var(--ink);
+    cursor: pointer;
+    display: inline-flex;
+    font-family: var(--font-display);
+    font-size: 0.8125rem;
+    font-stretch: 100%;
+    font-weight: 700;
+    gap: 6px;
+    letter-spacing: 0.08em;
+    padding-block: 4px;
+    text-transform: uppercase;
+  }
+  .strip .util .sound[hidden] {
+    display: none;
+  }
+  .strip .util .sound:hover {
+    color: var(--aji);
+  }
+  .strip .util .sound[aria-pressed="false"] {
+    color: var(--muted);
+  }
+  /* Keep hover feedback when off (this out-specifies the muted rule above). */
+  .strip .util .sound[aria-pressed="false"]:hover {
+    color: var(--aji);
+  }
+  .sound .icon {
+    fill: none;
+    flex: none;
+    height: 15px;
+    stroke: currentColor;
+    stroke-width: 2.2;
+    width: 15px;
+  }
+  .sound .slash {
+    display: none;
+  }
+  .sound[aria-pressed="false"] .waves {
+    display: none;
+  }
+  .sound[aria-pressed="false"] .slash {
+    display: block;
   }
 
   /* The wordmark spans the page like a magazine nameplate. */

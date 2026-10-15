@@ -55,6 +55,39 @@ import DeptBanner from "../components/DeptBanner.astro";
         document.querySelector('#search .pagefind-ui__search-input')?.setAttribute('aria-label', 'Buscar recetas por título o ingrediente');
       }
     </script>
+    <script>
+      // Soft tick when results (re)render. The MutationObserver only arms
+      // after the reader actually types — a delegated "input" listener,
+      // because PagefindUI builds the field itself (or never does, in dev) —
+      // so page load and Pagefind's startup stay silent. Typing bursts are
+      // absorbed by sfx's 100ms debounce.
+      import { play } from "../scripts/sfx";
+
+      const search = document.getElementById("search");
+      if (search) {
+        let armed = false;
+        const observer = new MutationObserver((records) => {
+          for (const record of records) {
+            for (const node of record.addedNodes) {
+              if (
+                node instanceof Element &&
+                (node.matches(".pagefind-ui__result") || node.querySelector(".pagefind-ui__result"))
+              ) {
+                play("search");
+                return;
+              }
+            }
+          }
+        });
+        document.addEventListener("input", (event) => {
+          if (event.target instanceof Element && event.target.matches(".pagefind-ui__search-input")) {
+            if (armed) return;
+            armed = true;
+            observer.observe(search, { childList: true, subtree: true });
+          }
+        });
+      }
+    </script>
   </div>
 </Layout>
 
