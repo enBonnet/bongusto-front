@@ -13,19 +13,19 @@ colors:
 typography:
   masthead:
     fontFamily: "Archivo Variable, Arial Narrow, sans-serif"
-    fontSize: "clamp(3.5rem, 17vw, 14rem)"
+    fontSize: "clamp(4rem, 23.8vw, 20rem)"
     fontWeight: 900
-    lineHeight: 0.82
-    letterSpacing: "-0.03em"
+    lineHeight: 0.74
+    letterSpacing: "-0.02em"
   headline:
     fontFamily: "Archivo Variable, Arial Narrow, sans-serif"
-    fontSize: "clamp(2.25rem, 6vw, 5.5rem)"
-    fontWeight: 800
-    lineHeight: 0.92
-    letterSpacing: "-0.02em"
+    fontSize: "clamp(2.75rem, 8vw, 7rem)"
+    fontWeight: 900
+    lineHeight: 0.88
+    letterSpacing: "-0.025em"
   dek:
     fontFamily: "Source Serif 4 Variable, Georgia, serif"
-    fontSize: "clamp(1.25rem, 2vw, 1.625rem)"
+    fontSize: "clamp(1.25rem, 2vw, 1.75rem)"
     fontWeight: 400
     lineHeight: 1.35
   body:
@@ -38,6 +38,34 @@ typography:
     fontSize: "0.8125rem"
     fontWeight: 800
     letterSpacing: "0.08em"
+  scale:
+    masthead-compact: "clamp(3rem, 8vw, 6.5rem)"
+    footer-mark: "clamp(3.5rem, 20vw, 17rem)"
+    cover-title: "clamp(2.75rem, 7.4vw, 6.5rem)"
+    cover-dek: "1.25rem"
+    banner-title: "clamp(4rem, 17vw, 15rem)"
+    listing-title: "clamp(3rem, 9vw, 8rem)"
+    about-title: "clamp(3.5rem, 10vw, 9rem)"
+    about-dek: "1.5rem"
+    title-404: "clamp(3.5rem, 13vw, 11rem)"
+    section-title: "clamp(2.5rem, 6vw, 4.5rem)"
+    subsection-title: "clamp(2rem, 3.4vw, 3rem)"
+    end-title: "clamp(1.75rem, 3vw, 2.5rem)"
+    pagination-step: "clamp(1.25rem, 3vw, 2.25rem)"
+    story-title: "clamp(1.75rem, 2.4vw, 2.25rem)"
+    story-title-large: "clamp(2.25rem, 4vw, 3.75rem)"
+    story-title-band: "clamp(2.5rem, 4.4vw, 4.25rem)"
+    result-title: "1.75rem"
+    prose-head: "1.375rem"
+    story-dek: "1.0625rem"
+    story-dek-large: "1.1875rem"
+    ingredient: "1.0625rem"
+    ui-label: "0.8125rem"
+    ui-category: "0.875rem"
+    ui-label-large: "0.9375rem"
+    ui-count: "1rem"
+    about-courses: "1rem"
+    badge: "0.6875rem"
 rounded:
   none: "0"
 spacing:
@@ -89,8 +117,8 @@ The reader is a cooking student or peer looking up a recipe, so the recipe is ne
 
 - **Archivo Variable** with the width axis: masthead and headlines at width 62-75 (condensed), weight 800-900; kickers and UI labels at width 100, weight 800, uppercase, `0.08em` tracking.
 - **Source Serif 4 Variable**: dek (description), history, ingredients, and method at 18px / 1.65, measure capped near 66ch. Italic is used for the dek (cover and recipe standfirst) only.
-- Scale: masthead 3.5 -> 14rem, headline 2.25 -> 5.5rem, dek 1.25 -> 1.625rem, body 1.125rem, kicker 0.8125rem.
-- In use (all fluid with `clamp`): story title 1.75 -> 2.25rem, large story 2.25 -> 3.75rem, band story 2.5 -> 4.25rem, section title 2 -> 3rem, banner/search/404 title 3.5 -> 15rem, ingredient text 1.0625rem, story dek 1.0625rem, UI labels 0.8125-0.9375rem.
+- Scale: masthead 4 -> 20rem, headline 2.75 -> 7rem, dek 1.25 -> 1.75rem, body 1.125rem, kicker 0.8125rem.
+- In use (all fluid with `clamp` unless noted): story title 1.75 -> 2.25rem, large story 2.25 -> 3.75rem, band story 2.5 -> 4.25rem, section title 2.5 -> 4.5rem (recipe/about subsections 2 -> 3rem), banner title 4 -> 15rem, 404 title 3.5 -> 11rem, about title 3.5 -> 9rem, listing title 3 -> 8rem, cover title 2.75 -> 6.5rem, compact nameplate 3 -> 6.5rem, footer mark 3.5 -> 17rem, recipe end title 1.75 -> 2.5rem, pagination steps 1.25 -> 2.25rem, search result title 1.75rem, recipe dek 1.25 -> 1.75rem, cover dek 1.25rem, about dek 1.5rem, story dek 1.0625rem (large 1.1875rem), ingredient text 1.0625rem, prose heads 1.375rem, UI labels 0.8125-1rem, saved-count badge 0.6875rem.
 
 **The Condensed Rule.** Any display text sits at tight leading (≤0.95) and negative tracking (≥ -0.03em). Body never does.
 
@@ -108,13 +136,13 @@ Zero radius everywhere. Rules are 1px Rule or 3px Ink for section tops.
 
 ## Components
 
-- **Masthead:** utility strip (recipe count, Buscar, Acerca), the "BON|GUSTO" wordmark (Ají + ink), and a department bar of the 8 categories between 3px ink rules. Home gets the full-width nameplate and the tagline "Bonnet al gusto · recetas con un poco de historia"; inner pages get a compact nameplate so the photo stays in the first viewport. The bar scrolls horizontally on mobile.
+- **Masthead:** utility strip (recipe count, Buscar, Acerca), the "BON|GUSTO" wordmark (Ají + ink), and a department bar of the 8 categories between 3px ink rules. Home gets the full-width nameplate and the tagline "Bonnet al gusto · recetas con un poco de historia"; inner pages get a compact nameplate so the photo stays in the first viewport. The bar scrolls horizontally on mobile. From 1280px each department carries its real recipe count as a muted suffix ("Entrada · 79").
 - **Story card:** photo (4:3), department kicker, headline, 3-line serif dek. Variants by span: large (7), side (5, photo stretches to the row height), standard (4/6), band (12, photo left, text right on Smoke).
 - **Department banner:** full-bleed Ají field with the section name at 17vw, used for categories and search; the About page uses the same field beside the author photo.
 - **Cover panel:** Ají block beside the cover photo with "Receta del número", headline, dek, link.
-- **Recipe page:** kicker, headline, dek, byline and dateline, full-bleed photo; then a grid with sticky ingredients (Smoke) left, history with drop cap and method right; then "Sigue leyendo" (three neighbours in the same category) under a 3px ink rule.
+- **Recipe page:** kicker, headline, dek, byline and dateline, an Ají kicker link ("Ir a los ingredientes ↓") that jumps to the panel, and the full-bleed photo; then a grid with sticky ingredients (Smoke) left, history with drop cap and method right; then "Sigue leyendo" (three neighbours in the same category) under a 3px ink rule.
 - **Save and share row:** 2px ink squared buttons in condensed caps. "Guardar" is the one Ají-filled button and turns ink with a filled bookmark once saved. Compartir (only where the browser has a share sheet), WhatsApp, Facebook, X and Copiar enlace sit beside it. It appears under the byline and again after the method.
-- **Pagination:** condensed "Anterior / Siguiente" under a 3px ink rule with the page count between them.
+- **Pagination:** condensed "Anterior / Siguiente" under a 3px ink rule with the page run between them (`1 … n n+1 … total` as real links, the current page in Ají; the full count stays for screen readers).
 - **Footer:** ink field, wordmark, departments, colophon.
 
 ## Do's and Don'ts

@@ -106,6 +106,13 @@ const actionProps = {
           </>
         )}
       </p>
+      {
+        ingredientes && (
+          <a class="jump link" href="#ingredientes">
+            Ir a los ingredientes <span aria-hidden="true">↓</span>
+          </a>
+        )
+      }
       <RecipeActions {...actionProps} />
     </header>
     {
@@ -120,6 +127,7 @@ const actionProps = {
             height="450"
             loading="eager"
             fetchpriority="high"
+            data-pagefind-ignore
             data-pagefind-meta="image[src]"
           />
         </div>
@@ -127,18 +135,18 @@ const actionProps = {
     }
     <div class="body wrap">
       {
-        historia && (
-          <section class="history">
-            <h2 class="section-title">Historia</h2>
-            <div class="prose" set:html={historia} />
+        ingredientes && (
+          <section class="ingredients" id="ingredientes" tabindex="-1">
+            <h2 class="section-title">Ingredientes</h2>
+            <div class="prose" set:html={ingredientes} />
           </section>
         )
       }
       {
-        ingredientes && (
-          <section class="ingredients">
-            <h2 class="section-title">Ingredientes</h2>
-            <div class="prose" set:html={ingredientes} />
+        historia && (
+          <section class="history">
+            <h2 class="section-title">Historia</h2>
+            <div class="prose" set:html={historia} />
           </section>
         )
       }
@@ -215,6 +223,22 @@ const actionProps = {
   .byline .sep {
     margin-inline: 10px;
   }
+  .jump {
+    align-self: flex-start;
+    color: var(--aji);
+    font-family: var(--font-display);
+    font-size: 0.8125rem;
+    font-stretch: 100%;
+    font-weight: 800;
+    letter-spacing: 0.08em;
+    padding-block: 4px;
+    text-transform: uppercase;
+  }
+  .jump:hover {
+    color: var(--aji-deep);
+    text-decoration: underline;
+    text-underline-offset: 5px;
+  }
 
   .photo {
     aspect-ratio: 4 / 3;
@@ -232,7 +256,8 @@ const actionProps = {
   @media (min-width: 900px) {
     .photo {
       aspect-ratio: auto;
-      height: clamp(420px, 72vh, 800px);
+      /* Big enough to lead, short enough to yield: ingredients ~1 viewport sooner. */
+      height: clamp(420px, 55vh, 640px);
     }
   }
 
@@ -243,10 +268,8 @@ const actionProps = {
     grid-template-columns: minmax(0, 1fr);
     padding-block: 56px 0;
   }
-  /* Narrow screens: the recipe's ingredients come before the long history. */
-  .ingredients {
-    order: -1;
-  }
+  /* Ingredients first in the DOM (screen readers and narrow screens get the
+     recipe's core before the history); grid areas paint the desktop layout. */
   .section-title {
     border-top: 3px solid var(--ink);
     font-size: clamp(2rem, 3.4vw, 3rem);
@@ -259,6 +282,7 @@ const actionProps = {
   .ingredients {
     background-color: var(--smoke);
     padding: 24px 24px 28px;
+    scroll-margin-top: 24px;
   }
   .ingredients .section-title {
     border-top-color: var(--aji);
@@ -296,21 +320,33 @@ const actionProps = {
       grid-template-areas:
         "ingr hist"
         "ingr prep";
-      grid-template-columns: minmax(300px, 4fr) minmax(0, 8fr);
+      grid-template-columns: minmax(320px, 5fr) minmax(0, 7fr);
     }
     .history {
       grid-area: hist;
     }
+    /* Sticky, but never an inner scroll region: the panel is free to be tall,
+       so nothing is ever clipped or focus-trapped while the method runs. */
     .ingredients {
-      order: 0;
       grid-area: ingr;
-      max-height: calc(100vh - 48px);
-      overflow-y: auto;
       position: sticky;
       top: 24px;
     }
     .method {
       grid-area: prep;
+    }
+  }
+
+  /* Two columns from the same breakpoint as the desktop grid: keeps every
+     column near the same workable measure and halves the panel's height,
+     so a pinned panel never hides its bottom below the fold. */
+  @media (min-width: 1000px) {
+    .ingredients .prose {
+      column-gap: 24px;
+      columns: 2;
+    }
+    .ingredients .prose :global(li) {
+      break-inside: avoid;
     }
   }
 

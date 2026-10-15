@@ -34,11 +34,20 @@ const imageUrl = image ? new URL(image, Astro.site).href : undefined;
 // above): the woff2 files are bundled into /_astro/ and served from this origin
 // with immutable caching — no render-blocking third-party request, no Google
 // connection.
+const recetas = await getAllRecetas();
+const totalRecetas = recetas.length;
+// Recipes per department — real data, shown as counts in the desktop bar.
+const countByDept = new Map<string, number>();
+for (const r of recetas) {
+  for (const slug of r.categorias ?? []) {
+    countByDept.set(slug, (countByDept.get(slug) ?? 0) + 1);
+  }
+}
 const departments = (await getCategorias()).map(({ slug, categoria }) => ({
   slug,
   nombre: categoria?.nombre ?? slug,
+  count: countByDept.get(slug) ?? 0,
 }));
-const totalRecetas = (await getAllRecetas()).length;
 // The full-width nameplate is the home page's cover; inner pages get a compact one.
 const isHome = Astro.url.pathname === "/";
 const activeDept = Astro.url.pathname.match(/^\/categoria\/([^/]+)/)?.[1];
@@ -69,6 +78,7 @@ const activeDept = Astro.url.pathname.match(/^\/categoria\/([^/]+)/)?.[1];
     <slot name="head" />
   </head>
   <body>
+    <a href="#contenido" class="link skip">Saltar al contenido</a>
     <header class={`masthead ${isHome ? "" : "compact"}`}>
       <div class="strip wrap">
         <span class="count">{totalRecetas} recetas</span>
@@ -97,25 +107,25 @@ const activeDept = Astro.url.pathname.match(/^\/categoria\/([^/]+)/)?.[1];
       <nav class="depts" aria-label="Categorías">
         <div class="wrap depts-row">
           {
-            departments.map(({ slug, nombre }) => (
+            departments.map(({ slug, nombre, count }) => (
               <a
                 href={`/categoria/${slug}`}
                 class="link dept"
                 aria-current={slug === activeDept ? "page" : undefined}
               >
-                {nombre}
+                {nombre}<span class="dept-count"> · {count}</span>
               </a>
             ))
           }
         </div>
       </nav>
     </header>
-    <main>
+    <main id="contenido" tabindex="-1">
       <slot />
     </main>
     <footer class={`footer ${flush ? "flush" : ""}`}>
       <div class="wrap">
-        <a href="/" class="link foot-mark" aria-label="BonGusto, inicio"><span>Bon</span>Gusto</a>
+        <a href="/" class="link foot-mark" aria-label="BonGusto, volver al inicio"><span>Bon</span>Gusto</a>
         <div class="foot-cols">
           <nav aria-label="Categorías (pie)">
             <p class="foot-title">Secciones</p>
@@ -188,6 +198,25 @@ const activeDept = Astro.url.pathname.match(/^\/categoria\/([^/]+)/)?.[1];
 </html>
 
 <style>
+  /* Skip link: first tab stop, out of the way until focused. */
+  .skip {
+    background-color: var(--ink);
+    color: var(--paper);
+    font-family: var(--font-display);
+    font-size: 0.8125rem;
+    font-weight: 800;
+    left: 16px;
+    letter-spacing: 0.08em;
+    padding: 10px 16px;
+    position: fixed;
+    text-transform: uppercase;
+    top: -60px;
+    z-index: 10;
+  }
+  .skip:focus-visible {
+    top: 12px;
+  }
+
   .masthead {
     background-color: var(--paper);
   }
@@ -212,7 +241,11 @@ const activeDept = Astro.url.pathname.match(/^\/categoria\/([^/]+)/)?.[1];
     justify-content: space-between;
     letter-spacing: 0.08em;
     padding-block: 12px 0;
+    /* Paint above the wordmark's glyph hit-area overhang (huge display type
+       with leading < 1 bleeds upward in hit-testing — see .wordmark). */
+    position: relative;
     text-transform: uppercase;
+    z-index: 2;
   }
   .strip .count {
     color: var(--muted);
@@ -220,6 +253,10 @@ const activeDept = Astro.url.pathname.match(/^\/categoria\/([^/]+)/)?.[1];
   .strip .util {
     display: flex;
     gap: 24px;
+  }
+  /* ≥24px tall click targets (WCAG 2.5.8) at the very top of the page. */
+  .strip .util a {
+    padding-block: 4px;
   }
   .saved-count {
     background-color: var(--aji);
@@ -310,6 +347,9 @@ const activeDept = Astro.url.pathname.match(/^\/categoria\/([^/]+)/)?.[1];
     font-weight: 900;
     letter-spacing: -0.02em;
     line-height: 0.74;
+    /* Contain the glyph hit-area: at 20rem with 0.74 leading the em box
+       overhangs the box by ~40px and would swallow clicks in the strip. */
+    overflow: clip;
     margin-top: 14px;
     padding-bottom: 0.02em;
     text-transform: uppercase;
@@ -373,6 +413,20 @@ const activeDept = Astro.url.pathname.match(/^\/categoria\/([^/]+)/)?.[1];
     position: absolute;
     right: 0;
   }
+  /* Recipe counts, real data; only where the full row has room for them
+     (fit point measured at 1280px and up). */
+  .dept-count {
+    color: var(--muted);
+    display: none;
+    font-size: 0.8125rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+  }
+  @media (min-width: 1280px) {
+    .dept-count {
+      display: inline;
+    }
+  }
   @media (max-width: 899px) {
     .depts-row {
       mask-image: linear-gradient(to right, #000 calc(100% - 48px), transparent);
@@ -411,6 +465,9 @@ const activeDept = Astro.url.pathname.match(/^\/categoria\/([^/]+)/)?.[1];
     font-weight: 900;
     letter-spacing: -0.02em;
     line-height: 0.84;
+    /* Same glyph hit-area containment as .wordmark (matters when the footer
+       sits flush against the page above it). */
+    overflow: clip;
     text-transform: uppercase;
   }
   .foot-mark span {

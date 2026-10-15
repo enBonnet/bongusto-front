@@ -43,6 +43,13 @@ import DeptBanner from "../components/DeptBanner.astro";
           }
           return result;
         };
+        // Pagefind quirk, accepted: a nonsense query ("zzzzqq") can still return
+        // one loosely-related page through Pagefind's approximate matching. The
+        // ranking weights do not gate matches (only score them), quoting terms
+        // would disable prefix matching, and suppressing approximate-only
+        // results is an open feature request (Pagefind issue #1246). Real
+        // queries are unaffected; image URLs are kept out of the index via
+        // data-pagefind-ignore on every img, so the junk terms can't amplify it.
         new PagefindUI({ element: "#search", showImages: true, processResult: smallThumb, translations: {
           placeholder: "Buscar por título, ingrediente…",
           clear_search: "Limpiar",

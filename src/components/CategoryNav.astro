@@ -9,7 +9,7 @@ interface Props {
 const { cats } = Astro.props;
 ---
 
-<nav class="cats" aria-label="Categorías">
+<nav class="cats" aria-label="Categoría de la receta">
   {
     cats.map(({ slug, nombre }) => (
       <a href={`/categoria/${slug}`} class="link kicker cat">
@@ -27,6 +27,8 @@ const { cats } = Astro.props;
   }
   .cat {
     font-size: 0.875rem;
+    /* ≥24px tall click target for a 14px kicker link. */
+    padding-block: 4px;
     text-decoration: underline;
     text-decoration-thickness: 2px;
     text-underline-offset: 5px;
